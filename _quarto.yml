@@ -1,8 +1,10 @@
 project:
   type: website
+  output-dir: docs
 
 execute:
   freeze: auto
+
 
 website:
   title: "Maize2024"
