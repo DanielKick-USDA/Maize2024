@@ -1,0 +1,20 @@
+---
+title: "High intensity phenotyping sites: multi-scale, multi-modal sensing to identify the genetic regulation of plasticity/phenotypic stability."
+subtitle: "P232"
+author: "Huyu Liu"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5e/Aztec_Diet_Basket_of_Corn_%289755332575%29.jpg"
+categories: 
+- Quantitative Genetics & Breeding
+- Even Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+In a world with a changing climate, the yield stability of crops has become a major concern. To better understand the genetic control of yield stability, crop traits and environmental data were collected from common sets of maize hybrids (including a new set of era hybrids, ex-PVP hybrids, and commercial hybrids) as well as the SAM diversity panel which consists of ~350 inbreds were grown over three years (2021-2023) at six locations from western Nebraska to eastern Iowa that span elevation and annual rainfall gradients. At some locations multiple levels of N fertilizer and/or irrigation were applied. In total, this project assayed crop performance in 47 distinct environments. Hybrids were grown in replicated four-row yield plots, while the inbreds were grown in replicated two-row plots. Multiple types of trait data (e.g., plant and ear height, days to anthesis, a variety of ear traits, stalk nitrate concentration, and transpiration) and environmental data were collected using traditional manual assays, robots, UAVs, satellites, and novel sensors. The resulting data are being analyzed to identify genes associated with plasticity/stability of multiple traits.
+
+<a href='mailto:huyu@iastate.edu'>Liu, Huyu</a><sup>1</sup><br><a href='mailto:lmcoffey@iastate.edu'>Coffey, Lisa</a><sup>1</sup><br><a href='mailto:jturkus2@unl.edu'>Turkus, Jonathan</a><sup>2</sup><br><a href='mailto:rmural2@unl.edu'>Mural, Ravi V.</a><sup>2</sup><br><a href='mailto:amkusmec@iastate.edu'>Kusmec, Aaron</a><sup>1</sup><br><a href='mailto:shihaoy@iastate.edu'>Yin, Shihao</a><sup>1</sup><br><a href='mailto:vignesh@iastate.edu'>Thoomatti Haridass, Vignesh Kumar</a><sup>1</sup><br><a href='mailto:yaweil@iastate.edu'>Li, Yawei</a><sup>1</sup><br><a href='mailto:castelmj@iastate.edu'>Castellano, Michael J.</a><sup>1</sup><br><a href='mailto:baskarg@iastate.edu'>Ganapathysubramanian, Baskar</a><sup>1</sup><br><a href='mailto:lietang@iastate.edu'>Tang, Lie</a><sup>1</sup><br><a href='mailto:ldong@iastate.edu'>Dong, Liang</a><sup>1</sup><br><a href='mailto:schnable@unl.edu'>Schnable, James C.</a><sup>2</sup><br><a href='mailto:schnable@iastate.edu'>Schnable, Patrick S.</a><sup>1</sup><br>
+
+<sup>1</sup>Iowa State University, Ames, IA 50011, USA<br><sup>2</sup>University of Nebraska-Lincoln, Lincoln, NE 68588, USA<br>

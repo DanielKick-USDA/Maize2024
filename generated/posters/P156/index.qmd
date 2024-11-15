@@ -1,0 +1,20 @@
+---
+title: "Life, the universe, and everything for $42: WideSeq mapping of maize mutants"
+subtitle: "P156"
+author: "Rajdeep Khangura"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e5/ENIAC-changing_a_tube.jpg"
+categories: 
+- Computational and Large-Scale Biology
+- Even Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Convenient and economical genotyping methods and simplified bioinformatic workflows are critical for genetic studies and breeding. The declining cost of short-read sequencing, innovative library preparation methods, and multiplexing have enabled low-cost, large-scale genetic and genomic studies. Here, we present an uncomplicated method for whole-genome skim sequencing and PCR amplicon sequencing with bioinformatics pipelines sufficient for various genotyping and gene expression applications. The method employed at Purdue, nicknamed WideSeq, costs $21 (USD) and provides ~100k paired-end reads per sample when performed at scale. Input samples for WideSeq can be genomic DNA samples or double-stranded PCR products. The lower data throughput from WideSeq permits bioinformatic analysis on a regular laptop or desktop, which can aid in bioinformatic training and introduction to genomic analysis for students and first-time genomicists. Using whole-genome maize DNA samples derived from multiple pedigreed populations, including advanced backcrossed progenies, mapping of dominant and recessive mutants, bi-parental populations, near-isogenic lines, and recombinant inbred lines, we demonstrate that this genotyping method can map loci, detect donor introgressions, identify haplotypes, and perform allele-specific expression. Mutants can be mapped as single introgressions for $21 or by comparing mutant and wild-type siblings for $42. Interestingly, we can even perform mapping-by-sequencing to detect donor genomes derived from parents of unknown origin and map classical mutants of unknown pedigree without prior marker discovery. Location can be further refined following haplotype analysis and re-calculation of allele frequencies. Further cost reduction in WideSeq could be achieved by implementing this strategy at scale and optimizing the data throughput sufficient for a specific experiment. This approach can be implemented using commercially available sequencing services at a moderate cost increase.
+
+<a href='mailto:rkhangur@purdue.edu'>Khangura, Rajdeep S</a><sup>1 2</sup><br><a href='mailto:eolomuko@purdue.edu'>Olomukoro, Enameguono E</a><sup>1 2</sup><br><a href='mailto:lkoenigs@purdue.edu'>Koenigsfeld, Leo G</a><sup>1 2</sup><br><a href='mailto:kaur60@purdue.edu'>Kaur, Amanpreet</a><sup>1 2</sup><br><a href='mailto:pmiguel@purdue.edu'>San Miguel, Phillip</a><sup>3</sup><br><a href='mailto:bdilkes@purdue.edu'>Dilkes, Brian P</a><sup>1 2</sup><br>
+
+<sup>1</sup>Department of Biochemistry; Purdue University; West Lafayette, IN, USA 47907<br><sup>2</sup>Center for Plant Biology; Purdue University; West Lafayette, IN, USA 47907<br><sup>3</sup>Genomics Core; Purdue University; West Lafayette, IN, USA 47907<br>

@@ -1,0 +1,20 @@
+---
+title: "Modular base editing"
+subtitle: "P43"
+author: "Marie Javelle"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/05/DNA_base-pair_diagram.jpg"
+categories: 
+- Biochemical and Molecular Genetics
+- Odd Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+CRISPR-Cas systems provide powerful molecular toolboxes allowing precise changes in genomes. However, use of those molecular editors needs specific development for use in field seeds crops. Moreover, knock-out of key genes regulating important agronomic traits may be deleterious to plant yield or plant survival. Therefore, it is of interest to improve crops by creating specific allelic versions via precise single-nucleotide modification(s) which would provide trait of interest while retaining basic gene function. Such tools include Base Editors that can mediate substitutions. Amongst commonly used base editors are those associated with a Cas9 nickase to nick the non-edited DNA strand. Typically, the Cas9 nickase is fused to the base editor deaminase domain. Alternatively, it has been shown in rice that the nCas9 deaminase complex can be formed through an indirect interaction of the deaminase with a modified gRNA which then guided the base editor complex to the target. Here we show that the deaminase domain can be provided separately from Cas9 nickase to perform base editing. Although editing level is lower as compared to that obtained using a direct fusion, this strategy allows for a more flexible use of base editing since specific base-editing constructs are not required for use with alternative Cas systems. This approach may be of particular interest when optimizing components for base editing.
+
+<a href='mailto:marie.javelle@limagrain.com'>Javelle, Marie</a><sup>1</sup><br><a href='mailto:marie.casado@inrae.fr'>Casado, Marie</a><sup>1</sup><br><a href='mailto:anouchka.guyon@inrae.fr'>Guyon, Anouchka</a><sup>2</sup><br><a href='mailto:pierre-francois.perroud@inrae.fr'>Perroud, Pierre-François</a><sup>2</sup><br><a href='mailto:aurelie.lepage@limagrain.com'>Lepage, Aurélie</a><sup>1</sup><br><a href='mailto:andree.batisson@limagrain.com'>Froment, Andrée</a><sup>1</sup><br><a href='mailto:david.comeau@limagrain.com'>Comeau, David</a><sup>1</sup><br><a href='mailto:adeline.clementi@limagrain.com'>Clémenti, Adeline</a><sup>1</sup><br><a href='mailto:alexandra.pothier@limagrain.com'>Pothier, Alexandra</a><sup>1</sup><br><a href='mailto:herve.duborjal@limagrain.com'>Duborjal, Hervé</a><sup>1</sup><br><a href='mailto:valerie.legrand@limagrain.com'>Legrand, Valérie</a><sup>1</sup><br><a href='mailto:jean-philippe.pichon@limagrain.com'>Pichon, Jean-Philippe</a><sup>1</sup><br><a href='mailto:fabien.nogue@inrae.fr'>Nogué, Fabien</a><sup>2</sup><br><a href='mailto:wyatt.paul@limagrain.com'>Paul, Wyatt</a><sup>1</sup><br>
+
+<sup>1</sup>T&T Unit GEP platform_ GE-Dev team CRC route d’Ennezat 63720 Chappes France<br><sup>2</sup>IJPB, INRAE Centre IdF de Versailles-Saclay, Route de St-Cyr (RD10), 78026 Versailles Cedex , France<br>

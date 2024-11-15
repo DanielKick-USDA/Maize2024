@@ -1,0 +1,20 @@
+---
+title: "Multi-environmental RNA-seq reveals the extent of genotype-by-environment interactions as it relates to gene expression."
+subtitle: "P248"
+author: "Ty Thomas"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5e/Aztec_Diet_Basket_of_Corn_%289755332575%29.jpg"
+categories: 
+- Quantitative Genetics & Breeding
+- Even Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Genotype by environment interaction (GxE) is a well known source of phenotypic variation, but there is more to be understood about the degree to which GxE impacts gene expression. Maize data were collected by the Genomes to Fields project resulting in a unique 3’ RNA sequencing dataset which includes 576 samples at 5 locations with 27 hybrids. Using the RNA sequencing data, we quantified gene expression and created statistical models to partition genetic variation, environmental variation, and GxE variation for each gene. Models estimate the median of expression variation for genotype, environment, and GxE to be 10.3%, 23.8%, and 6.2%, respectively. We found 289, 1327, and 1 genes where over 50% of variation in expression is explained by genotype, environment, and GxE, respectively. These results show that for most genes, the environment has the greatest impact on gene expression, followed by genotype, then GxE; however, this level of impact on expression changes depending on the gene, where some genes’ expression is mostly explained by GxE or genotype. We are continuing to evaluate the statistical power and suitability of this dataset for testing hypotheses related to GxE and will use our findings to inform the design of future experiments.
+
+<a href='mailto:tsthoma2@ncsu.edu'>Thomas, Ty S</a><sup>1</sup><br><a href='mailto:anna.rogers@bayer.com'>Rogers, Anna</a><sup>10</sup><br><a href='mailto:esb33@cornell.edu'>Buckler, Edward S</a><sup>2 3 4</sup><br><a href='mailto:smkaeppl@wisc.edu'>Kaeppler, Shawn M</a><sup>5</sup><br><a href='mailto:ndeleongatti@wisc.edu'>de Leon, Natalia</a><sup>5</sup><br><a href='mailto:sherry.flint-garcia@usda.gov'>Flint-Garcia, Sherry</a><sup>6 7</sup><br><a href='mailto:cnhirsch@umn.edu'>Hirsch, Candice N</a><sup>8</sup><br><a href='mailto:springer@umn.edu'>Springer, Nathan</a><sup>10</sup><br><a href='mailto:mcr72@cornell.edu'>Romay, Cinta</a><sup>4</sup><br><a href='mailto:jholland@ncsu.edu'>Holland, James</a><sup>1 9</sup><br><a href='mailto:jlgage@ncsu.edu'>Gage, Joseph L</a><sup>1</sup><br>
+
+<sup>1</sup>Department of Crop and Soil Sciences, North Carolina State University, Raleigh, NC 27695<br><sup>2</sup>Agricultural Research Service, US Department of Agriculture, Ithaca, NY 14853<br><sup>3</sup>Plant Breeding and Genetics Section, School of Integrative Plant Science, Cornell University, Ithaca, NY 14853<br><sup>4</sup>Institute for Genomic Diversity, Cornell University, Ithaca, NY 14853<br><sup>5</sup>Department of Plant and Agroecosystem Sciences, University of Wisconsin - Madison, Madison WI 53706<br><sup>6</sup>Agricultural Research Service, US Department of Agriculture, Columbia, MO 65211<br><sup>7</sup>Division of Plant Science and Technology, University of Missouri, Columbia, MO 65211<br><sup>8</sup>Department of Agronomy and Plant Genetics, University of Minnesota, St Paul MN 55108<br><sup>9</sup>Agricultural Research Service, US Department of Agriculture, Raleigh, NC 27695<br><sup>10</sup>Bayer Crop Science, Chesterfield, MO 63017<br>

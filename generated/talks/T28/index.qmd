@@ -1,0 +1,19 @@
+---
+title: "Upper level and cross hierarchical regulation of predominantly expressed phenolic genes in maize"
+subtitle: "T28"
+author: "Ankita Abnave"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/05/DNA_base-pair_diagram.jpg"
+categories: 
+- Biochemical and Molecular Genetics
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+There is strong interest in deciphering the gene regulatory networks (GRNs) that govern plant specialized metabolism to assist in plant breeding. Here, we investigated the GRN governing phenolic biosynthesis pathways from which ~ 8000 plant specialized metabolites are derived. Previously it was established that 19 predominantly expressed maize phenolic (PEP) genes are sufficient to explain >70% of the metabolic flux through the phenylpropanoid, monolignol, and flavonoid branches of this pathway. A yeast-1-hybrid (Y1H) gene centric screening approach was employed to discover upper level (tiers 2, 3, and 4) regulators of maize PEP genes. These regulators were examined by co-expression analyses, and a subset of protein-DNA interactions (PDIs) validated in vivo1 by ChIP-qPCR and luciferase reporter assays in maize protoplasts. We describe a comprehensive GRN composed of 429 PDIs that exhibits hubs with high connectivity and cross hierarchical regulation of PEP genes in different branches of the pathway. The core PEP GRN is composed of 21,16, and 1 transcription factors (TFs) that operate as tier 2, 3, and 4 regulators respectively. Of these, ZmC3H42 regulates tier 1, 2 and 3 genes and also exhibits autoregulation. The core GRN includes TFs and TFs that are conserved in other plant species and that are implicated in phenolic gene regulation (e.g., ZmMYB40/53/100, ZmMADS9, and ZmWD40.1/PAC1). The GRN also includes conserved TFs (e.g., ZmC3H9, ZmHB20/79, ZmNAC103/123, ZmMYB19/26, ZmMYBR87, ZmDOF3, ZmbZIP67, ZmTCP30, and ZmbHLH128) which indicate that maize PEP genes are under developmental regulation and also fall under the control of biotic and abiotic stress. Together, the PEP GRN describes a complex regulatory mechanism that has evolved to coordinately regulate many phenolic genes in response to multiple internal and external signals and can guide efforts aimed at manipulating phenolic levels in plants.
+
+<a href='mailto:Ankita.Abnave@rockets.utoledo.edu'>Abnave, Ankita</a><sup>1</sup><br><a href='mailto:jerrin.john@rockets.utoledo.edu'>John, Jerrin</a><sup>2</sup><br><a href='mailto:doseffan@msu.edu'>Doseff, Andrea I,</a><sup>3</sup><br><a href='mailto:grotewol@msu.edu'>Grotewold, Erich</a><sup>4</sup><br><a href='mailto:john.gray5@utoledo.edu'>Gray, John</a><sup>1</sup><br>
+
+<sup>1</sup>Department of Biological Sciences, University of Toledo, Toledo, OH 43606, USA<br><sup>2</sup>Department of Biology, Loyola University, Chicago, IL 60660, USA<br><sup>3</sup>Department of Physiology, and Department of Pharmacology and Toxicology, Michigan State University, East Lansing, MI 48824, USA<br><sup>4</sup>Department of Biochemistry and Molecular Biology, Michigan State University, East Lansing, MI 48824, USA<br>

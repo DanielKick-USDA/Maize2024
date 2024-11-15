@@ -1,0 +1,20 @@
+---
+title: "Changes in sorbitol metabolism impact kernel sink strength and seed size"
+subtitle: "P4"
+author: "Nadia Mourad Silva"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/05/DNA_base-pair_diagram.jpg"
+categories: 
+- Biochemical and Molecular Genetics
+- Even Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Maize endosperm development is characterized by an oxygen-deficient microenvironment, requiring molecular and biochemical mechanisms for hypoxia acclimation and maintenance. Sorbitol dehydrogenase (SDH) catalyzes the conversion of (fructose + NADH)↔(sorbitol + NAD+) in endosperms during grain-fill. We hypothesize that SDH aids endosperm development in at least two ways, 1) by regenerating the NAD+ that maintains redox balance and glycolytic flux in the hypoxic endosperm, and 2) by enhancing sink strength through the metabolism of fructose and indirectly the import of its precursor sucrose. In support of our hypothesis, sorbitol accumulates in the endosperm region with lowest oxygen levels as determined by FTIR imaging in developing wild-type kernels. To evaluate the role of SDH, we characterized an Ac/Ds-induced sdh1 mutant which lacks detectable SDH activity and accumulates little to no sorbitol in kernels. We found that sdh1 mutant ears bear smaller kernels beginning at 15 DAP, with 13-17% less dry weight at maturity, suggesting an important role in kernel filling. Metabolic analysis of sdh1 mutant kernels shows elevated levels of fructose as well as sucrose (100% and 25% greater, respectively). Results indicate that conversion of fructose to sorbitol via SDH promotes sucrose metabolism and import. Work in progress focuses on characterization of Sdh1 over-expression lines, development of double-mutant kernels deficient in both sorbitol and starch biosynthesis, and an in-depth evaluation of metabolic impacts. Findings thus far highlight the role of SDH in kernel development with implications for metabolic engineering strategies to enhance sink strength and composition of the maize grain.
+
+<a href='mailto:nmourad@ufl.edu'>Mourad Silva, Nadia N.</a><sup>1</sup><br><a href='mailto:kgray3@ufl.edu'>Gray, Katherine E.</a><sup>1</sup><br><a href='mailto:darcy.jordan@ufl.edu'>Jordan, Darcy A.</a><sup>1</sup><br><a href='mailto:hilo@ipk-gatersleben.de'>Hilo, Alexander</a><sup>2</sup><br><a href='mailto:rollet@ipk-gatersleben.de'>Rolletschek, Hardy</a><sup>2</sup><br><a href='mailto:borisjuk@ipk-gatersleben.de'>Borisjuk, Ljudmilla</a><sup>2</sup><br><a href='mailto:sylvia.sousa@embrapa.br'>de Sousa Tinoco, Sylvia M.</a><sup>3</sup><br><a href='mailto:guanjc@ufl.edu'>Guan, Jiahn-Chou</a><sup>1</sup><br><a href='mailto:kekoch@ufl.edu'>Koch, Karen E.</a><sup>1</sup><br>
+
+<sup>1</sup>University of Florida, Department of Horticultural Sciences, Fifield Hall 2550 Hull Rd., Gainesville, FL, 32611 USA<br><sup>2</sup>Institute of Plant Genetics and Crop Plant Research (IPK), Corrensstr. 3, D-06466 Seeland-Gatersleben, Germany<br><sup>3</sup>Embrapa Maize and Sorghum, Rod MG 424 Km 45, Sete Lagoas, MG, 35701-970 Brazil<br>

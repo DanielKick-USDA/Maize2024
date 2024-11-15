@@ -1,0 +1,20 @@
+---
+title: "Phenotyping transgenic events for drought resistance"
+subtitle: "P47"
+author: "Juliana Yassitepe"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/05/DNA_base-pair_diagram.jpg"
+categories: 
+- Biochemical and Molecular Genetics
+- Odd Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Drought and heat stress limit maize growth and development, decreasing annual yield in many regions worldwide. As temperatures continue to rise, tropical regions will be disproportionately affected, adversely impacting the quality and production of agricultural products, requiring integrated management practices and the adoption of stress-resistant varieties to mitigate losses. Maize plants evolved different morphological and physiological mechanisms to grow under water-limited conditions, affecting several agronomic traits, but only a few major genes were reported associated with yield. At the Genomics for Climate Change Research Center (GCCRC), we study both genes of unknown function involved in drought response in extremophile plants and genes of the alternative respiratory pathway from cultivated species. After a significant increase in shoot and root biomass under water restriction in a greenhouse experiment, different events overexpressing the UCP1 (Uncoupling protein 1) from Arabidopsis thaliana or an uncharacterized gene (gccrc candidate gene 20) from a halophyte species were tested in the field under well water and drought conditions in two maize genetic backgrounds (B104xCML488 and B104xCML360) during the Brazilian second season in 2023. We observed variation among events in agronomic and yield components for each gene. Some events demonstrated superior performance compared to the controls. In the B104xCML360 background under drought conditions, both genes contributed to an increase in yield components, whereas in the B104xCML488 background, they did not have the same effect. While CML488 is a drought-tolerant line adapted to the Africa CYMMIT program, CML360 is adapted to acid soils from South America. Field phenotyping of additional genes is in progress in the GCCRC pipeline.
+
+<a href='mailto:juliana.yassitepe@embrapa.br'>Yassitepe, Juliana</a><sup>1 2</sup><br><a href='mailto:juliana.nonato@gmail.com'>Nonato, Juliana V. A.</a><sup>1</sup><br><a href='mailto:rafaela.duarte@embrapa.br'>Duarte, Rafaela C. R. M.</a><sup>1</sup><br><a href='mailto:helcio.d.pereira@gmail.com'>Pereira, Helcio D.</a><sup>1</sup><br><a href='mailto:vinicius.almeida.bio@gmail.com'>Almeida, Vinicius</a><sup>1</sup><br><a href='mailto:anapaulabiotec@gmail.com'>Ribeiro, Ana Paula</a><sup>1</sup><br><a href='mailto:fernanda.rausch@embrapa.br'>Fernandes, Fernanda R.</a><sup>1 2</sup><br><a href='mailto:isabel.gerhardt@embrapa.br'>Gerhardt, Isabel R.</a><sup>1 2</sup><br><a href='mailto:ricardo.dante@embrapa.br'>Dante, Ricardo A.</a><sup>1 2</sup><br><a href='mailto:parruda@unicamp.br'>Arruda, Paulo</a><sup>1</sup><br>
+
+<sup>1</sup>Genomics for Climate Change Research Center (GCCRC), Universidade Estadual de Campinas, Campinas, SP, Brazil, 13083-875<br><sup>2</sup>Embrapa Agricultura Digital, Campinas, SP, Brazil, 13083-886<br>

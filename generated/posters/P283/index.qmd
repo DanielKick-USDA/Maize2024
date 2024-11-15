@@ -1,0 +1,20 @@
+---
+title: "Data mining dynamic transposable elements - Helitrons - using LSTM model"
+subtitle: "P283"
+author: "SAMANTHA JEAN"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b3/Genetic_corn.jpg"
+categories: 
+- Transposons & Epigenetics
+- Odd Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+While the mechanism by which Helitrons pick up host sequences is yet unknown, it is crucial to find out if Helitrons are capable of ensnaring fully functional genes and relocating them throughout the genome. Because lack typical transposon structural traits like target site duplications and terminal inverted repeats, they are difficult to detect computationally. We created an online search tool for identifying Helitron elements ( http://bo.csam.montclair.edu/helitronscanner/). DNA sequences in FASTA format can be uploaded or copied by users. To make sure users feel comfortable with the well-designed GUI, four back-end functions have been developed. On the website, each function is in the upper right corner. For users who want to upload a file and receive a fast response from the server, the Quick-Run tool was developed. If necessary, the user can also specify the file's name, including the type of extension. For the purpose of data mining Helitrons in the genome of their interest, biologists will find this online tool to be extremely useful. For the time being, the 5' and 3' ends of Helitron elements are identified using the long short term memory (LSTM) concept. Our initial findings showed that training was successful on the training dataset and that performance improved on the test dataset.
+
+<a href='mailto:jeans5@montclair.edu'>Jean, Samantha</a><sup>1</sup><br><a href='mailto:jaydon.lynch@outlook.com'>Lynch, Jaydon</a><sup>1</sup><br>Shahjalal, Syed<sup>1</sup><br><a href='mailto:wangji@mail.montclair.edu'>Wang, Jiayin</a><sup>1</sup><br><a href='mailto:duc@montclair.edu'>Du, Charles</a><sup>1</sup><br>
+
+<sup>1</sup>MONTCLAIR STATE UNIVERSITY , Montclair, NJ 07043<br>

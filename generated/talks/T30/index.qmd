@@ -1,0 +1,19 @@
+---
+title: "Potent pollen gene regulation by DNA glycosylases in maize"
+subtitle: "T30"
+author: "Jonathan Gent"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b3/Genetic_corn.jpg"
+categories: 
+- Transposons & Epigenetics
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+While DNA methylation primarily represses transposable elements (TEs), some genes are repressed by DNA methylation in plant body tissues and require demethylation by DNA glycosylases (DNGs) for activation in endosperm and pollen. Activity of either one of two DNGs, MDR1 or DNG102, is essential for pollen viability in maize. Using single-pollen mRNA sequencing on pollen segregating mutations in both genes, we identified approximately 60 candidate DNG target genes. While they are silent or barely detectable in the plant body, this small set of genes accounts for over 10% of the pollen polyadenylated transcriptome. They are unusual in their tendency to lack introns but even more so in their having TE-like methylation in their coding DNA sequence. They are strongly enriched for genes that are predicted to function in cell wall loosening to support the rapid tip growth characteristic of pollen tubes as they carry the sperm cells through maternal apoplast and extracellular matrix of the pistil. These results suggest a function for DNA methylation and demethylation in regulating genes with potential for extremely high expression in pollen but constitutive silencing elsewhere.
+
+Zeng, Yibing<sup>1</sup><br>Somers, Julian<sup>1</sup><br>Bell, Harrison<sup>2</sup><br>Dawe, R Kelly<sup>1 3</sup><br>Fowler, John<sup>2</sup><br>Nelms, Brad<sup>3</sup><br>Gent, Jonathan<sup>3</sup><br>
+
+<sup>1</sup>Department of Genetics, University of Georgia; Athens, GA, USA 30602<br><sup>2</sup>Department of Botany and Plant Pathology, Oregon State University; Corvallis, Oregon, USA 97331<br><sup>3</sup>Department of Plant BIology, University of Georgia; Athens, GA, USA 30602<br>

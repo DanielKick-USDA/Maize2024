@@ -1,0 +1,20 @@
+---
+title: "The maize rhizoplane microbial community"
+subtitle: "P168"
+author: "Noelle Svoboda"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e5/ENIAC-changing_a_tube.jpg"
+categories: 
+- Computational and Large-Scale Biology
+- Even Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+All plant organs and tissues function in the presence of microbes, some with beneficial and some with pathogenic effects. Most plant-associated microbes, however, are not known to make any contribution to plant biology, at least partly because this question has been so little investigated. The least understood microbial component of plant root environments is the root surface, otherwise known as the rhizoplane. We have used “plating” of the washed root from maize seedlings to isolate bacteria that are associated with the rhizoplane but can be displaced from it by contact with agar medium. As a preliminary experiment, we purified ten independent bacterial colonies from an agar-plate imprint of a washed seedling root of maize line B73. These microbes then had their genomes sequenced by nanopore long-reach technology. Annotation of the ten fully sequenced genomes indicated that they ranged in sizes from 4,109,985 bp to 7,772,202 bp, and that a few were bacteria that we have commonly found associated with maize rhizosphere, like Pseudomonas glycinae. However, some represented genera that were not commonly found in the rhizosphere or endosphere, and even represented new species of well-studied genera like Duganella, Flavobacterium, Janthinobacterium, Luteibacter, Pantoea, and Sphingomonas. The majority of these rhizoplane microbes were enriched in chemotactic and/or flagellar genes compared to their closest relatives, suggestive of extensive mobility in the rhizoplane environment. Ongoing studies include analysis of the interactions of these microbes with the root and with other microbes in the soil environment.
+
+<a href='mailto:Noelle.Svoboda@uga.edu'>Svoboda, Anna Noelle</a><sup>1</sup><br><a href='mailto:jf68753@uga.edu'>Fernandez Canela, Josue</a><sup>2</sup><br><a href='mailto:maize@uga.edu'>Bennetzen, Jeff</a><sup>1</sup><br>
+
+<sup>1</sup>Department of Genetics, University of Georgia, Athens, GA<br><sup>2</sup>Department of Plant Biology, University of Georgia, Athens, GA<br>

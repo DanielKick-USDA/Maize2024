@@ -1,0 +1,20 @@
+---
+title: "Maize rough endosperm6 (rgh6) encodes a predicted DEAD-box RNA helicase and affects miRNA processing in endosperm development"
+subtitle: "P41"
+author: "Tianxiao Yang"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/05/DNA_base-pair_diagram.jpg"
+categories: 
+- Biochemical and Molecular Genetics
+- Odd Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Maize rough endosperm (rgh) mutants have defective kernels with a rough, etched, or pitted endosperm surface. Molecular genetic analysis of this mutant class has identified multiple RNA processing proteins critical to endosperm development. Here, we report on the developmental and molecular function of the rgh6 locus. The rgh6 mutant was isolated from the UniformMu transposon tagging population. Mutant kernels have reduced endosperm size and defective embryos that develop in a more apical position than typical for defective embryos. TB translocation crosses revealed that rgh6 mutant endosperm inhibits normal embryo development. Positional cloning of the rgh6 locus found that it encodes a predicted DEAD-box RNA helicase. Consistent with a predicted function for RNA processing, transient expression of a RGH6-GFP fusion protein is localized to nucleolus and nuclear speckles in Nicotiana benthamiana leaves. Rgh6 transcripts are highly expressed in endosperm epidermal cell types such as the aleurone, basal endosperm cell layer, embryo surrounding region, and endosperm adjacent to scutellum. Markers of these cell types show increased levels in rgh6 mutant kernels. Mutant endosperm tissues have increased precursor microRNA (pre-miRNA) and decreased mature miRNA relative to normal sibling endosperm, indicating that rgh6 is required for miRNA processing. The transcript levels for most miRNA target genes accumulate to a higher level in rgh6 mutant tissue. These results suggest that miRNA processing and regulation of miRNA target genes are required for normal endosperm development.
+
+<a href='mailto:tianxiao.yang@ufl.edu'>Yang, Tianxiao</a><sup>1 2</sup><br><a href='mailto:masaharu@ufl.edu'>Suzuki, Masaharu</a><sup>1 2</sup><br><a href='mailto:lchannah@ufl.edu'>Hannah, L. Curtis</a><sup>1 2</sup><br><a href='mailto:andrew.m.settles@nasa.gov'>Settles, A. Mark</a><sup>1 2 3</sup><br>
+
+<sup>1</sup>Plant Molecular and Cellular Biology Program, University of Florida, Gainesville, Florida, USA<br><sup>2</sup>Horticultural Sciences Department, University of Florida, Gainesville, Florida, USA<br><sup>3</sup>Bioengineering Branch, NASA Ames Research Center, Moffett Field, California, USA<br>

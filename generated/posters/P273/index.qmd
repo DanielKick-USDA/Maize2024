@@ -1,0 +1,20 @@
+---
+title: "The role of Grassy Tillers 1 in drought response of Sorghum bicolor"
+subtitle: "P273"
+author: "Jieli Wegerif"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5e/Aztec_Diet_Basket_of_Corn_%289755332575%29.jpg"
+categories: 
+- Quantitative Genetics & Breeding
+- Odd Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Natural resilience to heat and drought has made Sorghum bicolor one of the most important cereal crops in the world. One of sorghum's unique abilities its unique ability to suppress the growth of tillers in response to abiotic stress. Grassy tillers 1 (gt1) is one of the key genetic factors implicated in sorghum tillering. This research characterized the stages of tiller bud development and examined the role gt1 plays in the gene response networks for drought stress. Quantitative PCR (qPCR) was used to analyze the expression of gt1 in wild-type sorghum plants under drought and non-drought conditions. This data was paired with measurements of tiller bud length taken at set intervals after planting. Analysis of these measurements suggest that tillering plasticity in sorghum is impacted by water stress in the early stages of development but may only be visible in certain tissues due to the natural suppression of older tiller buds during normal development. RNA sequencing (RNA-seq) analysis was performed to assess the relation between gt1 and other known sorghum genes in response to water stress. CRISPR was utilized to create a gt1 knockout mutant line and a wild-type sibling line of sorghum plants. Tissue was collected once plants were visibly drought stressed. RNA-seq analysis revealed that, under water stress, several genes were upregulated along with gt1 in the wild-type sibling but not the gt1 mutant, suggesting they are part of a drought response network that involves gt1. This research shows that early tiller bud development is sensitive to drought and that response appears to be moderated by a gene network containing gt1. Understanding how drought affects tillering in sorghum is essential for optimizing the management of this crop in a rapidly changing climate.
+
+<a href='mailto:jieliwegerif@ufl.edu'>Wegerif, Jieli A</a><sup>1</sup><br><a href='mailto:mbraud@danforthcenter.org'>Braud, Maxwell C</a><sup>2</sup><br><a href='mailto:yxiao@danforthcenter.org'>Xiao, Yuguo</a><sup>2</sup><br><a href='mailto:ikumar@danforthcenter.org'>Kumar, Indrajit A</a><sup>2</sup><br><a href='mailto:aeveland@danforthcenter.org'>Eveland, Andrea L</a><sup>2</sup><br>
+
+<sup>1</sup>University of Florida; Gainesville, FL 32611<br><sup>2</sup>Donald Danforth Plant Science Center; Olivette, MO 63132<br>

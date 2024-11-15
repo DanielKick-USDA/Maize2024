@@ -1,0 +1,20 @@
+---
+title: "Mapping tissue-specific disease resistance to Xanthomonas vasicola pv. vasculorum in maize"
+subtitle: "P246"
+author: "Alexander Mullens"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5e/Aztec_Diet_Basket_of_Corn_%289755332575%29.jpg"
+categories: 
+- Quantitative Genetics & Breeding
+- Even Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+The vascular xylem and nonvascular parenchyma tissues represent distinct habitats within a plant for pathogenic bacteria to colonize. Host plants often utilize different mechanisms to defend themselves against vascular and nonvascular pathogens. Xanthomonas vasicola pv. vasculorum (Xvv) is an emerging bacterial pathogen of maize that is threatening yields. It is described as a nonvascular foliar pathogen in maize, but a vascular pathogen in sugarcane. The maize Xvv pathosystem offers a unique opportunity to study how host resistance differs in response to the vascular and nonvascular lifestyles exhibited by a single phytopathogenic bacteria. Here we report the use of differential inoculation techniques, florescence microscopy, RNA-seq and linkage mapping to show that (i) vascular colonization by Xvv in maize is possible in susceptible maize genotypes; (ii) different inoculation techniques can be used to induce vascular or nonvascular colonization; (iii) resistance to vascular and nonvascular Xvv colonization in a recombinant inbred line population is independently controlled; (iv) there are striking differences in expression of genes relating to motility and virulence in Xvv when it is inhabiting the xylem versus the apoplast; and (v) there are significant expression differences for genes relating to plant defense in resistant and susceptible plants within the QTL intervals that we mapped. This research is significant because it is the first report of vascular disease induced by Xvv in maize, contributes to the limited knowledge regarding the genetics of resistance to Xvv in maize, and offers insights into how Xvv adapts to vascular and nonvascular lifestyles.
+
+<a href='mailto:mullens3@illinois.edu'>Mullens, Alexander C.</a><sup>1</sup><br><a href='mailto:pjbalint@ncsu.edu'>Balint-Kurti, Peter</a><sup>2</sup><br><a href='mailto:tjamann@illinois.edu'>Jamann, Tiffany M.</a><sup>1</sup><br>
+
+<sup>1</sup>Department of Crop Sciences, University of Illinois, Urbana, IL 61801,USA<br><sup>2</sup>Plant Science Research Unit, USDA-ARS, Raleigh, NC 27695,USA<br>

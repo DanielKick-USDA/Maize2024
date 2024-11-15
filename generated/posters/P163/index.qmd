@@ -1,0 +1,20 @@
+---
+title: "Predicting cell type specific expression of maize gene models using DNA sequence"
+subtitle: "P163"
+author: "Michael Tross"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e5/ENIAC-changing_a_tube.jpg"
+categories: 
+- Computational and Large-Scale Biology
+- Odd Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Studies have demonstrated that transcriptional heterogeneity within and among cell types contained within the same organ is biologically important but is not captured by sequencing of pooled RNA samples extracted from bulk tissue samples. RNA-seq analysis via single cell sequencing has gained popularity in recent years due to its ability to paint a more detailed picture of variation in gene transcription, revealing complex genetic relationships in determining phenotypes in plants. However, the ability to utilize single cell RNA-seq may be hindered by the high cost and specialized technical expertise required to generate such datasets, resistance of tissues to treatment necessary for single cell sequencing and for some organs or species, the difficulty of accessing samples. We evaluated the potential of training machine learning based models to predict cell type specific expression patterns of genes from information on the DNA sequence of the gene and surrounding regions. We trained a custom built transformer model to predict cell specific expression of maize gene models using published single cell RNA-seq data from maize root tissues including nineteen labeled cell types. When trained on sequence data starting 2,000 base pairs upstream of the transcription start site and extending 500 base pairs downstream of the transcription stop site, this transformer model was able to predict the expression of individual gene models across 19 cell types with accuracies that exceeded controls. Results show that the transformer model is able to predict cell type specific expression of gene models using their genomic sequence while also illustrating the importance of employing suitable benchmarks for evaluating the performance of ML-based predictions in the maize genome.
+
+<a href='mailto:mtross2@huskers.unl.edu'>Tross, Michael</a><sup>1 2 3</sup><br><a href='mailto:nshrestha5@huskers.unl.edu'>Shrestha, Nikee</a><sup>1 2 3</sup><br><a href='mailto:genomancer@gmail.com'>Duggan, Gavin</a><sup>2</sup><br><a href='mailto:schnable@unl.edu'>Schnable, James C.</a><sup>1 2 3</sup><br>
+
+<sup>1</sup>Quantitative Life Sciences Initiative, University of Nebraska-Lincoln, Lincoln, NE, 68588 USA<br><sup>2</sup>Center for Plant Science Innovation, University of Nebraska-Lincoln, Lincoln, NE USA<br><sup>3</sup>Department of Agronomy and Horticulture, University of Nebraska-Lincoln, Lincoln, NE USA<br>

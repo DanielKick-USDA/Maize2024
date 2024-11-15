@@ -1,0 +1,20 @@
+---
+title: "Regulation of maize ear development by a CLAVATA-related receptor complex"
+subtitle: "P106"
+author: "Penelope Lindsay"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c1/Protective_Coleoptile_Tip_in_Zea_Mays_Embryo_%2847691344541%29.jpg"
+categories: 
+- Cell and Developmental Biology
+- Even Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Plant organ size and shape is controlled by meristem proliferation and differentiation. Meristem size is regulated by the CLAVATA (CLV)-WUSCHEL (WUS) signaling pathway, which involves an interplay between CLV receptors, their ligands, and the mobile transcription factor WUS. Maize mutants lacking CLV receptors have fasciated ears, with flattened tips and disordered kernel rows, a result of overproliferating meristematic cells. One such mutant, fasciated ear3 (fea3), lacks a functional copy of a leucine rich receptor-like protein. Weak fea3 alleles increase ear size without a compensatory loss in seed size, making this an attractive target for yield enhancement. The molecular mechanism by which FEA3 exerts its control on meristem size is unknown, as FEA3 is expressed in a spatially distinct domain from other CLV receptors, and fea3 interacts additively with other CLV receptor mutants.Intriguingly, a CLV1 paralog, ZmBARELY ANY MERISTEM 1D (ZmBAM1D), is upregulated in fea3 mutants. FEA3 and ZmBAM1D expression overlaps in the center of spikelet meristems and the two proteins interact when co-expressed in N. benthamiana. While bam1d does not have an ear phenotype, fea3;bam1d mutants are more fasciated than fea3 mutants, suggesting that the two genes interact. Furthermore, both FEA3 and ZmBAM1D perceive the same CLE peptide ligand. These observations suggest that FEA3 and ZmBAM1D may form a receptor-co-receptor pair. We are validating the interaction between ZmBAM1D and FEA3 and discovering additional in vivo interactors using proximity labeling with TurboID, which can better resolve transient protein-protein interactions compared to immunoprecipitation-based approaches. Since BAM receptors have pleiotropic roles in plant development and defense, comparing the proximity labeling interactome of ZmBAM1D and FEA3 may also help reveal how signaling specificity is achieved in different biological contexts. With a deeper understanding of how these receptors regulate meristem activity, we can more precisely engineer this process to enhance yield-related traits.
+
+<a href='mailto:lindsay@cshl.edu'>Lindsay, Penelope L</a><sup>1</sup><br><a href='mailto:fxu@sdu.edu.cn'>Xu, Fang</a><sup>1 2</sup><br><a href='mailto:Boumpas@stud.uni-heidelberg.de'>Boumpas, Panagiotis</a><sup>1 3</sup><br><a href='mailto:leil@mail.hzau.edu.cn'>Liu, Lei</a><sup>1 4</sup><br><a href='mailto:bije@pusan.ac.kr'>Je, Byoung Il</a><sup>1 5</sup><br><a href='mailto:zadrozny@cshl.edu'>Skopelitis, Tara</a><sup>1</sup><br><a href='mailto:jacksond@cshl.edu'>Jackson, David</a><sup>1</sup><br>
+
+<sup>1</sup>Cold Spring Harbor Laboratory; Cold Spring Harbor, NY, USA 11724<br><sup>2</sup>Shandong University; Jinan, China<br><sup>3</sup>Heidelberg University; Heidelberg, Germany<br><sup>4</sup>Huazhong Agricultural University; Wuhan, China<br><sup>5</sup>Pusan National University; Miryang, Korea<br>

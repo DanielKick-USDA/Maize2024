@@ -1,0 +1,20 @@
+---
+title: "Molecular identification of two Mu-suppressible alleles of lesion28 as insertions in UROPORPHYRINOGEN III SYNTHASE"
+subtitle: "P44"
+author: "Rajdeep Khangura"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/05/DNA_base-pair_diagram.jpg"
+categories: 
+- Biochemical and Molecular Genetics
+- Even Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Porphyrins are tetrapyrrole required for all known lifeforms. Porphyrins include specialized molecules, including siroheme, cobalamin, heme, bilins, and chlorophyll, required for multiple metabolic processes and adaptative responses to environmental cues. The porphyrin biosynthetic enzymes Porphobilinogen Synthase, Hydroxymethylbilane Synthase, and Uroporphyrinogen III Synthase are conserved across all life on earth. Previously, the semi-dominant lesion-forming Les28-1 mutant was characterized as a Mu-suppressible allele, where lesion formation was increased by increasing the activity state of the Mutator transposons in Les28-1/+ plants. We extend these observations and demonstrate that Mu-killer, which epigenetically silences Mutatortransposon activity, also suppresses the lesion formation on Les28-1 plants. Analysis of sequences flanking Mu-insertions in Les28-1 that co-segregate with lesion formation identified an insertion in the first intron of maize uroporphyrinogen III synthase as the cause of the Les28-1 allele. A second insertion allele, in the 5’ UTR of this gene, was obtained from the photosynthetic mutant library at Oregon State University and found to encode a second Mu-suppressible allele, Les28-2, that resulted in semi-dominant and light-dependent lesion formation and recessive day-night-cycle-dependent necrotic stripe formation on leaves. Allelism tests between the two alleles produced yellow-seedling lethal offspring similar to recessive loss-of-function phenotypes in other steps in the porphyrin pathway. To discover naturally occurring alleles affecting variation in porphyrin metabolism, we scored the lesion phenotype in roughly five-thousand Les28-1/+ F1 plants obtained by crossing this mutant to an association mapping population. GWAS and candidate gene association detected epistatic effects on Les28-1 linked to genes in the porphyrin pathway, including the first committed steps of the heme, siroheme, and chlorophyll branches. This work provides evidence of cryptic standing variation in the maize germplasm via an epistatic interaction with novel genetic perturbation of an evolutionary conserved enzyme.
+
+<a href='mailto:rkhangur@purdue.edu'>Khangura, Rajdeep S</a><sup>1 2</sup><br><a href='mailto:zhangxinyan@caas.cn'>Zhang, Xinyan</a><sup>2 3</sup><br><a href='mailto:kaur60@purdue.edu'>Kaur, Amanpreet</a><sup>1 2</sup><br><a href='mailto:dlisch@purdue.edu'>Lisch, Damon</a><sup>2 3</sup><br><a href='mailto:bdilkes@purdue.edu'>Dilkes, Brian P</a><sup>1 2</sup><br>
+
+<sup>1</sup>Department of Biochemistry; Purdue University, West Lafayette, IN, USA 47907<br><sup>2</sup>Center for Plant Biology; Purdue University, West Lafayette, IN, USA 47907<br><sup>3</sup>Department of Botany and Plant Pathology; Purdue University, West Lafayette, IN, USA 47907<br>

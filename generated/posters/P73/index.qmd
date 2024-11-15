@@ -1,0 +1,20 @@
+---
+title: "Defining the gene regulatory networks of bHLH122 and bHLH51 in maize anther development"
+subtitle: "P73"
+author: "Lily O'Connor"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c1/Protective_Coleoptile_Tip_in_Zea_Mays_Embryo_%2847691344541%29.jpg"
+categories: 
+- Cell and Developmental Biology
+- Odd Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Maize tassels contain thousands of anthers, which produce the male gametophyte, pollen. Fully differentiated pre-meiotic anthers are composed of four concentric somatic cell layers that surround the central meiocytes. The tapetal cell layer is the innermost somatic cell layer and the tapetum provides crucial support to the meiocyte through pollen maturation. To support meiocyte and pollen development tapetal cells become binucleate, secretory, and finally undergo programed cell death. A hierarchy of four basic helix-loop-helix (bHLH) transcription factors (TF), Male Sterile(MS) 23, MS32, bHLH122, and bHLH51 regulate tapetal cell differentiation and development. Mutants in any one of these bHLH TFs results in complete male sterility due to a failure of the tapetal cell layer to fully differentiate. Ms23, Ms32, and bhlh122 act upstream of and are required to produce 24-nt pre-meiotic phased secondary small interfering RNAs (phasiRNAs) and bHLH51 integrates into this regulation hierarchy downstream of 24-PHAS loci activation. Here we test if the male sterile phenotype of bHLH122 and bHLH51 CRISPR knock out alleles is complemented by epitope tagged copies of these genes. These lines will allow for future molecular work to define the gene regulatory networks of bHLH122 and bHLH51.
+
+<a href='mailto:loconnor@danforthcenter.org'>O&#39;Connor, Lily E.</a><sup>1 2</sup><br><a href='mailto:cteng@danforthcenter.org'>Teng, Chong</a><sup>2</sup><br><a href='mailto:gilliannan@gmail.com'>Nan, Guo-Ling</a><sup>3</sup><br><a href='mailto:walbot@stanford.edu'>Walbot, Virginia</a><sup>3</sup><br><a href='mailto:bcmeyers@ucdavis.edu'>Meyers, Blake</a><sup>2 4</sup><br>
+
+<sup>1</sup>Department of Biology, Washington University, Saint Louis, MO, 63130, USA<br><sup>2</sup>Donald Danforth Plant Science Center, Saint Louis, MO, 63132, USA<br><sup>3</sup>Department of Biology, Stanford University, Stanford, CA, 94305, USA<br><sup>4</sup>Division of Plant Science and Technology, University of Missouri, Columbia, MO, 65211, USA<br>

@@ -1,0 +1,20 @@
+---
+title: "PEG-mediated transient gene expression in maize root protoplast"
+subtitle: "P102"
+author: "Jingjing Tong"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c1/Protective_Coleoptile_Tip_in_Zea_Mays_Embryo_%2847691344541%29.jpg"
+categories: 
+- Cell and Developmental Biology
+- Even Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Transient gene expression in plant protoplast has been used in gene functional characterization, protein subcellular localization, and protein-protein interaction. Plant protoplast isolation and transient expression methods have been reported in some plants, including Arabidopsis, tomato, apple, maize, etc. However, previous maize protoplast transformation methods were primarily done with mesophyll protoplast, or suspension-cultured cells. There is no report on protoplast transformation with maize root protoplasts. Here, we describe a PEG-mediated transformation for transient gene expression in maize root protoplasts to characterize transcription factors that may be involved in maize cuticle biosynthesis. There is limited reference data for maize root protoplast transformation, and we have tested several different transformation methods. We show that PEG-mediated transformation has the most consistent transformation efficiency and gene expression, but the transformation efficiency remains low. Our protocol provides a maize root protoplast transformation method for molecular and cellular biology research.
+
+<a href='mailto:jjtong@udel.edu'>Tong, Jingjing</a><sup>1</sup><br><a href='mailto:esparks@udel.edu'>Sparks, Erin</a><sup>1</sup><br>
+
+<sup>1</sup>University of Delaware; 590 Avenue 1743; Newark, DE, USA 19713<br>

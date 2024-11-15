@@ -1,0 +1,20 @@
+---
+title: "Optimizing a high-throughput screening method to identify the genetic regulators of VPD transpirational breakpoints in Zea mays"
+subtitle: "P249"
+author: "Robert Twohey III"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5e/Aztec_Diet_Basket_of_Corn_%289755332575%29.jpg"
+categories: 
+- Quantitative Genetics & Breeding
+- Odd Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Atmospheric temperatures are increasing, and extreme precipitation patterns lead to periods of severe drought. Both increased temperatures and drier growing conditions result in a higher atmospheric vapor pressure deficit (VPD). The VPD condition is calculated as the difference between the current level of moisture in the air and the potential saturation point. As VPD increases, the atmospheric water demand results in increased plant water loss through transpiration. Past studies have identified VPD breakpoints in maize which are observed when the linear transpirational response to increasing VPD changes in slope. We have observed transpirational breakpoints in Zea mays inbred and hybrid lines. However, in a slac1-mu stomatal mutant, which is unable to close its stomata, we did not observe a breakpoint. This result identified stomatal dynamics as the primary driver of VPD breakpoints in Z. mays. Variation in when and if a VPD breakpoint occurs has been observed in Z. mays, although the genetic mechanisms controlling VPD breakpoints are still unknown. Current methods of measuring transpirational breakpoints are time-consuming, limiting the number of genotypes that can be measured and our ability to identify regulatory genes. We have developed a new high-throughput screening protocol for measuring VPD breakpoints across a diversity of Z. mays lines. Currently, 28 Z. mays lines, including the NAM founders, have been screened for VPD breakpoints. We have found variation in the occurrence of VPD breakpoints and the severity of VPD that is required to provoke a stomatal response. Here we present our findings from our new breakpoint protocol and identify our next steps. Improving our ability to measure VPD breakpoints and identify genetic mechanisms regulating VPD response will provide new insights into stomatal dynamics and the optimization of water use efficiency in Z. mays.
+
+<a href='mailto:twohey2@illinois.edu'>Twohey III, Robert J.</a><sup>1</sup><br><a href='mailto:astuder@illinois.edu'>Studer, Anthony J.</a><sup>1</sup><br>
+
+<sup>1</sup>Department of Crop Sciences, University of Illinois, Urbana, IL 61801, USA<br>

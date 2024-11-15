@@ -1,0 +1,20 @@
+---
+title: "Unveiling the effects of organic nitrogen fertility and weed competition on corn hybrid agronomic performance and root architecture characteristics"
+subtitle: "P277"
+author: "Christopher Mujjabi"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5e/Aztec_Diet_Basket_of_Corn_%289755332575%29.jpg"
+categories: 
+- Quantitative Genetics & Breeding
+- Odd Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+The domestication and improvement of maize (Zea mays ssp. mays) has focused on above-ground traits for crop improvement, neglecting below-ground phenes as selection criteria. Interactions between root architecture and nutrient capture affect plant growth and yield. The root system architecture influences the volume of soil exploration by the plant, whereas fine root traits affect water and nutrient uptake that ultimately influence yield. For the most part, root architectural traits have been overlooked in breeding programs because of challenges associated with phenotypic characterization and the lack of standardized screening methods. This study evaluated agronomic, and root architectural responses of maize hybrids grown with different levels of nitrogen inputs and under the manipulated weed competition in organically managed fields. The experiment applied an RCBD using a split-split plot arrangement, with three external nitrogen fertility inputs as whole plots (0, 112, and 224 kg/ha), ten hybrids as subplots, and two weed treatments (weed-minus, weed-plus) as sub-subplots. The study was conducted over three years (2018 to 2020) in four organically managed locations, with four replications per location. Hybrids were phenotyped for above-ground traits and assessed for below-ground root architectural traits using high-throughput image analysis. Significant variation was observed for above and below-ground traits across all treatment combinations. Higher nitrogen availability positively influenced above-ground traits (grain yield, plant height, ear height, and stem diameter). Increased nitrogen levels reduced root system complexity and increased root angles. Hybrids with simple roots and wider root angles obtained higher grain yield than hybrids with complex and narrow root angles. Hybrid performance varied significantly under weed competition. The study highlights the importance of considering below-ground phenotypes for crop improvement in maize and provides insights into the influence of nitrogen availability and weed competition on maize production in organically managed fields.
+
+<a href='mailto:mujjabi2@illinois.edu'>Mujjabi, Christopher</a><sup>1</sup><br><a href='mailto:cugarte@illinois.edu'>Ugarte, Carmen</a><sup>2</sup><br><a href='mailto:mwander@illinois.edu'>Wander, Michelle</a><sup>2</sup><br><a href='mailto:mbohn@illinois.edu'>Bohn, Martin</a><sup>1</sup><br>
+
+<sup>1</sup>Department of Crop Sciences, University of Illinois at Urbana-Champaign; 1102 S Goodwin Ave; Urbana, IL, USA, 61801<br><sup>2</sup>Natural Resources and Environmental Sciences, University of Illinois at Urbana-Champaign; 1102 S Goodwin Ave; Urbana, IL, USA, 61801<br>

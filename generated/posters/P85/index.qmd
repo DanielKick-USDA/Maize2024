@@ -1,0 +1,20 @@
+---
+title: "Heat stress at the bicellular stage inhibits sperm cell development and their transport into pollen tubes"
+subtitle: "P85"
+author: "Kevin Begcy"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c1/Protective_Coleoptile_Tip_in_Zea_Mays_Embryo_%2847691344541%29.jpg"
+categories: 
+- Cell and Developmental Biology
+- Odd Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+For a successful double fertilization process in flowering plants (angiosperms), pollen tubes each deliver two non-motile sperm cells towards female gametes (egg and central cell, respectively). Heatwaves especially during the reproduction period are threatening male gametophyte (pollen) development, which results in severe yield losses. By using maize as a crop and grass model system, we found strong seed set reduction when moderate heat stress was applied for two days during the uni- and bicellular stages of pollen development. We show that heat stress accelerates pollen development and impairs pollen germination capabilities, when applied at the unicellular stage. Heat stress at the bicellular stage impairs sperm cell development and their transport into pollen tubes. To understand the course of the latter defects, we used marker lines and analyzed the transcriptomes of isolated sperm cells. While heat stress also affects the expression of genes involved in transcription, RNA processing and translation, especially genes in DNA replication and the cell cycle were mis-regulated. This includes centromeric histone CENH3 and α-tubulin. Most mis-regulated genes are involved in transition from metaphase to anaphase during pollen mitosis II (PM II). Heat stress activates spindle assembly check point and meta- to anaphase transition genes in sperm cells. In summary, mis-regulation of the identified genes during heat stress at the bicellular stage explains sperm cell development and transport defects ultimately leading to sterility.
+
+Li, Xingli<sup>1</sup><br>Bruckmann, Astrid<sup>2</sup><br>Dresselhaus, Thomas<sup>1</sup><br>Begcy, Kevin<sup>3</sup><br>
+
+<sup>1</sup>Department of Cell Biology and Plant Biochemistry, University of Regensburg, Germany<br><sup>2</sup>Department for Biochemistry I, Biochemistry Centre, University of Regensburg, Germany<br><sup>3</sup>Environmental Horticulture Department, University of Florida, Gainesville, Florida, USA<br>

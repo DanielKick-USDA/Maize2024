@@ -1,0 +1,20 @@
+---
+title: "K-means clustering analysis of gene expression across endosperm development"
+subtitle: "P94"
+author: "Vital Nyabashi"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c1/Protective_Coleoptile_Tip_in_Zea_Mays_Embryo_%2847691344541%29.jpg"
+categories: 
+- Cell and Developmental Biology
+- Even Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Approximately 90 million acres are devoted to the cultivation of maize in the United States. which is crucial for sustaining various industries. This process, integral for a stable supply of essential products, emphasizes the need for Cresearch to enhance each stage of maize cultivation. A key aspect involves understanding the role of zeins in maize development; during endosperm maturation, an increase in zein production provides nutrition for the embryo during germination. Our goal is to classify and comprehend gene expression patterns in maize endosperm, shedding light on the intricate processes regulating its development.K-means clustering is used to organize data into groups/clusters based on similarities. By using K-means clustering on maize endosperm expression data, we can reveal various expression patterns over time and uncover the molecular events that coordinate endosperm development.The objective of this study is to identify clusters of co-expressed genes, aiming to uncover patterns present during the crucial stages of maize endosperm development. For example, we may observe potential gene regulators based on a rise in expression just before the gene(s) of interest become more highly expressed. Initial results revealed patterns of gene expression during development. We identified groups with timepoint-specific expression patterns with peak expression occurring at early, middle, and late points in endosperm development. Other clusters showed groups of genes that were expressed consistently throughout development. These findings may pave a path for understanding molecular mechanisms underlying endosperm development and offer potential targets for further investigation.Moving forward, this project is part of a broader time point analysis of endosperm expression. This research aims to contribute insights into gene regulatory networks during the intricate process of endosperm development to explore gene expression patterns across various time points in reciprocal crosses of two maize cultivars.
+
+<a href='mailto:vitalnya@iastate.edu'>Nyabashi, Vital</a><sup>1</sup><br><a href='mailto:kaitlinj@iastate.edu'>Higgins, Kaitlin</a><sup>1</sup><br><a href='mailto:sna@iastate.edu'>Anderson, Sarah</a><sup>1</sup><br>
+
+<sup>1</sup>Iowa State University, Department of Genetics, Development, and Cell Biology. Ames, IA, 50011<br>

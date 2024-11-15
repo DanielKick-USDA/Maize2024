@@ -1,0 +1,20 @@
+---
+title: "Minus directed kinesin allows chromosome 10 haplotypes to compete"
+subtitle: "P42"
+author: "Meghan Brady"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/05/DNA_base-pair_diagram.jpg"
+categories: 
+- Biochemical and Molecular Genetics
+- Even Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+85% of the maize genome is comprised of repeat elements of which 9.4% are tandem repeats called knobs. This equates to about ~1.5 Arabidopsis genomes of exclusively knob sequence. These knobs come in two classes (TR1 and knob180) differentiated by their repeat sequence. Abnormal chromosome 10 (Ab10), a large selfish variant of chromosome 10, utilizes knob sequence to be preferentially transmitted to the next generation. Ab10 encodes both knob repeats as well as two kinesin proteins: kindr and trkin. kindr associates with knob180 knobs and trkin associates with TR1 knobs. kindr is responsible for the majority of Ab10 preferential transmission while the role of trkin is unclear. Several hypotheses have suggested that trkin may be improving the fitness of Ab10 in some way. We found that the frequency of meiotic errors did not differ between Ab10 homozygous plants with and without trkin. This suggests that trkin is unlikely to be improving Ab10 fitness by preventing meiotic errors in a meaningful way. Additionally, competition assays between variants of Ab10 demonstrated that trkin is responsible for the ability of K10L2, a trkin bearing N10 like chromosome 10 variant, to compete with Ab10. These data suggest that trkin and kindr may represent independent drive systems capitalizing on the same haplotype.
+
+<a href='mailto:meghan.brady@uga.edu'>Brady, Meghan J</a><sup>1</sup><br><a href='mailto:gent@uga.edu'>Gent, Jonathan I</a><sup>2</sup><br><a href='mailto:kdawe@uga.edu'>Dawe, R. Kelly</a><sup>1 2</sup><br>
+
+<sup>1</sup>University of Georgia Dept. of Genetics, Athens, GA 30602<br><sup>2</sup>University of Georgia Dept. of Plant Biology, Athens, GA 30602<br>

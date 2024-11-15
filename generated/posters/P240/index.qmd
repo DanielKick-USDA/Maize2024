@@ -1,0 +1,20 @@
+---
+title: "Leveraging above and below ground phenotyping of a maize synthetic population containing teosinte alleles in nitrogen limited field conditions to identify nitrogen efficiency alleles"
+subtitle: "P240"
+author: "Collin Luebbert"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5e/Aztec_Diet_Basket_of_Corn_%289755332575%29.jpg"
+categories: 
+- Quantitative Genetics & Breeding
+- Even Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Nitrogen inputs are a major driver of agricultural greenhouse gas emissions and other environmental impacts. One solution is to breed crops that are more efficient at using nitrogen while maintaining yield. Modern breeding approaches have been successful at integrating beneficial traits into commercial varieties but domestication and improvement has decreased genetic diversity, resulting in the loss of many potentially beneficial alleles. Recapturing extant diversity still present in maize’s undomesticated progenitor teosinte (Z. mays parviglumis) could aid in further gains in yield and other important agronomic traits. A synthetic maize population was designed to produce lines that have around 12% teosinte alleles, with alleles also from the Nested Association Mapping (NAM) population founders and B73. 430 double haploid lines from this population, crossed to a common parent (PHZ51), were grown over two growing seasons in nitrogen limited condition and 270 phenotypes were recorded. Traits included agronomically relevant traits like grain yield, biomass, and nitrogen content. Root architecture traits were measured using 3 different technologies: analysis of 2-dimensional images of excavated root crowns, 3-dimensional x-ray computed tomography scans of excavated root crowns and data gathered from mini-rhizotrons in the field during the growing season. Elemental compositions of seeds for 20 elements were quantified using an inductively coupled plasma mass spectrometry pipeline. Lines were sequenced and a genetic map was constructed using the Practical Haplotype Graph (PHG) framework. Previously identified QTL were identified using this approach giving evidence for the viability of using the PHG framework in a large association study. Genome wide association scans were performed for each trait and significant associations were identified within each trait category, providing a basis for improvement of the nitrogen efficiency of maize.
+
+Luebbert, Collin<sup>1</sup><br>Kelleher, Micah<sup>1</sup><br>Kosfeld, Tim<sup>1</sup><br>Ziegler, Greg<sup>1</sup><br>Topp, Christopher<sup>1</sup><br>Gunn, Shayla<sup>1</sup><br>Parker, Timothy<sup>1</sup><br>Leakey, Andrew<sup>2</sup><br>Rajurkar, Ashish<sup>2</sup><br>McCoy, Scott<sup>2</sup><br>Richter, Jeremy<sup>2</sup><br>Allen, Dylan<sup>2</sup><br>Goldenfeld, Nigel<sup>2</sup><br>Liu, Zhiru<sup>2</sup><br>Martini, Michael<sup>2</sup><br>Flint-Garcia, Sherry<sup>3</sup><br>Baxter, Ivan<sup>1</sup><br>
+
+<sup>1</sup>Donald Danforth Plant Science Center, St. Louis, MO, 63132, USA<br><sup>2</sup>Department of Plant Biology and Institute for Genomic Biology, University of Illinois at Urbana-Champaign, Urbana, IL, 61801 USA<br><sup>3</sup>USDA-ARS Plant Genetics Research Unit, University of Missouri, Columbia, MO 65211, USA<br>

@@ -1,0 +1,20 @@
+---
+title: "Benchmarking across-species RNA expression prediction within maize and its wild relatives"
+subtitle: "P137"
+author: "Travis Wrightsman"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e5/ENIAC-changing_a_tube.jpg"
+categories: 
+- Computational and Large-Scale Biology
+- Odd Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Targeted genome editing and selection technologies have the potential to accelerate plant breeding pipelines in any species but require prior knowledge of what changes to make and where to make them. One promising approach for proposing effectual edits is by querying deep learning models trained to predict cellular features such as RNA expression from DNA input. Deep learning models benefit from large and diverse training sets of different tissues and genotypes, which are rarely available within a single species. To train RNA expression models on larger sample sizes, we leveraged new long-read genomes and RNA-seq data from 15 wild species closely related to maize, sorghum, and sugarcane. Millions of years of evolution across these species has resulted in a large, diverse pool of training alleles. As model input, we extracted 1,024 base pairs upstream of each gene’s translation start site. This sequence data was used to train model architectures shown to be state-of-the-art on human data. Testing the trained models on NAM parent expression data shows Spearman correlations between 0.45 and 0.55. All architectures fail to accurately rank NAM alleles by expression, showing an average Spearman correlation within a pan-gene of less than 0.10. This suggests that smaller state-of-the-art supervised models are neither able to generalize well across related species nor sensitively separate alleles within species, the latter of which agrees with recent work within humans. Large language models have demonstrated success in answering questions and modeling proteins but have so far been evaluated only on species in the training set for RNA expression tasks. A model that successfully learns gene regulation should be able to generalize to unseen related species. Therefore, we are releasing the dataset and codebase for this work as a community benchmark to evaluate new architectures on our across-species and across-allele tasks.
+
+<a href='mailto:tw493@cornell.edu'>Wrightsman, Travis</a><sup>1</sup><br><a href='mailto:tf259@cornell.edu'>Ferebee, Taylor H.</a><sup>2</sup><br><a href='mailto:mcr72@cornell.edu'>Romay, M. Cinta</a><sup>3</sup><br><a href='mailto:tayaubuchon@gmail.com'>AuBuchon-Elder, Taylor</a><sup>4</sup><br><a href='mailto:arphillips@ucdavis.edu'>Phillips, Alyssa</a><sup>5</sup><br><a href='mailto:mlsyring@iastate.edu'>Syring, Michael</a><sup>6</sup><br><a href='mailto:ekellogg@danforthcenter.org'>Kellogg, Elizabeth A.</a><sup>4</sup><br><a href='mailto:esb33@cornell.edu'>Buckler, Edward S.</a><sup>1 3 7</sup><br>
+
+<sup>1</sup>Section of Plant Breeding and Genetics; Cornell University; Ithaca, NY, USA 14853<br><sup>2</sup>Department of Computational Biology; Cornell University; Ithaca, NY, USA 14853<br><sup>3</sup>Institute for Genomic Diversity; Cornell University; Ithaca, NY, USA 14853<br><sup>4</sup>Donald Danforth Plant Science Center; St. Louis, MO, USA 63132<br><sup>5</sup>Department of Evolution and Ecology; University of California, Davis; Davis, CA, USA 95616<br><sup>6</sup>Iowa State University; Ames, IA, USA 50011<br><sup>7</sup>Agricultural Research Service; United States Department of Agriculture; Ithaca, NY, USA 14853<br>

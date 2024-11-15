@@ -1,0 +1,20 @@
+---
+title: "The genetic basis of callus development and resources for genetic transformation of maize"
+subtitle: "P114"
+author: "J.Aaron Avalos-Calleros"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c1/Protective_Coleoptile_Tip_in_Zea_Mays_Embryo_%2847691344541%29.jpg"
+categories: 
+- Cell and Developmental Biology
+- Even Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Callus induction is a key step for genetic transformation and regeneration of maize. Two types of calli, type I and type II, are derived from maize tissue culture. Type II grows faster and is more responsive for regeneration. The degree of type II callus induction is dependent on genotype, although the mechanisms and genetic basis are poorly understood. A188 is a regeneration-amenable inbred line used for genetic transformation, while B73 is a recalcitrant inbred line. A188 and B73 have high and low type II callus induction rates, respectively. Analysis of type I and II calli from a B73xA188 F2 population through single callus genotyping and pooled callus RNA-seq identified quantitative trait loci (QTLs) for callus type at chromosomes 2, 5, 6, 8, and 9. The analysis also identified differentially expressed genes (DEGs) between the two callus types. Currently, we are examining the impact of the DEGs on callus development by ectopic gene expression in maize immature embryos. At the same time, the quantification of the callus type of double haploids (DHs) from the cross between A188 and B73 led to the selection of highly culturable DH lines, providing a new genetic resource for maize transformation.
+
+<a href='mailto:aaronac089@ksu.edu'>Avalos-Calleros, J.Aaron</a><sup>1</sup><br><a href='mailto:guifanglin@ksu.edu'>Lin, Guifang</a><sup>2</sup><br><a href='mailto:huil@ksu.edu'>Liu, Hui</a><sup>2</sup><br><a href='mailto:gmotolai@ksu.edu'>Motolai, Gergely</a><sup>1</sup><br><a href='mailto:nathanstewart@ksu.edu'>Stewart, Nathan</a><sup>1</sup><br><a href='mailto:hairong@mtu.edu'>Wei, Hairong</a><sup>3</sup><br><a href='mailto:ffwhite@ufl.edu'>White, Frank F.</a><sup>4</sup><br><a href='mailto:mjcho1223@berkeley.edu'>Cho, Myeong-Je</a><sup>5</sup><br><a href='mailto:liu3zhen@ksu.edu'>Liu, Sanzhen</a><sup>2</sup><br><a href='mailto:shpark@ksu.edu'>Park, Sunghun</a><sup>1</sup><br>
+
+<sup>1</sup>Department of Horticulture and Natural Resources, Kansas State University, Manhattan, KS 66506-5502, USA<br><sup>2</sup>Department of Plant Pathology, Kansas State University, Manhattan, KS 66506-5502, USA<br><sup>3</sup>College of Forest Resources and Environmental Science, Michigan Technological University, Houghton, MI 49931, USA<br><sup>4</sup>Department of Plant Pathology, University of Florida, Gainesville, FL 32611-0680, USA<br><sup>5</sup>Innovative Genomics Institute, University of California, Berkeley, CA 94704, USA<br>

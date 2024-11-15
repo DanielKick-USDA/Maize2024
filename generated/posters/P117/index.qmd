@@ -1,0 +1,20 @@
+---
+title: "The role of the plant growth hormones auxin and cytokinin in maize mutants lsn1 and Hsf1"
+subtitle: "P117"
+author: "Emma Klaas"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c1/Protective_Coleoptile_Tip_in_Zea_Mays_Embryo_%2847691344541%29.jpg"
+categories: 
+- Cell and Developmental Biology
+- Odd Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+In this experiment, we sought to understand hormonal regulation in maize mutants large scutellar node1 (lsn1) and Hairy sheath frayed1 (Hsf1). The mutant lsn1 is characterized by abnormal vein patterning, a flattened and enlarged root tip, as well as a short shoot, and a short root with few lateral roots. The lsn1 phenotype is reported to be caused by defects in auxin transport which we hypothesize results in accumulation of auxin in the root tips stunting growth. We theorize that this would lead to lower levels of cytokinin in the root tips. The mutant Hsf1 is also distinguished by an abnormal phenotype, with hairs present on the surface of the leaves. The roots have been reported to be shorter than normal with fewer lateral roots. Hsf1 has a higher level of cytokinin signaling, and therefore we hypothesize that there would be lower levels of auxin present in the root tips. To test our hypotheses, we crossed the two mutants together to examine the double mutant phenotype. As auxin and cytokinin often act in opposition to each other, we predicted that the the double mutant would have a more normal phenotype. Come to the poster to find out what happened instead. This research expands upon existing research on these plant growth hormones, and how they affect root development.
+
+<a href='mailto:eklaas43@gmail.com'>Klaas, Emma R</a><sup>1</sup><br><a href='mailto:jmrp76@mail.missouri.edu'>Robil, Janlo M</a><sup>1</sup><br><a href='mailto:pa96f@mail.missouri.edu'>Awale, Prameela</a><sup>1</sup><br><a href='mailto:mcsteenp@missouri.edu'>McSteen, Paula</a><sup>1</sup><br>
+
+<sup>1</sup>University of Missouri; Bond Life Sciences Center; Columbia, MO, United States,65211<br>

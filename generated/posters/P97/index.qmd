@@ -1,0 +1,20 @@
+---
+title: "Linking brace root development to function"
+subtitle: "P97"
+author: "Thanduanlung Kamei"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c1/Protective_Coleoptile_Tip_in_Zea_Mays_Embryo_%2847691344541%29.jpg"
+categories: 
+- Cell and Developmental Biology
+- Odd Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Nodal roots form the main root systems of a mature maize plant. Nodal roots consist of two types; crown roots that originate from below-ground nodes and brace roots from aboveground nodes. While previous research emphasizes the vital role of brace roots in providing stability and resistance to lodging, the specific impact of altering brace root development on other essential root functions remains unexplored. To investigate this, we first conducted RNA sequencing on stem nodes at various stages of brace root development to identify candidate genes. Our analysis identified SBP transcription factors among the differentially expressed genes. We show that SBP mutants such as unbranched 2 (ub2) unbranched 3 (ub3) and tasselsheath4 (tsh4) exhibit diverse brace root phenotypes, including variations in the number of roots per whorl, the number of whorls penetrating the soil, and brace root diameter. In addition, anchorage and nitrogen uptake capabilities were altered in these lines as well as in the dominant Corngrass1 (Cg1) mutant that overexpresses miR156 which targets SBP genes. Our results show that early in development when the contribution of brace roots to anchorage is minimal, root torsional stiffness is similar across different genotypes. Later, however, when brace root contributions are significant, mutants with smaller brace root diameters had reduced root torsional stiffness, while those with larger diameters were increased. Furthermore, Cg1 mutant brace roots took up more N15-labeled nitrogen than the wild-type, without showing preference for specific nitrogen types. Together, these data demonstrate that SBP genes impact brace root, anchorage, stiffness, and adsorption, functions that were not previously associated with these genes.
+
+<a href='mailto:thanduan@udel.edu'>Kamei, Thanduanlung</a><sup>1</sup><br><a href='mailto:georgechuck@berkeley.edu'>Chuck, George</a><sup>2</sup><br>Sparks, Erin E.<sup>1</sup><br>
+
+<sup>1</sup>Department of Plant and Soil Sciences, University of Delaware, Newark, DE., USA.<br><sup>2</sup>Department of Plant & Microbial Biology, University of California-Berkeley, Berkeley, CA., USA.<br>

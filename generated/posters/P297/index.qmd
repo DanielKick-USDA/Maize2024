@@ -1,0 +1,20 @@
+---
+title: "Crop domestication in Zea mays has contrasting effects on microbiome community structure in above and below-ground microbiota"
+subtitle: "P297"
+author: "Ilksen Topcu"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/9a/CollapsedtreeLabels-simplified-fi.svg"
+categories: 
+- Evolution and Population Genetics
+- Odd Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Contemporary crop cultivars are the products of selection during domestication, spread, and breeding processes. The focus of recent breeding efforts has been on maximizing yield, though yield is known to trade off with stress tolerance. Our understanding of crop microbiomes and how they may have been shaped by those processes is rudimentary despite their relevance to plant fitness. In natural settings, crop wild ancestors such as Balsas teosinte (Zea mays parviglumis), the ancestor of maize, rely in part on their microbiomes to tolerate a variety of environmental stresses. We investigated whether the known de-escalation of plant defenses in elite maize cultivars compared to wild and cultivated ancestors is linked to alterations in their microbial communities. We focused on the leaf endosphere and rhizosphere microbiotas of teosinte (Zea spp.) and maize accessions spanning the evolutionary transition from a perennial life history (Zea diploperennis) to annual wild (Balsas teosinte) and domesticated (maize landraces and elite inbreds) life histories. We found that the rhizosphere microbiota of landrace and elite maize cultivars exhibited greater microbial diversity and richness compared to teosintes, whereas we found the opposite in leaf endosphere. Notably, the leaf endosphere harbored more biomarker microbiota than the rhizosphere, and domestication strongly affected both leaf- and root-associated microbial communities. Furthermore, patterns typical of microbial dysbiosis in the leaf endosphere microbial community were coincident with domestication, consistent with the Anna Karenina principle. This is the first evidence of dysbiosis associated with crop domestication. Finally, we share preliminary findings on utilizing Balsas teosinte leaf endosphere microbes for developing biopesticides. Understanding the effects of maize domestication, spread, and breeding on the leaf endosphere and rhizosphere microbiota of commercial cultivars is crucial for harnessing teosinte beneficial microbes to develop biocontrol agents and biofertilizers to improve maize resilience to biotic and abiotic stress.
+
+<a href='mailto:ilksen.topcu@tamu.edu'>Topcu, Ilksen</a><sup>1</sup><br><a href='mailto:aeb114@tamu.edu'>Black, Ariel</a><sup>1</sup><br><a href='mailto:tristan.gregory@ag.tamu.edu'>Gregory, Tristan</a><sup>1</sup><br><a href='mailto:Julio.Bernal@ag.tamu.edu'>Bernal, Julio S</a><sup>2</sup><br><a href='mailto:Sanjay.AntonyBabu@ag.tamu.edu'>Antony-Babu, Sanjay</a><sup>1</sup><br>
+
+<sup>1</sup>Department of Plant Pathology & Microbiology, Texas A&M University, College Station, TX 77843<br><sup>2</sup>Department of Entomology, Texas A&M University, College Station, TX 77843<br>

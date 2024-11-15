@@ -1,0 +1,20 @@
+---
+title: "High-throughput root phenotyping to investigate phenotypic relationships between early auxin response and adult crown root phenotyping"
+subtitle: "P88"
+author: "Ella Townsend"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c1/Protective_Coleoptile_Tip_in_Zea_Mays_Embryo_%2847691344541%29.jpg"
+categories: 
+- Cell and Developmental Biology
+- Even Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Maize root systems exhibit plastic phenotypes that are constrained by genotype. An outstanding question in the field is whether juvenile traits under controlled environments, such as hormone responses, can predict mature crown root phenotypes under field conditions. Previously, the Kelley lab has studied the response of 10-day-old maize seedlings to exogenous auxin in 617 genotypes from the Wisconsin Diversity panel. While reference genotypes such as B73 and W22 exhibit primary root inhibition following auxin treatment, numerous genotypes were auxin hypersensitive or insensitive. These ~20 genotypes were grown in the field and subsequently phenotyped to identify any adult crown root traits that could be indicative of the genotype’s early auxin response. Some of the features were examined include root angle, surface area, and average root length. Manual phenotyping can lead to errors and bias, so a digital pipeline was designed using ImageJ, Root painter, and Rhizovision. Statistical analysis was performed across the genotypes to explore relationships between different phenotypic traits relative to B73. As analysis continues, we hope to find traits that are indicative of auxin response. In turn we also hope to predict certain adult phenotypes through the seedling auxin response.
+
+<a href='mailto:ellatownsend90@gmail.com'>Townsend, Ella G</a><sup>1</sup><br><a href='mailto:jodicall@iastate.edu'>Callwood, Jodi B</a><sup>1</sup><br><a href='mailto:Yizhet@iastate.edu'>Tang, Yizhe</a><sup>1</sup><br><a href='mailto:jkhor84@iastate.edu'>Khor, Jasper</a><sup>1</sup><br><a href='mailto:dkelly@iastate.edu'>Kelly, Dior R</a><sup>1</sup><br>
+
+<sup>1</sup>Iowa state university<br>

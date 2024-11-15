@@ -1,0 +1,20 @@
+---
+title: "Distribution and impact of functional glossy15 haplotypes on phase change, flowering, and grain drydown"
+subtitle: "P299"
+author: "Madsen Sullivan"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/9a/CollapsedtreeLabels-simplified-fi.svg"
+categories: 
+- Evolution and Population Genetics
+- Odd Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Maize grain moisture dynamics are key determinants of yield, quality, and harvest timing. Genetic factors controlling the developmental transitions from juvenile to adult and vegetative to reproductive phases ultimately govern the onset of drydown. Among these genetic regulators is glossy15 (gl15), best described for its role in the transition from juvenile to adult developmental phases. A panel of diverse maize inbreds was used to identify six functional gl15 haplotypes (A-F), explaining much of the variation in juvenile phase transition among dent corn lines. The prolonged juvenile identity from gl15 overexpression delayed the onset of flowering, impeded drydown, and reduced harvest index. To determine whether early phase transition might improve drydown dynamics, the gl15-H null allele was introgressed into a panel of eighteen North American Yellow Pearl Popcorns and developmental traits were phenotyped, including timing of phase transitions, drydown, and grain quality traits. When the haplotypes of these eighteen accessions were determined through Sanger sequencing, most accessions belonged to two of the six haplotypes identified in dent germplasm. However, a seventh haplotype was identified (G), seemingly unique to popcorn, that delayed juvenile transition and flowering. A broader investigation into the distribution of this haplotype in a popcorn diversity panel revealed that despite occurring in 44% of North American Yellow Pearl Popcorn landraces, no North American Yellow Pearl inbreds carry haplotype G. Similarly, investigation into Latin American Pointed Rice Popcorns revealed that although 71% of landraces possess this haplotype, only 14% of their inbreds carry it. Despite this haplotype appearing entirely absent in dent germplasm and seemingly unique to popcorn, it is present within teosinte, suggesting that popcorn alone maintains genetic diversity once present in the maize ancestor. The changes in haplotype G presence suggest that prolonged juvenility and delayed drydown have been selected against under modern breeding efforts.
+
+<a href='mailto:madsens2@illinois.edu'>Sullivan, Madsen</a><sup>1</sup><br><a href='mailto:jessica.bubert@agreliant.com'>Bubert, Jessica</a><sup>2</sup><br><a href='mailto:pgbarla2@gmail.com'>Barla, Parrish</a><sup>3</sup><br><a href='mailto:smoose@illinois.edu'>Moose, Stephen P</a><sup>1</sup><br><a href='mailto:astuder@illinois.edu'>Studer, Anthony J</a><sup>1</sup><br>
+
+<sup>1</sup>Department of Crop Sciences, University of Illinois, Urbana, IL 61801, USA<br><sup>2</sup>AgReliant Genetics, Esmond, IL, 60129<br><sup>3</sup>Syngenta Company, Highland, IL 62249<br>

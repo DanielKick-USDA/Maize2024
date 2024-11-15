@@ -1,0 +1,19 @@
+---
+title: "Mining ancient genomes for microbiome associated phenotypes for nutrient retention in agroecosystems"
+subtitle: "T15"
+author: "Angela Kent"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5e/Aztec_Diet_Basket_of_Corn_%289755332575%29.jpg"
+categories: 
+- Quantitative Genetics & Breeding
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Plant-microbe interactions in the rhizosphere govern availability of nutrients and are a target for improving crop sustainability. However, the ability of modern crops to recruit and structure their microbiome has been altered by domestication and breeding. Selection for crop plants based on aboveground traits in high nutrient environments has inadvertently led to changes to belowground plant physiology and relationships with the soil microbiome, altering microbiome functions that contribute to sustainability and environmental quality (e.g. nutrient acquisition, nutrient retention, and GHG production). We hypothesized that plant genotypes differ in their ability to recruit microbial functional groups, and ultimately that the functional profile of the microbial community can be treated as a selectable plant phenotype and optimized through plant breeding. We surveyed the rhizosphere microbiome of diverse maize genotypes to compare their capability to recruit microbial nitrogen cycling functional groups and examined rates of nitrogen transformations. Significantly different N cycling microbial communities were observed among maize genotypes that represent the endpoints of directed evolution, as well as among germplasm selected under different levels of fertilization. Our results showed significantly lower rates of nitrification and denitrification in ancestral lineages of maize (teosinte). Maize-teosinte near isogenic lines were used to narrow down the genetic region associated with these nutrient retention traits to explore the mechanistic basis for these microbiome-associated phenotypes. We explored the combinatorial effect of plant-microbe interactions for their ability to both provision (via N fixation) and retain nutrients, which resulted in elevated nutrient acquisition by the crop as well as sustainable environmental outcomes. Our results link host-associated microbiome and ecosystem function, and demonstrate the genetic capacity to optimize recruitment of N-cycling functional groups and improve crop sustainability. Identifying microbiome-associated phenotypes will allow breeders and ecosystem scientists to select crop cultivars that improve the efficiency and sustainability of agriculture and protect environmental quality.
+
+<a href='mailto:akent@illinois.edu'>Kent, Angela</a><sup>1</sup><br><a href='mailto:favelaa1@uci.edu'>Favela, Alonso</a><sup>2</sup><br><a href='mailto:mbohn@illinois.edu'>Bohn, Martin</a><sup>3</sup><br>
+
+<sup>1</sup>Department of Natural Resources and Environmental Sciences, University of Illinois at Urbana-Champaign, Urbanal IL USA 61801<br><sup>2</sup>School of Plant Science, University of Arizona, Tucson AZ USA 85721<br><sup>3</sup>Department of Crop Sciences, University of Illinois at Urbana-Champaign, Urbanal IL USA 61801<br>

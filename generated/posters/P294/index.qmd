@@ -1,0 +1,20 @@
+---
+title: "The maize ufo1 and its mysterious function in kernel development"
+subtitle: "P294"
+author: "Surinder Chopra"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b3/Genetic_corn.jpg"
+categories: 
+- Transposons & Epigenetics
+- Even Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+The endosperm of maize (Zea mays L.) kernel is comprised of multiple specialized cell layers playing important roles in nutrient transport and storage. Here we characterized the gain and loss-of-function mutants of the maize unstable factor for orange1 (Zmufo1) that had cell differentiation defects and elevated accumulation of reactive oxygen species, oxidative DNA damage, and cell death phenotypes in the basal endosperm regions of the developing kernels. Antioxidant supplementation during in vitro culture of developing kernels alleviated the excess ROS, reduced DNA damage, and restored cell morphology in the basal endosperm. The transcription of endosperm development, redox homeostasis, oxidative stress response, and chromatin remodeling-related genes were affected in Zmufo1 mutants. Overexpression of Zmufo1 also altered histone methylation marks in the enhancer and gene body regions of pericarp color1 (Zmp1), the classical marker gene that led to the discovery of the ZmUfo1-1 gain-of-function spontaneous allele by Charles Burnham in 1960. Zmufo1 encodes a nuclear protein with very low similarity with known proteins that interact with diverse partners, including chromatin remodelers and transcriptional regulators. Collectively, the results indicate a role of Zmufo1 in basal endosperm development through maintenance of redox-homeostasis, chromatin remodeling, and transcriptional regulation-dependent mechanism.
+
+<a href='mailto:sic3@psu.edu'>Chopra, Surinder</a><sup>1</sup><br><a href='mailto:djc5852@psu.edu'>Chatterjee, Debamalya</a><sup>1</sup><br>Zhang, Ziru<sup>2</sup><br>Lin, Pei-Yu<sup>2</sup><br>Wang, Po-Hao<sup>1</sup><br>Siddhu, Gurpreet<sup>1</sup><br>Hsieh, Jo-Wei A<sup>3 4</sup><br>Chen, Pao-Yang<sup>3 4</sup><br>Song, Rentao<sup>2</sup><br>Meyers, Blake C<sup>5</sup><br>
+
+<sup>1</sup>Department of Plant Science, The Pennsylvania State University, University Park, PA, USA, 16802<br><sup>2</sup>National Center for Maize Improvement, China Agricultural University, Beijing, China, 100083<br><sup>3</sup>Institute of Plant and Microbial Biology, Academia Sinica, Nankang, Taipei, Taiwan, 11529<br><sup>4</sup>Genome and Systems Biology Degree Program, Academia Sinica and National Taiwan University, Taipei, Taiwan, 10617<br><sup>5</sup>The Donald Danforth Plant Science Center, St. Louis, MO, USA, 63132<br>

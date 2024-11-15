@@ -1,0 +1,20 @@
+---
+title: "Proteomic and metabolomic landscape of the arbuscular mycorrhizal symbiosis in maize roots"
+subtitle: "P48"
+author: "Rohit Kumar"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/05/DNA_base-pair_diagram.jpg"
+categories: 
+- Biochemical and Molecular Genetics
+- Even Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Phosphorus (P) is the second most important macronutrient for plant growth, and despite being present in soils in significant amounts, its availability to plants is limited due to various pH-dependent complexations with soil minerals. The production of inorganic P fertilizers is highly energy-intensive and is directly tied to the consumption of phosphate rock (PR), a nonrenewable resource that is expected to be depleted within the next 50-80 years. Symbiosis of crops with arbuscular mycorrhizal fungi (AMF) is a promising avenue to enhance phosphorus use efficiency. However, the regulatory mechanisms by which AMF promotes phosphate utilization in plants, especially maize, are largely unknown. To identify the physiological processes and pathways that facilitate the mobilization and uptake of P, we profiled the metabolome and proteome of maize roots grown under axenic conditions with and without AMF association. We show that localized changes (>8 times) in benzoxazinoids, a tryptophan-derived secondary metabolite, and carbohydrate metabolism have a major role in root-AMF interactions. At the proteome level, upregulation of flavin-containing monooxygenase, plant lipid transfer protein, putative sugar-phosphate/phosphate translocator, and SnRK1-interacting protein is associated with the symbiosis. Our study provides a mechanistic understanding of the signaling nexus underlying root mycorrhizae interaction that improves P utilization.
+
+<a href='mailto:mohank@clemson.edu'>Kumar, Rohit</a><sup>1</sup><br><a href='mailto:vsuseel@clemson.edu'>Suseela, Vidya</a><sup>1</sup><br><a href='mailto:ntharay@clemson.edu'>Tharayil, Nishanth</a><sup>1</sup><br>
+
+<sup>1</sup>Clemson University, 105 Collings St. BRC111, Clemson, SC, USA, 29634<br>

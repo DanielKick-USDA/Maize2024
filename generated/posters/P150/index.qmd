@@ -1,0 +1,20 @@
+---
+title: "High-throughput phenotyping of maize stress responses in controlled environments"
+subtitle: "P150"
+author: "Katie Murphy"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e5/ENIAC-changing_a_tube.jpg"
+categories: 
+- Computational and Large-Scale Biology
+- Even Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Understanding maize responses to environmental stressors is critical to ensuring a sustainable food supply in the face of climate change. Here, we first used high-throughput, image-based phenotyping to characterize the drought response of 46 inbred maize varieties. PlantCV, an open-source image analysis platform, was used to assess plant growth and color phenotypes and determine which varieties were most susceptible to stress. Next, we used weight-based phenotyping and the DiTech PlantArray system to demonstrate that varieties with more severe drought stress phenotypes have a higher normalized transpiration rate. The facilities and services shown here are available to both internal and external users at the Phenotyping Core Facility in the Donald Danforth Plant Science Center for high-throughput assessments of plant phenotypes under controlled environmental conditions.
+
+<a href='mailto:kmurphy@danforthcenter.org'>Murphy, Katie M.</a><sup>1</sup><br>
+
+<sup>1</sup>Donald Danforth Plant Science Center; St. Louis, MO 63132<br>

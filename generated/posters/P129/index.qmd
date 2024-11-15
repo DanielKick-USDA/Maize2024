@@ -1,0 +1,20 @@
+---
+title: "tasseless5 (tls5) affects plant height and reproductive development in maize by regulating internode elongation and tassel emergence."
+subtitle: "P129"
+author: "Prameela Awale"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c1/Protective_Coleoptile_Tip_in_Zea_Mays_Embryo_%2847691344541%29.jpg"
+categories: 
+- Cell and Developmental Biology
+- Odd Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+All flowering plants, including maize, form their plant body in repetitive units called phytomers, which consists of a node, an internode, leaf and an axillary bud. Internodes have meristematic tissue called intercalary meristems at their base which enable the stem to elongate after the floral transition. Intercalary meristems divide and the cells elongate which leads to internode elongation and increase in plant height. Any defects in intercalary meristems will disrupt internode elongation and affect plant height. Through an EMS mutation screen in maize, we identified the tasseless5 (tls5) mutation which has defects in internode elongation in various parts of the stem, leading to reduced plant height. Additional defects include short tassels with fewer spikelets and branches and the tassels fail to emerge out of the whorl most of the time, hence the name tassel-less. Furthermore, multiple ears are visible which are small, compared to the normal maize ears. We have mapped the candidate region to chromosome 9 and are using a whole genome resequencing approach to identify possible candidate genes. Identifying the tls5 gene and characterizing its function will provide insight into intercalary meristem development in maize internodes and uncover the additional role of the gene in maize reproductive development.
+
+<a href='mailto:pa96f@umsystem.edu'>Awale, Prameela</a><sup>1</sup><br><a href='mailto:mcsteenp@missouri.edu'>Zars, Ethan</a><sup>1</sup><br><a href='mailto:mcsteenp@missouri.edu'>Suman, Katherine</a><sup>1</sup><br><a href='mailto:mcsteenp@missouri.edu'>McSteen, Paula</a><sup>1</sup><br>
+
+<sup>1</sup>Division of Biological Sciences, Interdisciplinary Plant Group, University of Missouri -Columbia<br>

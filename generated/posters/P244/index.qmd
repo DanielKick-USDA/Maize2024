@@ -1,0 +1,20 @@
+---
+title: "Managing maize lethal necrosis disease using traditional and molecular breeding"
+subtitle: "P244"
+author: "Erik Ohlson"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5e/Aztec_Diet_Basket_of_Corn_%289755332575%29.jpg"
+categories: 
+- Quantitative Genetics & Breeding
+- Even Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Maize lethal necrosis (MLN), caused by co-infection by maize chlorotic mottle virus (MCMV) and one of several potyviruses, is one of the most devastating virus diseases of corn. First identified in Nebraska, USA in the 1970s it has since been discovered in Southeast Asia, East Africa, and South America. Although major potyvirus resistance genes are well characterized in maize, most known MCMV resistance is highly quantitative and confers incomplete resistance. Thus, traditional and molecular breeding tools are desirable to develop varieties with elite MLN resistance. As part of a larger screening effort for MCMV resistance, a genome wide association study was performed using the Maize 282 Association Panel which led to the identification of variants on chromosomes 3, 4, 5, and 8 that are significantly associated with resistance. Notably, two of these variants co-localized with MCMV resistance quantitative trait loci previously identified in the dent corn inbred N211, further delineating these loci as potential targets for molecular breeding efforts. Five of the most MLN resistant lines discovered as part of our screening efforts were used to develop the maize synthetic population, OhMCMV-1, by recurrent selection for MLN resistance. The mean MLN disease severity was more than halved based on a single selection cycle and approximately 20% of the OhMCMV-1 S1 lines evaluated were completely asymptomatic to infection by MLN. The resources generated from these studies are invaluable for breeders interested in developing corn varieties with improved MLN resistance.
+
+<a href='mailto:erik.ohlson@usda.gov'>Ohlson, Erik W</a><sup>1</sup><br><a href='mailto:mark.jones2@usda.gov'>Jones, Mark W</a><sup>1</sup><br>
+
+<sup>1</sup>USDA-ARS Corn, Soybean, and Wheat Quality Research Unit, Wooster, Ohio, USA 44691<br>

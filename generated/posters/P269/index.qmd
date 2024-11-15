@@ -1,0 +1,20 @@
+---
+title: "The dominance of gene expression controlled by trans-eQTLs contributes to heterosis of phenotypic traits in maize"
+subtitle: "P269"
+author: "Gen Xu"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5e/Aztec_Diet_Basket_of_Corn_%289755332575%29.jpg"
+categories: 
+- Quantitative Genetics & Breeding
+- Odd Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Heterosis, a pivotal genetic phenomenon, has been successfully harnessed in agricultural practices to enhance crop production yields. Despite extensive molecular investigations into the basis of heterosis, understanding its transcriptomic contributions has remained elusive. In this study, we present an integrative analysis encompassing seedling traits, adult agronomic traits, and molecular traits (transcriptomic data) derived from 200 maize inbreeds and their 600 F1 hybrids. Our findings reveal that the majority of hybrids (85.3%) exhibit a greater number of active genes compared to their inbred parents. We identify 7.8% of genes display positive mid-parent heterosis (MPH) for expression, while 7.9% show negative MPH. Notably, genes with both extremely low and high expression levels exhibit low heterosis, while intermediate-expressing genes demonstrate higher heterosis. Strong correlations between gene expression variation and expression MPH suggest that divergent selection on essential genes is more likely to result in heterosis. Heritability analysis indicates that heterosis traits, particularly for gene expression, are more heritable than traits per se. Results from expression Quantitative Trait Loci (eQTL) analysis highlight that the heterosis of molecular traits is predominantly regulated by trans-eQTL, with most MPH eQTLs exhibiting a complete–incomplete dominance pattern. Furthermore, we identify 452 eQTL hotspots governing the MPH of gene expression. Interestingly, target genes of three transcription factors under these eQTL hotspots are significantly enriched at ChIP-seq or DAP-seq peaks. In conclusion, our study underscores the significant contribution of trans-eQTL to gene expression heterosis, providing insights into the genetic basis of heterosis for agronomic traits at the gene expression level.
+
+<a href='mailto:gxu6@unl.edu'>Xu, Gen</a><sup>1 2</sup><br><a href='mailto:xryang@sdau.edu.cn'>Yang, Xuerong</a><sup>3</sup><br><a href='mailto:hongjunl@sdau.edu.cn'>Liu, Hongjun</a><sup>3</sup><br><a href='mailto:jinliang.yang@unl.edu'>Yang, Jinliang</a><sup>1 2</sup><br>
+
+<sup>1</sup>Department of Agronomy and Horticulture, University of Nebraska-Lincoln, Lincoln, NE 68583, USA<br><sup>2</sup>Center for Plant Science Innovation, University of Nebraska-Lincoln, Lincoln, NE 68588, USA<br><sup>3</sup>State Key Laboratory of Crop Biology, College of Life Sciences, Shandong Agricultural University, Tai’an, China<br>

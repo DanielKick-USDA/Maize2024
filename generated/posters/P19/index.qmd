@@ -1,0 +1,20 @@
+---
+title: "Gene expression identifies a role of maize ortholog of dwarf and low tillering (gras42) in brassinosteroid signaling"
+subtitle: "P19"
+author: "Amanpreet Kaur"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/05/DNA_base-pair_diagram.jpg"
+categories: 
+- Biochemical and Molecular Genetics
+- Odd Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Maize above-ground architecture, primarily affected by plant height and leaf architecture, is regulated by phytohormones including brassinosteroids (BR), gibberellins (GA), and auxins. Architectural mutants with defects in the biosynthesis or signaling of these hormones identify components of these pathways and enhance our knowledge about plant growth and development. We characterized three mutant alleles of gras42, the maize ortholog of rice DWARF AND LOW TILLERING (DLT) gene. The gras42 mutants have semi-dwarf stature, shorter and wider leaves, and more upright leaf angles, and resemble the expected phenotype for a weak loss of BR signaling. In rice, DLT is a positive regulator of BR signaling. In Arabidopsis, this gene plays a role in cell cycle-regulated gene expression. An RNA-seq analysis of the expression consequences in the maize gras42-mu1021149 loss-of-function mutant matched a weak loss of BR signaling, consistent with its previously demonstrated role in BR signaling in rice. This was demonstrated using a parametric index calculated from the expression of experimentally determined BR-responsive genes. A coordinated increase in the transcript levels of BR-repressed genes and decrease in the transcripts of BR-induced genes was observed in the gras42 loss-of-function mutant. The double mutant phenotypes of gras42-mu1021149 with na1-1 and d1 also indicated that gras42 encodes a positive regulator of BR-responsive gene expression. Like other BR deficiencies, gras42-mu1021149 effects on tassel development were suppressed by loss of GA in the d1 mutant and suppressed the promotion of tiller growth by loss of GA. In single-cell transcriptomic data, GRAS42 expression was found in cells in the G2/M phase of the cell cycle, including nascent stomatal complexes, suggesting a conserved role for gras42 in cell cycle gene expression between maize and Arabidopsis. In addition, a GWAS of natural variation in GRAS42 expression identified known BR pathway genes as regulators of gras42 expression.
+
+<a href='mailto:kaur60@purdue.edu'>Kaur, Amanpreet</a><sup>1 2</sup><br><a href='mailto:norman.best@usda.gov'>Best, Norman B.</a><sup>3</sup><br><a href='mailto:thartwig@mpipz.mpg.de'>Hartwig, Thomas</a><sup>4</sup><br><a href='mailto:jsbudka@gmail.com'>Budka, Josh</a><sup>1 2</sup><br><a href='mailto:rkhangur@purdue.edu'>Khangura, Rajdeep</a><sup>1 2</sup><br><a href='mailto:smckenz@purdue.edu'>McKenzie, Steven</a><sup>1 2</sup><br><a href='mailto:jaaragon@ncsu.edu'>Aragón-Raygoza, Alejandro</a><sup>5</sup><br><a href='mailto:jjstrabl@ncsu.edu'>Strable, Josh</a><sup>5</sup><br><a href='mailto:schulzbu@gmail.com'>Schulz, Burkhard</a><sup>6</sup><br><a href='mailto:bdilkes@purdue.edu'>Dilkes, Brian P.</a><sup>1 2</sup><br>
+
+<sup>1</sup>Department of Biochemistry, Purdue University, West Lafayette, Indiana, USA 47907<br><sup>2</sup>Center for Plant Biology, Purdue University, West Lafayette, Indiana, USA 47907<br><sup>3</sup>Plant Genetics Research Unit, USDA-ARS, Columbia, Missouri, USA 65211<br><sup>4</sup>Institute for Molecular Physiology, Heinrich-Heine-Universität Düsseldorf, Düsseldorf, Germany 40225<br><sup>5</sup>Department of Molecular and Structural Biochemistry, North Carolina State University, Raleigh, North Carolina, USA 27695<br><sup>6</sup>University of Maryland, Department of Plant Science and Landscape Architecture, College Park, MD, USA 20742<br>

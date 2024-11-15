@@ -1,0 +1,20 @@
+---
+title: "Transcriptomic responses in maize and green foxtail to Poaceae-adapted and generalist lepidopteran herbivores"
+subtitle: "P170"
+author: "Kate Eastman"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e5/ENIAC-changing_a_tube.jpg"
+categories: 
+- Computational and Large-Scale Biology
+- Even Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Herbivorous insects in the order Lepidoptera cause massive losses to agricultural yields worldwide. One such species, the fall armyworm (Spodoptera frugiperda) causes the greatest damage to maize and exhibits host plant preference for Poaceae species. The beet armyworm (Spodoptera exigua) also feeds on monocots but is more commonly a pest on dicot vegetable crops. Insect feeding induces the accumulation of hundreds of metabolites in plants, however the regulation and biosynthetic pathways of most of these metabolites remain unknown. We compared the transcriptional impacts of two armyworm species on maize and the undomesticated grass green foxtail (Setaria viridis). This was done through a transcriptomic analysis comparing plant local responses four hours after herbivory from the monocot-adapted fall armyworm and the generalist beet armyworm. Results show significant transcript-level increases in plant defensive pathways, including jasmonic acid biosynthesis, jasmonic acid signaling, and secondary metabolic pathways such as indole-derived metabolism. Differences in defense responses between the two herbivores were investigated to identify genes with expression specifically affected by the monocot-selective fall armyworm. Comparisons between the two grasses show shared defensive pathways and divergent strategies between the domesticated and undomesticated plant hosts. Coexpression analysis identified genes with highly correlated expression patterns to herbivory-induced genes, implicating them with potential roles in defense response and regulation of secondary metabolism. These results help to further define herbivory defense in both maize and green foxtail for future investigations of plant-insect interactions.
+
+<a href='mailto:eastman@purdue.edu'>Eastman, Katharine E.</a><sup>1</sup><br>Pendleton, Amanda L.<sup>1</sup><br>Chung, Seun Ho<sup>2</sup><br>Mirzaei, Mahdieh<sup>2</sup><br>Jander, Georg<sup>2</sup><br>Wisecaver, Jen<sup>1</sup><br>
+
+<sup>1</sup>Purdue University; West Lafayette, IN 47907<br><sup>2</sup>Cornell University Boyce Thompson Institute; Ithaca, NY, 14850<br>

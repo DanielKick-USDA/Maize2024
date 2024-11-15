@@ -1,0 +1,20 @@
+---
+title: "Pangenome-based haplotype genomic prediction outperforms SNP-based prediction methods for North American corn breeding"
+subtitle: "P251"
+author: "Sarah Jensen"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5e/Aztec_Diet_Basket_of_Corn_%289755332575%29.jpg"
+categories: 
+- Quantitative Genetics & Breeding
+- Odd Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Genomic prediction has played a critical role in transitioning breeding programs to data-driven predictive and prescriptive breeding methods. Modern breeding programs routinely use genomic prediction with SNP genotypic data based on a single reference genome. Recently, teams in multiple cropping systems have demonstrated that pangenome haplotype databases can use low-pass skim sequencing data to impute genome-wide haplotype sequences for new individuals. Imputed haplotypes provide a more complete representation of the genome and more allelic diversity than do SNP genotypes, and we hypothesized that this improved representation of the genome would translate to increased genomic prediction accuracies. In this project we demonstrate that haplotype-based GBLUP models outperform equivalent SNP models in a large-scale North American commercial breeding program, with 3-5% improvement in prediction accuracy for yield. Preliminary results suggest that 60-70% of the gain in prediction accuracy is a direct result of denser genome coverage, with the remaining 30-40% gain coming from increased allelic diversity across loci. Haplotype-based genomic prediction provides an exciting addition to the breeder’s toolbox that translates to improved genomic prediction models and increased genetic gain at scale.
+
+<a href='mailto:sarah.jensen@syngenta.com'>Jensen, Sarah</a><sup>1</sup><br><a href='mailto:ruijuan.tan@syngenta.com'>Tan, Ruijuan</a><sup>2</sup><br><a href='mailto:mark.jasinski@syngenta.com'>Jasinski, Mark</a><sup>2</sup><br><a href='mailto:jianwei.lu@syngenta.com'>Lu, Jianwei</a><sup>2</sup><br><a href='mailto:rachel.zhang@syngenta.com'>Zhang, Rachel</a><sup>2</sup><br><a href='mailto:christopher.basten@syngenta.com'>Basten, Chris</a><sup>2</sup><br><a href='mailto:zhigang.guo@syngenta.com'>Guo, Zhigang</a><sup>2</sup><br>
+
+<sup>1</sup>Syngenta Seeds; Slater, IA, USA 50156<br><sup>2</sup>Syngenta Seeds; Research Triangle Park, NC, USA 27709<br>

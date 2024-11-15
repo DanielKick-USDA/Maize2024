@@ -1,0 +1,20 @@
+---
+title: "Phenotypic plasticity in a maize hybrid population across a precipitation and elevation gradient spanning Iowa and Nebraska"
+subtitle: "P254"
+author: "Jensina Davis"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5e/Aztec_Diet_Basket_of_Corn_%289755332575%29.jpg"
+categories: 
+- Quantitative Genetics & Breeding
+- Even Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+As sustainability concerns regarding nitrogen fertilizer use, aquifer depletion, and the frequency of extreme droughts and precipitation events rise due to climate change, an improved understanding of phenotypic plasticity in crops has the potential to play an important role in improving crop resilience in the face of increasingly extreme and unpredictable weather and reduced access to agricultural inputs like nitrogen fertilizer and water for irrigation. Developing a better understanding of plasticity requires data from the same varieties in more environments than most individual research programs are able to generate. One notable long-running multi-environment field trial is the Genomes to Fields project, however; this project records only a small number of phenotypes, and incorporates only a small number of consistently represented hybrids across all locations. To generate an improved understanding of the role different component traits play in determining overall plasticity for grain yield, we generated data from a panel of 84 maize hybrids grown in replicated trials in 22 environments spanning a 700-mile range in the heart of the U.S. Corn Belt from the Iowa/Illinois border to western Nebraska. Environment played a large role in explaining variation in nearly all of the 23 phenotypes studied, but the relative contributions of genetics and nitrogen management varied among phenotypes, as did the contributions of genotype by nitrogen management and genotype by environment interactions. While individual maize hybrids varied in their average performance and degree of plasticity, no consistent major tradeoff between plasticity and good performance was observed in this study, which contrasts classical studies of phenotypic plasticity in a barley diversity panel studied by Finlay and Wilkinson. This may be explained by the high degree of selective breeding and improvement already applied to the elite public and private sector inbreds employed to generate the maize hybrids employed in this study.
+
+<a href='mailto:jdavis132@huskers.unl.edu'>Davis, Jensina M.</a><sup>1 2 3</sup><br><a href='mailto:lmcoffey@iastate.edu'>Coffey, Lisa</a><sup>4</sup><br><a href='mailto:jturkus2@unl.edu'>Turkus, Jon</a><sup>1 2</sup><br><a href='mailto:llopez-corona2@unl.edu'>López Corona, Lina</a><sup>1 2</sup><br><a href='mailto:dsantra2@unl.edu'>Santra, Dipak K.</a><sup>2</sup><br><a href='mailto:schnable@iastate.edu'>Schnable, Patrick S.</a><sup>4</sup><br><a href='mailto:schnable@unl.edu'>Schnable, James C.</a><sup>1 2 3</sup><br>
+
+<sup>1</sup>Center for Plant Science Innovation, University of Nebraska-Lincoln; Lincoln, NE, USA 68588<br><sup>2</sup>Department of Agronomy and Horticulture, University of Nebraska-Lincoln; Lincoln, NE, USA 68583<br><sup>3</sup>Complex Biosystems Graduate Program, University of Nebraska-Lincoln; Lincoln, NE, USA 68588<br><sup>4</sup>Department of Agronomy, Iowa State University; Ames, IA, USA 50011<br>

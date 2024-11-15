@@ -1,0 +1,20 @@
+---
+title: "Disruption of allene oxide cyclase results in jasmonic acid deficiency despite incomplete loss of 12-OPDA"
+subtitle: "P9"
+author: "Charles Hunter"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/05/DNA_base-pair_diagram.jpg"
+categories: 
+- Biochemical and Molecular Genetics
+- Odd Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Allene oxide cyclases (AOC) convert allene oxide to 12-oxo-phytodienoic acid (12-OPDA), a required step in jasmonic acid (JA) biosynthesis. 12-OPDA and JA represent important signaling molecules that modulate responses to biotic and abiotic stresses while also regulating developmental processes. They are part of a larger group of bioactive oxylipins that can be found in free and lipid-bound forms. We used gene editing to disrupt both copies of AOC in maize. Unexpectedly, AOC double mutants retained the capacity to produce 12-OPDA, accumulating approximately 20% of normal levels. Despite this, double mutants failed to accumulate appreciable levels of jasmonates downstream of 12-OPDA, including jasmonic acid (JA) and JA-isoleucine. Double mutant plants displayed the expected JA deficient phenotypes, including feminization of male florets and extreme susceptibility to insect and necrotrophic fungal pathogens. We have conducted extensive metabolic and gene expression analyses on these mutants, providing a detailed view of the effects of losing JA on defense responses. Strikingly, free oxylipins are severely reduced in double mutants while lipid-bound forms accumulate in response to herbivory. We provide speculation regarding the source of the non-AOC derived 12-OPDA, reasons why the 12-OPDA made by double mutants fails to translate into JA production, and possible explanations for the inversion of the bound vs unbound oxylipin accumulation responses in AOC mutants compared to normal plants.
+
+<a href='mailto:charles.hunter@usda.gov'>Hunter, Charles</a><sup>1</sup><br><a href='mailto:zachary.gorman@usda.gov'>Gorman, Zachary</a><sup>1</sup><br><a href='mailto:qb.li@usda.gov'>Li, Qin Bao</a><sup>1</sup><br><a href='mailto:shawn_christensen@byu.edu'>Christensen, Shawn</a><sup>1 2</sup><br><a href='mailto:anna.block@usda.gov'>Block, Anna</a><sup>1</sup><br>
+
+<sup>1</sup>Chemistry Research Unit, CMAVE<br><sup>2</sup>1700 SW 23rd Dr<br>

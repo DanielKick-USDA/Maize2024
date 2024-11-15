@@ -1,0 +1,20 @@
+---
+title: "Shoot-level phenotyping reveals adaptive variation in the grass genus Hordeum"
+subtitle: "P308"
+author: "Michael Anokye"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/9a/CollapsedtreeLabels-simplified-fi.svg"
+categories: 
+- Evolution and Population Genetics
+- Even Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+After its emergence in the Middle East around 9.5 million years ago, the Hordeum genus, which includes domesticated barley, spread across the Americas and Eurasia, adapting to diverse climatic conditions. The spread of Hordeum into new environments was accompanied by rapid speciation and ecological diversification. The Hordeum species are thus an interesting clade to study traits and trait complexes underlying ecological diversification, including life-history variation and local adaptation. In this study, we investigated the phenotypic and genetic variation within and between annual and perennial species of the grass genus Hordeum, including the economically important crop barley (H. vulgare L). We trialled 56 annual and perennial Hordeum accessions, comprising 18 species of the Hordeum clade, in a common garden experiment at the University of Düsseldorf, Germany, between the 2021 and 2023 growing seasons. We scored 22 shoot traits at the vegetative and reproductive stages and identified genome-wide genetic variation between and within the species. We tested whether specific climatic variables contributed to phenotypic variation when accounting for geographic distances and phylogenetic structure. Genotype-environment association analyses using redundancy analysis support our hypothesis that local climatic differences contributed to patterns of adaptive divergence among the species across America and Eurasia. Seasonal variation in temperature and precipitation were implicated as primary climatic variables linked to phenotypic variation. We found that variations in plant height, days to flowering, and shoot biomass at harvest are associated with temperature and rainfall seasonality. This study provides insight into genotype-environment interaction and potentially adaptive traits in the Hordeum clade. This work represents a promising starting point for dissecting genetic variation underlying adaptive variation in important life-history traits.
+
+<a href='mailto:michael.anokye@hhu.de'>Anokye, Michael</a><sup>1</sup><br><a href='mailto:timo.hellwig@hhu.de'>Hellwig, Timo</a><sup>1</sup><br><a href='mailto:philipp.westhoff@hhu.de'>Westhoff, Philipp</a><sup>2</sup><br><a href='mailto:skopriva@uni-koeln.de'>Kopriva, Stanislav</a><sup>3</sup><br><a href='mailto:Maria.Korff.Schmising@uni-duesseldorf.de'>von Korff, Maria</a><sup>1</sup><br>
+
+<sup>1</sup>Heinrich-Heine Universität, Institute of Plant Genetics, Düsseldorf, North Rhine-Westphalia, Germany, 40225<br><sup>2</sup>Heinrich-Heine Universität, CEPLAS Metabolomics Laboratory, Düsseldorf, North Rhine-Westphalia, Germany, 40225<br><sup>3</sup>University of Cologne, Institute for Plant Science, Cologne, North Rhine-Westphalia, Germany, 50674<br>

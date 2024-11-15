@@ -1,0 +1,20 @@
+---
+title: "Nutritional and biophysical characteristics of CRISPR-generated low kafirin, waxy sorghum"
+subtitle: "P46"
+author: "Tyler Ferris"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/05/DNA_base-pair_diagram.jpg"
+categories: 
+- Biochemical and Molecular Genetics
+- Even Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Grain sorghum (Sorghum bicolor (L.) Monech) is a crop of tremendous significance. Grain sorghum is cultivated for consumption by humans and livestock alike worldwide and is valued for its resistance to biotic and abiotic stresses. However, sorghum grain protein is deficient in essential amino acids and has low digestibility. Furthermore, sorghum does not yield flour with desirable bread making properties. These nutritional shortcomings can be attributed to the structure and amino acid content of the kafirin storage proteins that constitute >70% of proteins expressed in the endosperm that form low-digestibility protein bodies. This study was conducted to evaluate nutritional and biochemical characteristics of reduced kafirin, low-amylose sorghum grain. Previously, a single-guide RNA (sgRNA) Clustered Regularly Interspaced Short Palindromic Repeats (CRISPR/Cas9) construct was used to target members of the alpha-kafirin gene family, k1C, which reduced kafirin expression in endosperm cells and elicited a proteome re-balance wherein the increase in nonkafirin expression and reduction in protein body morphology would increase lysine and improve digestibility of the grain. Additionally, introgression of the waxya mutant into k1C-edited F1 sorghum was performed to confer the low-amylose starch trait to improve the dough-making potential of sorgum grain. Here, we report on results from a highly-inbred edited line with ~400kb of the k1C family (12 active genes) deleted. These results include transmission electron microscopy (TEM) images of protein bodies, dissecting microscope imagery of endosperm texture, protein-bound and free amino acid profile, and kafirin and non-kafirin sodium dodecyl sulfate-polyacrylamide gel electrophoresis (SDS PAGE). The results of these tests will provide insight into the nutritional and biophysical properties of sorghum grain produced from this novel genotypic combination.
+
+<a href='mailto:tyler.ferris@huskers.unl.edu'>Ferris, Tyler</a><sup>1</sup><br><a href='mailto:jhurst5uwyo@gmail.com'>Hurst, Preston</a><sup>1</sup><br><a href='mailto:baltartouri2@unl.edu'>Altartouri, Bara</a><sup>2</sup><br><a href='mailto:rthomson2@huskers.unl.edu'>Thomson, Rachel</a><sup>1</sup><br><a href='mailto:N/A'>Li, Axia</a><sup>1</sup><br><a href='mailto:tclemente1@unl.edu'>Clemente, Thomas</a><sup>1</sup><br><a href='mailto:dholding2@unl.edu'>Holding, David</a><sup>1</sup><br>
+
+<sup>1</sup>Center for Plant Science Innovation; Department of Agronomy and Horticulture; University of Nebraska-Lincoln; Lincoln, Nebraska, 68504<br><sup>2</sup>Morrison Microscopy Core Research Facility; Nebraska Center for Biotechnology; University of Nebraska-Lincoln; Lincoln, Nebraska, 68504<br>

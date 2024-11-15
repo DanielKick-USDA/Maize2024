@@ -1,0 +1,20 @@
+---
+title: "Functional genomics of coordinated nitrogen and phosphorous signaling in maize"
+subtitle: "P16"
+author: "Lincoln Koehler"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/05/DNA_base-pair_diagram.jpg"
+categories: 
+- Biochemical and Molecular Genetics
+- Even Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Few agricultural soils provide sufficient nitrogen (N) or phosphorous (P) to maximize the yields of modern corn hybrids. Consequently, nearly 7 million tons of N and 2 million tons of P are applied to US soils annually for corn production, at a combined farm price in excess of $5 billion. Reducing fertilizer inputs offers immediate economic and environmental benefits and will contribute to more sustainable cropping systems. Despite recent progress from Arabidopsis and rice that increases our understanding of N and P signaling, detailed functional information on these processes in maize is lacking. Prior work from our groups using genetic mapping, plant physiology, and gene expression profiling approaches supports the hypothesis that interactions among specific members of the NITRATE TRANSPORTER1.1 (Nrt1.1), PHO1, and SPX protein families mediate coordinated responses to fluctuations in N and P supply. A collection of variant alleles for these three gene families has been obtained from natural diversity, transposon mutagenesis, and targeted CRISPR/Cas9 editing. We share an update of our phenotypic analyses of single and combined genetic variants. Three important findings to date include: 1) mutations in different NRT1.1 paralogs vary for their impact on N uptake and growth responses to N; 2) a nrt1.1 mutant suppresses enhanced responses to P of a pho1;2a mutant; and 3) analyses of patterns of genetic diversity suggest variants with reduced sensitivity to N and P supply are associated with recent breeding improvements in nutrient utilization among U.S. Corn Belt maize hybrids.
+
+<a href='mailto:lck4@illinois.edu'>Koehler, Lincoln C</a><sup>1</sup><br><a href='mailto:mpm5587@psu.edu'>Perryman, Melanie G</a><sup>2</sup><br><a href='mailto:ehross3@illinois.edu'>Ross, Edward H</a><sup>1</sup><br><a href='mailto:leahne2@illinois.edu'>Erdmann, Leah</a><sup>1</sup><br><a href='mailto:mnrai@illinois.edu'>Rai, Maruti Nandan</a><sup>1</sup><br><a href='mailto:chli6@illinois.edu'>Li, Catherine</a><sup>1</sup><br><a href='mailto:rjs6686@psu.edu'>Sawers, Ruairidh J</a><sup>2</sup><br><a href='mailto:smoose@illinois.edu'>Moose, Stephen P</a><sup>1</sup><br>
+
+<sup>1</sup>Department of Crop Sciences, University of Illinois at Urbana-Champaign, Urbana, IL, 61801<br><sup>2</sup>Department of Plant Science, Pennsylvania State University, State College, PA, 16801<br>

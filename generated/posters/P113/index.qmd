@@ -1,0 +1,20 @@
+---
+title: "The flowering phenotypes of temperate and tropical maize grown in short and long day field environments"
+subtitle: "P113"
+author: "Fernanda Ghenov"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c1/Protective_Coleoptile_Tip_in_Zea_Mays_Embryo_%2847691344541%29.jpg"
+categories: 
+- Cell and Developmental Biology
+- Odd Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+The critical transition in the maize life cycle involves a shift from vegetative growth, characterized by leaf production from the shoot apical meristem (SAM), to reproductive growth, where the SAM produces floral organs. Known as the floral transition, this pivotal stage occurs early in development and is influenced by a combination of internal cues and external signals, such as photoperiod and temperature. The timing of the floral transition significantly impacts flowering, the stage at which the plant releases pollen and develops silks—a crucial adaptive trait subject to selection. Maize varieties adapted to temperate latitudes exhibit photoperiod insensitivity, flowering consistently under both short and long day conditions. In contrast, tropical maize, retaining much of the photoperiod sensitivity of its progenitor teosinte, requires short days to flower within a similar timeframe as temperate maize. To comprehensively understand the photoperiod sensitivity of tropical maize and its effects on various developmental traits, we conducted field-based phenotyping of specific temperate and tropical maize genotypes for two consecutive years—Hawaii (short days) and Iowa (long days). This poster illustrates how the growing environment influences the timing of SAM reprogramming, total plant leaf count, and the days to flowering in these genotypes. Our analysis also explores the interplay between photoperiod and temperature on flowering timing. We sampled for gene expression analysis and currently, we are in the process of analyzing the diurnal expression patterns before and after the flowering transition under field conditions under short days. Unraveling how these genotypes respond in diverse environments lays the foundation for future investigations into the molecular mechanisms distinguishing photoperiod-sensitive from photoperiod-insensitive maize varieties
+
+<a href='mailto:fghenov@hawaii.edu'>GHENOV, FERNANDA</a><sup>1</sup><br><a href='mailto:jhinrich@iastate.edu'>Hinrichsen, Jacob T.</a><sup>2</sup><br><a href='mailto:gregorys@iastate.edu'>Schoenbaum, Gregory R.</a><sup>2</sup><br><a href='mailto:jmyu@iastate.edu'>Yu, Jianming</a><sup>2</sup><br><a href='mailto:mgmuszyn@hawaii.edu'>Muszynski, Michael G.</a><sup>1</sup><br>
+
+<sup>1</sup>Department of Tropical Plant and Soil Sciences, University of Hawaiʻi at Mānoa, Honolulu, HI, USA<br><sup>2</sup>Department of Agronomy, Iowa State University, Ames, IA, USA<br>

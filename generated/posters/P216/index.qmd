@@ -1,0 +1,20 @@
+---
+title: "Effects of plot orientation and leaf angle on maize grain yield"
+subtitle: "P216"
+author: "Greg Schoenbaum"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5e/Aztec_Diet_Basket_of_Corn_%289755332575%29.jpg"
+categories: 
+- Quantitative Genetics & Breeding
+- Even Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Increasing the number of plants per acre has been an effective means for achieving higher overall maize grain yield, but planting at densities above certain thresholds can have detrimental effects on maize plants, including ear barrenness and increased stalk and root lodging risk. Furthermore, altering planting density adds costs to producers via greater expenditures on seeds and fertilizer to attain target planting densities and satisfy higher demand for nutrients, ultimately reducing the return on investment. Efforts are needed to identify effective methods for increasing maize grain yield after maximum planting rates have been reached by increasing yield per plant. We hypothesize that maximizing light interception through optimum combinations of canopy architecture and plot orientation is one such method. Here, we utilized a split-plot design to investigate twenty maize testcross hybrids with distinct leaf angle architectures (flat, upright, or dynamic), with two replications of two-row plots at two locations in Iowa, USA. At each location, plots were planted either parallel or perpendicular to the general position of the sun. Data were collected for root and stalk lodging, ear barrenness, light interception forty days after planting and at flowering, multiple leaf angles per canopy type, grain moisture, and grain yield. Our findings indicate altering plot orientation does affect light interception, an important determinant of maize grain yield. Identifying leaf angle and plot orientation combinations that optimize light interception may provide producers with a means for increasing overall maize grain yield.
+
+<a href='mailto:gregorys@iastate.edu'>Schoenbaum, Gregory R.</a><sup>1</sup><br><a href='mailto:aboris@iastate.edu'>Alladassi, Boris M.E.</a><sup>1</sup><br><a href='mailto:ddli@iastate.edu'>Li, Dongdong</a><sup>1</sup><br><a href='mailto:xianran.li@wsu.edu'>Li, Xianran</a><sup>2</sup><br><a href='mailto:jmyu@iastate.edu'>Yu, Jianming</a><sup>1</sup><br>
+
+<sup>1</sup>Department of Agronomy, Iowa State University, Ames, IA 50011 USA<br><sup>2</sup>USDA-ARS, Wheat Health, Genetics, and Quality Research, Pullman, WA 99164 USA<br>

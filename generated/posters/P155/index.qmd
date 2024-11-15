@@ -1,0 +1,20 @@
+---
+title: "K-mer trait association mapping and prioritization of candidate genes with Homotools for structural comparison"
+subtitle: "P155"
+author: "Sanzhen Liu"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e5/ENIAC-changing_a_tube.jpg"
+categories: 
+- Computational and Large-Scale Biology
+- Odd Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Single nucleotide polymorphism (SNP) is the most common genetic variant used in Genome-Wide Association Studies (GWAS) to explore genetic controls of phenotypic traits. Alternatively, GWAS can use counts of substrings of length k from longer sequencing reads, k-mers, as genotyping data. Using multiple maize traits, namely, cob color, kernel color, kernel oil, and leaf angle, we demonstrated that k-mer GWAS can effectively identify trait-associated k-mers derived from polymorphic genomic sequences of causal genes. The polymorphisms include a wide range of genomic variation, including SNP, insertion and deletion, copy number variation, and translocation. Our study also showed that the k-mer can play a bridging role in integrating omics data for identification of candidate genes conferring a trait phenotype. To enable the exploration of genomic variation among alleles of candidate genes, we developed a command-line package called Homotools, which was further utilized to create a user-friendly online tool http://tinyurl.com/maizegenomeHM. In this poster, we show the combination of k-mer GWAS and Homotools is effective to accelerate functional genomics studies.
+
+He, Cheng<sup>1</sup><br>Washburn, Jacob D<sup>2</sup><br>Schleif, Nathaniel<sup>3</sup><br>Hao, Yangfan<sup>1</sup><br>Kaeppler, Heidi<sup>3</sup><br>Kaeppler, Shawn M<sup>3</sup><br>Zhang, Zhiwu<sup>4</sup><br>Yang, Jinliang<sup>5</sup><br>Liu, Sanzhen<sup>1</sup><br>
+
+<sup>1</sup>Department of Plant Pathology, Kansas State University, Manhattan, KS 66506, USA<br><sup>2</sup>Plant Genetics Research Unit, USDA-ARS, Columbia, MO 65211, USA<br><sup>3</sup>Department of Agronomy, University of Wisconsin-Madison, Madison, WI, 53706, USA<br><sup>4</sup>Department of Crop and Soil Sciences, Washington State University, Pullman, WA 99164, USA<br><sup>5</sup>Department of Agronomy and Horticulture, University of Nebraska-Lincoln, Lincoln, NE 68583-0915, USA<br>

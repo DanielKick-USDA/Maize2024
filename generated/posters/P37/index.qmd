@@ -1,0 +1,20 @@
+---
+title: "Maize cytoplasm genotype is a key determinant of transformability"
+subtitle: "P37"
+author: "David Skibbe"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/05/DNA_base-pair_diagram.jpg"
+categories: 
+- Biochemical and Molecular Genetics
+- Odd Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Genetic transformation is a process by which novel DNA and or proteins are introduced into crops and has been an essential tool for improving crop performance via genetic engineering and genome editing. One of the biggest challenges of maize transformation is identifying an inbred that is commercially relevant and transformable. Over the past 20 years, several studies have identified nuclear loci that are associated with transformability in maize, but these factors are generally unable to impart transformable broadly across germplasm. One unexplored area contributing to maize transformation is mitochondrial genotype. There are five cytoplasm genotypes in maize characterized by both differences in sequence and their impact on pollen production in combination with nuclear encoded genes. The two “normal” cytotypes (normal A and normal B) have no know impact on any biological process while cms-C, cms-S and cms-T contain unique mitochondrial open reading frames that require nuclear encoded gene products to overcome their impacts (Allen et al. 2007). Here, approximately 100 maize inbred lines were screened for cytoplasm genotype, and six Normal A cytotype inbreds were confirmed to be transformable. These studies demonstrating that a fast and simple screening for cytoplasm genotype has the potential to advance crop engineering by using superior corn germplasm for transformation.
+
+<a href='mailto:david.skibbe@syngenta.com'>Skibbe, David</a><sup>1</sup><br><a href='mailto:sivamani.elumalai@syngenta.com'>Elumalai, Sivamani</a><sup>1</sup><br><a href='mailto:yanshan.ji@syngenta.com'>Ji, Yanshan</a><sup>1</sup><br><a href='mailto:chris.leming@syngenta.com'>Leming, Chris</a><sup>1</sup><br><a href='mailto:sam.nalapalli@syngenta.com'>Nalapalli, Sam</a><sup>1</sup><br><a href='mailto:anna.prairie@syngenta.com'>Prairie, Anna</a><sup>1</sup><br><a href='mailto:craig.schuller@syngenta.com'>Schuller, Craig</a><sup>1</sup><br><a href='mailto:esteban.bortiri@syngenta.com'>Bortiri, Esteban</a><sup>1</sup><br><a href='mailto:Brenden.Barco@syngenta.com'>Barco, Brenden</a><sup>1</sup><br><a href='mailto:shujie.dong@syngenta.com'>Dong, Shujie</a><sup>1</sup><br><a href='mailto:kslay84@gmail.com'>Lay-Pruitt, Katerina</a><sup>1</sup><br><a href='mailto:tim.kelliher@syngenta.com'>Kelliher, Tim</a><sup>1</sup><br><a href='mailto:qiudeng.que@syngenta.com'>Que, Qiudeng</a><sup>1</sup><br>
+
+<sup>1</sup>Syngenta Crop Protection, LLC, Durham, NC 27709, USA<br>

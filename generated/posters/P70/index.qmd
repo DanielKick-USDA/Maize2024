@@ -1,0 +1,20 @@
+---
+title: "Comparison of DNA replication timing profiles between B73 and NC350 maize lines"
+subtitle: "P70"
+author: "Emily Wheeler"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c1/Protective_Coleoptile_Tip_in_Zea_Mays_Embryo_%2847691344541%29.jpg"
+categories: 
+- Cell and Developmental Biology
+- Even Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Cells in the root tips of B73 and NC350 maize lines replicate their DNA in approximately 3 hours in a highly regulated, temporally ordered process. By using a multi-inbred approach, we aim to characterize the evolution and conservation of DNA replication in maize. We employed a flow cytometric and DNA copy number protocol to assign a replication time (RT) to every region of the maize genome. DNA copy number methods rely on precise, high quality mapping protocols. Therefore, we developed an in silico strategy to identify segments of maize reference genomes with low inherent “mappability”, which we employed as drop lists during downstream genomic analysis. Using nuclei collected by flow sorting, we obtained a ratio of the read numbers at each locus for nuclei in S phase relative to those in G1 phase. Because loci replicating early in S phase will have higher copy numbers, this data can be used to assign a replication time to each locus. Comparison between NC350 and B73 replication programs is particularly interesting considering NC350's tropical lineage, larger genome size, and higher knob count than other NAM lines. Centromere and knob regions typically replicate later in S phase, which makes these genomic areas and the genes around them of special interest. While most genes replicate at a similar time in S phase in these two maize inbred lines, there are some notable differences. This project aims to uncover regions where the timing of DNA replication diverges between B73 and NC350 and to explore the genomic and genetic contexts that influence replication time.
+
+<a href='mailto:eamarkha@ncsu.edu'>Wheeler, Emily</a><sup>1</sup><br><a href='mailto:emily_wear@ncsu.edu'>Wear, Emily</a><sup>1</sup><br><a href='mailto:lamickel@ncsu.edu'>Mickelson-Young, Leigh</a><sup>1</sup><br><a href='mailto:mcburro3@ncsu.edu'>Burroughs, Mason</a><sup>1</sup><br><a href='mailto:lconcia@tacc.utexas.edu'>Concia, Lorenzo</a><sup>2</sup><br><a href='mailto:bill_thompson@ncsu.edu'>Thompson, William</a><sup>1</sup><br><a href='mailto:linda_hanley-bowdoin@ncsu.edu'>Hanley-Bowdoin, Linda</a><sup>1</sup><br>
+
+<sup>1</sup>Department of Plant and Microbial Biology, NCSU, Raleigh, NC 27595<br><sup>2</sup>Texas Advanced Computing Center, Austin, TX, 78758<br>

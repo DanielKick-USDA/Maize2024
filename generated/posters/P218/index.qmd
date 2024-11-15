@@ -1,0 +1,20 @@
+---
+title: "Exploring the application of phenomic selection in corn breeding."
+subtitle: "P218"
+author: "Rafaela Prado Graciano"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5e/Aztec_Diet_Basket_of_Corn_%289755332575%29.jpg"
+categories: 
+- Quantitative Genetics & Breeding
+- Even Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Phenomic Selection (PS) is a low-cost alternative to Genomic Selection (GS) for enhancing genetic gains in breeding programs. That new technique maintains the statistical procedure used in GS-based prediction models but replaces the molecular markers data (e.g. SNP data) with variables obtained from a multi-variate phenotyping method (e.g. near-infrared spectroscopy (NIRS) data). This study aimed to explore the application of PS using single kernel NIR in a sweet corn breeding program, focusing on predicting field-based traits of economic importance, including ear and vegetative characteristics. First, on a diversity panel, three models were employed: G-BLUP and NIRS BLUP models, which utilized relationship matrices based on SNP and NIRS data, respectively, and a third model that uses both matrices as independent terms. The genomic relationship matrices were evaluated when the number of SNPs used to built the matrix varied from 500 to 200,000 SNPs. The objective of this test was to evaluate if PS can complement GS applications under low marker densities. In a second approach, we utilized the NIRS BLUP model to select doubled haploid (DH) lines for germination before planting. Our findings reveal that while G-BLUP models generally outperformed NIRS BLUP models, the model combining both information (PS+GS) yielded the highest accuracy. The increase of the combined model relative to GS alone was particularly higher when low marker densities were used. This indicates NIRS's potential to maintain/improve accuracy together with SNP-based information while reducing marker density, which could decrease genotyping cost in the breeding program. Additionally, results showed that the NIRS BLUP model alone effectively distinguished between high and low germination rates in DH lines, with an accuracy of 0.71. In conclusion, PS is a promising low-cost tool that could help to optimize the sweet corn breeding program.
+
+<a href='mailto:rafaela.graciano@ufl.edu'>Graciano, Rafaela P.</a><sup>1</sup><br><a href='mailto:marco.peixotom@gmail.com'>Peixoto, Marco</a><sup>1</sup><br><a href='mailto:nsuzuki@ufl.edu'>Suzuki, Noriko</a><sup>1</sup><br><a href='mailto:ldao@ufl.edu'>Dao, Linda</a><sup>1</sup><br><a href='mailto:jlgustin@illinois.edu'>Gustin, Jeff</a><sup>2</sup><br><a href='mailto:paul.armstrong@usda.gov'>Armstrong, Paul R.</a><sup>3</sup><br><a href='mailto:mresende@ufl.edu'>Resende, Marcio F. R.</a><sup>1</sup><br>
+
+<sup>1</sup>University of Florida, Gainesville, Florida 32611.<br><sup>2</sup>US Department of Agriculture, Agricultural Research Service, Urbana, Illinois 61801.<br><sup>3</sup>Center for Grain and Animal Health Research, USDA-ARS, Manhattan, Kansas 66502.<br>

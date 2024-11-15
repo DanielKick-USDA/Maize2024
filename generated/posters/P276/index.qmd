@@ -1,0 +1,20 @@
+---
+title: "Transformers for genomic selection"
+subtitle: "P276"
+author: "Karlene Negus"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5e/Aztec_Diet_Basket_of_Corn_%289755332575%29.jpg"
+categories: 
+- Quantitative Genetics & Breeding
+- Even Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Genomic selection is one of the ways maize breeding has sought to keep pace with global demand for agricultural goods. Conventional genomic selection strategies are regression-based and were originally designed to make predictions using moderate-to-small sets of genomic data. However, the data landscape has changed in the time since conventional methods were designed and the scale of genomic and phenomic data collection has dramatically increased over recent decades. Alternatives to conventional genomic prediction strategies will be required to better utilize big data and to close margins for prediction accuracy improvement that still exist in numerous traits and species. Artificial intelligence (AI)-driven models are poised to be the next evolution of genomic selection because of their suitability for big data and wide success at prediction in fields like natural language and medicine. However, many of the AI models developed for genomic selection have not yet consistently exceeded the performance of convention methods. But, AI models are rapidly evolving, and the current state-of-the-art AI model is the transformer which has not been extensively investigated for genomic selection. Transformers are a type of AI model that differs from others because of its use of attention and positional encoding. Attention evaluates which values in the input sequence are important for contextualizing a given input value. Positional encoding provides the order/positions of input values separately from the input values allowing for parallelization of sequential data. BERT (bidirectional encoding representations from transformers) is a type of transformer model that is suitable for this type of prediction task. Because of these capabilities, a BERT-based model pre-trained using Genomes to Fields (G2F) initiative maize data is being designed and investigated for genomic selection. Adapting existing AI methods to leverage domain knowledge in genetics and breeding may bridge the gap between AI and genomic selection.
+
+<a href='mailto:knegus@iastate.edu'>Negus, Karlene L.</a><sup>1</sup><br>Li, Xianran<sup>2</sup><br>Welch, Stephen M.<sup>3</sup><br>de los Campos, Gustavo<sup>4</sup><br><a href='mailto:jmyu@iastate.edu'>Yu, Jianming</a><sup>1</sup><br>
+
+<sup>1</sup>Department of Agronomy; Interdepartmental Genetics & Genomics; Iowa State University; Ames, IA, USA 50011<br><sup>2</sup>Wheat Health, Genetics & Quality Research; USDA-ARS; Pullman, WA, USA 99164<br><sup>3</sup>Department of Agronomy; Kansas State University; Manhattan, KS, USA 66506<br><sup>4</sup>Department of Epidemiology and Biostatistics; Department of Statistics and Probability; Institute for Quantitative Health Sciences and Engineering; Michigan State University; East Lansing, MI, USA 48824<br>

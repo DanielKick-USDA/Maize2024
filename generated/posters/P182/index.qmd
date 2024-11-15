@@ -1,0 +1,20 @@
+---
+title: "CENSA: Create a sustainable food system for nitrogen: Moving synthetic nitrogen from the field to barn"
+subtitle: "P182"
+author: "Edward Buckler"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/69/Leiden_University_Library_-_Seikei_Zusetsu_vol._19%2C_page_019_-_%E7%8E%89%E8%9C%80%E9%BB%8D_-_Zea_mays_L.%2C_1804.jpg"
+categories: 
+- Education & Outreach
+- Even Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+The flow of nitrogen through the agricultural system is highly inefficient and leaky, resulting in the pollution of our waterways, excessive emission of nitrous oxide from our croplands and manure, methane from livestock, and carbon dioxide from synthetic nitrogen fixation, together accounting for 11% of US greenhouse gas emissions. Agriculture and the food system are projected to become the primary sources of greenhouse gas emissions by mid-century. We argue that by shifting the use of synthetic nitrogen directly from croplands to livestock and human food, we can dramatically decrease this inefficiency. Furthermore, by lessening the nitrogen demand on our croplands, we can promote a circular nitrogen flow in the cropping-soil systems, paving the way for a transition that maintains high productivity while lessening environmental harm.
+
+<a href='mailto:ed.buckler@usda.gov'>Buckler, Edward S</a><sup>1 2</sup><br>Ainsworth, Elizabeth A<sup>1</sup><br>Boggess, Mark<sup>1 10</sup><br>Castellano, Michael<sup>4</sup><br>Guan, Kaiyu<sup>3</sup><br>Jin, Virginia<sup>1 10</sup><br>Kleinman, Peter<sup>1</sup><br>Kim, Sung Woo<sup>5</sup><br>de Leon, Natalia<sup>6</sup><br>Messina, Carlos<sup>7</sup><br>Northrup, Daniel<sup>8</sup><br>Romay, Cinta<sup>2</sup><br>Miller, Sara<sup>2</sup><br>Qin, Rongzhu<sup>3</sup><br>Rooney, Travis<sup>2 12</sup><br>Spiegal, Sheri<sup>1 13</sup><br>Springer, Nathan<sup>9 11</sup><br>
+
+<sup>1</sup>USDA-ARS<br><sup>2</sup>Cornell Unversity<br><sup>3</sup>University of Illinois<br><sup>4</sup>Iowa State University<br><sup>5</sup>North Carolina State University<br><sup>6</sup>University of Wisconsin<br><sup>7</sup>Unviersity of Florida<br><sup>8</sup>Galvanize Climate Solutions<br><sup>9</sup>University of Minnesota<br><sup>10</sup>University of Nebraska<br><sup>11</sup>Bayer Crop Science<br><sup>12</sup>Sesaco Corporation<br><sup>13</sup>Jornada Experimental Range<br>

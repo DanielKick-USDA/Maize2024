@@ -1,0 +1,20 @@
+---
+title: "Identification of genes associated with phenolic metabolism"
+subtitle: "P24"
+author: "Lina Gomez-Cano"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/05/DNA_base-pair_diagram.jpg"
+categories: 
+- Biochemical and Molecular Genetics
+- Even Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Improved genetics and agronomic practices have augmented maize productivity to meet the demands of a rapidly growing population. However, the process of selective breeding applied to increase productivity has resulted in the unintended selection of crop varieties lacking important compounds, such as many phenolics including flavonoids and phenylpropanoids, which play important roles in plant protection against abiotic and biotic stresses and are also beneficial for the human and animal diet, when accumulating in the seed. As a result, this can lead to significant productivity losses under stress conditions. Consequently, there is a growing interest in better understanding the biosynthesis and regulation of phenolic compounds in maize. The objective of this study is to determine genes leading to the formation and regulation of phenolic compounds in maize by conducting two different strategies: (1) Homology-base identification. We utilized the repertoire of well-characterized Arabidopsis phenylpropanoid and flavonoid metabolism genes to identify candidate orthologs (homology >90%) in the maize B73 (v4) genome. The protein sequences of these orthologues were used to search the maize genome for similar proteins using BLASTP and a total of 249 gene models from 28 gene families were identified. Then we used available genome-wide expression analysis to determine which family members are predominantly expressed and explored their co-expression with other pathway genes to establish which isoform might participate in the biosynthesis of the various pathway products. (2) A Genome-Wide Association Study (GWAS) for a set of 33 phenolic compounds profiled across 597 genetically diverse inbred lines, grown under controlled conditions. Three biological replicates were used, and seedling stem samples were collected for analysis. Phenolic compounds were quantified using liquid chromatography coupled with mass spectrometry (LC-MS) using a rapid separation targeted method. Our initial results revealed several candidate genes belonging to various families, including UDP glycosyltransferases, acyl-CoA synthetases, 2-oxoglutarate-dependent dioxygenases, and methyltransferases, which are potentially involved in the formation of various phenolic compounds. Additionally, new members of the MYB and BHLH transcription factor families, previously reported to regulate the production of flavonoids, production were identified. A subset of these candidate genes is currently being experimentally validated by monitoring metabolic changes of phenolic compounds in maize protoplasts transformed with the respective genes in various maize genotypes. The outcomes of this study will provide a valuable resource for improved plant breeding for stress tolerance and overall maize improvement. This research is supported by the National Science Foundation under Grant No. 1733633. LGC is supported by a Fellowship from Michigan State University under the Training Program in Plant Biotechnology for Health and Sustainability (T32-GM110523). JR is supported by a UW-Madison SciMed GRS Fellowship.
+
+<a href='mailto:gomezca5@msu.edu'>Gomez-Cano, Lina A</a><sup>2</sup><br><a href='mailto:jorod550@gmail.com'>Rodriguez, Jonas</a><sup>1</sup><br><a href='mailto:ndeleongatti@wisc.edu'>de Leon, Natalia</a><sup>1</sup><br><a href='mailto:grotewol1@msu.edu'>Grotewold, Erich</a><sup>2</sup><br>
+
+<sup>1</sup>University of Wisconsin-Madison; Madison; Wisconsin, 53706<br><sup>2</sup>Michigan State University; East Lansing; Michigan; 48823<br>

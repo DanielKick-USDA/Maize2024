@@ -1,0 +1,20 @@
+---
+title: "Discovering phosphorus efficiency alleles in maize and sorghum by combining multiple omics datasets and advanced modeling statistics"
+subtitle: "P213"
+author: "Nirwan Tandukar"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5e/Aztec_Diet_Basket_of_Corn_%289755332575%29.jpg"
+categories: 
+- Quantitative Genetics & Breeding
+- Odd Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Phosphorus(P) is an important nutrient in fertilizers which is essential for plant growth and development. Excessive use of P-rich fertilizers leads to leaching and runoff to water bodies harming aquatic life. The limited global reserves of rock P and water pollution make it necessary to find a sustainable solution that ensures the proper utilization of P. Landrace varieties adapted in soils with varying P levels likely possess unique genetic mechanisms to cope with P scarcity. Environmental Genome-Wide Association Studies(eGWAS) using these genotypes with georeferenced accessions, present a potential for identifying candidate genes. Employing eGWAS, we seek to identify candidates associated with P that overcomes these obstacles. Central to GWAS's success is accurate phenotype measurement. To this end, we have developed a Random Forest model predicting P availability surpassing current models in prediction accuracy and capability to discern lower-end values. Utilizing genetic datasets of maize and sorghum, we will conduct eGWAS using our new P data. The maize dataset specifically has gone through Practical Haplotype Graph imputations, increasing its resolution. We will use a linear regression based p-value combination method to aggregate multiple small effects on a gene-based level. This study will also investigate the role of lipids in sorghum's adaptation to P levels in Africa, drawing comparisons with our previous study that identified lipid variations in maize adapted to low P in the Mexican highlands. Additionally, we have obtained lipid profiles for 400 Sorghum Association Panel grown in high and low P. Analyzing their lipid dynamics will play a significant role in understanding P utilization. Subsequently, a GWAS will be conducted focusing on these identified candidate lipids. Using the Cauchy Combination test to combine the findings from both the P GWAS and lipid GWAS, we aim to redefine the order of gene importance and identify candidates linked to both phenotypes.
+
+<a href='mailto:ntanduk@ncsu.edu'>Tandukar, Nirwan</a><sup>1 2</sup><br>Rodríguez-Zapata, Fausto<sup>1 2</sup><br>Romay, Cinta<sup>3</sup><br>Buckler, Ed<sup>3</sup><br>Tzeng, Jung-Ying<sup>4</sup><br>Rellan Alvarez, Ruben<sup>1 2</sup><br>
+
+<sup>1</sup>Molecular and Structural Biochemistry, North Carolina State University, Raleigh, North Carolina<br><sup>2</sup>Genetics and Genomics, North Carolina State University, Raleigh, North Carolina<br><sup>3</sup>Plant Breeding and Genetics, Cornell University, Ithaca, New York<br><sup>4</sup>Department of Statistics, North Carolina State University, Raleigh, North Carolina<br>

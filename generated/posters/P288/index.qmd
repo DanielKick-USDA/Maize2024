@@ -1,0 +1,20 @@
+---
+title: "Genomic consequences of repeated chromosomal breakage"
+subtitle: "P288"
+author: "Kempton Bryan"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b3/Genetic_corn.jpg"
+categories: 
+- Transposons & Epigenetics
+- Even Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+When a chromosome has two centromeres a process known as the breakage-fusion-bridge cycle (BFB) generates reciprocal duplications and deletions in mitosis. BFB was first studied by Barbara McClintock and led to the discovery of transposable elements. The genomic effects of BFB are poorly understood due to the uncontrollable nature of the phenomenon. The development of an inducible centromere system addresses this issue by enabling BFB to be started and stopped. A transgene fusing the centromeric histone variant CENH3 to a DNA binding domain induces centromere formation over a large array of DNA binding motifs. This system will be used to induce BFB for a generation then generate progeny no longer undergoing BFB for genomic studies. This system has been successfully tested in preliminary work that yielded two transmissible BFB haplotypes. Transposon activity will be assessed prior to and following BFB to provide insight into the scale and locality of transposon activity. Changes in transposon activity have been linked to changes in epigenetic state which leads to the hypothesis that BFB is altering epigenetic regulation which activates TEs. Nucleotide and histone modifications will be surveyed prior to and following BFB to test this hypothesis. This research will revisit McClintock’s original observations at the molecular level, aiming to understand the structural and epigenetic changes that lead to transposon activation.
+
+<a href='mailto:kempton@uga.edu'>Bryan, Kempton B</a><sup>1</sup><br><a href='mailto:kdawe@uga.edu'>Dawe, R. Kelly</a><sup>1 2</sup><br>
+
+<sup>1</sup>Department of Genetics; University of Georgia; Athens, GA, 30602<br><sup>2</sup>Department of Plant Biology; University of Georgia; Athens, GA, 30602<br>

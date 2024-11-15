@@ -1,0 +1,20 @@
+---
+title: "Analysis of Pistachio root proteome to salt stress"
+subtitle: "P64"
+author: "Ryaniah Ellis"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c1/Protective_Coleoptile_Tip_in_Zea_Mays_Embryo_%2847691344541%29.jpg"
+categories: 
+- Cell and Developmental Biology
+- Even Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Pistachio (Pistacia vera L.) is an economically important tree nut that commonly thrives in semi-arid and arid environments. P. vera is a highly adaptable to various abiotic stresses, and it can tolerate drought and salinity stresses, which makes it suitable for reforestation of arid and salinized zones. However, the mechanisms underlying the salinity tolerance of this plant are not well understood. The present study was aimed at physiological and molecular investigations to unravel the metabolic pathways associated with the salt tolerance mechanisms in UCB-1 cultivar. Five one-year-old pistachio rootstocks were treated with four saline water regimes for 100 days. The rootstocks adopted Na+ exclusion strategy to resist the salinity stress. Total proteins were isolated from the roots and treated with different NaCl concentrations. The proteins were characterized using high throughput LC-MS/MS spectrometry searched against the Citrus database. Over 1600 protein IDs were detected, among which the comparative analysis revealed 245 more abundant and 190 low abundant proteins to three stress levels. The proteins associated with amino acid metabolism, cell wall organization, protein homeostasis, response to stress, signal transduction, TCA cycle, and vesicular trafficking were constantly overexpressed at all stress levels. At low and moderate stress levels, the chromatin and cytoskeleton organization lipid metabolism proteins were overexpressed, while at higher salt concentrations, they were unaffected. Transcription and translation processes were affected by all stress levels, as the proteins showed down-regulation in response to all stress levels. Transcription proteins were downregulated at low and moderate stress while overexpressed at high salt stress treatment. Protein interaction network with all the orthologous proteins mapped to Arabidopsis thaliana and the clusters associated with these proteins revealed the cytosolic, carbohydrate, and amino acid metabolism are associated with salinity stress.
+
+<a href='mailto:ryaniah1.ellis@famu.edu'>Ellis, Ryaniah</a><sup>1</sup><br>Akbari, Mohammad<sup>2</sup><br>Singh, Rakesh<sup>3</sup><br>Vishnudasan, Dalia<sup>4</sup><br>Andriunait, Elena<sup>5</sup><br>Survajhala, Prashanth<sup>3</sup><br>Katam, Ramesh<sup>1</sup><br>
+
+<sup>1</sup>Department of Biological Sciences, Florida A&M University, Tallahassee FL, USA<br><sup>2</sup>Pistat Research Center, Nazari Business Group, Tehran, Iran<br><sup>3</sup>Georgia Institute of Technology, Atlanta GA, USA<br><sup>4</sup>Amrita School of Biotechnology, Amrita Vishwa Vidhyapeetham, Clappana PO 690525, Kerala India<br><sup>5</sup>Lithuanian Research Centre for Agriculture and Forestry, Kaunas, Lithuania<br>

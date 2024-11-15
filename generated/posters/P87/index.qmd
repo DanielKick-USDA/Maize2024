@@ -1,0 +1,20 @@
+---
+title: "Herbicide safener Metcamifen significantly improves the recovery of doubled haploid maize seedlings via in vitro culture"
+subtitle: "P87"
+author: "Fisher Stines"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c1/Protective_Coleoptile_Tip_in_Zea_Mays_Embryo_%2847691344541%29.jpg"
+categories: 
+- Cell and Developmental Biology
+- Odd Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+The production of doubled haploid plants is a valuable process in the toolbox of the modern plant breeder; however, chromosomal doubling achieved via contact with doubling agents e.g., colchicine, is highly stressful and often lethal to young plants. We sought to test whether herbicide safener compounds could improve the survival rate of in vitro culture maize embryos when contacted with the doubling agent colchicine. In our method, we supplemented the doubling media with the herbicide safener, Metcamifen, at varying concentrations from 200 g/L- 800 g/L. We extracted maize embryos from a variety of lines and advanced the putative haploid embryos to germination media. The healthy seedlings were then transferred to soil, grown to maturity, and self-pollinated under optimal glasshouse conditions. We report a significant increase in the survival rate of putative haploid maize embryos following our optimized protocol, and a significant increase in the return rate of doubled haploid seed relative to the control. This innovation substantially increases the efficiency of obtaining sufficient numbers of doubled haploid plants and thus enables breeders to better leverage the power of doubled haploid plants in their breeding programs.
+
+<a href='mailto:fisher.stines@syngenta.com'>Stines, Fisher</a><sup>1</sup><br><a href='mailto:jodi.avila@syngenta.com'>Avila, Yolanda</a><sup>1</sup><br><a href='mailto:weiguo.liu@syngenta.com'>Liu, Weiguo</a><sup>1</sup><br><a href='mailto:jonathan.fabish@syngenta.com'>Fabish, Jonathan</a><sup>1</sup><br><a href='mailto:tim.kelliher@syngenta.com'>Kelliher, Timothy</a><sup>1</sup><br>
+
+<sup>1</sup>Seeds Research, Syngenta Crop Protection, Research Triangle Park, North Carolina, 27709, USA<br>

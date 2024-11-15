@@ -1,0 +1,20 @@
+---
+title: "Pseudomonas syringae pv. tomato DC3000 induces defense responses in diverse maize inbred lines"
+subtitle: "P49"
+author: "Namrata Jaiswal"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/05/DNA_base-pair_diagram.jpg"
+categories: 
+- Biochemical and Molecular Genetics
+- Odd Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Many phytopathogens translocate virulence (effector) proteins into plant cells to circumvent host immune responses during infection. One such pathogen is Pseudomonas syringae pv. tomato DC3000, which secretes at least thirty-six effectors into host cells, of which a subset elicit host defense responses in crop plant species such as wheat. However, it is unknown whether P. syringae pv. tomato DC3000 is capable of activating immune responses in maize inbreds. We, therefore, screened a diverse maize germplasm collection for effector-dependent recognition of this bacterial pathogen. As a control, we infiltrated Pseudomonas syringae DC3000(D36E), a derivative of P. syringae pv. tomato DC3000 that lacks all endogenous effectors. In our evaluations, we observed a variety of responses to P. syringae pv. tomato DC3000 in maize and scored the phenotypes as either no observable response (N) or as one of three responses: weak chlorosis (WC), chlorosis (C) with minimal cell death, and hypersensitive reaction (HR)-like cell death. Of the twenty-six maize inbreds screened, 13 were scored as N, 2 as WC, 2 as C, and 9 as HR-like cell death. Importantly, no maize line responded to P. syringae DC3000(D36E), demonstrating the phenotypic responses observed are likely dependent upon recognition of one or more P. syringae effectors. Consistent with the phenotypic responses, maize inbred lines that recognize P. syringae pv. tomato DC3000 accumulated detectable hydrogen peroxide within the infiltrated regions as well as an increase in transcript expression of a subset of maize defense genes. Collectively, our results reveal P. syringae induces defense responses in diverse maize inbreds. Our results, therefore, suggest that diverse maize inbred lines likely encode disease resistance proteins that recognize the activities of one or more P. syringae pv. tomato DC3000 effectors.
+
+<a href='mailto:namrata.jaiswal@usda.gov'>Jaiswal, Namrata</a><sup>1</sup><br><a href='mailto:matthew.helm@usda.gov'>Helm, Matthew</a><sup>1</sup><br>
+
+<sup>1</sup>Crop Production and Pest Control Research Unit, USDA–ARS, West Lafayette, IN, 47907-2054<br>

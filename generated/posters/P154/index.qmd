@@ -1,0 +1,20 @@
+---
+title: "Improving polyploid and heterozygous genome interpretation using hidden Markov models"
+subtitle: "P154"
+author: "Sarah Jane McMorrow"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e5/ENIAC-changing_a_tube.jpg"
+categories: 
+- Computational and Large-Scale Biology
+- Even Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Genetic modification relies on identifying desirable genes within a related species. These relatives have historically been understudied for maize, with minimal genetic and genomic resources. Whole genome duplication events and hybridization have resulted in complicated polyploid genomes. This makes it difficult to both track and genotype genetic traits, and sequence and assemble their genomes. Recent decreases in the cost of sequencing and advances in long-read sequencing technologies have reduced these barriers for polyploids. These long reads can span tens of thousands of base pairs in length, and when assembling these reads into contigs, they often can reach highly repetitive regions that lead to assembly errors. In autopolyploids with low differentiation between homologous subgenomes, such collapse can even occur across both alleles and subgenomes. We developed a Hidden Markov Model (HMM) that uses the gene counts and read depths to assign the DNA sequence into two states, collapsed regions and separately assembled regions. This will improve the utility of these polyploid genomes when mapping RNAseq or functional genomic data, as coverage and counts can be adjusted by assembly depths. We also anticipate this approach may also improve the interpretation of highly heterozygous genomes, such as outcrossing maize.
+
+<a href='mailto:smm477@cornell.edu'>McMorrow, Sarah Jane M.</a><sup>1</sup><br><a href='mailto:mze3@cornell.edu'>El-Walid, Mohamed</a><sup>2</sup><br><a href='mailto:mcr72@cornell.edu'>Romay, Cinta</a><sup>2</sup><br><a href='mailto:mcs368@cornell.edu'>Stitzer, Michelle</a><sup>2</sup><br><a href='mailto:esb33@cornell.edu'>Buckler, Edward S.</a><sup>2 3 4</sup><br>
+
+<sup>1</sup>Department of Computer Science, Cornell University, Ithaca, NY USA 14853<br><sup>2</sup>Institute for Genomic Diversity, Cornell University, Ithaca, NY USA 14853<br><sup>3</sup>Section of Plant Breeding and Genetics, Cornell University, Ithaca, NY USA 14853<br><sup>4</sup>USDA-ARS, Ithaca, NY, USA 14853<br>

@@ -1,0 +1,20 @@
+---
+title: "Uncovering the genetic basis of perenniality in the Andropogoneae"
+subtitle: "P311"
+author: "Aimee Schulz"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/9a/CollapsedtreeLabels-simplified-fi.svg"
+categories: 
+- Evolution and Population Genetics
+- Odd Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+The Andropogoneae tribe contains some of the most productive C4 grasses relevant to agriculture, including maize, Miscanthus, sorghum, and sugar cane and has adapted to a wide host of environments. Notably, while most of these species are perennial, there have been dozens of transitions to an annual life history. Perennials have multiple traits that can be harnessed to confer an advantage to agricultural crops, reducing their environmental impact, such as nitrogen remobilization and freezing tolerance. Many of these favorable traits are hypothesized to have been lost during the transition to annuality. We have previously shown that within orthogroups, annual genes are enriched for reduced sequence conservation and premature stop codons, adding support for the loss-of-function hypothesis during perennial-annual transitions. In this study, we further test this hypothesis by leveraging an expanded set of 533 short read and 38 long read Andropogoneae genomes to investigate the genetic basis of perennial-to-annual transitions across the tribe. This set of genomes allows us to test a greater number of transitions and identify instances of repeated loss of function. Using phylogenetic mixed models, we identified genes associated with perenniality across species. Additionally, we identified orthogroups with differential selection constraint in annuals and perennials. Since it is hypothesized that changes in the environment lead to changes in life history, our models were further expanded to include environmental data to determine environmental associations with the perennial growth habit. These models will provide insight into the ecological niches of perennials and annuals. The results from this research will provide a launching point for future work to understand the adaptive potential of perennials and develop maize varieties that are more perennial-like and better adapted for climate change.
+
+<a href='mailto:ajs692@cornell.edu'>Schulz, Aimee J</a><sup>1</sup><br>AuBuchon-Elder, Taylor<sup>2</sup><br>Costa Neto, Germano<sup>3</sup><br>Hale, Charles O<sup>1</sup><br>Seetharam, Arun S<sup>4</sup><br>Stitzer, Michelle C<sup>3</sup><br>Romay, M Cinta<sup>3</sup><br>Kellogg, Elizabeth A<sup>2</sup><br>Hufford, Matthew B<sup>4</sup><br>Buckler, Edward S<sup>1 3 5</sup><br>Hsu, Sheng-Kai<sup>3</sup><br>
+
+<sup>1</sup>Section of Plant Breeding and Genetics, Cornell University, Ithaca, NY USA 14853<br><sup>2</sup>Donald Danforth Plant Science Center, St. Louis, MO USA 63132<br><sup>3</sup>Institute for Genomic Diversity, Cornell University, Ithaca, NY USA 14853<br><sup>4</sup>Department of Ecology, Evolution, and Organismal Biology, Iowa State University, Ames, IA USA, 50011<br><sup>5</sup>USDA-ARS; Ithaca, NY, USA 14853<br>

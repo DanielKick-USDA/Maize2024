@@ -1,0 +1,20 @@
+---
+title: "Growth hormones BR and GA modulate spikelet meristem identity through the RAMOSA1 pathway in Setaria and maize"
+subtitle: "P84"
+author: "Jaspreet Sandhu"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c1/Protective_Coleoptile_Tip_in_Zea_Mays_Embryo_%2847691344541%29.jpg"
+categories: 
+- Cell and Developmental Biology
+- Even Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+In grasses, inflorescence architecture impacts grain yield and harvestability. The degree of inflorescence branching and position of grain and pollen-bearing spikelets are determined by timing of spikelet meristem (SM) identity, where an indeterminate branch meristem acquires a determinate fate to initiate spikelet development. In maize, mutants impaired in axillary meristem determinacy or identity, e.g., ramosa mutants, have increased branching in tassels and ears, yet the underlying molecular mechanisms remain elusive.Here, we use model grass Setaria viridis to dissect the mechanisms underlying SM identity and determinacy. Setaria’s unique inflorescence morphology offers an ideal system for this study; axillary branches terminate either in a spikelet or sterile bristle, the latter due to an imposed fate overriding SM identity. Using a mutagenesis screen, we isolated a spectrum of meristem identity mutants. Among these, bristleless1 (bsl1) and spikeletless (spkl) displayed homeotic conversions from bristles to spikelets or spikelets to bristles, respectively. Genetic mapping indicated that brassinosteroids (BRs) and gibberellic acid (GA) were intimately involved in the spikelet vs bristle fate decision, and treatment with exogenous GA or BR inhibitor produced inflorescences with all bristles or spikelets, respectively. bsl1 is defective in the ortholog of rice D11, a rate-limiting enzyme in BR biosynthesis, and we validated spkl as an ortholog of maize ramosa1 (ra1). Genetic analyses in Setaria indicate that bsl1 is epistatic to spkl and we propose a model where SPKL/RA1 regulates SM identity genes through interfacing with BR and GA pathways. We also isolated a mutant in maize d11 (Zmd11), which had semi-dwarf stature and smaller tassels with fewer branches. Crossing Zmd11 to the ra1-R allele suggested more complex genetic interactions underlying inflorescence phenotypes in maize. Our results highlight conservation and divergence of pathways governing SM fate between Setaria and maize, knowledge that can be harnessed for development of higher yielding cereals.
+
+<a href='mailto:JSandhu@danforthcenter.org'>Sandhu, Jaspreet</a><sup>1</sup><br><a href='mailto:JYang@danforthcenter.org'>Yang, Jiani</a><sup>1</sup><br><a href='mailto:MBraud@danforthcenter.org'>Braud, Max</a><sup>1</sup><br><a href='mailto:EBertolini@danforthcenter.org'>Bertolini, Edoardo</a><sup>1</sup><br><a href='mailto:AEveland@danforthcenter.org'>Eveland, Andrea L.</a><sup>1</sup><br>
+
+<sup>1</sup>Donald Danforth Plant Science Center, St. Louis, MO, 63132<br>

@@ -1,0 +1,20 @@
+---
+title: "Impacts of structural variants on accurate SNP imputation"
+subtitle: "P153"
+author: "Rommel Jr. Garrido"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e5/ENIAC-changing_a_tube.jpg"
+categories: 
+- Computational and Large-Scale Biology
+- Odd Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Genotype imputation is a valuable statistical tool used to infer missing genetic markers, enhancing the mapping resolution and power of genome-wide association studies (GWAS). The imputation of genetic markers are usually done by analyzing linkage disequilibrium (LD) patterns and haplotype information in a population. However, genotype imputation is not always accurate. In this study, we examine the accuracy of imputing missing SNP data based on the marker information of 509 maize inbred lines, which are part of the Wisconsin Diversity Panel. SNP and SV marker information for this study were obtained from the short-read whole genome resequencing data of the inbred lines. Specifically, we are focusing on the errors in imputation that occur due to structural variants (SVs). The imputation of missing SNP markers will be done using the IMPUTE2 program. Error in the imputation of SNP markers within known deletions specific to each genotype will be assessed. The false imputation of SNP markers within deleted regions could impact downstream power to identify marker-trait associations, which will be tested in future GWAS.
+
+<a href='mailto:garri318@umn.edu'>Garrido, Rommel Jr., M.</a><sup>1</sup><br>Qiu, Yinjie<sup>1 2</sup><br>Hirsch, Candice N.<sup>1</sup><br>
+
+<sup>1</sup>Department of Agronomy and Plant Genetics, University of Minnesota, St. Paul, MN, 55108<br><sup>2</sup>Minnesota Supercomputing Institute, University of Minnesota, St. Paul, MN, 55108<br>

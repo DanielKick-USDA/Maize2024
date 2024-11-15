@@ -1,0 +1,20 @@
+---
+title: "Genomic analysis of stability in grain composition in maize"
+subtitle: "P148"
+author: "Joan Barreto Ortiz"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e5/ENIAC-changing_a_tube.jpg"
+categories: 
+- Computational and Large-Scale Biology
+- Even Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Grain composition in maize grain plays a critical role in ensuring nutritious food supply and a variety of products that are important to the sustainability of human societies. As growing conditions become increasingly unpredictable due to rapid climate change, understanding the genetic basis of stability in grain composition is imperative. Despite previous research on the genetic and environmental factors influencing grain composition, the interaction between genotype and environment (GEI) remains underexplored. To address this, we conducted a comprehensive GEI analysis on over 500 maize inbred lines grown in five environments, for compositional traits including protein, starch, fiber, ash, moisture, and fat. In addition, we derived latent phenotypes to represent composition as a single holistic metric, and reduced bias due to genetic correlations. We assessed trait stability using a combination of parametric and nonparametric approaches that included Finlay-Wilkinson regression, AMMI-based models, and BLUPs. Our analysis incorporated a combination of single nucleotide polymorphisms (SNPs) and structural variants, to investigate the genetic architecture of stability in composition using single and multi-trait genome-wide association studies (GWAS). In this poster, we present a summary of the genomic markers found to be associated with stability for single traits as well as with latent phenotypes representing composition as a whole. The findings from this study provide valuable insights into the genetic mechanisms underlying stability in grain composition, paving the way for the development of adaptable maize cultivars with proper grain quality.
+
+<a href='mailto:jbarreto@umn.edu'>Barreto Ortiz, Joan</a><sup>1</sup><br><a href='mailto:cnhirsch@umn.edu'>Hirsch, Candice</a><sup>1</sup><br>
+
+<sup>1</sup>University of Minnesota; Department of Agronomy and Plant Genetics; St Paul; MN; United States 55108<br>

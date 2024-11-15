@@ -1,0 +1,20 @@
+---
+title: "An F-box protein ACOZ1 functions in crossover formation by ensuring proper chromosome compaction during maize meiosis"
+subtitle: "P173"
+author: "Juli Jing"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/ab/Angiosperm_Morphology_The_Closed_and_Collateral_Vascular_Bundle_in_Zea_%2837215761790%29.jpg"
+categories: 
+- Cytogenetics
+- Odd Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Meiosis is an essential reproductive process to create new genetic variation. During early meiosis, higher order chromosome organization creates a platform for meiotic processes to ensure the accuracy of recombination and chromosome segregation. However, little is known about the regulatory mechanisms underlying dynamic chromosome organization in plant meiosis. Here, we describe abnormal chromosome organization in zygotene1 (ACOZ1), which encodes a canonical F-box protein in maize. In acoz1 mutant meiocytes, chromosomes maintain a leptotene-like state and never compact to a zygotene-like configuration. Telomere bouquet formation and homologous pairing are also distorted, installation of synaptonemal complex ZYP1 protein is slightly defective. Loading of early recombination proteins RAD51 and DMC1 is unaffected, indicating that ACOZ1 is not required for double strand break formation or repair. However, crossover formation is severely disturbed. The ACOZ1 protein localizes on the boundary of chromatin, rather than directly to chromosomes. Furthermore, we identified that ACOZ1 interacts with SKP1 through its C-terminus, revealing that it acts as a subunit of the SCF E3 ubiquitin/SUMO ligase complex. Overall, our results suggest that ACOZ1 functions independently from the core meiotic recombination pathway to influence crossover formation by controlling chromosome compaction during maize meiosis.
+
+<a href='mailto:jj696@cornell.edu'>Jing, Juli</a><sup>1</sup><br><a href='mailto:846212505@qq.com'>Wu, Nan</a><sup>1</sup><br><a href='mailto:17110700018@fudan.edu.cn'>Xu, Wanyue</a><sup>2</sup><br><a href='mailto:yx_wang@fudan.edu.cn'>Wang, Yingxiang</a><sup>2</sup><br><a href='mailto:wp45@cornell.edu'>Pawlowski, Wojciech P.</a><sup>3</sup><br><a href='mailto:yh352@cau.edu.cn'>He, Yan</a><sup>1</sup><br>
+
+<sup>1</sup>National Maize Improvement Center of China, China Agricultural University, Beijing 100094, China<br><sup>2</sup>School of Life Sciences, Fudan University, Shanghai 200438, China<br><sup>3</sup>School of Integrative Plant Science, Cornell University, Ithaca, NY 14853, USA<br>

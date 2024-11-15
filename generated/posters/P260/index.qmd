@@ -1,0 +1,20 @@
+---
+title: "Reconsidering the genetic diversity underlying photoperiod-sensitivity for maize adaption to climate change."
+subtitle: "P260"
+author: "Justine Drouault"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5e/Aztec_Diet_Basket_of_Corn_%289755332575%29.jpg"
+categories: 
+- Quantitative Genetics & Breeding
+- Even Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Flowering time, which is fundamental to local adaptation and crop productivity, is controlled by integrated networks of external and endogenous signals. This includes modules for sensing photoperiod and temperature. The spread of maize from its tropical origins to latitudes of the north temperate zone has shifted the control of flowering time toward temperature regulation and away from photoperiod sensitivity. Considering that rising temperatures will hasten flowering times in temperate maize, we hypothesize that reintroducing partial photoperiod-sensitivity can facilitate adaption to climate change. To better understand and model this reintroduction, the ecophysiological basis of flowering time and its genetic control must be elucidated. We test whether a field network constituting a photoperiod gradient can be used to define the physiological reaction norm for flowering time (PRN-FT) in maize, which decomposes autonomous and environment-dependent components of flowering time regulation in a genotype-specific manner. Our results show how selection restructures flowering time plasticity and has shaped the phenotypic space for flowering time in maize. Additional work is ongoing to: (i) characterize the PRFN-FT in near-isogenic lines with introgressions spanning photoperiod sensitive loci (tiling path of haplotypes from tropical lines introgressed into temperate genetic backgrounds), thereby testing the impact of reintroduced photoperiod alleles; (ii) use crop modeling to broadly evaluate the potential for using photoperiod sensitivity to counteract negative effects of warming on flowering time adaptation. Overall, this research provides a deeper understanding of the environmental and genetic controls of flowering time in maize, and helps evaluating the merits of reintroducing photoperiod-sensitivity in temperate-adapted maize varieties.
+
+<a href='mailto:justine.drouault@inrae.fr'>Drouault, Justine</a><sup>1 2</sup><br><a href='mailto:claude.wlecker@inrae.fr'>Welcker, Claude</a><sup>1</sup><br><a href='mailto:pierre.martre@inrae.fr'>Martre, Pierre</a><sup>1</sup><br><a href='mailto:carine.palaffre@inrae.fr'>Palaffre, Carine</a><sup>3</sup><br><a href='mailto:randall.wisser@inrae.fr'>Wisser, Randall, Jerome</a><sup>1 4</sup><br>
+
+<sup>1</sup>Laboratory of Plant Ecophysiology under Environmental Stress, INRAE, 34060 Montpellier, FR<br><sup>2</sup>University of Montpellier, Faculté des Sciences Campus Triolet, 34060 Montpellier, FR<br><sup>3</sup>Experimental Unit of Maize, INRAE, 40390 ST Martin De Hinx, FR<br><sup>4</sup>Department of Plant and Soil Sciences, University of Delaware, Newark, Delaware, 19716, USA<br>

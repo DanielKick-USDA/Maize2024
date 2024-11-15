@@ -1,0 +1,20 @@
+---
+title: "Brobot & RootTaggingGui: An image acquisition and processing pipeline for high-volume phenotyping"
+subtitle: "P139"
+author: "Joseph Cristiano"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e5/ENIAC-changing_a_tube.jpg"
+categories: 
+- Computational and Large-Scale Biology
+- Odd Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Collecting brace root phenotyping data is instrumental to understanding the development and structural contributions of brace roots in maize and sorghum. Phenotypes such as brace root width, whorl count, emerged brace root count per whorl, and geometric attributes of stalk-to-ground architecture are extremely difficult and time-consuming to collect manually in the field. To efficiently collect this data at a large scale, we have developed the Brace Root Robot, named Brobot ( bˈrəʊbɒt ), a remote-controlled sand-crawler droid that takes high-fidelity images of brace roots in the field as it is piloted between rows. To extract the phenotyping features from these images, we have developed RootTaggingGUI to easily measure attributes of brace root architecture using pixel distances. In this poster, we discuss the accuracy and efficiency of the current implementation, as well as the improvements planned for the future, including a development path to autonomous driving of the Brobot and autonomous phenotypic feature extraction.
+
+<a href='mailto:jcristia@udel.edu'>Cristiano, Joseph</a><sup>1</sup><br><a href='mailto:esparks@udel.edu'>Sparks, Erin</a><sup>1</sup><br>
+
+<sup>1</sup>Department of Plant and Soil Sciences, University of Delaware, Newark, DE, USA 19713<br>

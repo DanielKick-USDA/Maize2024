@@ -1,0 +1,20 @@
+---
+title: "Quantitative genetic analysis of variants contributing to variation in yield component traits in maize"
+subtitle: "P259"
+author: "Waqar Ali"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5e/Aztec_Diet_Basket_of_Corn_%289755332575%29.jpg"
+categories: 
+- Quantitative Genetics & Breeding
+- Odd Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+The genetic enhancement of corn yield is a centra/l aim in modern agriculture, crucial for advancing global food security and sustainable farming techniques. In this study, we utilized a dataset comprising of 750 corn genotypes from the Wisconsin Diversity Panel, collected over the years 2020 and 2021, to dissect the complex genetic determinants of yield. Being a composite trait, yield is determined by various factors including the number of plants per acre, ears per plant, kernels per row, and the weight of 100 kernels. We are calculating the Best Linear Unbiased Estimates (BLUEs) for these yield components to get the reliable phenotypic values for each analyzed trait. We are adjusting complex spatial variability present in field trials by considering genotype, environment, and genotype x environment interaction. (G, E, G x E). A resampling-based Genome-Wide Association Study (RMIP-GWAS) will be applied to identify genetic variants linked to the yield components using 1.6 million SNP markers. By examining the capacity of genetic markers to enhance yield prediction, we will hope for candidate genes expected to significantly influence yield variability. For potentially identified candidate genes mutants will be ordered and backcrossed to introduce these mutations into diverse genotypes. These new genotypes will be characterized to validate the effects of the identified genes on yield. Our research will aim to improve the prediction accuracy and breeding potential of yield for diverse populations in nearby future.
+
+<a href='mailto:wali3@huskers.unl.edu'>Ali, Waqar</a><sup>1</sup><br><a href='mailto:ravi.mural@sdstate.edu'>Mural, Ravi</a><sup>2</sup><br><a href='mailto:marcin.grzybowski@uw.edu.pl'>Grzybowski, Marcin</a><sup>3</sup><br><a href='mailto:schnable@unl.edu'>Schnable, James</a><sup>4</sup><br>
+
+<sup>1</sup>Center for Plant Science Innovation, University of Nebraska-Lincoln, Lincoln, NE, USA 68588<br><sup>2</sup>Department of Agronomy and Horticulture, University of Nebraska-Lincoln, Lincoln, NE, USA 68583-0915<br><sup>3</sup>Department of Agronomy, Horticulture and Plant Science, South Dakota State University, Brookings, SD 57007, USA<br><sup>4</sup>Faculty of Biology, University of Warsaw,Warsaw, Poland 00-927<br>

@@ -1,0 +1,20 @@
+---
+title: "CERCA - Circular Economy that Reimagines Corn Agriculture"
+subtitle: "P204"
+author: "Cinta Romay"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5e/Aztec_Diet_Basket_of_Corn_%289755332575%29.jpg"
+categories: 
+- Quantitative Genetics & Breeding
+- Even Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Maize is the number one production crop in the US and globally, supporting the global food supply as well as portions of the energy system. Nitrogen fertilizer is the largest energy input for maize, and excess nitrogen results in water pollution and contributes 6% of the entire US GHG (55% of agricultural emissions) through nitrous oxide release. To ensure the sustainability of agricultural systems, improvements to genetics and management practices that would minimize maize’s contributions to climate change and water pollution are necessary. A team of scientists from across the US is working together to start solving this problem. Their research aims to create a Circular Economy that Reimagines Corn Agriculture (CERCA) - converting maize to an earlier season annual with reduced environmental impacts through increased uptake and recycling of nitrogen and phosphorus fertilizer. The team is organized in three highly integrated activities: (1) Modeling of plants, farms, environments, and economics to determine the most important combinations of traits and environments likely to benefit from new cropping systems. (2) Trait Discovery through evaluation of related wild species and maize landraces that recycle nutrients and have some cold tolerance. (3) Trait Development through stacking and testing of genetic improvements predicted to have substantial impact. This project is starting with seven native trait concepts focused on greater on-farm nutrient recycling: nitrogen remobilization to roots, reduction of nitrogen and phosphorus in the kernel, biological nitrification inhibition, germination and seedling cold tolerance, and seedling establishment in cool temperatures. CERCA reimagines the cycle of planting and fertilization without changing most of the existing equipment and processes, thus making adoption more likely and efficient.
+
+<a href='mailto:mcr72@cornell.edu'>Romay, M. Cinta</a><sup>1</sup><br>CERCA, Team<sup>2</sup><br><a href='mailto:ed.buckler@usda.gov'>Buckler, Edward S.</a><sup>1 3 4</sup><br>
+
+<sup>1</sup>Institute for Genomic Diversity, Cornell University, Ithaca, NY, USA 14853<br><sup>2</sup>USDA-ARS & US Universities<br><sup>3</sup>School of Integrative Plant Sciences, Plant Breeding and Genetics Section, Cornell University, Ithaca, NY, USA 14853<br><sup>4</sup>USDA-ARS, Robert W. Holley Center for Agriculture and Health, Ithaca, NY, USA 14853<br>

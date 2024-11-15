@@ -1,0 +1,20 @@
+---
+title: "Unlocking meiotic recombination in the maize genome."
+subtitle: "P59"
+author: "Mateusz Zelkowski"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/05/DNA_base-pair_diagram.jpg"
+categories: 
+- Biochemical and Molecular Genetics
+- Odd Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Meiotic recombination involves the programmed exchange of DNA material between homologous chromosomes, known as crossing-over (CO). In maize, as in many other higher eukaryotes, only a small fraction of the genome (approximately 5%) harbors COs. Furthermore, CO sites are mostly clustered at defined genomic locations called CO hotspots. In maize mechanisms that maintain CO hotspots and establish new ones remain poorly understood. Our research indicates that decreased nucleosomes density and reduced DNA methylation are critical features of CO sites in maize. Thus, changing the chromatin state may impact CO landscape. To test this hypothesis in maize, we investigated the effects of chromatin structure changes on meiotic recombination using two maize mutants: decreased DNA methylation (ddm1) and methyltransferase2 (zmet2). These studies demonstrated that mutations of the Ddm1 and Zmet2 genes resulted in an increased number of COs and reshuffled CO patterning chromosome-wide. The ddm1 mutation increased CO numbers by 70% and lead to the formation of new CO hotspots at distal chromosome sites, while the zmet2 mutation boosted COs by 22% and redirected them to interstitial chromosome segments. Interestingly, both mutants displayed COs at genomic sites where COs are not detected in wild type. Detailed analysis of the CO sites in the mutants revealed two separate mechanisms of unlocking genomic loci for recombination. COs ddm1 exhibited reduced DNA methylation but no significant changes in nucleosome density, whereas COs in zmet2 showed decreased nucleosome density without a substantial decrease in DNA methylation. These results demonstrate that altering in chromatin structure can unleash meiotic recombination in chromosome regions that are normally recombination inert, therefore possible will be to create recombination landscape by design.
+
+<a href='mailto:mz548@cornell.edu'>Zelkowski, Mateusz</a><sup>1</sup><br>Bukowski, Robert<sup>1</sup><br>Epstein, Ruth<sup>1</sup><br>Wang, Minghui<sup>1</sup><br>Zhou, Adele<sup>1</sup><br>Zelkowska, Kasia<sup>1</sup><br><a href='mailto:wp45@cornell.edu'>Pawlowski, Wojciech</a><sup>1</sup><br>
+
+<sup>1</sup>Cornell University, Ithaca, NY 14853, USA<br>

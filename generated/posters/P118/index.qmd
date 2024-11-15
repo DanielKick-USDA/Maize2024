@@ -1,0 +1,20 @@
+---
+title: "Tracking S-phase progression: Sequential dual labeling of replicated DNA with EdU and BrdU in maize root tips"
+subtitle: "P118"
+author: "Emily Wear"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c1/Protective_Coleoptile_Tip_in_Zea_Mays_Embryo_%2847691344541%29.jpg"
+categories: 
+- Cell and Developmental Biology
+- Even Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Monitoring the progression of DNA replication can give insights into S phase and overall cell cycle kinetics. For this purpose, the thymidine analogs, 5-ethynyl-2 ́-deoxyuridine (EdU) and 5-bromo-2 ́-deoxyuridine (BrdU), have been used extensively to label newly replicated DNA during S phase. Combining both analogs in a sequential EdU followed by BrdU dual-pulse opens new opportunities for further defining S-phase kinetics using less experimental material. We adapted procedures for EdU-BrdU dual pulse labeling from mammalian cell lines and incorporated them with our published procedures for single-labeling with EdU in maize root tips for analysis by flow cytometry and fluorescence microscopy. Key technical optimization steps will be presented, including appropriate controls and how to monitor and balance the optimal DNA denaturation for BrdU antibody detection while maintaining sufficient double-stranded DNA for DAPI intercalation and DNA content measurements. This approach can be applied with various labeling times to enable new questions about different spatio-temporal aspects of S-phase progression. For example, by first labeling with EdU to identify cells in S phase, followed by a 1-hour thymidine chase, and then labeling with BrdU, we can determine how many cells have exited S phase at a later time point. By quantifying these populations with a flow cytometer, S-phase duration can be estimated from a single sample. In contrast, the EdU-only approach required lengthy time courses and much more plant material to estimate S-phase duration. In addition, combining dual labeling with fluorescence activated nuclei sorting (FANS) allows for the characterization of cytologically distinct labeling patterns separated by defined time intervals within single nuclei, revealing aspects of DNA replication progression.
+
+<a href='mailto:emily_wear@ncsu.edu'>Wear, Emily E.</a><sup>1</sup><br><a href='mailto:lamickel@ncsu.edu'>Mickelson-Young, Leigh</a><sup>1</sup><br><a href='mailto:ha20be@fsu.edu'>Akram, H. Sara</a><sup>2</sup><br><a href='mailto:cml22i@fsu.edu'>Lezama, Christine</a><sup>2</sup><br><a href='mailto:mcburro3@ncsu.edu'>Burroughs, Mason</a><sup>1 3</sup><br><a href='mailto:caschob2@ncsu.edu'>Schober-Colburn, Christel</a><sup>1</sup><br><a href='mailto:eamarkha@ncsu.edu'>Wheeler, Emily A.</a><sup>1</sup><br><a href='mailto:bass@bio.fsu.edu'>Bass, Hank W.</a><sup>2</sup><br><a href='mailto:linda_hanley-bowdoin@ncsu.edu'>Hanley-Bowdoin, Linda</a><sup>1</sup><br><a href='mailto:wftb@ncsu.edu'>Thompson, William F.</a><sup>1</sup><br>
+
+<sup>1</sup>North Carolina State University; Department of Plant and Microbial Biology; Raleigh, NC USA 27695<br><sup>2</sup>Florida State University; Department of Biological Science, Tallahassee, FL USA 32306<br><sup>3</sup>Current Address: North Carolina State University; Department of Entomology and Plant Pathology; Raleigh, NC USA 27695<br>

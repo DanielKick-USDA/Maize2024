@@ -1,0 +1,20 @@
+---
+title: "A nuclear moonlighting function of maize trehalose-6-phosphate phosphatase in inflorescence branching"
+subtitle: "P61"
+author: "Xiaosa Xu"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c1/Protective_Coleoptile_Tip_in_Zea_Mays_Embryo_%2847691344541%29.jpg"
+categories: 
+- Cell and Developmental Biology
+- Odd Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Plant development emerges from stem cell populations called meristems, which control organ initiation and branching. RAMOSA3 (RA3), a classical maize developmental gene, controls inflorescence branching, and encodes a trehalose phosphate phosphatase enzyme. Our recent genetic and cell biology studies found that RA3 has a potentially non-enzymatic moonlighting function, since its phenotype can be uncoupled from catalytic activity. Furthermore, RA3 protein phase separates and forms nuclear speckles, suggesting that it associates with transcriptional regulatory machinery in the nucleus. To tackle the mystery of the nuclear moonlighting function of RA3, we performed ethyl methyl sulfonate (EMS) mutagenesis and screening of ra3 mutants, and identified an enhancer, indeterminate spikelet1 (ids1). IDS1 is an AP2 type transcription factor that controls spikelet and floret development. By carefully examining the early developmental stages of ra3;ids1 double mutants, we found that floral meristems were transformed into branches, rather than forming florets. We confirmed these findings by crossing ra3 with additional ids1 alleles and conducting allelism tests. Using in-situ hybridization, we found RA3 and IDS1 were co-expressed in the boundary regions between floral meristems, which was also supported by our single-cell transcriptomic profiling data. To further examine if IDS1 might be involved in the hypothetical transcriptional regulatory function of RA3, we checked for physical interactions between RA3 and IDS1 in planta. Indeed, we found that RA3 and IDS1 proteins interact in nuclear speckles, reminiscent of the nuclear speckle localization of RA3. By further performing RNA-seq for ra3 and ids1 single and double mutants, we identified downstream candidate genes that were co-regulated by the putative RA3-IDS1 complex. Together, our data suggest that RA3 had a nuclear regulatory role in controlling inflorescence branching by interacting with the transcription factor, IDS1.
+
+<a href='mailto:xjkxu@ucdavis.edu'>Xu, Xiaosa</a><sup>1 2</sup><br>Claeys, Hannes<sup>1 4</sup><br>Tran, Thu<sup>1</sup><br>Lang Vi, Son<sup>1 5</sup><br>Chuck, George<sup>3</sup><br>Jackson, David<sup>1</sup><br>
+
+<sup>1</sup>Cold Spring Harbor Laboratory, Cold Spring Harbor, NY, 11724, USA<br><sup>2</sup>Department of Plant Biology, University of California, Davis, CA, 95616, USA<br><sup>3</sup>Plant Gene Expression Center, UC Berkeley, Albany, CA, 94710, USA<br><sup>4</sup>Current address: Inari, Industriepark 7A, 9052 Zwijnaarde, Belgium<br><sup>5</sup>Current address: Agricultural Genetics Institute, Hanoi, Vietnam<br>

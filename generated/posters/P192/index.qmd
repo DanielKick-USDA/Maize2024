@@ -1,0 +1,20 @@
+---
+title: "A case for GERM: calculating Genotype by Environment by Rhizosphere Microbiome interactions to improve crop yield and resilience."
+subtitle: "P192"
+author: "Nate Korth"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5e/Aztec_Diet_Basket_of_Corn_%289755332575%29.jpg"
+categories: 
+- Quantitative Genetics & Breeding
+- Even Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Genotype by Environment interactions in maize have been extensively studied to understand genetic drivers of environmental adaptation, still many mechanisms of GxE remain elusive. The root associated microbiome (rhizosphere microbiome) benefits the host plant by increasing nutrient availability, growth via plant hormones, and resistance to pathogens. These benefits can be thought of as an expansion of the genomic and metabolic capabilities of the host plant. The plant microbiome is determined by host genetic and environmental factors. Many studies treat the microbiome as a phenotype of plants impacted by plant genotype and the environment. While this is useful for elucidating genetic and environmental factors that shape rhizobial communities, we argue the rhizosphere microbiome should be treated as a separate variable in determinations and predictions of plant phenotypes such as yield and resilience to climate stress. We propose a pilot scale experiment to address the hypothesis that the three-way interaction between maize genotype, environment and the rhizosphere microbiome significantly impacts maize stress tolerance while uncovering maize-driven microbial mechanisms of environmental adaptation.
+
+<a href='mailto:nate.korth@gmail.com'>Korth, Nate</a><sup>1</sup><br><a href='mailto:jlgage@ncsu.edu'>Gage, Joseph L.</a><sup>1</sup><br>
+
+<sup>1</sup>Department of Crop and Soil Sciences, North Carolina State University, Raleigh, NC USA 27695<br>

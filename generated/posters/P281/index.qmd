@@ -1,0 +1,20 @@
+---
+title: "Bi-directionally expressed enhancers harbor the molecular signatures of maize domestication"
+subtitle: "P281"
+author: "Jonathan Cahn"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b3/Genetic_corn.jpg"
+categories: 
+- Transposons & Epigenetics
+- Odd Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Early maize lines were domesticated from Teosinte parviglumis, with subsequent introgressions from Teosinte mexicana. Domestication traits in modern maize include increased kernel row number, loss of the hard fruit case and dissociation from the cob upon maturity, as well as fewer tillers. Molecular approaches have identified several transcription factors involved in the development of these traits. However, these studies have also shown that a more complex regulatory network is responsible for these strong morphological differences than originally hypothesized, and our understanding of the tissue-specific regulation as well as of its variability across inbred lines is still lacking.In this study, we investigate the transcriptional regulation that resulted from the domestication process, focusing on conservation and variability across multiple tissues and inbred lines. We generated histone-modification and transcription factor ChIP-seq in parallel with transcriptomics datasets in up to 5 different tissues of 3 inbred lines which span the phenotypic diversity of maize inbreds, as well as the teosinte inbred TIL11. We then developed an automatized computational pipeline to integrate these datasets as well as publicly available data, and which could also be applied to any organism.We identified regulatory regions in each tissue of each inbred, including those responsible for the tissue-specific expression of developmental genes. This integrative analysis refines the functional annotation of the genome, notably by identifying distal enhancers with bi-directionnally expressed enhancer RNAs, reminiscent of “super enhancers” in animal genomes. We show that, even though pollen grains are the most differentiated tissue on a transcriptomic level, and especially with respect to the regulation of transposable elements, ears show the least conservation both in gene expression and within regulatory regions, reflecting conspicuous morphological and physiological differences between maize and teosinte.The identification of the molecular signatures of the domestication process improves our understanding of transcriptional regulation in maize and can provide a framework for directed breeding strategies in plants.
+
+<a href='mailto:jcahn@cshl.edu'>Cahn, Jonathan</a><sup>1</sup><br><a href='mailto:regulski@cshl.edu'>Regulski, Michael</a><sup>2</sup><br><a href='mailto:jlynn@cshl.edu'>Lynn, Jason</a><sup>1</sup><br><a href='mailto:eernst@cshl.edu'>Ernst, Evan</a><sup>1</sup><br><a href='mailto:cdesanti@cshl.edu'>de Santis Alves, Cristiane</a><sup>1</sup><br><a href='mailto:srividya.ramki@gmail.com'>Ramakrishnan, Srividya</a><sup>3</sup><br><a href='mailto:kchougul@cshl.edu'>Chougule, Kapeel</a><sup>2</sup><br><a href='mailto:weix@cshl.edu'>Wei, Xuehong</a><sup>2</sup><br><a href='mailto:xxu@cshl.edu'>Xiaosa, Xu</a><sup>2</sup><br><a href='mailto:drenkow@cshl.edu'>Drenkow, Jorg</a><sup>2</sup><br><a href='mailto:mccombie@cshl.edu'>McCombie, Richard</a><sup>2</sup><br><a href='mailto:ware@cshl.edu'>Ware, Doreen</a><sup>2</sup><br><a href='mailto:jacksond@cshl.edu'>Jackson, David</a><sup>2</sup><br><a href='mailto:mschatz@cs.jhu.edu'>Schatz, Michael</a><sup>2 3</sup><br><a href='mailto:gingeras@cshl.edu'>Gingeras, Thomas R</a><sup>2</sup><br><a href='mailto:martiens@cshl.edu'>Martienssen, Robert A</a><sup>1</sup><br>
+
+<sup>1</sup>Howard Hughes Medical Institute, Cold Spring Harbor Laboratory; 1 Bungtown Road, Cold Spring Harbor, NY, USA 11724<br><sup>2</sup>Cold Spring Harbor Laboratory; 1 Bungtown Road, Cold Spring Harbor, NY, USA 11724<br><sup>3</sup>Johns Hopkins University; 1900 E. Monument Street, Baltimore, MD, USA 21205<br>

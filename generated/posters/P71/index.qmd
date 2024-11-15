@@ -1,0 +1,20 @@
+---
+title: "Coupling computer vision with spatial analysis of cell patterning allows the genetic basis for stomatal density to be dissected into component traits related to known developmental mechanisms in maize"
+subtitle: "P71"
+author: "John Hodge"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c1/Protective_Coleoptile_Tip_in_Zea_Mays_Embryo_%2847691344541%29.jpg"
+categories: 
+- Cell and Developmental Biology
+- Odd Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Stomata regulate leaf gas exchange of CO2 and water vapor, i.e. water use efficiency (WUE). Stomatal development has been studied as a model system for understanding regulation of cell fate, and to reveal how stomatal patterning influences leaf gas exchange. However, the genetic architecture of stomatal patterning is primarily understood only for the coarse, composite traits stomatal density (SD) and stomatal index (SI). Stomatal patterning is flexible, so multiple genotypes can possess equivalent SD or SI while possessing different epidermal cell sizes/patterns. Therefore, analyzing the component traits underlying SD would be valuable. Optical tomography and AI-enabled computer vision can now rapidly generate large data sets of the relative positions of stomata on the epidermis. This study used such data from a B73 x Ms71 mapping population to develop a novel method that statistically summarizes the self-repeating mosaic, or tessellation, of stomata on the maize leaf surface in terms of 2D kernel density distributions (KDDs). A set of traits describing variation in the KDDs was subjected to principle components analysis and structural equation modeling for dimension reduction and to assess trait interactions. The trait set includes features consistent with known developmental mechanisms regulating independent elements of patterning along the medial versus longitudinal axes of the leaf. Linear models featuring the core trait set explained 74% of the variation in SD. Ten quantitative trait loci (QTL) for SD also associated with KDD-derived patterning traits. Seven SD QTL were exclusively associated with medial KDD-derived traits. Three QTL were associated with both medial and longitudinal KDD-derived traits. Medial QTL also colocalized with specific leaf area QTL i.e. measures of leaf blade thickness and density. Overall, these spatial methods provide a case study for atomizing histology into orthogonal components, identifying their distinct genetic drivers, and refining our understanding of how complex traits like SD arise.
+
+<a href='mailto:jghodge@illinois.edu'>Hodge, John G</a><sup>1</sup><br><a href='mailto:leakey@illinois.edu'>Leakey, Andrew DB</a><sup>1 2 3 4</sup><br>
+
+<sup>1</sup>Center for Advanced Bioenergy and Bioproducts Innovation, UIUC<br><sup>2</sup>Departments of Plant Biology and Crop Science, UIUC<br><sup>3</sup>Institute for Genomic Biology, UIUC<br><sup>4</sup>Center for Digital Agriculture, UIUC<br>

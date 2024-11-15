@@ -1,0 +1,20 @@
+---
+title: "Vgt1: a cis-regulatory element regulating flowering time and growth speed"
+subtitle: "P295"
+author: "Maike Stam"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b3/Genetic_corn.jpg"
+categories: 
+- Transposons & Epigenetics
+- Odd Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+The identification and characterization of cis-regulatory DNA sequences and how they coordinate responses to developmental and environmental cues is of paramount importance to plant biology. Although thousands of candidate cis-regulatory sequences have been identified in maize, few cis-regulatory elements have been well characterized. We are studying the function of Vgt1, a predicted regulatory element located about 70 kb upstream of the floral repressor gene ZmRap2.7, in more detail. Consistent with a function as enhancer of ZmRap2.7, Vgt1 contains an accessible chromatin region. It however lacks significant enrichment of H3K9ac, a histone modification often observed at active regulatory sequences. Silencing of Vgt1 by RNA-directed DNA methylation results in earlier flowering, and in addition accelerates the growth speed. Expression analysis by RT-qPCR on different leaf areas during plant development indicated ZmRap2.7downregulation in leaf 4 of V3 plants upon silencing of Vgt1. Consistent with the role of ZmRap2.7 in flowering, DNA methylation of Vgt1 resulted in earlier and higher ZCN8, MADS67 and ZMM4 expression in leaves during plant development. RNA-seq analyses confirmed the downregulation of ZmRap2.7 expression in Vgt1 silenced plants. Altogether our data are consistent with Vgt1 acting as enhancer of ZmRap2.7. · Weber et al. (2016) Trends in Plant Science 21, 974. doi: 10.1016/j.tplants.2016.07.013.· Oka et al. (2017) Genome Biology 18:137. doi: 10.1186/s13059-017-1273-4. · Schmitz, Grotewold, Stam (2022) The Plant Cell 34:718. doi.org/10.1093/plcell/koab281.
+
+<a href='mailto:johan.zicola@uni-goettingen.de'>zicola, Johan</a><sup>1 2</sup><br><a href='mailto:blaise.weber@gmail.com'>Weber, Blaise</a><sup>3</sup><br><a href='mailto:dzisis1986@gmail.com'>Zisis, Dimitrios</a><sup>4</sup><br><a href='mailto:stijn.aesaert@psb.vib-ugent.be'>Aesaert, Stijn</a><sup>5</sup><br><a href='mailto:R.bader@uva.nl'>Bader, Rechien</a><sup>3</sup><br><a href='mailto:silvio.salvi@unibo.it'>Salvi, Silvio</a><sup>6</sup><br>Lijsebettens, Mieke Van<sup>5</sup><br><a href='mailto:pkra@igr.poznan.pl'>Krajewski, Pawel</a><sup>4</sup><br><a href='mailto:stefan.scholten@uni-goettingen.de'>Scholten, Stefan</a><sup>2</sup><br><a href='mailto:turck@mpipz.mpg.de'>Turck, Frnziska</a><sup>1</sup><br><a href='mailto:m.e.stam@uva.nl'>Stam, Maike</a><sup>3</sup><br>
+
+<sup>1</sup>Max Planck Institute for Plant Breeding, Carl-von-Linné 10, 50829 Cologne, Germany<br><sup>2</sup>Georg-August-Universität Göttingen, Von-Siebold-Str. 8, 37075 Göttingen, Germany<br><sup>3</sup>University of Amsterdam, Science Park 904, 1098 XH Amsterdam, The Netherlands<br><sup>4</sup>Institute of Plant Genetics, Polish Academy of Science, Strzeszyńska 34, 60-479 Poznań, Poland<br><sup>5</sup>VIB-UGent Center for Plant Systems Biology, Technologiepark 9279052 Gent, Belgium<br><sup>6</sup>Universita di Bologna,Viale Fanin 44, 40127, Bologna, Italia<br>

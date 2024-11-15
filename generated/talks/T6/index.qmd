@@ -1,0 +1,19 @@
+---
+title: "Optimized ZmWOX2A-based transformation system enhances somatic embryogenesis, transformation efficiency and gene editing efficiency in maize (Zea mays L.) and sorghum (Sorghum bicolor L.)"
+subtitle: "T6"
+author: "Jonathan Matheka"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c1/Protective_Coleoptile_Tip_in_Zea_Mays_Embryo_%2847691344541%29.jpg"
+categories: 
+- Cell and Developmental Biology
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Embryogenic cultures are key components of many maize genome engineering/editing systems. Production of embryogenic cultures is, however, highly genotype dependent. Previously, we identified an embryogenesis-related maize gene, ZmWOX2A, and demonstrated that when constitutively expressed it enabled somatic embryogenesis and regeneration of phenotypically normal plants of the recalcitrant maize genotype, B73. Initial comparisons with a BBM+WUS-based system showed that the constitutive ZmWOX2A system generally resulted in lower somatic embryogenesis and transformation frequencies (TF). To optimize the ZmWOX2A-based system, the effects of 6 terminators, 6 promoters, and 6 enhancer-containing introns were evaluated as components of the ZmWOX2A transcriptional unit (TU). Of the 6 termination sequences tested, the tobacco extensin terminator (EUt) significantly increased ZmWOX2A-induced somatic embryogenesis (SE) and was used in TUs testing promoter and intron effects. The promoters driving expression of ZmWOX2A that were tested for effects on TF and plant phenotype included constitutive (ZmUbi1p), scutella epidermis-specific (PLTPp), and 4 novel, embryo-specific promoters we recently cloned and characterized. Significantly more somatic embryos were produced per explant with the ZmUbi1p, relative to PLTPp; however, there was no significant difference in TFs between the ZmUbi1p- or PLTPp-driven ZmWOX2A/EUt constructs. Two of the four embryo-specific promoters yielded efficient TFs, but below that of either the ZmUbi1 or PLTP promoters. The highest performing embryo-specific promoter (Php20719a) was then paired in 6 intron combinations to compare effects on TF in the ZmWOX2A system. Three of the introns significantly increased TF of the Php20719ap-containing TUs more than that of the unmodified Php20719ap, two of which also outperformed PLTPp. Optimized ZmWOX2A TUs were then tested on several maize and sorghum genotypes and efficient TFs achieved in both species. Optimized vectors were also tested in maize editing experiments and resulted in efficient generation of edited, phenotypically normal plants and progeny.
+
+<a href='mailto:matheka@wisc.edu'>Matheka, Jonathan M.</a><sup>1</sup><br><a href='mailto:rcollier2@wisc.edu'>Collier, Ray</a><sup>1</sup><br><a href='mailto:nwalter8888@gmail.com'>Walter, Nathalie</a><sup>1</sup><br><a href='mailto:animasaun@wisc.edu'>Animasaun, David</a><sup>1 3</sup><br><a href='mailto:smkaeppl@wisc.edu'>Kaeppler, Shawn M.</a><sup>1 2</sup><br><a href='mailto:hfkaeppl@wisc.edu'>Kaeppler, Heidi F.</a><sup>1 2</sup><br>
+
+<sup>1</sup>Wisconsin Crop Innovation Center, University of Wisconsin, Middleton, WI, USA<br><sup>2</sup>Department of Plant and Agroecosystem Sciences, University of Wisconsin, Madison, WI, USA<br><sup>3</sup>Department of Plant Biology, University of Ilorin, Ilorin, Nigeria<br>

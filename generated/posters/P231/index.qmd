@@ -1,0 +1,20 @@
+---
+title: "Genomic prediction and landscape genomics in a large maize landraces collection using high-throughput pool genotyping identifies promising sources of diversity for prebreeding"
+subtitle: "P231"
+author: "Alain Charcosset"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5e/Aztec_Diet_Basket_of_Corn_%289755332575%29.jpg"
+categories: 
+- Quantitative Genetics & Breeding
+- Odd Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Maize landraces are a valuable source of genetic diversity for facing climate change due to their local adaptation. High-throughput pool genotyping (HPG) is a cost-effective approach to genotype maize landraces and identify promising sources of alleles for tolerance to abiotic stress. We applied this approach on a large collection of European and American maize landraces to i) characterize its genetic structuration; ii) identify genomic regions involved in adaptation through environmental association studies; iii) perform genomic prediction (GP) of both adaptive and agronomic traits. Landraces were structured according to their history and environmental conditions. GP yielded high accuracy, allowing to identify promising landraces. We identified genomic regions associated with bioclimatic variables that could be putatively involved in adaptation to abiotic stress. Combining eco-genetic and genomic prediction opens an avenue for using these genetic resources for prebreeding.
+
+<a href='mailto:agustin-oscar.galaretto@inrae.fr'>Galaretto, Agustin O.</a><sup>1</sup><br>Gouesnard, Brigitte<sup>2</sup><br>Madur, Delphine<sup>1</sup><br>Ben-Sadoun, Sarah<sup>1</sup><br>Combes, Valérie<sup>1</sup><br>Balconi, Carlotta<sup>4</sup><br>Butrón, Ana<sup>5</sup><br>Revilla, Pedro<sup>5</sup><br>Malvar, Rosa A.<sup>5</sup><br>Zanetto, Anne<sup>6</sup><br>Barata, Ana M.<sup>7</sup><br>Murariu, Danela<sup>8</sup><br>Kravic, Natalija<sup>9</sup><br>Schierscher-Viret, Beate<sup>10</sup><br>r, André<sup>11</sup><br>Mendes-Moreira, Pedro<sup>11</sup><br>Šarčević, Hrvoje<sup>12</sup><br>Menz, Monica<sup>13</sup><br>Lohwasser, Ulrike<sup>13</sup><br>Bauland, Cyril<sup>1</sup><br>Hearne, Sarah<sup>3</sup><br>Goritschnig, Sandra<sup>14</sup><br>Andjelkovic, Violeta<sup>9</sup><br><a href='mailto:alain.charcosset@inrae.fr'>Charcosset, Alain</a><sup>1</sup><br><a href='mailto:stephane.nicolas@inrae.fr'>Nicolas, Stéphane</a><sup>1</sup><br>
+
+<sup>1</sup>Université Paris-Saclay, INRAE, CNRS, AgroParisTech, GQE – Le Moulon, Gif-sur-Yvette, France, 91190<br><sup>2</sup>AGAP, Univ Montpellier, CIRAD, INRAE, Institut Agro, Montpellier, France, F-34398<br><sup>3</sup>CIMMYT, KM 45 Carretera Mexico-Veracruz, El Batan, Mexico, 56237<br><sup>4</sup>CREA-Centro di Ricerca Cerealicoltura e Colture Industriali, Via Stezzano 24, Bergamo, Italy, 24126<br><sup>5</sup>Grupo de Genética y Mejora de Maíz, Departamento de Producción Vegetal, Misión Biológica de Galicia, Spanish National Research Council (CSIC), Pazo de Salcedo, Carballeira 8, Pontevedra, Spain, 36143<br><sup>6</sup>DIASCOPE, Université de Montpellier, INRAE, Institut Agro, Montpellier, France, F-34398<br><sup>7</sup>Banco Português de Germoplasma Vegetal Instituto nacional de Investigação Agrária e Veterinária (BPGV-INIAV) Quinta de S. José S. Pedro de Merelim, Braga, Portugal, 4700-859<br><sup>8</sup>Suceava Genebank, B-dul 1 Mai nr. 17, Suceava, Romania, 720224<br><sup>9</sup>Maize Research Institute Zemun Polje Slobodana Bajica 1, Belgrade - Zemun Polje Serbia, 11185<br><sup>10</sup>Agroscope, Route de Duillier 50, Nyon, Switzerland, 1012<br><sup>11</sup>Polytechnic Institute of Coimbra, Coimbra Agriculture School, Bencanta, Coimbra, Portugal, 3045-601<br><sup>12</sup>Department of Plant Breeding, Genetics and Biometrics, Faculty of Agriculture, University of Zagreb, Svetošimunska cesta 25, Zagreb, Croatia, 10000<br><sup>13</sup>Leibniz Institute of Plant Genetics and Crop Plant Research, Corrensstraße 3, Gatersleben, Germany, 06466<br><sup>14</sup>Alliance of Bioversity International and the International Center for Tropical Agriculture (CIAT), Via di San Domenico, 1, Rome, Italy, 00153<br>

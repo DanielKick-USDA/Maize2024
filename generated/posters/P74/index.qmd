@@ -1,0 +1,20 @@
+---
+title: "Determining the impact of plant architecture on lifespan stalk flexural stiffness"
+subtitle: "P74"
+author: "Irene Ikiriko"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c1/Protective_Coleoptile_Tip_in_Zea_Mays_Embryo_%2847691344541%29.jpg"
+categories: 
+- Cell and Developmental Biology
+- Even Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Plant mechanics is influenced by external dynamic forces interacting with internal forces from developing architectures. However, the mechanisms by which plants adjust their mechanics to adapt to these forces is unknown. To quantify changes in biomechanics over lifespans, we measured stalk flexural stiffness in B73 and Mo17 plants from the vegetative tasseling (VT) stage until reproductive maturity (11 weeks total testing). Our results show that B73 plants are stronger than Mo17 plants over their lifespan. Stalk flexural stiffness is determined by the geometry and material properties of stalks. To account for changes in stalk geometry, we normalized the flexural stiffness by diameter weekly. B73 plants were still stronger than Mo17 plants after normalization. This suggests that the difference in lifespan stalk flexural stiffness between Mo17 and B73 plants may be driven by material properties. We hypothesized that changes in material properties result from the differences in developing plant architectures. To test this hypothesis, we altered plant architecture by either detasseling or replacing tassels with prosthetic tassels at the VT stage. Our results show that Mo17 plants with prosthetic tassels are stronger than Mo17 plants with intact tassels, but neither were different from Mo17 detasseled plants. In contrast, B73 plants with prosthetic tassels were not significantly different from B73 plants with intact tassels but both were stronger than B73 detasseled plants. The influence of architectural alterations is unchanged after normalizing by diameter, thus supporting our hypothesis that material properties are influenced by developing architectures. Together, these findings provide a basis for further investigating the interaction between plant architectures, material properties, and changes in stalk mechanics.
+
+<a href='mailto:iikiriko@udel.edu'>Ikiriko, Irene I.</a><sup>1</sup><br><a href='mailto:esparks@udel.edu'>Sparks, Erin E.</a><sup>1</sup><br>
+
+<sup>1</sup>Department of Plant and Soil Sciences, University of Delaware, Newark, DE 19713, USA<br>

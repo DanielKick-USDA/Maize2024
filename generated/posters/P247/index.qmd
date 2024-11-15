@@ -1,0 +1,20 @@
+---
+title: "Multi-environment multivariate genome wide association studies identify candidate loci underlying cuticular wax accumulation and composition on maize silks."
+subtitle: "P247"
+author: "Matthew Wendt"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5e/Aztec_Diet_Basket_of_Corn_%289755332575%29.jpg"
+categories: 
+- Quantitative Genetics & Breeding
+- Odd Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+As global temperatures rise, precautions must be taken to mitigate the adverse effects of drought on water retention rates in crops. The cuticle is a hydrophobic layer that coats all aerial plant tissues. It consists of a matrix of cutin that is coated by and intercalated with very long chain cuticular waxes to form a barrier that limits rates of non-stomatal water loss and protects against other environmental stresses. We recorded the concentrations of forty-seven very long chain cuticular wax metabolites (hydrocarbons, fatty acids, fatty alcohols) from the silks of 448 inbreds of the Wisconsin Diversity panel, each grown in replicate across three year-by-location environments (Iowa and Minnesota, 2016-2017). Total accumulation varied 17-fold, with hydrocarbon, fatty acid, and fatty alcohol constituents displaying 18-, 23-, and 99-fold variation, respectively. To better understand the genetic mechanisms underlying cuticular wax variation, genome wide association studies (GWAS) were conducted for each trait individually. Further, we conducted multivariate GWAS using multiple wax traits or traits from multiple environments to uncover loci responsible for pleiotropic control of the cuticular wax profile. Combined, GWAS and multivariate GWAS yielded two-hundred unique, high-quality candidates, accounting for a high level of genetic variance across all measured traits; among these candidates are known stress responsive transcription factors and hormone receptors, as well as enzymes involved in wax biosynthesis. These candidate genes could be implemented directly into breeding programs or targeted engineering to ameliorate drought stress in silks, thereby improving pollen reception of the silks.
+
+<a href='mailto:wendtmat@iastate.edu'>Wendt, Matthew M.</a><sup>1</sup><br><a href='mailto:thattery@iastate.edu'>Hattery, Travis J.</a><sup>1</sup><br><a href='mailto:cnhirsch@umn.edu'>Hirsch, Candice N.</a><sup>2</sup><br><a href='mailto:myn@iastate.edu'>Yandeau-Nelson, Marna D.</a><sup>1</sup><br>
+
+<sup>1</sup>Department of Genetics, Development, and Cell Biology, Iowa State University; Ames, Iowa 50011, USA<br><sup>2</sup>Department of Agronomy and Plant Genetics, University of Minnesota; Minneapolis, Minnesota 55455, USA<br>

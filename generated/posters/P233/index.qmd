@@ -1,0 +1,20 @@
+---
+title: "High-throughput phenotyping and machine-learning based approaches for time-series crop assessment using UAV imagery"
+subtitle: "P233"
+author: "Eric Rodene"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5e/Aztec_Diet_Basket_of_Corn_%289755332575%29.jpg"
+categories: 
+- Quantitative Genetics & Breeding
+- Odd Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Modern breeding programs rely heavily on efficient methods to screen large numbers of diverse genotypes for traits of interest, such as disease resistance, drought tolerance, or improved yield. After identifying the genetic loci or genes that associate with these traits using GWAS or functional analyses, it will then benefit future plant breeding efforts seeking to incorporate these traits into new crop varieties, whether through conventional breeding or gene editing techniques. Unmanned aerial vehicle (UAV)-based image data has been increasingly used for this task, as it allows entire test plots to be quickly and cost effectively phenotyped. Previously, we have developed methods to improve accuracy of machine learning techniques for automated tassel counting by removing non-tassel pixels, as well as identify vegetation indices correlated with traits like leaf area, nitrogen (N) content, and kernel weight and then use GWAS to identify genes associated with these UAV-extracted traits. In this study, we used both multispectral and visible color (RGB) image data to develop N-responsive vegetation indices (VI). This enables UAV-based imagery to be used as a reliable predictor of N-responsive traits, and can be leveraged to track plant growth stages and health through the season. Eventually, we will incorporate the N-responsive VIs into the genomic selection pipeline to develop N-resilient maize.
+
+<a href='mailto:eric.rodene@huskers.unl.edu'>Rodene, Eric</a><sup>1</sup><br><a href='mailto:jinliang.yang@unl.edu'>Yang, Jinliang</a><sup>1</sup><br>
+
+<sup>1</sup>Department of Agronomy and Horticulture, University of Nebraska-Lincoln, Lincoln, NE 68583, USA<br>

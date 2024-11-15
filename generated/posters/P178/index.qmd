@@ -1,0 +1,20 @@
+---
+title: "The long journey of Barbara McClintock’s slides defining the NOR"
+subtitle: "P178"
+author: "James Birchler"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/ab/Angiosperm_Morphology_The_Closed_and_Collateral_Vascular_Bundle_in_Zea_%2837215761790%29.jpg"
+categories: 
+- Cytogenetics
+- Even Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+In the spring semester of 1974 at Indiana University, JB took Marcus Rhoades’ Cytogenetics course, which was the last time he taught it. During the course, Rhoades and his assistant Ellen Dempsey used numerous prepared microscope slides to illustrate various chromosomal variations. When Ms. Dempsey retired from IU, she took these slides with her to New York to live in Cornwall on the Hudson. In her holiday letter of 2011, she asked whether anyone wanted the demonstration slides and JB requested them, which arrived in 2012 in Columbia, Missouri. In the summer of 2023, LBK alerted JB that Barbara McClintock might have contributed to this collection. While at the University of Missouri, McClintock had offered slides to Rhoades in a letter dated January 30, 1941 after he had begun his faculty position at Columbia University in 1940 and would initiate a course in Cytogenetics. Later Rhoades moved to the University of Illinois and then to Indiana University. Upon searching through the many slides and their narratives, some were found to be attributed to McClintock. Patrice Albert took pictures of the cells on these slides, and we can match at least one cell to a sketch and photograph in McClintock’s 1934 paper describing the nucleolar organizing region (called nucleolar organizing body in the paper) (McClintock, 1934, The relation of a particular chromosomal element to the development of the nucleoli in Zea mays. Zeitschrift fur Zellforschung und mikroskopische Anatomie). The match to images in this 1934 publication is definitive proof that this slide was used in the definition of the NOR. The affiliation of McClintock for this paper is listed as Caltech. The slide would have been prepared at Caltech by June 1933 when McClintock left and potentially taken with her to Germany from where she submitted the paper and then to Cornell where she returned before she assumed her faculty position at the University of Missouri in 1936. McClintock taught a course in Cytogenetics at Missouri from February to May of 1941. Beginning in the summer of 1941, she took a leave of absence to be a visiting scientist at Cold Spring Harbor Laboratory and a visiting professor at Columbia University in New York City. Thus, at least, the slide journeyed from Pasadena, California potentially to Germany to Ithaca, New York to Columbia, Missouri to New York City to Champaign-Urbana, Illinois to Bloomington, Indiana to Cornwall on the Hudson, New York and finally back to Columbia, Missouri. The other slides attributed to McClintock by Rhoades also focus on the NOR, but the timing of their preparation is unknown, but probably before 1941. The quality of five of the six slides is sufficiently retained to obtain photographs as illustrated together with the narratives of each used by Rhoades and Dempsey. The Caltech slide illustrates the divisibility of the NOR by a translocation with different sizes of nucleoli. The other slides include microspore quartets showing alternate disjunction with and without recombination in the interstitial region as well as adjacent1 disjunction of translocations involving chromosome 6, the site of the NOR.
+
+Birchler, James A.<sup>1</sup><br>Kass, Lee B.<sup>2</sup><br>Albert, Patrice S.<sup>1</sup><br>
+
+<sup>1</sup>University of Missouri, Columbia, MO USA 65211<br><sup>2</sup>Cornell University, Ithaca, NY USA 14853; West Virginia University, Morgantown, WV USA 26506.<br>

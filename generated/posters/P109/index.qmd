@@ -1,0 +1,20 @@
+---
+title: "The maize preligule band is subdivided into distinct domains with contrasting cellular properties prior to ligule outgrowth"
+subtitle: "P109"
+author: "Wesley Neher"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c1/Protective_Coleoptile_Tip_in_Zea_Mays_Embryo_%2847691344541%29.jpg"
+categories: 
+- Cell and Developmental Biology
+- Odd Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+During development, boundaries separate cell populations with different fates. In plants, boundaries have been shown to be regions of restricted growth that make critical contributions to morphogenesis. The maize leaf provides an opportunity to study a relatively accessible boundary region called the preligule band (PLB). The PLB, which forms at the blade-sheath boundary, gives rise to two distinct structures, the ligule, and the auricles. The ligule, a membranous structure that covers the gap between consecutive leaves, arises exclusively from the PLB epidermis. The auricles are wedge-shaped structures that develop immediately distal to the ligule and contribute to blade angle. Here, we characterize ligule development in terms of epidermal topography, cell geometry, division orientation, and cell wall rigidity. The ligule development program is linked to cell wall rigidification within the PLB. Differential growth of cells in the sheath, PLB, and blade contributed to the formation of a shallow ridge within the PLB, which ultimately produces the ligule fringe. Subsequent changes in division plane orientation, cell geometry and cell wall stiffness are consistent with the partitioning of the PLB into at least two distinct zones prior to ligule outgrowth. Our findings lay an important foundation for future experiments and highlight the maize ligular region as a promising system for studying the relationships between gene expression, biomechanics, and growth during plant organogenesis.
+
+<a href='mailto:wnehe001@ucr.edu'>Neher, Wesley R.</a><sup>1</sup><br><a href='mailto:crasmussen@ucr.edu'>Rasmussen, Carolyn G.</a><sup>1 2</sup><br><a href='mailto:siobhanb@ucle.edu'>Braybrook, Siobhan A.</a><sup>3 4</sup><br><a href='mailto:jjaur019@ucr.edu'>Jauregui, Jacob</a><sup>1</sup><br><a href='mailto:vlazetic@ucsd.edu'>Lazetic, Vladimir</a><sup>2</sup><br><a href='mailto:paultimothymooney@gmail.com'>Mooney, Paul T.</a><sup>2</sup><br><a href='mailto:clairestowers@usf.edu'>Stowers, Claire E.</a><sup>2</sup><br><a href='mailto:asylvester@mbl.edu'>Sylvester, Anne W.</a><sup>2</sup><br><a href='mailto:pspringer@ucr.edu'>Springer, Patricia S.</a><sup>1</sup><br>
+
+<sup>1</sup>Department of Botany and Plant Sciences, Center for Plant Cell Biology, University of California, Riverside, CA 92521<br><sup>2</sup>Department of Molecular Biology, University of Wyoming, Laramie, WY 82071<br><sup>3</sup>Department of Molecular, Cell, and Developmental Biology, University of California, Los Angeles, CA 90095<br><sup>4</sup>California NanoSystems Institute, Los Angeles, CA 90095<br>

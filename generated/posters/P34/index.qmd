@@ -1,0 +1,20 @@
+---
+title: "Investigating the mechanism of H3K27me3 mediated gene regulation in plants"
+subtitle: "P34"
+author: "Ankush Sangra"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/05/DNA_base-pair_diagram.jpg"
+categories: 
+- Biochemical and Molecular Genetics
+- Even Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Plants contain a multitude of cell types, yet all these cells arise from the same DNA. Correct spatiotemporal regulation of gene expression is crucial for the production of specialized cell types. This spatiotemporal gene expression is mediated by DNA sequences known as cis-regulatory elements (CREs). CREs, often present in clusters, recruit transcription factors (TFs) to activate or repress local gene expression. In this way, CRE clusters can be classified into two broad categories: enhancers and silencers. Enhancers increase the expression of nearby genes irrespective of the orientation, direction, and distance. Conversely, silencers reduce the expression of the target genes. Some silencer CREs recruit the Polycomb Repressive Complex2, which deposits the transcriptionally repressive histone modification H3K27me3 at nearby sequences. Teosinte branched 1 (Tb1) is one of the major domestication QTL controlling branching in maize. Tb1 is responsible for suppression of axillary bud outgrowth on the main stem and development of female inflorescence in maize. Tb1 expression is controlled by a H3K27me3 regulated distal control region. This Tb1 regulatory region exhibits tissue-dynamic chromatin accessibility and H3K27me3 levels that correspond to Tb1 activation, making it a good model to study how plant CREs regulate histone modifications to control gene expression. This study dissects the roles of the TB1 distal regulatory region by using CRISPR-CAS9 to systematically delete the underlying CREs and determine their roles in controlling TB1 expression. Preliminary phenotypic results showed that Tb1 deletion and specific CRE deletion events produced morphological effects such as tillering and masculinization of the maize ear. Extensive Phenotyping of all the deletion lines is currently being performed as well as understanding how distinct CREs within the Tb1 QTL interact with one another.
+
+<a href='mailto:ankush.sangra@uga.edu'>Sangra, Ankush</a><sup>1</sup><br><a href='mailto:zlchen@waksman.rutgers.edu'>Chen, Zongliang</a><sup>2</sup><br><a href='mailto:amarand@umich.edu'>Marand, Alexandre P.</a><sup>3</sup><br><a href='mailto:mark.minow@uga.edu'>Minow, Mark A. A.</a><sup>1</sup><br><a href='mailto:haley.clause@uga.edu'>Clause, Haley N.</a><sup>1</sup><br><a href='mailto:agallavotti@waksman.rutgers.edu'>Gallavotti, Andrea</a><sup>2</sup><br><a href='mailto:schmitz@uga.edu'>Schmitz, Robert J.</a><sup>1</sup><br>
+
+<sup>1</sup>Department of Genetics, University of Georgia Athens, GA, USA<br><sup>2</sup>Waksman Institute of Microbiology, Rutgers University, Piscataway NJ, USA<br><sup>3</sup>Department of Molecular, Cellular, and Developmental Biology, University of Michigan, Abror, USA<br>

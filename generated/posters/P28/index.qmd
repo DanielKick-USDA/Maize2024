@@ -1,0 +1,20 @@
+---
+title: "Inoculation effect of phosphate-solubilizing bacteria on the microbiota of maize cultivated under different phosphate fertilization conditions"
+subtitle: "P28"
+author: "Sylvia Morais de Sousa Tinoco"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/05/DNA_base-pair_diagram.jpg"
+categories: 
+- Biochemical and Molecular Genetics
+- Even Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Plant Growth Promoting Bacteria (PGPB) are frequently utilized in agricultural settings as bioinoculants due to their positive impact on plant growth. BiomaPhos® stands out as the first Brazilian commercial bioinoculant, featuring a consortium of two P-solubilizing Bacillus strains (CNPMS B2084 and CNPMS B119). Our objective was to assess the influence of BiomaPhos® inoculation and phosphate fertilization on the microbial communities within the maize rhizosphere. Field experiments were conducted at the Embrapa Maize and Sorghum Experimental Station in Sete Lagoas, Minas Gerais, Brazil, using clayey soil (Oxisol) during the 2019/2020 and 2020/2021 seasons. The maize genotype DKB390 underwent inoculation with and without BiomaPhos® and was subjected to three P-fertilizer treatments: no P-fertilizer addition (P0), Rock phosphate (RockP), or triple superphosphate (TSP) at a rate of 120 kg of P2O5 ha-1. Genetic diversity was evaluated during flowering time through T-RFLP, and taxonomic groups were identified using MiCA3 software. In the 2019/2020 harvest, no significant differences in bacterial diversity were observed among treatments. However, in 2020/2021, notable distinctions in bacterial communities emerged between the rhizosphere soil of inoculated and non-inoculated maize crops cultivated with 120 kg.ha-1 of TSP and P0. The predominant bacterial families in the first and second seasons were Streptomycetaceae (34.6% and 40.4%), Micrococcaceae (15.14% and 12.0%), and Methylobacteriaceae (10.9% and 13.7%), respectively. Additionally, there was a noteworthy increase in the abundance of the Rhizobiaceae, Sphingnomonadaceae, and Brucellaceae families, coupled with a significant reduction in the relative abundance of Clostridiaceae, Geobacteraceae, Micrococcaceae, and Pseudomonadaceae in the second season. The comprehension the impact of inoculation should be further investigated. Further exploration is needed to understand the implications of inoculation.
+
+<a href='mailto:raqgoliveira@gmail.com'>Gomes de Oliveira, Raquel</a><sup>1</sup><br><a href='mailto:mlcampolino@gmaill.com'>Lourenço Campolino, Mariana</a><sup>1</sup><br><a href='mailto:eliane.a.gomes@embrapa.br'>Aparecida Gomes, Eliane</a><sup>2</sup><br><a href='mailto:flavia.santos@embrapa.br'>Cristina dos Santos, Flavia</a><sup>2</sup><br><a href='mailto:ubiraci.lana@embrapa.br'>Gomes de Paula Lana, Ubiraci</a><sup>2</sup><br><a href='mailto:christiane.paiva@embrapa.br'>Abreu de Oliveira Paiva, Christiane</a><sup>2</sup><br><a href='mailto:sylvia.sousa@embrapa.br'>Morais de Sousa Tinoco, Sylvia</a><sup>1 2</sup><br>
+
+<sup>1</sup>Federal University of São João del-Rei, São João del-Rei, MG, Brazil, 36301-160<br><sup>2</sup>Embrapa Maize and Sorghum, Sete Lagoas, MG, Brazil, 35701-970<br>

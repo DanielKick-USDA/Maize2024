@@ -1,0 +1,20 @@
+---
+title: "Genetic map-based cloning of two major QTL genes for husk number in maize (Zea Mays)"
+subtitle: "P227"
+author: "Cuixia Chen"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5e/Aztec_Diet_Basket_of_Corn_%289755332575%29.jpg"
+categories: 
+- Quantitative Genetics & Breeding
+- Odd Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+The maize husk provides a suitable environment to protect the early stage of ear growth and development. Reducing the husk leaf number (HLN) properly is one of the main goals in maize breeding to develop new varieties suitable for mechanical harvesting. HLN is a complex quantitative trait which genetic basis remains unclear so far. We investigated HLN on more than 400 maize inbred lines and constructed segregation populations. The HLN QTL genes was mapped and further fine mapped by using recombinant-derived progeny strategy. Two major QTLs qHLN1 and qHLN6 were finally narrowed down and located on chromosome 1 and 6, respectively. qHLN1 was located in the 58Kb physical region, in which only one gene encoding a transcription factor was named ZmHLN1. Through qRT-PCR analysis of NIL-qHLN1BS351 and NIL-qHLN1US043, and EMS mutant with early termination of ZmHLN1 led to more husk leaf number compared with wild type. ZmHLN1 was identified as the target gene controlling husk number. qHLN6 is mapped to 1.2-Kb region in the promoter of ZmHLN6, which also encodes a transcription factor. qHLN6US043 decreased 2~3 husk leaves relative to qHLN6BS351. Two independent mutant lines consistently increase ~10 more husk leaves. qRT-PCR analysis confirmed that ZmHLN6 was highly expressed in NIL-qHLN6US043 relative to NIL-qHLN6BS351. Thus, the 1.2-Kb region in the promoter of ZmHLN6 should contain functional motifs in HLN. Furthermore, the yeast two-hybrid assay (Y2H) and the split firefly luciferase complementation assay in tobacco leaf epidermal cells have been conducted. Both assays showed that ZmHLN1 and ZmHLN6 physically interact in vitro and in vivo. Introgression of qHLN1US043 and qHLN6US043 into modern maize inbreds and hybrids significantly decreased HLN without affecting yield. The analyses of natural variations and domestication characteristics for two genes will be performed to develop new molecular markers for molecular breeding in Maize.
+
+<a href='mailto:sdauwangshukai@163.com'>Wang, Shukai</a><sup>1</sup><br><a href='mailto:xxt_sdjn@163.com'>Xu, Xitong</a><sup>1</sup><br><a href='mailto:wyc5515@163.com'>Wang, Yancui</a><sup>1</sup><br><a href='mailto:ldusheng@163.com'>Lu, Dusheng</a><sup>1</sup><br><a href='mailto:pingpingxu1107@163.com'>Xu, Pingping</a><sup>1</sup><br><a href='mailto:lzh980525@163.com'>Li, Zhenhong</a><sup>1</sup><br><a href='mailto:b1774562702@163.com'>Li, Baokun</a><sup>1</sup><br><a href='mailto:cxchen@sdau.edu.cn'>Chen, Cuixia</a><sup>1</sup><br>
+
+<sup>1</sup>Shandong Agricultural University, Tai’an, Shandong, China 271018<br>

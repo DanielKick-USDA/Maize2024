@@ -1,0 +1,20 @@
+---
+title: "The prediction of Zea mays (maize) and Fusarium graminearum host-pathogen protein-protein interactions using fine-tuned protein language models and diffusion"
+subtitle: "P169"
+author: "Olivia C. Haley"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e5/ENIAC-changing_a_tube.jpg"
+categories: 
+- Computational and Large-Scale Biology
+- Odd Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+In silico methods of predicting protein-protein interactions (PPIs) that drive the plant immune response have been heavily studied in recent years to identify target genes for crop resistance. However, the PPI network between plant hosts and their pathogens is relatively unmapped, likely due to the limited data on known interspecies PPIs in current databases. The objective of this study was to overcome this obstacle by using recent advances in artificial intelligence, and predict interspecies PPIs between maize (Zea mays L.) and plant pathogenic fungi, Fusarium graminearum (ear/stalk rot disease). Firstly, candidate fungal effector proteins from F. graminearum were predicted using the computational biology tools EffectorP and SecretSanta. The binding residues of each effector protein were imputed using ESMBind, and RFdiffusion with Protein-MPNN were used to generate the structures of four potential proteinaceous binders. The binders were filtered by predicted Local Distance Difference Test (pLDDT), predicted Aligned Error (pAE), and root-mean-square deviation (r.m.s.d). Maize proteins which shared structural similarity to the binders were identified using FoldSeek. The interface of each presumptive PPI was then modeled in ColabFold, and the pair was retained if there was evidence for indirect/direct interactions between the two chain’s residues. The maize proteins were enriched for Pfam domains (i.e., Snf7, SNARE, pectin methylesterase inhibitor) and gene ontology terms that indicate the maize binders participate in vesicle transport, membrane trafficking, and enzyme regulation. Although the PPIs need to be experimentally validated, this study presents the framework for generating predictions of interspecies PPIs that can be explored for virtually any plant or pathogen of interest. Understanding these interspecies PPI could aid the development of control strategies that reduce crop disease or identify target genes for developing crop resistance.
+
+<a href='mailto:olivia.haley@usda.gov'>Haley, Olivia C.</a><sup>1</sup><br><a href='mailto:hyeseon.kim@usda.gov'>Kim, Hye-Seon</a><sup>2</sup><br><a href='mailto:stephen.harding@usda.gov'>Harding, Stephen</a><sup>2</sup><br><a href='mailto:rita.hayford@usda.gov'>Hayford, Rita</a><sup>1</sup><br><a href='mailto:margaret.woodhouse@usda.gov'>Woodhouse, Margaret</a><sup>1</sup><br><a href='mailto:taner.sen@usda.gov'>Sen, Taner</a><sup>3</sup><br><a href='mailto:carson.andorf@usda.gov'>Andorf, Carson</a><sup>1</sup><br>
+
+<sup>1</sup>Corn Insects and Crop Genetics Research Unit, US Department of Agriculture – Agricultural Research Service, Ames, IA 50011, USA<br><sup>2</sup>Mycotoxin Prevention and Applied Microbiology Research Unit, US Department of Agriculture – Agricultural Research Service, Peoria, IL 61604, USA<br><sup>3</sup>Crop Improvement Genetics Research Unit, US Department of Agriculture – Agricultural Research Service, Albany, CA 94710, USA<br>

@@ -1,0 +1,20 @@
+---
+title: "Fine mapping and positional cloning of a major root system architecture QTL in maize"
+subtitle: "P220"
+author: "Silvio Salvi"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5e/Aztec_Diet_Basket_of_Corn_%289755332575%29.jpg"
+categories: 
+- Quantitative Genetics & Breeding
+- Even Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Root system architecture (RSA) crucially affects soil resources utilization, including water absorption. Hence, comprehensive understanding of the genetic and physiological processes underlying RSA development is critical in order to inform breeding programs aimed at improving resilience to abiotic stresses. In this study, we characterized and cloned qRoot-yield-1.06, a major QTL associated to maize RSA traits and yield stability over water regimes. qRoot-yield-1.06 was previously mapped on bin 1.06 in the cross between Lo964 and Lo1016, two inbred lines known to differ in their RSA. The QTL effect was confirmed by developing pairs of near-isogenic lines which solely differed in the allelic constitution of the target QTL. QTL fine mapping and positional cloning were carried out exploiting a large nearly-isogenic recombinant population. Root phenotyping was based on shovelomics combined with software-assisted root images analysis. A list of candidate genes was prioritized and the causative gene, a SOS-like Na+/H+ antiporter, was identified using a combination of approaches including TILLING, qRT-PCR and transcriptomics. We showed that the (+) QTL allele from Lo1016 enhances the root system size by increasing in the number and length of lateral roots, in comparison with the (-) QTL allele from Lo964. Our findings indicated that native allele sequence variation at a SOS-like gene impacts RSA under non-saline conditions, suggesting a role of this gene in root development.
+
+<a href='mailto:alberto.tassinari8@unibo.it'>Tassinari, Alberto</a><sup>1</sup><br><a href='mailto:cristian.forestan@unibo.it'>Forestan, Cristian</a><sup>1</sup><br><a href='mailto:claude.urbany@kws.com'>Urbany, Claude</a><sup>2</sup><br>Kai, Li<sup>1</sup><br><a href='mailto:thomas.presterl@kws.com'>Presterl, Thomas</a><sup>2</sup><br><a href='mailto:giuseppe.sangiorgi2@unibo.it'>Sangiorgi, Giuseppe</a><sup>1</sup><br><a href='mailto:milena.ouzunova@kws.com'>Ouzunova, Milena</a><sup>2</sup><br><a href='mailto:roberto.tuberosa@unibo.it'>Tuberosa, Roberto</a><sup>1</sup><br><a href='mailto:silvio.salvi@unibo.it'>Salvi, Silvio</a><sup>1</sup><br>
+
+<sup>1</sup>Department of Agricultural and Food Sciences (DISTAL), University of Bologna, 40127, Italy<br><sup>2</sup>KWS SAAT SE, Grimsehlstraße 31, Einbeck, 37574, Germany<br>

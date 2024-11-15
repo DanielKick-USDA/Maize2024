@@ -1,0 +1,20 @@
+---
+title: "Examining the dynamics of microbe-driven heterosis in maize"
+subtitle: "P217"
+author: "Solomon Oloruntoba Samuel"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5e/Aztec_Diet_Basket_of_Corn_%289755332575%29.jpg"
+categories: 
+- Quantitative Genetics & Breeding
+- Odd Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Heterosis, or hybrid vigor, is a pivotal factor in modern agriculture, significantly boosting crop yields. While extensive research has delved into genetic and environmental influences on heterosis, the microbial role remains poorly understood. This study investigates the intricate relationship between maize plants and their associated microbial communities, unveiling the microbial impact on heterosis. Our approach involved using a simplified synthetic community (SynCom) of seven bacterial species assembled by maize plants. We evaluated the individual and collective capacity of each bacterial species to induce heterosis across four maize genotypes—two inbreds (B73 and Mo17) and their hybrids (B73 x Mo17 and Mo17 x B73). To achieve this, surface-sterilised maize seeds were pregerminated and inoculated with individual bacterial species or SynCom and grown gnotobiotically. Results revealed that heterosis was more pronounced in the shoots and roots of the uninoculated control, while it manifested solely in the roots of the SynCom treatment. Moreover, heterosis effects in both shoots and roots were more influenced by some individual microbes within the SynCom than by others. Future experiments aim to establish multiple iterations between heterosis inducers and non-inducers, exploring potential microbe-microbe influences on maize plant heterosis. This research not only broadens our comprehension of plant-microbe interactions but also holds significant promise for leveraging microbial communities to sustainably optimize maize productivity.
+
+<a href='mailto:sosamuel@ncsu.edu'>Samuel, Solomon O</a><sup>1</sup><br><a href='mailto:gpal@ncsu.edu'>Pal, Gaurav</a><sup>1</sup><br><a href='mailto:svintil@ncsu.edu'>Vintila, Simina</a><sup>1</sup><br><a href='mailto:maggie.r.wagner@ku.edu'>Wagner, Maggie R</a><sup>4</sup><br><a href='mailto:pjbalint@ncsu.edu'>Balint-Kurti, Peter J</a><sup>2 3</sup><br><a href='mailto:mkleine@ncsu.edu'>Kleiner, Manuel</a><sup>1</sup><br>
+
+<sup>1</sup>Department of Plant and Microbial Biology, North Carolina State University, Raleigh, NC 27695<br><sup>2</sup>Department of Entomology and Plant Pathology, North Carolina State University, Raleigh, NC 27695<br><sup>3</sup>Plant Science Research Unit, Agricultural Research Service, United States Department of Agriculture, Raleigh, NC 27695<br><sup>4</sup>Department of Ecology and Evolutionary Biology, University of Kansas, Lawrence, KS 66045<br>

@@ -1,0 +1,20 @@
+---
+title: "Engineering a terpene-depleted chassis in tomato fruit for production of high value terpenes"
+subtitle: "P12"
+author: "Natalie Deans"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/05/DNA_base-pair_diagram.jpg"
+categories: 
+- Biochemical and Molecular Genetics
+- Even Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Plants produce numerous specialized metabolites that function in plant defense, as attractants to pollinators and symbionts, and in cell wall strengthening. Over 50,000 plant terpenoids are known which are synthesized from universal C5 building blocks via the activity of terpene synthases, cytochrome P450s, and glycosyl transferases. A subset of these specialized metabolites are highly valued for a range of properties including insect repellents, fragrances, antimicrobial compounds, low calorie sweeteners, and medicinal properties. It is challenging to economically or sustainably produce many of these compounds from their native species due to the low abundance of the compounds or the time and space required to grow sufficient plants for production of the natural product. In addition, heterologous expression of terpenoid biosynthetic genes in plants is problematic due to the tendency for conversion of the activated products into conjugates or other derivatives via endogenous cytochrome P450s, and glycosyl transferases. In this project, we are using gene editing and transformation technologies to overcome these challenges by creating a novel tomato chassis with minimal fruit terpenoid biosynthetic capacity through removal of native terpenoid biosynthetic pathways, that will enable engineering of high value terpenoid molecules in tomato fruit.
+
+<a href='mailto:natalie.deans@uga.edu'>Deans, Natalie C</a><sup>1</sup><br>Anderson, Trine<sup>2</sup><br>Cody, Jon<sup>3</sup><br>Mailloux, Kathrine<sup>1</sup><br>Pritchard, Lynn<sup>3</sup><br>Reist, Lucas<sup>2</sup><br>Starker, Colby<sup>3</sup><br>Hamberger, Bjoern<sup>2</sup><br>Voytas, Dan<sup>3</sup><br>Buell, C. Robin<sup>1</sup><br>
+
+<sup>1</sup>Center for Applied Genetic Technologies, University of Georgia<br><sup>2</sup>Department of Biochemistry & Molecular Biology, Michigan State University<br><sup>3</sup>Center for Precision Plant Genomics, University of Minnesota<br>

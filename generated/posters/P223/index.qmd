@@ -1,0 +1,20 @@
+---
+title: "Genetic determinants of aerial root formation in maize: Prospects for harnessing biological nitrogen fixation"
+subtitle: "P223"
+author: "Daniel Laspisa"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5e/Aztec_Diet_Basket_of_Corn_%289755332575%29.jpg"
+categories: 
+- Quantitative Genetics & Breeding
+- Odd Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Indigenous maize (Zea mays) varieties from the Oaxaca region of Mexico have been shown to support nitrogen-fixing bacteria in mucilage produced by their aerial roots. Maize plants with this trait can obtain 29-82% of their nitrogen from this symbiosis in the right environmental conditions. A better understanding of the genetic factors that contribute to this trait will enable greater use of biological nitrogen fixation to support the global demand for cereals and reduce dependence on synthetic nitrogen fertilizers. Here we assess population structure among eight populations of doubled haploids generated from inbred PHZ51 and three landrace parents. A two-location field trial of two doubled haploid populations shows heritability is generally low for the number of nodes with aerial roots, the number of roots per node, and the root diameter. However, noticeable differences are observed between populations that are consistent across locations. Furthermore, we identify QTL associated with aerial root traits unique to each population and shared between populations. While additional research is needed to confirm and expand these results, our findings support pursuing the development and adoption of maize varieties with this trait to improve global food insecurity and reduce environmental degradation attributed to synthetic fertilizer use.
+
+<a href='mailto:daniel.laspisa@uga.edu'>Laspisa, Daniel</a><sup>1</sup><br><a href='mailto:kgibson8@wisc.edu'>Gibson, Kimberly</a><sup>2</sup><br><a href='mailto:espejelvenad@wisc.edu'>Venado, Rafael</a><sup>2</sup><br><a href='mailto:jlwilker@wisc.edu'>Wilker, Jennifer</a><sup>2</sup><br><a href='mailto:vinfante@wisc.edu'>Infante, Valentina</a><sup>2</sup><br><a href='mailto:cicalderon@wisc.edu'>Calderón, Claudia</a><sup>2</sup><br><a href='mailto:jeanmichel.ane@wisc.edu'>Ané, Jean-Michel</a><sup>2</sup><br><a href='mailto:jason.wallace@uga.edu'>Wallace, Jason</a><sup>1</sup><br>
+
+<sup>1</sup>University of Georgia, Athens, GA 30602<br><sup>2</sup>University of Wisconsin, Madison, WI 53706<br>

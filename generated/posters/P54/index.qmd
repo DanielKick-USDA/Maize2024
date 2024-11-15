@@ -1,0 +1,20 @@
+---
+title: "Tar spot and fisheye lesions exhibit distinct yet overlapping transcriptomic signatures, suggesting a complex interplay of shared and specific pathways modulated by Phyllachora maydis."
+subtitle: "P54"
+author: "Raksha Singh"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/05/DNA_base-pair_diagram.jpg"
+categories: 
+- Biochemical and Molecular Genetics
+- Even Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Phyllachora maydis, an obligate fungal pathogen, causes tar spot, a severe maize foliar disease impacting global corn production. Tar spot symptoms appear as small, raised, irregularly shaped black lesions called stromata scattered on leaves, stalks, and husks. In severe cases, stromata can be surrounded by brown, elliptical necrotic halos known as fisheye lesions inducing extensive necrosis, premature senescence, and plant death. Fisheye lesions have been previously linked with Microdochium maydis in Mexico, but its presence in the United States has not yet been confirmed. The molecular basis of pathogenicity of P. maydis resulting in tar spot and fisheye symptoms remains poorly understood. Here, we used RNA sequencing (RNA-Seq) of tar spot stromata with and without fisheye lesions to compare their transcriptomes and identify genes and pathways associated with each symptom. Comparative analysis revealed distinct and significantly differentially expressed gene patterns (DEGs) associated with each symptom. Notably, reads from P. maydis were dominant in both samples, alongside unknown taxa from suborders Masssarineae and Pleosporinae, suggesting the presence of additional unidentified species. Benchmarking Universal Single-Copy Orthologs (BUSCO) analysis further revealed that P. maydis was 92.6% and 92.0% complete in both samples, while Massarineae was 58.5% and 83.7% complete and Pleosporinae was only 4% and 8.9% complete. These findings suggest the existence of new, unknown taxa associated with tar spot with fisheye lesions and highlight both common and distinct genes and pathways associated with tar spot with and without fisheye lesions. Further exploration of the identified findings could lead to valuable insights into P. maydis pathogenicity and potentially contribute to the development of targeted disease control strategies.
+
+<a href='mailto:RAKSHA.SINGH@USDA.GOV'>Singh, Raksha</a><sup>1</sup><br><a href='mailto:sgomezgu@purdue.edu'>Gómez Gutiérrez, Sandra V</a><sup>2</sup><br><a href='mailto:mgribsko@purdue.edu'>Grobskov, Michael</a><sup>3</sup><br><a href='mailto:steve.goodwin@usda.gov'>Goodwin, Stephen B</a><sup>1</sup><br>
+
+<sup>1</sup>Crop Production and Pest Control Research Unit, U.S. Department of Agriculture-Agricultural Research Service (USDA-ARS), 915 Mitch Daniels Blvd., West Lafayette, IN 47907<br><sup>2</sup>Department of Botany and Plant Pathology, 915 Mitch Daniels Blvd., Purdue University, West Lafayette, IN 47907-2054<br><sup>3</sup>Department of Biological Sciences, 915 Mitch Daniels Blvd., Purdue University, West Lafayette, IN 47907-2054<br>

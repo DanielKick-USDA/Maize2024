@@ -1,0 +1,20 @@
+---
+title: "Single-cell RNAseq analysis and dynamic modeling of leaf-angle variation in the maize leaf canopy"
+subtitle: "P108"
+author: "Ruqiang Zhang"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c1/Protective_Coleoptile_Tip_in_Zea_Mays_Embryo_%2847691344541%29.jpg"
+categories: 
+- Cell and Developmental Biology
+- Even Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Maize leaves comprise a proximal sheath surrounding the stem and a distal, photosynthetic blade. The blade/sheath boundary is demarcated by an epidermal fringe of ligule tissue and the multi-layered auricle, which forms triangular-hinges that create leaf-angle. Leaf-angle describes the bending of the distal blade away from the proximal sheath, a key architectural trait and a target for crop improvement. Multiple components influence leaf-angle, including auricle size, shape and wrapping, as well as the mechanical strength of the midrib. Candidate genes regulating leaf-angle have been identified by genetic, quantitative genetic, and transcriptomic analyses, enabling models of gene regulatory networks. Nonetheless, little is known about the control of leaf-angle variation in the lower-versus-upper canopy of maize plants. Here we describe a systems biology approach combining single-cell RNAseq (scRNAseq) analysis of the emerging ligule/auricle in lower-canopy and upper-canopy leaves, and dynamic modeling of gene regulatory networks, to probe the mechanism of leaf-angle variation in maize. Three inbred lines (EP1, B104 and B73) were sampled, each of which shows distinct variation in leaf-angle within the canopy. Specifically, upper-leaves have increased leaf-angle (i.e. are flatter) in inbred EP1, but are gradually more upright in inbred B73. In contrast, inbred B104 displays equivalent leaf-angle in the upper and lower canopies. We used single-cell RNAseq to profile the transcriptomic landscapes of early-staged ligule/auricles from the lower (below ear leaf) and upper canopy (above ear leaf) in the three inbred lines. A total of 25 cell-clusters were identified in the Uniform Manifold Approximation and Projection (UMAP) of all scRNAseq samples. Inbred lines showed cell-cluster separation. Comparisons of upper and lower canopy revealed cell-cluster separation within all inbred lines, although the degree of separation is less in B104. Finally, we introduce a dynamic model to systematically describe the mechanisms of maize ligule/auricle development, and its variation in the maize leaf canopy.
+
+<a href='mailto:rz444@cornell.edu'>Zhang, Ruqiang</a><sup>1</sup><br>Evans, Lukas, J.<sup>1</sup><br>Wu, Hao<sup>1</sup><br>Yu, Jianming<sup>2</sup><br>Tang, Lie<sup>3</sup><br>Li, Xianran<sup>4</sup><br>Lubkowitz, Mark<sup>5</sup><br>Yang, Bing<sup>6</sup><br>Scanlon, Michael, J.<sup>1</sup><br>
+
+<sup>1</sup>Plant Biology Section, School of Integrative Plant Science, Cornell University, Ithaca, NY, USA 14853<br><sup>2</sup>Department of Agronomy, Iowa State University, Ames, IA, USA 50011<br><sup>3</sup>Department of Agricultural and Biosystems Engineering, Ames, IA, USA 50011<br><sup>4</sup>USDA-ARS, Wheat Health, Genetics, and Quality Research Unit, Pullman, WA, USA 99164<br><sup>5</sup>Saint Michael&#39;s College, Colchester, VT, USA 05439<br><sup>6</sup>Division of Plant Sciences, University of Missouri, Columbia, MO, USA 65201<br>

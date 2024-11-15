@@ -1,0 +1,20 @@
+---
+title: "DNA glycosylase Mdr1 underlies a connection between DNA methylation and imprinted gene expression"
+subtitle: "P282"
+author: "Kaitlin Higgins"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b3/Genetic_corn.jpg"
+categories: 
+- Transposons & Epigenetics
+- Even Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Maternal de-repression of R1 (Mdr1), a DNA glycosylase active in the central cell and in early endosperm development, removes methylation through a base excision repair pathway leading to asymmetric methylation of the maternal and paternal genomes. This asymmetric methylation has been hypothesized to lead to genomic imprinting of alleles, a phenomenon in which an allele is expressed in a parent of origin dependent manner . Previous research identified differentially methylated regions (DMRs) between mutant mdr1 and wild-type W22 endosperm, finding a weak relationship between Mdr1 DMRs and imprinting. While we can obtain single mutants of both Mdr1 and its paralog, Dng102, a double mutant is lethal indicating an essential function in gametophytes. Here, we analyzed the transcriptomes of wild type (WT) and mdr1 mutant endosperm 15 days after pollination to find 186 differentially expressed (DE) genes and TEs, of which 134 had a nearby or overlapping DMR. Helitrons are enriched among DE TEs as well as among TEs overlapping DE genes. Many (58%) of these features were previously identified as maternally expressed (MEGs) in a prior study of imprinting with an additional 19% (77.8% total) demonstrating maternally biased expression in WT endosperm, highlighting the role of Mdr1 in imprinted expression. However, of 240 previously identified MEGs, only 44% are DE in this dataset. We therefore aimed to understand the features distinguishing DE and non-DE MEGs. DE MEGs are enriched for endosperm-specific expression and DMR overlap. Interestingly, none of the MEGs with conserved imprinting in Arabidopsis were DE, so although Mdr1 alone can establish imprinting for many genes, there appears to be redundancy in imprinting control for critical genes. This research marks an advancement on the understanding of not only Mdr1's role in imprinted expression, but also the general relationships between demethylation and gene expression in the endosperm.
+
+<a href='mailto:kaitlinj@iastate.edu'>Higgins, Kaitlin M</a><sup>1</sup><br><a href='mailto:agilber@umn.edu'>Gilbert, Amanda</a><sup>3</sup><br><a href='mailto:dwkim07@uga.edu'>Kim, Dong won</a><sup>2</sup><br><a href='mailto:cnhirsch@umn.edu'>Hirsch, Candy N.</a><sup>3</sup><br><a href='mailto:gent@uga.edu'>Gent, Johnathan I</a><sup>2</sup><br><a href='mailto:sna@iastate.edu'>Anderson, Sarah N</a><sup>1</sup><br>
+
+<sup>1</sup>Department of Genetics, Development, and Cell Biology; Iowa State University; Ames, IA, USA 50010<br><sup>2</sup>Department of Genetics; University of Georgia; Athens, GA, USA 30602<br><sup>3</sup>Department of Agronomy and Plant Genetics; University of Minnesota; St. Paul, MN, USA, 55108<br>

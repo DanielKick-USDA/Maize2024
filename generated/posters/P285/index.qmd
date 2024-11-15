@@ -1,0 +1,20 @@
+---
+title: "Exploring the timing and regulation of the sporophyte-to-gametophyte transition (SGT)"
+subtitle: "P285"
+author: "Julian Somers"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b3/Genetic_corn.jpg"
+categories: 
+- Transposons & Epigenetics
+- Odd Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Plants alternate between multicellular haploid gametophyte and diploid sporophyte generations. The sporophyte-to-gametophyte transition (SGT) is a transition from sporophytic to gametophytic expression that occurs during gametophyte development. The SGT is defined by global changes in steady state transcript levels and involves various changes in genome regulation. In maize pollen, widespread gametophyte genome activation occurs between late unicellular microspore and bicellular microspore stages, setting the timing of the SGT around pollen mitosis I (Nelms & Walbot, 2022). The SGT sets the stage for active transcription of the haploid pollen genome, causing pollen to express phenotypes and undergo haploid selection. We are using single-cell genomics to explore two facets of the SGT that determine the timing and scope of haploid selection: timing and regulation. While we know the SGT occurs around pollen mitosis I in maize, we do not know if this timing is conserved in other species. To address this, we are determining the timing of the SGT in Arabidopsis, tobacco, and poplar. Alongside this, we are also studying genes that regulate the SGT in maize. Mdr1 and dng102 are DNA glycosylases that act redundantly during the SGT to activate a set of 58 pollen-specific genes, which account for >10% of the pollen transcriptome. Double mutants for mdr1 and dng102 cannot be transmitted through pollen, demonstrating that these two genes constitute a necessary component of genome regulation during the SGT. This research will fill fundamental knowledge gaps in the current understanding of the haploid generation of plants, especially regarding the timing and scope of haploid selection, which is relevant to breeding practices and agriculture.
+
+<a href='mailto:jms53460@uga.edu'>Somers, Julian</a><sup>1</sup><br><a href='mailto:gent@uga.edu'>Gent, Jonathan</a><sup>1</sup><br><a href='mailto:nelms@uga.edu'>Nelms, Brad</a><sup>1</sup><br>
+
+<sup>1</sup>University of Georgia, Athens, GA, 30602<br>

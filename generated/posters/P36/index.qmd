@@ -1,0 +1,20 @@
+---
+title: "MOA-seq identifies candidate cis-elements associated with response to submergence."
+subtitle: "P36"
+author: "Zachary Turpin"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/05/DNA_base-pair_diagram.jpg"
+categories: 
+- Biochemical and Molecular Genetics
+- Even Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Chromatin accessibility to diffusible nucleases such as DNase I and MNase has long been accepted as a feature of open chromatin regions in eukaryotic genomes. These open chromatin regions are generally transcriptionally active, enriched in gene-regulatory sequences, and revealed using these nucleases under partial digest conditions, which serve to preferentially release DNA fragments for analysis. These nuclease hypersensitivity-defined sites frequently contain specific DNA sequences known as cis-acting regulatory elements (CREs), including transcription factor (TF) binding sites. The properties of MNase allow for high-resolution mapping of chromatin particles which mostly consist of two components, a sequence-specific DNA-binding protein and its cognate CRE. Therefore, analysis of small fragments of DNA recovered from partial or light chromatin digests enables single-assay genome-wide identification of nuclease-protected footprints of hundreds of TFs within accessible chromatin regions. These footprints represent a transcriptional regulatory atlas of TF-occupied sites, collectively referred to as a cistrome occupancy map. Cistrome occupancy can vary across cell or tissue types in a given eukaryotic genome, as well as across various stress states. By comparing cistrome occupancy across physiological states, one can identify candidate CREs for control of transcriptional responses to environmental or developmental cues. This study applies our established MNase-defined cistrome-Occupancy Analysis (MOA-seq) to a set of flood-treated maize seedlings with variation in a previously characterized flood-tolerance phenotype. Two resistant (Oh7b and Ky21) and one sensitive (B73) inbred maize lines, along with the closely-related grass, Sorghum bicolor (BTx623), were subjected as young seedlings to 24 hours of total underwater submergence. For each genotype, MOA-seq and RNA-seq analyses revealed hundreds of genes that underwent significant changes in transcript abundance and identified several thousand loci that exhibited changes in small particle occupancy. Together, these analyses reveal atlases of cis-elements implicated in genomic response to submergence underlying variation in an abiotic stress tolerance phenotype.
+
+<a href='mailto:zachturpin92@gmail.com'>Turpin, Zachary M</a><sup>1</sup><br><a href='mailto:bass@bio.fsu.edu'>Bass, Hank W</a><sup>1</sup><br>
+
+<sup>1</sup>Department of Biological Science, Florida State University, Tallahassee, FL, USA<br>

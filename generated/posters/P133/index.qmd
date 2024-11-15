@@ -1,0 +1,20 @@
+---
+title: "A unified VCF dataset from 1,500 diverse maize accessions and resources to explore the genomic landscape of maize"
+subtitle: "P133"
+author: "Carson Andorf"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e5/ENIAC-changing_a_tube.jpg"
+categories: 
+- Computational and Large-Scale Biology
+- Odd Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Maize has a wealth of phenotypic and molecular diversity, exceeding that of most model organisms and a great many wild and cultivated plants. Nucleotide diversity, including SNPs and small indels, as well as more complex structural variants such as translocations and inversions, are frequently used to estimate polymorphism in a population. Efforts to represent nucleotide diversity in maize have ranged widely in scope (e.g., the first HapMap project in 2009 captured 3.3 million SNPs and indels in 27 diverse maize inbred lines, and a 2023 project identified approximately 366 million segregating and 46 million high-confidence variants in 1,515 resequenced maize lines across maize wild relatives, landraces, and tropical and temperate lines). However, because of the divergence in pipelines and reference genome versions used in these studies, comparisons across data sets are difficult. Differences in reference genome versions, read mapping algorithms and parameters, and variant calling can make it difficult to know why variants exist in one data set but not another, and can lead to differing positions for the same variant. In order to address these continuity issues, The Maize Genetics and Genomics Database (MaizeGDB – https://www.maizegdb.org) has collaborated with researchers in the maize community to offer variant data through a standardized haplotype-calling pipeline that uses BWA-MEM and Sentieon's Haplotyper and GVCFtyper against version 5 of the B73 reference genome. The first release of the dataset was generated using 1,498 resequenced lines from 10 projects and includes a diverse set of inbred lines, landraces, and teosintes. The data set was filtered for mapping quality, coverage, and linkage disequilibrium, and annotated based on variant effects relative to the B73 RefGen_v5 gene annotations. MaizeGDB created a web tool to filter, visualize, and download genotype sets based on genomic locations and accessions of interest. MaizeGDB plans to host a regularly updated version of these resources as additional resequencing data become available, with plans to expand to all publicly available sequence data.
+
+Andorf, Carson M.<sup>1 2</sup><br>Ross-Ibarra, Jeffrey<sup>3</sup><br>Seetharam, Arun S.<sup>4</sup><br>Hufford, Matthew B.<sup>4</sup><br>Woodhouse, Margaret R.<sup>1</sup><br>
+
+<sup>1</sup>USDA-ARS, Corn Insects and Crop Genetics Research Unit, Ames, IA 50011, USA<br><sup>2</sup>Department of Computer Science, Iowa State University, Ames, IA 50011, USA<br><sup>3</sup>College of Biological Sciences, Davis, CA 95616, USA<br><sup>4</sup>Department of Ecology, Evolution, and Organismal Biology, Iowa State University, Ames, Iowa, USA, 50011<br>

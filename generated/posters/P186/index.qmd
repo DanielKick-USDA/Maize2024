@@ -1,0 +1,20 @@
+---
+title: "Leaf angle and curricular innovation: a CURE for research and undergraduate education"
+subtitle: "P186"
+author: "Mark Lubkowitz"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/69/Leiden_University_Library_-_Seikei_Zusetsu_vol._19%2C_page_019_-_%E7%8E%89%E8%9C%80%E9%BB%8D_-_Zea_mays_L.%2C_1804.jpg"
+categories: 
+- Education & Outreach
+- Even Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Undergraduate research is arguably the single most important experience for inspiring students to pursue graduate school and STEM careers. Yet, most students never have the opportunity to engage in research simply because of time and limited institutional resources. Course Based Undergraduate Research Experiences (CUREs) address these issues since students and institutions are already committed to classes. CUREs are not new to undergraduate curricula but they often occur as a singular opportunity as opposed to a curricular foundation,and therefore lack the impact of a prolonged research experience. To address this issue, we have developed a four-year CURE program that consists of eleven courses spanning four STEM majors. Students experience a breadth of research systems, questions, approaches, and analyses at every developmental level and the scale of the program ensures that a significant portion of every student’s education is research based. Here we present an overview of our CURE program and then illustrate how undergraduate researchers are helping to identify transcription factors that control leaf angle in maize. Leaf angle is an important trait that has historically been manipulated by breeders to increase planting density and therefore yield.Since the auricle contributes significantly to leaf angle, undergraduates helped perform a yeast one hybrid screen using the promoters of NARROWSHEATH1, LIGULELESS1, LIGULESS3, and ROUGHSHEATH1; all genes that are expressed in the pre-ligular band during leaf development. Surprisingly, all of these genes were bound by some combination of only four transcription factors in the Lateral Organ Boundary (LOB) family, including RAMOSA2. The small number of transcription factors identified as well as the overlap suggests that these four genes are in the same regulatory network and function early in auricle development. This finding illustrates how undergraduate education, CUREs, and discovery can be joined to the benefit of all parties.
+
+<a href='mailto:Mlubkowitz@smcvt.edu'>Lubkowitz, Mark A</a><sup>1</sup><br><a href='mailto:Le95@cornell.edu'>Evans, Lukas</a><sup>2</sup><br><a href='mailto:Mjs298@cornell.edu'>Scanlon, Michael J</a><sup>2</sup><br><a href='mailto:Jmyu@iastate.edu'>Yu, Jianming</a><sup>3</sup><br><a href='mailto:Bboris@mail.smcvt.edu'>Boris, Brandon</a><sup>1</sup><br><a href='mailto:Ehoffmann@mail.smcvt.edu'>Hoffmann, Emilie</a><sup>1</sup><br><a href='mailto:Kkoutsoufis@mail.smcvt.edu'>Koutsoutis, Kaitlyn</a><sup>1</sup><br>
+
+<sup>1</sup>Saint Michael&#39;s College, Colchester, VT, USA 05439<br><sup>2</sup>Plant Biology Section, School of Integrative Plant Science, Cornell University, Ithaca, NY, USA 14853<br><sup>3</sup>Department of Agronomy, Iowa State University, Ames, IA, USA 50011<br>

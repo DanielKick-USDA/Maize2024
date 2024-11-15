@@ -1,0 +1,20 @@
+---
+title: "Gramene PanMaize: One-stop pan-genome browser for exploring the rich genetic diversity in maize"
+subtitle: "P149"
+author: "Doreen Ware"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e5/ENIAC-changing_a_tube.jpg"
+categories: 
+- Computational and Large-Scale Biology
+- Odd Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+The Gramene project (http://www.gramene.org) played a crucial role in sequencing the first maize reference, B73, and more recently, the 25 NAM founders. The project remains actively involved with the maize community. Expanding on the Gramene and Ensembl infrastructures, the project developed four pan-genome subsites dedicated to individual crop groups: maize, rice, sorghum, and grape. In 2021, the maize pansite (https://maize-pangenome.gramene.org) was launched, hosting 37 maize genome assemblies, including three versions of the B73 reference, Ab10, 10 NAM genomes, and four European flint genomes. Each maize accession has a separate genome browser, facilitating gene-based views through text-based searches or BLAST. B73 serves as the reference assembly, anchoring gene expression, population, and pathway views. The site enables detailed exploration of transcript abundance across tissues and developmental stages, aiding in paralog expression analysis. Phylogenetic analyses rely on maize-centric gene trees, forming the basis for synteny maps and supporting rapid traversal between maize accessions and other species. The gene-centric views offer insights into allelic genes within and across species, gene expression, variation data, and lineage-specific expansions and contractions. Protein homology is visualized through amino acid alignments and gene neighborhood conservation. Community curation tools are deployed from the homology tab, allowing users to flag potential structural annotation issues. Recent work utilized gene trees to build a pan-gene index, enhancing gene structural annotation workflows. SNPs are easily viewed and filtered based on predicted functional effects and impact, downloadable as images and tables. Release 4 will include the genome teosinte inbred TIL11 and histone modification and transcription factor ChIP-seq data in parallel with transcriptomics datasets in five different tissues. In line with FAIR principles, standard identifiers or rsIDs will be assigned to SNP variants. The project continues to collaborate with the community for data stewardship, training, and feedback. Funded by USDA-ARS-8062-21000-041-00D.
+
+<a href='mailto:kchougul@cshl.edu'>Chougule, Kapeel</a><sup>1</sup><br><a href='mailto:luj@cshl.edu'>Lu, Zhenyuan</a><sup>1</sup><br><a href='mailto:olson@cshl.edu'>Olson, Andrew</a><sup>1</sup><br><a href='mailto:mmonaco@cshl.edu'>Tello-Ruiz, Marcela K.</a><sup>1</sup><br><a href='mailto:weix@cshl.edu'>Wei, Sharon</a><sup>1</sup><br><a href='mailto:braynen@cshl.edu'>Braynen, Janeen</a><sup>1</sup><br>George, Nancy<sup>2</sup><br><a href='mailto:irenep@ebi.ac.uk'>Papatheodorou, Irene</a><sup>2</sup><br><a href='mailto:ware@cshl.edu'>Ware, Doreen</a><sup>1 3</sup><br>
+
+<sup>1</sup>Cold Spring Harbor Laboratory, Cold Spring Harbor, NY 11724<br><sup>2</sup>USDA-ARS NAA, Robert W. Holley Center for Agriculture and Health, Ithaca, NY, USA<br><sup>3</sup>EMBL-European Bioinformatics Institute, Wellcome Trust Genome Campus, Hinxton, CB10 1SD, UK<br>

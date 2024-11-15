@@ -1,0 +1,20 @@
+---
+title: "Investigation of tissue-specific translation regulation by uORFs in maize"
+subtitle: "P35"
+author: "Estefania Elorriaga"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/05/DNA_base-pair_diagram.jpg"
+categories: 
+- Biochemical and Molecular Genetics
+- Odd Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Understanding the molecular mechanisms that modulate protein abundance will allow breeders to use modern gene editing and standard breeding techniques effectively for generating more resilient and productive varieties for the challenging environments to come with the new global climate. One such mechanism is protein abundance regulation by upstream open reading frames (uORFs) in the 5’ untranslated regions (UTRs) of messenger RNAs (mRNAs). uORFs are prevalent among eukaryotes. Their start and stop codons appear to be evolutionarily more conserved than expected by neutral evolution suggesting that their repressive activity is important for adequate translation. Evidence for this is seen when mutations that modify existing uORFs or create new ones are known to cause diseases in humans. In plants, uORFs have been found to affect phosphorus content in leaves, petal color, and grain dimension for example. In fruit fly, regardless of the rate of transcription, uORFs show varying patterns of ribosome occupancy across tissues for each transcript. This suggests that uORFs are translated in a tissue-specific manner. We gathered ribosome profiling and mRNA sequencing data from 44 samples in maize (22 tissues and 2 biological replicates) to determine if uORFs are also translated in a tissue-specific manner. We identified 131,177 candidate uORFs with canonical start (i.e., AUG) and stop (UAA, UAG, and UGA) codons. We calculated the expression as transcript per million (TPM) for the uORFs and the mORFs (i.e., coding sequences) for each transcript. We find, as in fruit fly, that uORFs have different translation rates among different tissues. We have calculated the Pearson correlation coefficient of the rate of ribosome occupancy in the uORFs versus that in the mORFs. We are using this relationship to identify uORFs that are repressing translation and to investigate patterns of global protein abundance regulation.
+
+<a href='mailto:eelorri@ncsu.edu'>Elorriaga, Estefania</a><sup>1</sup><br><a href='mailto:jlgage@ncsu.edu'>Gage, Joseph L.</a><sup>1</sup><br>
+
+<sup>1</sup>North Carolina State University, Raleigh, NC, 27695<br>

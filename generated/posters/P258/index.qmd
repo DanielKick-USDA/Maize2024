@@ -1,0 +1,20 @@
+---
+title: "Profiling population level gene expression from a field grown sorghum diversity panel for comparative analysis with maize"
+subtitle: "P258"
+author: "Harshita Mangal"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5e/Aztec_Diet_Basket_of_Corn_%289755332575%29.jpg"
+categories: 
+- Quantitative Genetics & Breeding
+- Even Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Sorghum, unlike maize, is primarily self pollinated, creating fewer opportunities for recombination between dissimilar haplotypes. Linkage disequilibrium decays far slower in sorghum than in its close relative maize. As a result, genome wide association studies conducted in sorghum typically identify larger genomic intervals with greater numbers of candidate genes. Here we evaluate the use of transcriptome-wide association studies to identify candidate genes in sorghum, a method which has shown promise in soybean, another high linkage disequilibrium crop. Tissue samples were collected from 748 genotypes of SbDiv panel in a two hour interval during a field experiment conducted in 2021. RNA was extracted and RNA-Seq was used to estimate the expression levels of ~27,000 sorghum genes. TWAS conducted using measurements of flowering time and plant height for the same population identified 7 and 3 genes respectively. These included genes with known roles in the traits of interest in sorghum and others linked to the traits of interest based on data from homologs in maize, rice or arabidopsis. These initial results suggest TWAS can indeed provide accurate single gene resolution results in sorghum. Future work will integrate these results with GWAS, eQTL analysis and co-expression networks generated utilizing the same population as well as investigating changes in regulatory networks between maize and sorghum using a paired maize transcriptome dataset. p { color: #000000; line-height: 115%; text-align: left; orphans: 2; widows: 2; margin-bottom: 0.1in; direction: ltr; background: transparent }p.western { font-family: "Calibri", serif; font-size: 11pt; so-language: en-IN }p.cjk { font-family: "Calibri"; font-size: 11pt; so-language: en-US }p.ctl { font-family: ; font-size: 11pt; so-language: ar-SA }
+
+<a href='mailto:hmangal2@huskers.unl.edu'>Mangal, Harshita</a><sup>1</sup><br><a href='mailto:vladimir.torres@unl.edu'>Rodriguez, Vladimir Torres</a><sup>1</sup><br><a href='mailto:nshrestha5@huskers.unl.edu'>Shrestha, Nikee</a><sup>1</sup><br><a href='mailto:ravi.mural@sdstate.edu'>Mural, Ravi V.</a><sup>2</sup><br><a href='mailto:schnable@unl.edu'>Schnable, James C.</a><sup>1</sup><br>
+
+<sup>1</sup>Center for Plant Science Innovation and Department of Agronomy and Horticulture, University of Nebraska-Lincoln<br><sup>2</sup>Department of Agronomy, Horticulture, and Plant Science, South Dakota State University, Bookings, SD USA<br>

@@ -1,0 +1,20 @@
+---
+title: "Characterizing and distributing maize diversity: The NCRPIS maize collection"
+subtitle: "P183"
+author: "Vivian Bernau"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/69/Leiden_University_Library_-_Seikei_Zusetsu_vol._19%2C_page_019_-_%E7%8E%89%E8%9C%80%E9%BB%8D_-_Zea_mays_L.%2C_1804.jpg"
+categories: 
+- Education & Outreach
+- Odd Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+The USDA National Plant Germplasm System includes a collection of more than 20,000 accessions of cultivated temperate- and tropical-adapted maize and wild relatives from around the world. This collection is held at the North Central Regional Plant Introduction Station (NCRPIS) in Ames, Iowa. Currently, approximately 75% of the collection (15,358 accessions) is available for distribution upon request and 82% of the collection is backed-up at the National Laboratory for Genetic Resources Preservation. Seed viability of distributable seed lot is monitored on a 5-10 year cycle. When viability drops below 50%, or if the number of kernels on hand falls below 1000, an accession becomes unavailable for distribution until it can be regenerated. Temperate-adapted material is typically regenerated in Ames, Iowa. Nurseries provided by partners and contractors in the US and Mexico are used to regenerate diverse material from unique environments. Seed regeneration is costly and can negatively affect the genetic integrity of an accession. However, it is also an opportunity to gather further observations. GRIN-Global, the germplasm database of the NPGS, currently holds 367,327 trait observations on 17,428 accessions, and 43,452 ear, kernel, and cob images on 16,804 accessions. Germplasm requests can be made through the NPGS GRIN-Global public website. In FY2023, 14,738 packets of maize were distributed by NCRPIS to requestors across the country and around the world.
+
+<a href='mailto:vivian.bernau@usda.gov'>Bernau, Vivian</a><sup>1</sup><br><a href='mailto:mark.millard@usda.gov'>Millard, Mark J.</a><sup>1</sup><br><a href='mailto:david.peters@usda.gov'>Peters, David W.</a><sup>1</sup><br>
+
+<sup>1</sup>North Central Regional Plant Introduction Station, USDA-ARS and Iowa State University; Ames, Iowa, 50014<br>

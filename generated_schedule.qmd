@@ -1,0 +1,226 @@
+---
+title: "Schedule of Events"
+---
+
+::: {.callout-note appearance="simple" icon="false"}
+## Note:
+
+Talks will be held in the Ballroom A Posters will be displayed in the Ballroom B&C
+:::
+
+## Wednesday, February 28, 2024
+
+|  |        |   |  
+|:-|--------|--:|
+| 08:00 - 08:00 | OPTIONAL PRE-CONFERENCE WORKSHOPS  |    |
+| 08:00 - 08:00 | Maize Crop Germplasm Committee |   Room 302C |
+| 12:00 - 12:00 | Corn Breeding Research   |   Room 302A/B |
+
+
+
+## Thursday, February 29, 2024
+
+|  |        |   |  
+|:-|--------|--:|
+| 09:00 - 09:00 | OPTIONAL PRE-CONFERENCE WORKSHOPS  |    |
+| 08:00 - 08:00 | Corn Breeding Research  |   Rooms 302A/B |
+| 08:00 - 08:00 | Genetics of Maize-Microbe Interactions Workshop |   Room 301A  |
+| 09:00 - 09:00 | Maize Development and Cell Biology Workshop |   Room 301B |
+| 14:00 - 14:00 | MaizeGDB: Pan-genome and AI resources |   Room 304 |
+| 15:00 - 15:00 | POSTER HANGING (Ballrooms B&C) |    |
+| 15:00 - 15:00 | REGISTRATION (Registration Lobby) |    |
+| 17:00 - 17:00 | MaGNET Awardees and Mentors Introductions      |     Room 302B |
+| 18:00 - 18:00 | DINNER (Ballrooms B&C) |    |
+
+
+### SESSION 1 – WELCOME / FOSTERING DIVERSITY IN THE MAIZE COMMUNITY AND KEYNOTE SPEAKER
+
+**Rubén Rellán Álvarez**
+
+|  |        |   |  
+|:-|--------|--:|
+| 19:00 - 19:20 | WELCOME AND ANNOUNCEMENTS       |    |
+| 19:20 - 20:10 | Phenomenology for maize experts: what do you see when you contemplate the map of global maize production? | Ricardo Salvador, Union of Concerned Scientists [KS1](/generated/talks/KS1/index.qmd) (Ballroom A) |
+| 20:10 - 21:00 | Selected highlights of maize disease resistance genetics research:  These     are a few of my favorite things. | Peter Balint-Kurti, Agriculture Research Service, USDA [KS2](/generated/talks/KS2/index.qmd)  |
+| 21:00 - 21:00 | INFORMAL POSTER VIEWING & HOSPITALITY  |   (Ballroom B&C) |
+
+
+
+## Friday, March 1, 2024
+
+|  |        |   |  
+|:-|--------|--:|
+| 07:00 - 07:00 | BREAKFAST (Ballrooms B&C) |    |
+| 07:30 - 07:30 | REGISTRATION (Registration Lobby) |    |
+
+
+### SESSION 2 – THE GENES THAT MAKE MAIZE
+
+**Madelaine Bartlett**
+
+|  |        |   |  
+|:-|--------|--:|
+| 08:00 - 08:00 | ANNOUNCEMENTS                                       |   (Ballroom A) |
+| 08:00 - 08:20 | An exocyst component ZmEXO70F4 coordinates with jasmonate signaling pathway to regulate maize immunity to Gibberella stalk rot | Xiquan Gao, Nanjing Agricultural University [T1](/generated/talks/T1/index.qmd)  |
+| 08:20 - 08:40 |    Crazy leaves and truffula trees | Annis Richardson, University of Edinburgh [T2](/generated/talks/T2/index.qmd)  |
+| 08:40 - 09:00 | A thiamin pyrophosphate kinase encoding gene ZmTDPK2 finely regulates ear length and grain yield in maize | Yun Luo, Huazhong Agricultural University [T3](/generated/talks/T3/index.qmd)  |
+| 09:00 - 09:20 | A novel domestication gene establishes developmental boundaries | George Chuck, University of California Berkeley  [T4](/generated/talks/T4/index.qmd)  |
+| 09:20 - 09:40 | Leaf angle and curricular innovation: a CURE for research and undergraduate | Mark Lubkowitz, Saint Michael's College [T5](/generated/talks/T5/index.qmd)  |
+| 09:40 - 10:00 | Poster Lightning Talks |    |
+| 10:00 - 10:00 | BREAK  |   Ballroom ABC Lobby |
+
+
+### SESSION 3 – KEYNOTE  SPEAKER AND McCLINTOCK PRIZE PRESENTATION 
+
+**Petra Wolters**
+
+|  |        |   |  
+|:-|--------|--:|
+| 10:30 - 10:40 | Introduction |      (Ballroom A) |
+| 10:40 - 11:30 | From the stars to your table - plants as complex conduits for iron nutrition | Terri Long, North Carolina State University [KS3](/generated/talks/KS3/index.qmd)  |
+| 11:30 - 11:40 | McClintock Prize Presentation Introduction | Mark Lubkowitz, Saint Michael’s College   |
+| 11:40 - 12:30 | Polycomb memory to register environmental exposure | Caroline Dean, John Innes Center [M1](/generated/talks/M1/index.qmd)  |
+| 12:30 - 12:30 | LUNCH (Ballrooms B&C) |    |
+| 12:30 - 12:30 | MaGNET/PUI Networking Lunch  |   (301A) |
+| 12:30 - 12:30 | MGC BoD and MGAC Lunch |   (302A) |
+| 13:30 - 13:30 | POSTER SESSION 1 (Ballrooms B&C) |    |
+| 13:30 - 13:30 | Presenters should be at odd-numbered posters. |    |
+| 15:00 - 15:00 | Presenters should be at even numbered posters. |    |
+
+
+### SESSION 4 – NEW TOOLS AND RESOURCES I
+
+**Lander Geadelmann**
+
+|  |        |   |  
+|:-|--------|--:|
+| 16:40 - 17:00 | Optimized ZmWOX2A-based transformation system enhances somatic embryogenesis, transformation efficiency, and gene editing efficiency in maize (Zea mays L.) and sorghum (Sorghum bicolor L.)  | Jonathan Matheka, University of Wisconsin-Madison [T6](/generated/talks/T6/index.qmd)  |
+| 17:00 - 17:20 | Harnessing AI for Agricultural Innovation | Steve Johnson, Bayer [T7](/generated/talks/T7/index.qmd)  |
+| 17:20 - 17:40 | A practical haplotype graph map of the ZeaSynthetic population enables integration of teosinte alleles into breeding efforts | Micah, Kelleher, Donald Danforth Plant Science Center [T8](/generated/talks/T8/index.qmd)  |
+| 17:40 - 18:00 | Poster Lightning Talks |    |
+| 18:00 - 18:00 | DINNER (Ballrooms B&C) |    |
+| 18:00 - 18:00 | Bayer Student/Postdoc Dinner |   (Ballroom B&C) |
+
+
+### SESSION 5 – NEW TOOLS AND RESOURCES II   
+
+**Graziana Taramino**
+
+|  |        |   |  
+|:-|--------|--:|
+| 19:00 - 19:20 | Cyto-swapping in maize by haploid induction with a cenh3 mutant | Esteban Bortiri, Syngenta  [T9](/generated/talks/T9/index.qmd)  |
+| 19:20 - 19:40 | A foundational large language model for edible plant genomes provides accurate predictions of regulatory elements and gene expression in the maize genome | Javier Mendoza Revilla, InstaDeep  [T10](/generated/talks/T10/index.qmd)  |
+| 19:40 - 20:00 | Poster Lightning Talks |    |
+| 20:00 - 20:20 | Presenting:  Cooperator and Leadership Awards |    |
+| 20:20 - 20:40 | Presenting:  M. Rhoades Early-Career, L. Stadler Mid-Career | Andrea Eveland, Donald Danforth Plant Science Center    |
+| 20:40 - 21:00 | Presenting:  R. Emerson Lifetime Awards | Marna Yandeau-Nelson, Iowa State University   |
+| 21:00 - 21:00 | INFORMAL POSTER VIEWING & HOSPITALITY  |   (Ballrooms B&C) |
+
+
+
+## Saturday, March 2, 2024
+
+|  |        |   |  
+|:-|--------|--:|
+| 07:00 - 07:00 | BREAKFAST (Ballrooms B&C) |    |
+| 08:00 - 08:00 | REGISTRATION (Registration Lobby) |    |
+
+
+### SESSION 6 – THE NITROGEN CONUNDRUM
+
+**Frank Hochholdinger**
+
+|  |        |   |  
+|:-|--------|--:|
+| 08:00 - 08:20 | Biological nitrogen fixation on the aerial roots of maize for sustainable agriculture | Jean-Michel Ane, University of Wisconsin-Madison [T11](/generated/talks/T11/index.qmd)  |
+| 08:20 - 08:40 | Decoding nitrogen use efficiency in maize and sorghum: Insights from comparative gene regulatory networks for sustainable agriculture  | Janeen Braynen, Cold Spring Harbor Laboratory [T12](/generated/talks/T12/index.qmd)  |
+| 08:40 - 09:00 | The nitrogen cycle in the rhizosphere of diverse grass species in Andropogoneae | Sheng-Kai Hsu, Cornell University [T13](/generated/talks/T13/index.qmd)  |
+| 09:00 - 09:20 | Genomic structural variation underlies differential root responses to nitrogen stress in maize | Stephanie Klein, Iowa State University [T14](/generated/talks/T14/index.qmd)  |
+| 09:20 - 09:40 | Mining ancient genomes for microbiome associated phenotypes for nutrient retention in agroecosystems | Angela Kent, University of Illinois [T15](/generated/talks/T15/index.qmd)  |
+| 09:40 - 10:00 | Poster Lightning Talks |    |
+| 10:00 - 10:00 | BREAK  |   Ballroom ABC Lobby |
+
+
+### SESSION 7 – KEYNOTE SPEAKERS
+
+**Hank Bass**
+
+|  |        |   |  
+|:-|--------|--:|
+| 10:30 - 10:40 | Introduction |    |
+| 10:40 - 11:40 |  | Anna Stepanova, North Carolina State University [KS4](/generated/talks/KS4/index.qmd)  |
+| 11:40 - 12:30 | Leveraging synthetic biology to monitor and control plant hormone activity | Natalia de Leon, University of Wisconsin-Madison [KS5](/generated/talks/KS5/index.qmd)  |
+| 12:30 - 12:30 | LUNCH (Ballrooms B&C) |    |
+| 12:30 - 12:30 | MaGNET Lunch with Keynote  Speakers |   (301A) |
+| 12:30 - 12:30 | MGMSC Meeting |   (307) |
+| 12:30 - 12:30 | Maize Genetics Mentoring Program Networking Lunch |   (303) |
+| 13:30 - 13:30 | POSTER SESSION 2 (Ballrooms B&C) |    |
+| 13:30 - 13:30 | Presenters should be at even numbered posters. |    |
+| 15:00 - 15:00 | Presenters should be at odd numbered posters. |    |
+| 16:30 - 16:30 | COMMUNITY SESSION - Maize Genetics Cooperative | Marna Yandeau Nelson, MGC BoD Chair                                   (Ballroom A) |
+| 18:00 - 18:00 | DINNER  |   (Ballrooms B&C) |
+| 18:00 - 18:00 |     Corteva Student/Postdoc Dinner |            (Ballrooms B&C) |
+| 18:00 - 18:00 | Syngenta Student/Postdoc Dinner |            (Ballrooms B&C) |
+
+
+### SESSION 8 – MAIZE EVOLUTION
+
+**Matthew Hufford**
+
+|  |        |   |  
+|:-|--------|--:|
+| 19:00 - 19:20 | Teosinte pollen drive guides maize diversification and domestication by     RNAi | Robert Martienssen, Cold Spring Harbor Laboratory [T16](/generated/talks/T16/index.qmd)  |
+| 19:20 - 19:40 | How recombination facilitated the domestication of maize. | Ruth Epstein, Cornell University [T17](/generated/talks/T17/index.qmd)  |
+| 19:40 - 20:00 |    Maize development is controlled by an ancient nutrient signaling pathway | Michael Bushe, University of Wisconsin-Madison [T18](/generated/talks/T18/index.qmd)  |
+| 20:00 - 20:20 | Fractionation in the Tripsacinae subtribe | Samantha Snodgrass, Iowa State University [T19](/generated/talks/T19/index.qmd)  |
+| 20:20 - 20:20 | BREAK  |   Ballroom ABC Lobby |
+
+
+### SESSION 9 – ROOTS AND FRIENDS
+
+**Stephanie Klein**
+
+|  |        |   |  
+|:-|--------|--:|
+| 20:40 - 21:00 | ZmIRA1, a new root system architecture gene identified by phenomics | Michelle Cho,  Washington University Saint Louis [T20](/generated/talks/T20/index.qmd)  |
+| 21:00 - 21:20 | Genetic and environmental impacts on the maize microbiome across the United States | Jason Wallace,  University of Georgia [T21](/generated/talks/T21/index.qmd)  |
+| 21:20 - 21:40 | Poster Lightning Talks |    |
+| 21:40 - 21:40 | INFORMAL POSTER VIEWING & HOSPITALITY  |   (Ballrooms B&C) |
+| 22:00 - 22:00 | TRIVIA!!  |   (Ballrooms B&C) |
+| 23:59 - 23:59 | Posters should be taken down by 12 AM! |    |
+
+
+
+## Sunday, March 3, 2024 
+
+|  |        |   |  
+|:-|--------|--:|
+| 07:00 - 07:00 | BREAKFAST  |   (Ballrooms B&C) |
+
+
+### SESSION 10 – THE REGULATED GENOME
+
+**Sarah Jensen**
+
+|  |        |   |  
+|:-|--------|--:|
+| 08:00 - 08:20 | Exploring the cis-regulatory landscape of the B73 and Mo17 genomes | Andrea Gallavoti, Rutgers  University [T22](/generated/talks/T22/index.qmd)  |
+| 08:20 - 08:40 | Understanding the role of ZmWUS1 and cis-regulatory elements in maize inflorescence development at single-cell resolution | Sohyun Bang, University of Georgia [T23](/generated/talks/T23/index.qmd)  |
+| 08:40 - 09:00 | Integrating single-cell transcriptomes links organ-specific gene expression with function | Sunil Kenchanmane Raju, New York University [T24](/generated/talks/T24/index.qmd)  |
+| 09:00 - 09:20 | Meiotic recombination differs between sexes in maize. | Gwonjin Lee, University of Florida [T25](/generated/talks/T25/index.qmd)  |
+| 09:20 - 09:40 | x1 encodes a putative RNA-binding protein required for paramutations at multiple loci | Oliver Marchus, Ohio State University [T26](/generated/talks/T26/index.qmd)  |
+| 09:40 - 09:40 | BREAK  |   Ballroom ABC Lobby |
+
+
+### SESSION 11 – METABOLIC REGULATION
+
+**Sherry Flint-Garcia**
+
+|  |        |   |  
+|:-|--------|--:|
+| 10:00 - 10:20 | Strigolactone control of iron homeostasis in maize. | Elsbeth Walker, University of Massachusetts, Amherst [T27](/generated/talks/T27/index.qmd)  |
+| 10:20 - 10:40 | Upper level and cross hierarchical regulation of predominantly expressed phenolic genes in maize | Ankita Abnave, University of Toledo [T28](/generated/talks/T28/index.qmd)  |
+| 10:40 - 11:00 | Elucidating the metabolomic and single-cell transcriptomic landscape of maize leaf senescence | Manwinder Singh Brar, Clemson University [T29](/generated/talks/T29/index.qmd)  |
+| 11:00 - 11:20 | Potent pollen gene regulation by DNA glycosylases in maize | Jonathan Gent, University of Georgia [T30](/generated/talks/T30/index.qmd)  |
+| 11:20 - 11:30 | CLOSING REMARKS | Rubén Rellán Álvarez and Sherry Flint-Garcia   |
+| 11:30 - 11:30 | ADJOURNMENT |    |

@@ -1,0 +1,20 @@
+---
+title: "Engineering root N remobilization after grain filling to decrease greenhouse gas emissions and N leaching in corn agriculture"
+subtitle: "P13"
+author: "Jonathan Ojeda-Rivera"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/05/DNA_base-pair_diagram.jpg"
+categories: 
+- Biochemical and Molecular Genetics
+- Odd Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+The extensive use of nitrogen (N) in maize agriculture is a major contributor to environmental challenges, including waterway N pollution and N2O emissions. Enhancing maize N use-efficiency and recycling can contribute to mitigate these environmental impacts. Perennial grasses, including maize relatives of the Andropogoneae tribe, have evolved efficient N recycling strategies, making them a valuable genetic reservoir to improve N management in maize. One of these N-recycling strategies is the remobilization of N from aboveground to underground tissues that perennial grasses activate post-flowering and during the winter. This study aims to engineer perennial-like root N remobilization in maize after grain filling to reduce N leaching and N2O emissions. Our approach involves identifying key genes for perennial N-remobilization through seasonal tracking of N, amino acid and gene expression profiles in both roots and leaves of multiple Andropogoneae species grown under field conditions. We will also conduct a detailed analysis of gene expression and total N profiles in B73 maize with Zea diploperennis introgressions. This analysis will span from the flowering stage to senescence, under field conditions. Additionally, we will compare these profiles in plants with and without a developing ear (sink) to pinpoint key genes responsible for root N remobilization in the absence of an N sink after flowering. Following the identification of key genes, we will employ comparative evolutionary genomics within the Andropogoneae tribe to further refine our selection of candidate genes for root N remobilization. These genes will subsequently be introduced into maize using genetic engineering or introgression techniques. This study aims to contribute to reducing greenhouse gas emissions and N leaching, paving the way for more sustainable maize agriculture practices.
+
+<a href='mailto:joo29@cornell.edu'>Ojeda-Rivera, Jonathan O</a><sup>1</sup><br><a href='mailto:eo235@cornell.edu'>Oren, Elad</a><sup>1</sup><br>Hsu, Sheng-Kai<sup>1</sup><br>Lepak, Nicholas<sup>2</sup><br>Konadu, Beatrice<sup>1</sup><br>Pil, Hannah<sup>3</sup><br>Tandukar, Nirwan<sup>3</sup><br>Sánchez-González, José J<sup>4</sup><br>Holland, James B<sup>5</sup><br>Nystrom, Grace<sup>6</sup><br>de Leon, Natalia<sup>6</sup><br>Flint-Garcia, Sherry<sup>7</sup><br>Washburn, Jacob<sup>7</sup><br>Rellán-Álvarez, Rubén<sup>3</sup><br>Romay, M Cinta<sup>1 8</sup><br><a href='mailto:esb33@cornell.edu'>Buckler, Edward S</a><sup>1 2 8</sup><br>
+
+<sup>1</sup>Institute for Genomic Diversity, Cornell University, Ithaca, NY USA 14853<br><sup>2</sup>USDA-ARS, Ithaca, NY, USA 14853<br><sup>3</sup>Department of Molecular and Structural Biochemistry, North Carolina State, Raleigh, NC 27695<br><sup>4</sup>Universidad de Guadalajara, Centro Universitario de Ciencias Biológicas y Agropecuarias, Zapopan, Mexico<br><sup>5</sup>USDA-ARS, Raleigh, NC, USA 27695<br><sup>6</sup>Department of Plant and Agroecosystem Sciences, University of Wisconsin, Madison, WI 53706<br><sup>7</sup>USDA-ARS, Columbia, MO, USA 65211<br><sup>8</sup>Section of Plant Breeding and Genetics, Cornell University, Ithaca, NY USA 14853<br>

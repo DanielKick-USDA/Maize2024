@@ -1,0 +1,20 @@
+---
+title: "Mapping genomic elements in response to heat stress in maize"
+subtitle: "P159"
+author: "Zhikai Liang"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e5/ENIAC-changing_a_tube.jpg"
+categories: 
+- Computational and Large-Scale Biology
+- Odd Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Global warming is reshaping the crop growth environments and requires us to better understand plant responses to the rising temperature. As one consequence of global warming, heat stress can impact crop growth, development as well as the loss of grain yield. In the molecular level, heat stress can trigger gene activations in plants but molecular mechanisms remain unknown. Identifying genomic elements that are involved in the response process among varieties in one species can facilitate the understanding of potential genomic causal factors. We used maize as a model species to collect transcriptomic data in >100 inbreds and MNase-defined cistrome-Occupancy Analysis (MOA-seq) from B73 to understand heat response in maize. By developing a new eQTL mapping approach, we inferred hundreds of cis-regulatory elements (CREs) can be involved in gene regulation during heat stress and validated functions of selected CREs. This study provides insights on characterizing CRE functions in plant genome.
+
+<a href='mailto:zhikai.liang@ndsu.edu'>Liang, Zhikai</a><sup>1</sup><br>Myers, Zachary A.<sup>2</sup><br>Petrella, Dominic<sup>3 4</sup><br>Engelhorn, Julia<sup>5 6</sup><br>Hartwig, Thomas<sup>5 6</sup><br>Springer, Nathan M.<sup>2</sup><br>
+
+<sup>1</sup>Department of Plant Sciences, North Dakota State University, Fargo, ND, USA 58108<br><sup>2</sup>Department of Plant and Microbial Biology, University of Minnesota, Saint Paul, MN, USA 55108<br><sup>3</sup>Department of Horticulture, University of Minnesota, Saint Paul, MN, USA 55108<br><sup>4</sup>Agricultural Technical Institute, The Ohio State University, Wooster, OH, USA 44691<br><sup>5</sup>Max Planck Institute for Plant Breeding Research, Cologne, Germany 50829<br><sup>6</sup>Heinrich-Heine University, Dusseldorf, Germany 40225<br>

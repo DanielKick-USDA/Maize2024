@@ -1,0 +1,20 @@
+---
+title: "Functional and genetic analysis of alternatively spliced transcript isoforms of a conserved RNA Binding Motif Protein 48 (RBM48) essential for the splicing of U12-type introns"
+subtitle: "P81"
+author: "Daniela Meson De La Fuente"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c1/Protective_Coleoptile_Tip_in_Zea_Mays_Embryo_%2847691344541%29.jpg"
+categories: 
+- Cell and Developmental Biology
+- Odd Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Accurate recognition and removal of introns from precursor mRNA by spliceosome is a fundamental but complex process essential for the expression of eukaryotic genes. In addition to the major group, most eukaryotic organisms contain a rare minor group of introns called U12-type. Minor introns constitute less than 0.5% of all introns and are spliced by a separate minor spliceosome. The parallel existence of two groups of introns and their biological relevance is unclear; however, mutations that disrupt the splicing of U12-type introns cause developmental defects in plants and animals. Our laboratory recently reported a conserved RNA Binding Motif Protein 48 (RBM48) gene required for splicing U12-type introns and encoding a core minor spliceosomal protein. A maize rbm48 mutant displays genome-wide disruption of primarily U12-type introns with a severe defect in kernel development. Intriguingly, the maize and human RBM48 encode several transcript isoforms by alternative splicing; however, the biological function of transcript isoforms in U12 splicing is not apparent. In this report, we have developed a genetic assay by CRISPR-Cas9-mediated knockout of the RBM48 gene in the human cancer-derived cell line K562 to investigate the biological function of RBM transcript isoforms. Using RT-PCR with primers flanking the U12-type introns, we demonstrate they are not efficiently spliced in RBM48 knockout (KO) K562 cells. We also show that by separately transfecting the wild type and three different alternatively spliced transcript isoforms of RBM48 in the mutant K562 cells, the splicing of U12-type introns can be restored or genetically complemented. This provides evidence for the important role of RBM48 transcript isoforms in U12 splicing. The data generated from these studies will be presented.
+
+<a href='mailto:dmeson@oakland.edu'>Meson De La Fuente, Daniela</a><sup>1</sup><br><a href='mailto:DaltonRaymond@oakland.edu'>Raymond, Dalton</a><sup>2</sup><br><a href='mailto:lal@oakland.edu'>Lal, Shailesh</a><sup>1 2</sup><br>
+
+<sup>1</sup>Department of Bioengineering, Oakland University, Rochester, MI, USA 48309<br><sup>2</sup>Department of Biological Sciences, Oakland University, Rochester, MI, USA 48309<br>

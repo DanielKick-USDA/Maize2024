@@ -1,0 +1,20 @@
+---
+title: "Breeders' genomic hub: Integrating analysis tools with data"
+subtitle: "P138"
+author: "Terry Casstevens"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e5/ENIAC-changing_a_tube.jpg"
+categories: 
+- Computational and Large-Scale Biology
+- Even Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+With increasing amounts of genomic data, the demand for fast, reproducible, and robust bioinformatic pipelines is paramount. The Breeders’ Genomics Hub, built on a JupyterHub framework, integrates a suite of open-source tools for collecting, analyzing, and predicting biological patterns from phenotypic and genotypic data. This unified platform not only streamlines data analysis but also simplifies pipeline documentation. Utilization of Jupyter Notebooks within the hub promotes sharing and reproducibility. One of the strengths of the Breeders’ Genomics Hub is it provides researchers with access to powerful, yet user-friendly, data sources and software tools. It leverages the Breeding Application Programming Interface (BrAPI) web services to retrieve data from common breeding databases using BreeDBase, BMS, or Gigwa. For instance, rTASSEL and rPHG, accessible via a R programming kernel in Jupyter Notebooks, connect users to TASSEL and the Practical Haplotype Graph (PHG). PHG is a graph-based tool for haplotype calling from high-throughput sequencing data. BioKotlin, a bioinformatics library offering the performance of compiled languages (>50-fold performance) with the ease of Python-like scripting, is also available on the Hub. Researchers can harness these tools to retrieve PHG data, integrate and preprocess it using rTASSEL and BioKotlin, visualize it with standard libraries, and employ machine learning or R models for insightful genomic predictions. By using the Breeders’ Genomics Hub to link data from multiple sources and perform advanced analysis plant breeders can gain valuable insights into the relationships between genotype and phenotype and make informed breeding decisions. Ultimately, the Breeders’ Genomics Hub not only fosters collaboration among scientists but also enables integration with genomic tools, offering a centralized repository for data pipelines and results.
+
+<a href='mailto:tmc46@cornell.edu'>Casstevens, Terry M</a><sup>1</sup><br>Johnson, Lynn<sup>1</sup><br>Agosto-Perez, Francisco J<sup>2</sup><br>Bradbury, Peter<sup>1 3</sup><br>Econopouly, Bethany<sup>1</sup><br>Miller, Zachary R<sup>1</sup><br>Monier, Brandon<sup>1</sup><br>Morse, Jeffrey<sup>1</sup><br>Wiese, Matthew<sup>1</sup><br>Buckler, Edward S<sup>1 2 3</sup><br>
+
+<sup>1</sup>Cornell University, Institute Biotechnology and Life Science, Ithaca, New York, USA<br><sup>2</sup>Cornell University, Section of Plant Breeding and Genetics, Ithaca, New York, USA<br><sup>3</sup>USDA-ARS, Ithaca, NY, USA 14853<br>

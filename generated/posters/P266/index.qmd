@@ -1,0 +1,20 @@
+---
+title: "Spatial analysis of stomatal patterning from computer vision-annotated images for GWAS/TWAS of a diverse biomass sorghum population"
+subtitle: "P266"
+author: "Lydia Keller"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5e/Aztec_Diet_Basket_of_Corn_%289755332575%29.jpg"
+categories: 
+- Quantitative Genetics & Breeding
+- Even Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Stomata serve an essential role in regulating the exchange of CO2 and water between leaves and the atmosphere. Stomatal conductance is determined by the combination of stomatal density (SD), stomatal size and stomatal aperture. Stomatal density is a function of a hierarchy of developmental processes acting along both the medial (i.e. midvein to margin) and longitudinal (i.e. ligule to leaf tip) axes of the leaf. In maize, proof-of-concept has been established for quantifying stomatal patterning as a kernel density distribution (KDD) that describes the self-repeating pattern of stomata on the epidermis. In doing so, it provides a means to break up a composite, complex trait such as SD into its subcomponents. This study aims to test the same approach in sorghum to perform a genome-wide association study (GWAS) and transcriptome-wide association study (TWAS) that can identify candidate genes underlying variation in stomatal patterning of a model C4 species. Optical tomography and AI-enabled computer vision were used to score stomatal positioning across 842 diverse accessions of photoperiod-sensitive, biomass sorghum. KDDs were generated for each genotype allowing for extraction of informative parameter-traits. Initial trait correlations provide evidence that there are some common trait-trait correlations shared between maize and sorghum particularly for cell size and shape while sorghum still shows some unique patterning attributes of its own such as wider distances between stomatal files compared to maize. On-going GWAS/TWAS analysis will identify potential gene targets for engineering altered stomatal patterning and water use efficiency in sorghum. In summary, this project provides evidence that the KDD method can be generalized across grass species allowing for both comparisons of overall morphology, and in the future could be used to explore the degree to which genetic drivers are shared between different grass model systems.
+
+<a href='mailto:lydiak2@illinois.edu'>Keller, Lydia E.</a><sup>1 2 3</sup><br><a href='mailto:jghodge@illinois.edu'>Hodge, John G.</a><sup>2 3</sup><br><a href='mailto:leakey@illinois.edu'>Leakey, Andrew D. B.</a><sup>1 2 3 4 5</sup><br>
+
+<sup>1</sup>Department of Integrative Biology, University of Illinois Urbana-Champaign; Urbana, IL 61801, USA<br><sup>2</sup>Center for Advanced Bioenergy and Bioproducts Innovation; Urbana, IL 61801, USA<br><sup>3</sup>Carl R. Woese Institute for Genomic Biology, University of Illinois Urbana-Champaign; Urbana, IL 61801, USA<br><sup>4</sup>Department of Plant Biology, University of Illinois Urbana-Champaign; Urbana, IL 61801, USA<br><sup>5</sup>Center for Digital Agriculture, University of Illinois Urbana-Champaign; Urbana, IL 61801, USA<br>

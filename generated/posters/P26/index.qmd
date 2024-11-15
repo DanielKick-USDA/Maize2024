@@ -1,0 +1,20 @@
+---
+title: "Identifying the functional determinants of ZmEhd1 - a putative maize flowering time activator using a protoplast system."
+subtitle: "P26"
+author: "Ella Hampson"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/05/DNA_base-pair_diagram.jpg"
+categories: 
+- Biochemical and Molecular Genetics
+- Even Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+With the human population increasing, it is essential to find novel ways to increase sustainable food production. Maize is a globally important staple crop, but due to flowering time issues, we are not able to fully utilize the extensive genetic diversity of tropical maize for crop improvement. Tropical maize has the potential to contribute desirable traits such as pest/disease resistance, stalk stability, and drought tolerance to temperate breeding efforts, but its late flowering in temperate environments limits its use. Plant biotechnology strategies can be used to address this issue, but first we need to more fully understand the molecular genetic network controlling maize flowering time. My project aims to understand the molecular mechanisms of the maize flowering time promoter, ZmEhd1. ZmEhd1 is a homolog of the rice Ehd1 flowering activator and encodes a B-type response regulator, similar to transcriptional activators of the cytokinin signaling pathway. I am using a maize protoplast system to (i) confirm the correct ZmEhd1 gene structure using rapid amplification of cDNA ends (RACE) (ii) determine if ZmEhd1 localizes to the nucleus, (iii) use deletions to map the ZmEhd1 nuclear localization domain, and (iv) use transcriptomics to determine how overexpressing ZmEhd1 impacts other parts of the flowering time network. Understanding the functional determinants of ZmEhd1 will provide a more complete picture of its role in the maize flowering time network. This new information can help inform novel biotechnological approaches to amend the flowering issues in tropical maize, allowing its broader use in maize breeding programs worldwide, thus, helping to improve sustainable food production.
+
+<a href='mailto:ellagh@hawaii.edu'>Hampson, Ella</a><sup>1</sup><br><a href='mailto:higalaur@hawaii.edu'>Higa, Lauren</a><sup>2</sup><br><a href='mailto:duz@hawaii.edu'>Du, Zhiyan</a><sup>2</sup><br><a href='mailto:mgmuszyn@hawaii.edu'>Muszynski, Michael</a><sup>1</sup><br>
+
+<sup>1</sup>Department of Tropical Plant and Soil Sciences, University of Hawaiʻi at Mānoa, Honolulu, HI, 96822<br><sup>2</sup>Department of Molecular Biosciences and Bioengineering, University of Hawaiʻi at Mānoa, Honolulu, HI, 96822<br>

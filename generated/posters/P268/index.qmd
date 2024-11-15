@@ -1,0 +1,20 @@
+---
+title: "The core collection enriched for Korean maize (Zea mays L.) landraces reveals seed texture correlated morphological characters and novel multi-aleurone layer phenotypes"
+subtitle: "P268"
+author: "Seongmin Hong"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5e/Aztec_Diet_Basket_of_Corn_%289755332575%29.jpg"
+categories: 
+- Quantitative Genetics & Breeding
+- Even Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+The maize (Zea mays L.) is one of the important food crops and extensively studied for the crop genetics and breeding. In the Korean peninsula, it was introduced since the middle of the 16th century. Over 3,000 Korean maize landraces have been collected and deposited in the National Agrobiodiversity Center, South Korea. Most of the Korean maize accessions have been maintained as local landraces, implying preservation of diverse morphological traits with a wide range of variation. However, there has been a few studies for discovering the phenotypic characteristics of the Korean maize germplasm. To develop representative Korean maize landrace panel, we collected published phenotype data of 2,690 accessions. Total 12 categorical and 17 quantitative traits were evaluated to assess morphological diversity among collected accessions. Principal component analysis demonstrated that the variations of Korean maize germplasms were largely explained by traits including flowering time, kernel yield, and stalk diameter. In particular, the waxy and flint types showed distinct distributions by both stalk diameter and tillering patterns. We selected total 276 accessions as a core collection by Core Hunter 3 algorithm. Furthermore, we investigated not only the morphological traits in the field but also kernel phenotypes by observing dissected seeds with microscopy from the subset of the core collection. As a result, many novel germplasms with multiple aleurone layers were found, indicating that Korean landraces have maintained the original genetic variation that has been removed during the modern breeding program.
+
+<a href='mailto:smhong.info@gmail.com'>Hong, Seongmin</a><sup>1</sup><br>Jo, Jinkwan<sup>1</sup><br>Kim, Jae-Hong<sup>1</sup><br>Kim, Ji Won<sup>1</sup><br>Park, Jin Seong<sup>1</sup><br>Go, Ji Yun<sup>1</sup><br>Ro, Na-Young<sup>2</sup><br><a href='mailto:gibumyi@gmail.com'>Yi, Gibum</a><sup>1</sup><br>
+
+<sup>1</sup>Department of Bio-Environmental Chemistry, College of Agriculture and Life Sciences, Chungnam National University, Daejeon, Republic of Korea<br><sup>2</sup>National Agrobiodiversity Center of NAAS, RDA, Suwon, Korea<br>

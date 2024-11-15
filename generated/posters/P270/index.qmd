@@ -1,0 +1,20 @@
+---
+title: "The maize ontogenetics: complexity, diversity and dynamics"
+subtitle: "P270"
+author: "Chengxiu Wu"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5e/Aztec_Diet_Basket_of_Corn_%289755332575%29.jpg"
+categories: 
+- Quantitative Genetics & Breeding
+- Even Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+【Objective】The formation of mature phenotype is related closely to the whole growth and development of organism, so investigating traits from the level of whole growth and development could improve the understanding of dynamic genetic basis of phenotype and expand more genetic resources from the time dimension.【Method】We monitored the whole growth status of the maize CUBIC panel using the high-throughput phenotyping platform.【Result】Over 1,002,240 RGB images were obtained, and 67 image-based traits (i-traits) from 18 time points were collected. We found the i-traits exhibited four diverse temporal patterns responsive to plant growth. The majority of the QTLs affecting i-traits are time-specific (84%), which largely explained the considerable portions of missing heritability of i-traits in the late growth phase. We simulated the accurate ontogenetic trajectories of maize genotypes, the diversity and genetic architecture of which were systematically understood. We found two genes that functioned differentially upon the plant growth, which greatly influenced the fine tuning of vegetative-reproductive transition in maize.【Conclusion】Our results provided the insights into the important traits from the ontogenetic perspectives, which proposed a new route for maize genome breeding via growth complementation.
+
+<a href='mailto:cxwu@webmail.hzau.edu.cn'>Wu, Chengxiu</a><sup>1</sup><br>Geng, Zedong<sup>1</sup><br>Li, Weikun<sup>1</sup><br>Ye, Junli<sup>1</sup><br>Xie, Tianjin<sup>1</sup><br>Hao, Xiaoyuan<sup>1</sup><br>Du, Yuanhao<sup>1</sup><br>Chen, Yunyu<sup>1</sup><br>Chen, Yuanyuan<sup>1</sup><br>Gui, Songtao<sup>1</sup><br>Luo, Jinyun<sup>1</sup><br>Xiao, Yingjie<sup>1</sup><br>Yang, Wannneg<sup>1</sup><br><a href='mailto:yjianbing@mail.hzau.edu.cn'>Yan, Jianbing</a><sup>1</sup><br>
+
+<sup>1</sup>National Key Laboratory of Crop Genetic Improvement; Huazhong Agricultural University, Wuhan, China, 430070<br>

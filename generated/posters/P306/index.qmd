@@ -1,0 +1,20 @@
+---
+title: "Revisiting the subgenome ancestry of maize"
+subtitle: "P306"
+author: "Michelle Stitzer"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/9a/CollapsedtreeLabels-simplified-fi.svg"
+categories: 
+- Evolution and Population Genetics
+- Even Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Early cytological, molecular, genetic, and genomic studies hypothesized maize originated from an allopolyploidy event, due to the presence of duplicated regions throughout the genome. This whole genome duplication occurred 8-13 million years ago, generating the ancestor of both Zea and Tripsacum. Maize has since undergone extensive biased fractionation as it rediploidized, resulting in ten chromosomes. A recent chromosomal-scale genome assembly of Tripsacum confirmed that its 18 chromosomes retain two largely intact syntenic subgenomes, but left questions as to what taxa contributed to the allopolyploidy event. Here, using over 500 newly sequenced species in the tribe Andropogoneae, we reconstruct genome-wide phylogenetic relationships to track this ancestry. Consistent with previous surveys using a handful of nuclear genes, an ancestor of taxa in the subtribe Rhytachninae appears to contribute the subgenome related to M1 that retains more genes. Members of this subtribe today live in wet environments in Africa, including taxa growing in river banks such as Vossia cuspidata (hippo grass), or seasonally swampy environments like Oxyrachis gracillima, Phacelurus gabonensis, and Rhytachne rottboellioides. The other subgenome donor origin is more obscure, with potential contributions from extant subtribe Ratzeburgiinae and genus Elionurus, each of which has a few species present today in the Americas. Where and how this allopolyploidy event occurred is still under investigation. We show that approximately 90% of regions assigned to M1 or M2 based on fractionation are consistent with their phylogenetic origin. Additional analyses are underway to understand how gene conversion events between homeologs may explain the ~10% of regions that disagree. We anticipate this phylogenetic investigation of subgenome ancestry will help maize geneticists interpret the effects of duplicated and fractionated genes within the maize genome. Understanding which subgenome donor is most related to a given maize gene could be of particular utility when considering traits differentiated between these progenitors, such as drought or flooding tolerance and related physiological pathways of cold tolerance.
+
+<a href='mailto:mcs368@cornell.edu'>Stitzer, Michelle C.</a><sup>1</sup><br><a href='mailto:taubuchon@danforthcenter.org'>AuBuchon-Elder, Taylor</a><sup>2</sup><br><a href='mailto:tml78@cornell.edu'>La, Thuy</a><sup>1</sup><br><a href='mailto:bukowski@cornell.edu'>Bukowski, Robert</a><sup>3</sup><br><a href='mailto:mcr72@cornell.edu'>Romay, M. Cinta</a><sup>1</sup><br><a href='mailto:esb33@cornell.edu'>Buckler, Edward S.</a><sup>1 4</sup><br><a href='mailto:ekellogg@danforthcenter.org'>Kellogg, Elizabeth A.</a><sup>2</sup><br>
+
+<sup>1</sup>Institute for Genomic Diversity, Cornell University; Ithaca, NY, USA 14853<br><sup>2</sup>Donald Danforth Plant Science Center; St Louis, MO, USA 63132<br><sup>3</sup>Institute of Biotechnology, Cornell University; Ithaca, NY, USA 14853<br><sup>4</sup>USDA-ARS; Ithaca, NY 14853<br>

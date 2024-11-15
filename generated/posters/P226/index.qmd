@@ -1,0 +1,20 @@
+---
+title: "Genetic elucidation of maize leaf length and width traits"
+subtitle: "P226"
+author: "Hongyu Jin"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5e/Aztec_Diet_Basket_of_Corn_%289755332575%29.jpg"
+categories: 
+- Quantitative Genetics & Breeding
+- Even Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Canopy architecture plays a key role in determining photosynthetic productivity, efficiency, and ultimately biomass and grain yield. Canopy architecture is, in turn, determined by combination of agronomic decisions, plant spacing and layout, and plant phenotypes, including leaf number, leaf angle, leaf length, and leaf width. While a number of studies has focused on identifying genes involved determining leaf number – often the result of changes in flowering time – and changes in leaf angle, the determinants of variation in leaf length and leaf width have been comparatively less investigated. Here we developed and employed a pipeline to conduct resampling based GWAS with BLINK and used it to identify genomic intervals linked to variation in leaf length and leaf width in a dataset collected from the Wisconsin Diversity panel over two field seasons. Taking advantage of a new and higher density genetic marker dataset derived from whole genome resequencing, we identified a total of 9 loci significantly associated with leaf length and an additional 9 loci associated with leaf width. None of them overlapped. We evaluated the repeatability and consistency of these loci using data from the SAM association panel collected from a third environment. Ten of the 18 originally identified loci showed significant effects on the same loci in this replication study. Change in allele frequency for the loci identified in this study among maize populations from different continents suggest some of these loci altering maize leaf morphology may have been targets of direct or indirect selection during the adaption of maize to different parts of the globe.
+
+<a href='mailto:hjin5@huskers.unl.edu'>Jin, Hongyu</a><sup>1 2</sup><br>Mural, Ravi V.<sup>3</sup><br><a href='mailto:jinliang.yang@unl.edu'>Yang, Jinliang</a><sup>1 2</sup><br><a href='mailto:schnable@unl.edu'>Schnable, James C.</a><sup>1 2</sup><br>
+
+<sup>1</sup>Department of Agronomy and Horticulture, University of Nebraska Lincoln, LIncoln NE, USA 68583<br><sup>2</sup>Center for Plant Science Innovation, University of Nebraska LIncoln, LIncoln NE, USA 68588<br><sup>3</sup>Department of Agronomy, Horticulture & Plant Science, South Dakota State University, Brookings, SD, USA 57007<br>

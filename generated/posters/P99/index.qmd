@@ -1,0 +1,20 @@
+---
+title: "Maize developmental transcription factors affect and interact with aberrant phyllotaxy1 in regulating phyllotaxy"
+subtitle: "P99"
+author: "Lander Geadelmann"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c1/Protective_Coleoptile_Tip_in_Zea_Mays_Embryo_%2847691344541%29.jpg"
+categories: 
+- Cell and Developmental Biology
+- Odd Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Regular patterned leaf initiation at the shoot apical meristem (SAM), or phyllotaxy, determines a plant’s arrangement of leaves around a stem. In maize phyllotaxy, leaves are initiated successively on alternating sides of the plant, offset by 180˚. Among all plants, few mutants have been identified that influence phyllotaxy, suggesting the process is robust and functionally buffered. In maize, mutants for the aberrant phyllotaxy1 (abph1) cytokinin signaling gene have altered phyllotaxy wherein leaves are instead initiated on opposite sides of the plant in pairs offset by 90˚. abph1 mutants have an enlarged SAM which is proposed to result from complex interactions between the hormones cytokinin and auxin. We have identified transcription factor (TF) genes ereb130, ereb184 and paralogs whose mutants result in altered phyllotaxy reminiscent of abph1. These TF mutants have relatively high penetrance in standard inbred lines in which abph1 mutants are nearly normal. Expression analysis of ereb130 mutants indicates a potential reduction in the biosynthesis of auxin, a hormone necessary for leaf initiation. Meristem size is unaffected in the inbred single mutants examined, yet the double mutants ereb130; ereb184 or ereb130;abph1 show similarly enlarged SAMs. Both double mutants show an increase in the total number of leaves initiated, yet this interaction is additive in ereb double mutants and synergistic in combination with abph1. These mutants allow for further elucidation and integration of hormones, gene expression, and morphology in the regulatory network controlling phyllotaxy. To further explore this, RNA-seq data from these various mutants is being combined with DAP-seq data for the EREB TFs to determine shared or independent changes in expression dynamics among these mutants that relate to the phyllotactic phenotypes. Given variation in SAM size and expression patterns among maize inbred lines, these mutants open a door to explore how diverse inbreds might differentially modulate leaf initiation.
+
+<a href='mailto:landerg@iastate.edu'>Geadelmann, Lander</a><sup>1</sup><br><a href='mailto:marygalli@waksman.rutgers.edu'>Galli, Mary</a><sup>2</sup><br><a href='mailto:eunger@iastate.edu'>Unger-Wallace, Erica</a><sup>1</sup><br><a href='mailto:jjstrabl@ncsu.edu'>Strable, Josh</a><sup>3</sup><br><a href='mailto:agallavotti@waksman.rutgers.edu'>Gallavotti, Andrea</a><sup>2</sup><br><a href='mailto:vollbrec@iastate.edu'>Vollbrecht, Erik</a><sup>1</sup><br>
+
+<sup>1</sup>Iowa State University; Department of Genetics, Cellular, and Developmental Biology; Ames, IA<br><sup>2</sup>Rutgers University; Waksman Institute of Microbiology, Department of Plant Biology; Piscataway, NJ<br><sup>3</sup>North Carolina State University; Department of Molecular and Structural Biochemistry; Raleigh, NC<br>

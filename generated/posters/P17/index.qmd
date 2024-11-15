@@ -1,0 +1,20 @@
+---
+title: "GRASSIUS 2.0 Knowledgebase: Updated resources and tools for regulomics in the grasses"
+subtitle: "P17"
+author: "John Gray"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/05/DNA_base-pair_diagram.jpg"
+categories: 
+- Biochemical and Molecular Genetics
+- Odd Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Grass species, which include the major cereal crops maize, wheat, rice, and sugarcane, are an integral part of our global agriculture and source of food and energy for a growing world population. GRASSIUS was established as a knowledge base for transcription factors (TFs) and coregulators (CRs) in maize and several other species in the grass family. TFs are a primary component of the gene regulatory networks (GRNs) and the underlying gene regulatory grids (GRGs) that govern all aspects of plant growth and metabolism. GRASSIUS is the source for all information pertaining to the maize TFome collection, which serves as a powerful resource for the discovery of GRNs in corn and other cereals (Burdo et al., Plant J, 2014 80: 356-66, Yang et al., 2017. Mol Plant, 10:498–515). Here we announce the release of the GRASSIUS 2.0 knowledgebase (www.grassius.org) with updated data, query, and tool features, as well as the ability to expand to accommodate future datasets. The membership and annotation of all TF and CR families has been updated and revised to include gene models from versions 3, 4, and 5, of the maize genome. A translation tool enables cross referencing of Gene IDs between versions of the maize genome. A new Protein-DNA Interaction (PDI) Collection has been added that incorporates PDIs derived from ChIP, ChIP-seq, DAP-seq, pChIP, and Y1H datasets. A filtering tools permits the selection of PDIs within a ± 2kb distance from the transcriptional start site of a gene of interest. A new BLAST tool facilitates searching of the maize TFome as well as v3, v4, and v5 TF gene model sets. Lastly, we describe the methodology used to implement GRASSIUS 2.0 which can guide others in developing and updating similar plant gene regulatory knowledgebases. This project was funded by NSF grant IOS-1733633.
+
+<a href='mailto:john.gray5@utoledo.edu'>Gray, John</a><sup>1</sup><br><a href='mailto:Ankita.Abnave@rockets.utoledo.edu'>Abnave, Ankita</a><sup>1</sup><br><a href='mailto:hadi.nayebi@dandeliontx.com'>Navgani, Hadi</a><sup>2</sup><br><a href='mailto:fabioandres220@gmail.com'>Gomez Cano, Fabio</a><sup>3</sup><br><a href='mailto:grotewol@msu.edu'>Grotewold, Erich</a><sup>3</sup><br>
+
+<sup>1</sup>Department of Biological Sciences, University of Toledo, Toledo, Ohio, USA<br><sup>2</sup>Dandelion Therapeutics, 479 Jessie Street, San Francisco, CA 94103<br><sup>3</sup>Department of Biochemistry and Molecular Biology, Michigan State University, East Lansing, MI 48824, USA<br>

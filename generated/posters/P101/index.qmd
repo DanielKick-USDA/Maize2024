@@ -1,0 +1,20 @@
+---
+title: "Nuclear membrane proteins and their functions beyond the nuclear membrane"
+subtitle: "P101"
+author: "Arif Ashraf"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c1/Protective_Coleoptile_Tip_in_Zea_Mays_Embryo_%2847691344541%29.jpg"
+categories: 
+- Cell and Developmental Biology
+- Odd Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+The nucleus is the characteristic organelle that makes eukaryotic cells distinct from archaea and prokaryotes. Nucleus contains genetic materials and protects itself by double layer membrane. Like any other membrane, double layer nuclear membrane includes proteins, and they are known as nuclear membrane proteins. In a dynamic cell, the nucleus is motile, and this movement is mediated by the interaction between nuclear membrane proteins and cytoskeleton. In a recent study, I have demonstrated that if this interaction between nuclear membrane proteins and cytoskeleton is interrupted at cellular level, nucleus fails to position correctly, and the future cell division follows the altered nuclear position. This study answers a long-standing biology question: The nucleus decides the future cell division site. In careful observation, this event highlights how nuclear envelope proteins regulate cell division, more precisely future division site. Interestingly, nuclear envelope breaks down during the cell division and re-appears in the daughter cell nucleus. What happens to the nuclear membrane proteins after the envelope breaks down? What is the function of nuclear envelope proteins during mitosis? The research in my lab tries to answer these fundamental questions using the Zea mays genetic and cell biology resources.
+
+<a href='mailto:arif.ashraf.opu@gmail.com'>Ashraf, Arif</a><sup>1</sup><br>
+
+<sup>1</sup>Department of Biology, Howard University, Washington, District of Columbia, USA, 20059<br>

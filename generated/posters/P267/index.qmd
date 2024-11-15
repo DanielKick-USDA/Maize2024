@@ -1,0 +1,20 @@
+---
+title: "Target-oriented prioritization: a breeding decision tool for genomic selection"
+subtitle: "P267"
+author: "Yingjie Xiao"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5e/Aztec_Diet_Basket_of_Corn_%289755332575%29.jpg"
+categories: 
+- Quantitative Genetics & Breeding
+- Odd Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Genomic data is a useful to predict trait values in the large breeding population before field trial, but the decision-making for select favorable individuals is challenging because the breeders often consider multiple traits. Personal experiences and field knowledge are valuable abilities for crop breeding. Thus, advancing “prediction to selection” remains to be important but unresolved. We propose an integrative multi-trait breeding strategy that incorporates trait predictions at the whole plant level to make a cohesive decision for selecting superior candidates via a machine learning algorithm, called Target-Oriented Prioritization (TOP). We found that the likelihood of identifying the valuable one from 300 breeding candidates was 0.3% for an untrained person, also as an impossible mission without breeding experiences. However, we will have the possibility of 60.8% for identification of the valuable one if empowered by TOP algorithm. It provided a potential breeding-decision tool for further moving forward to genomic breeding.
+
+<a href='mailto:yangwenyurain@126.com'>Yang, Wenyu</a><sup>1 2</sup><br>Guo, Tingting<sup>3</sup><br>Luo, Jingyun<sup>1</sup><br>Zhang, Ruyang<sup>4</sup><br>Zhao, Jiuran<sup>4</sup><br>Warburton, Marilyn L.<sup>5</sup><br><a href='mailto:yxiao25@mail.hzau.edu.cn'>Xiao, Yingjie</a><sup>1 3</sup><br><a href='mailto:yjianbing@mail.hzau.edu.cn'>Yan, Jianbing</a><sup>1 3</sup><br>
+
+<sup>1</sup>National Key Laboratory of Crop Genetic Improvement, Huazhong Agricultural University, Wuhan 430070, China<br><sup>2</sup>College of Science, Huazhong Agricultural University, Wuhan 430070, China<br><sup>3</sup>Hubei Hongshan Laboratory, Wuhan 430070, China<br><sup>4</sup>Beijing Key Laboratory of Maize DNA Fingerprinting and Molecular Breeding, Beijing Academy of Agricultural & Forestry Sciences, Beijing 100097, China<br><sup>5</sup>United States Department of Agriculture-Agricultural Research Service, Corn Host Plant Resistance Research Unit, Box 9555, Mississippi State, MS 39762, USA<br>

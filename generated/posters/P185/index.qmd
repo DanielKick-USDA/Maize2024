@@ -1,0 +1,20 @@
+---
+title: "From the Inari gene editing toolbox: CRISPR/Cas-mediated enhancer insertion in maize"
+subtitle: "P185"
+author: "Marlies Wouters"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/69/Leiden_University_Library_-_Seikei_Zusetsu_vol._19%2C_page_019_-_%E7%8E%89%E8%9C%80%E9%BB%8D_-_Zea_mays_L.%2C_1804.jpg"
+categories: 
+- Education & Outreach
+- Odd Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Because of climate change, we have no other option but to feed our growing population with less land and fewer inputs. At Inari, we combine predictive design and an ever-deeper understanding of the plants’ complex inner workings with multiplex gene editing to drive improvements in yield and resource use efficiency. Our gene editing toolbox consists of technologies that enable us to turn specific genes off/on, tune their expression up/down and facilitate sequence replacement. Here, we demonstrate the use of the CRISPR/Cas system beyond traditional gene disruption, to upregulate gene activity. We identified a small element native to maize, that upon integration in target gene promoters enhances gene expression. Insertion into the promoter is achieved during non-homologous end joining-mediated repair of a CRISPR/Cas-induced double stranded break. Across all 11 target genes, insertion efficiencies averaged 29% (range 6%-61%). In all examined cases, enhancer insertions identified in T0 plants were inherited by the T1 progeny. Expression analysis in resulting T1 populations demonstrated increased gene expression in leaves for all targets except one and in primary roots for all targets; even genes with high basal expression could be further upregulated. As a proof-of-concept, we applied our CRISPR/Cas-mediated enhancer insertion technology to upregulate genes involved in nitrogen use efficiency (NUE) and performed small-scale phenotyping experiments. When grown in limited nitrogen, maize plants with increased expression of ALANINE AMINOTRANSFERASE, a cereal NUE gene, suggested higher tolerance to low nitrogen compared to siblings without the enhancer allele. Furthermore, we showed that the insertion of the enhancer element can be combined with other types of edits such as small insertions or deletions in other genes. To conclude, the Inari gene editing toolbox contains different technologies that can be combined to enable advanced engineering of complex traits, and to correct deleterious alleles to improve sustainable maize production.
+
+<a href='mailto:mwouters@inari.com'>Wouters, Marlies</a><sup>1</sup><br><a href='mailto:hclaeys@inari.com'>Claeys, Hannes</a><sup>1</sup><br><a href='mailto:eneyrinck@inari.com'>Neyrinck, Eveline</a><sup>1</sup><br><a href='mailto:ldumoulin@inari.com'>Dumoulin, Lies</a><sup>1</sup><br><a href='mailto:apharazyn@inari.com'>Pharazyn, Anne</a><sup>1</sup><br><a href='mailto:averstichele@inari.com'>Verstichele, Arne</a><sup>1</sup><br><a href='mailto:laurens.pauwels@psb.vib-ugent.be'>Pauwels, Laurens</a><sup>2 3</sup><br><a href='mailto:mnuccio@inari.com'>Nuccio, Mike L.</a><sup>4</sup><br><a href='mailto:fvanex@inari.com'>Van Ex, Fred</a><sup>1</sup><br>
+
+<sup>1</sup>Inari Agriculture NV, Ghent, Belgium<br><sup>2</sup>Ghent University, Department of Plant Biotechnology and Bioinformatics, Ghent, Belgium<br><sup>3</sup>VIB Center for Plant Systems Biology, Ghent, Belgium<br><sup>4</sup>Inari Agriculture Inc, Cambridge, Massachusetts, USA<br>

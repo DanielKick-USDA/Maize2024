@@ -1,0 +1,20 @@
+---
+title: "Genomic selection: Essence, applications and prospects"
+subtitle: "P230"
+author: "Diana Marcela Escamilla Sanchez"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5e/Aztec_Diet_Basket_of_Corn_%289755332575%29.jpg"
+categories: 
+- Quantitative Genetics & Breeding
+- Even Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Genomic selection (GS) emerged as part of the solution to ensure food supply for the growing human population, thanks to advances in genotyping technologies and improved understanding of quantitative genetics and the genotype-phenotype relationship. In essence, GS is a breeding strategy to predict the genetic merits of individual genotypes for selection using their genotypic data and a trained model. It includes three major steps: training population design, model building, and prediction and selection. With GS, the role of phenotyping in breeding has switched from generating data for selection to generating data for model building. The increased capacity of GS to evaluate more genotypes, in combination with shorter breeding cycles, has led to a wider adoption in plant breeding. Many research studies have been conducted to optimize GS with greater emphases on crop- and trait-specific applications, and predictive models. A successful GS strategy, however, encompasses more than just predictive models; it also involves strategic design and planning. The most significant advances in GS include integrating phenomics, turbocharging gene banks, analyzing multitrait and longitudinal traits, and crosslinking crop growth models, environmental covariates, and reaction norms. In light of the rapid development of artificial intelligence (AI), GS can be further improved by either upgrading the entire framework or individual components. AI-driven GS can consider new layers of information including multi-omic, enviromic, and pangenome datasets. As GS complexity increases, so do the challenges associated with storing, handling, and processing large volumes of data, as well as the need for higher expertise across various domains. Technology advances, research innovations, and emerging challenges in agriculture will continue to shape the role of GS in plant breeding.
+
+<a href='mailto:descamil@iastate.edu'>Escamilla, Diana M.</a><sup>1</sup><br><a href='mailto:ddli@iastate.edu'>Li, Dongdong</a><sup>1</sup><br><a href='mailto:knegus@iastate.edu'>Negus, Karlene L.</a><sup>1</sup><br><a href='mailto:kiarak@iastate.edu'>Kappelmann, Kiara L.</a><sup>1</sup><br><a href='mailto:amkusmec@iastate.edu'>Kusmec, Aaron</a><sup>1</sup><br><a href='mailto:Adam.Vanous@usda.gov'>Vanous, Adam E.</a><sup>2</sup><br><a href='mailto:schnable@iastate.edu'>Schnable, Patrick S.</a><sup>1</sup><br><a href='mailto:xianran.li@usda.gov'>Li, Xianran</a><sup>3</sup><br><a href='mailto:jmyu@iastate.edu'>Yu, Jianming</a><sup>1</sup><br>
+
+<sup>1</sup>Department of Agronomy, Iowa State University, Ames, IA, USA<br><sup>2</sup>USDA ARS, Plant Introduction Research Station, Ames, IA, USA<br><sup>3</sup>USDA ARS, Wheat Health, Genetics, and Quality Research Unit, Pullman, WA, USA<br>

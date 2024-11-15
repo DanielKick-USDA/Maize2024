@@ -1,0 +1,20 @@
+---
+title: "Wavy Auricle in Blade2 (Wab2) overexpresses tcptf15 and is suppressed by one copy of wavy auricle in blade1 (wab1) loss-of-function"
+subtitle: "P126"
+author: "Leslie Harris"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c1/Protective_Coleoptile_Tip_in_Zea_Mays_Embryo_%2847691344541%29.jpg"
+categories: 
+- Cell and Developmental Biology
+- Even Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+The maize leaf is separated into three genetic domains: a blade optimized for photosynthesis, a sheath wrapped tightly around the stem that provides structural support, and a ligule/auricle that acts as a hinge bridging the blade and sheath. We have been characterizing Wavy Auricle in Blade2 (Wab2), a maize leaf mutant that produces ectopic clusters of auricle-like tissue in the blade. Wab2 exhibits incomplete dominance and variable expressivity as a heterozygote. Histology of the Wab2 shoot apex showed multiple bands of actively dividing cells as early as the fifth leaf primordium (P5) from the meristem, resembling blade-sheath boundary tissues where the wild-type auricle forms. Bulk segregant sequencing identified a rough mapping interval on chromosome 4. RNA-seq analysis showed a predicted TCP transcription factor, tcptf15 (Zm00001eb179560), is 100-fold overexpressed in Wab2 mutants and the only differentially-expressed gene within the mapping interval. As the dominant allele of Wavy Auricle in Blade1 (Wab1-R) was previously shown to be caused by an overexpressed TCP transcription factor, tcptf15 has become our primary candidate gene for Wab2. To demonstrate tcptf15 is necessary for the Wab2 phenotype, we designed 4 sgRNAs against the locus that assemble using Gate Cloning, to create a revertant loss-of-function allele in the Wab2 background by CRISPR/Cas9. Double mutants between Wab2 and multiple wab1 loss-of-function alleles show wab1 is epistatic to Wab2. Unexpectedly, plants heterozygous for wab1-rev and wab1-MA also suppressed the Wab2 phenotype. We hypothesize that physical interaction between Wab2 and DNA-binding defective wab1-rev or wab1-MA proteins may explain heterozygous suppression. Future work will examine potential interactions between these proteins and place Wab2 within a genetic pathway for leaf development. There are still many questions left to be answered as we press forward in our study of this mutant.
+
+<a href='mailto:harriles@oregonstate.edu'>Harris, Leslie</a><sup>1</sup><br><a href='mailto:wolfha@oregonstate.edu'>Wolf, Haley</a><sup>1</sup><br><a href='mailto:martinalexander@berkeley.edu'>Alexander, Martin</a><sup>2</sup><br><a href='mailto:leiboffs@oregonstate.edu'>Leiboff, Samuel</a><sup>1</sup><br>
+
+<sup>1</sup>Department of Botany and Plant Pathology, Oregon State University, Corvallis, OR 97331, USA<br><sup>2</sup>Department of Plant and Microbial Biology, UC Berkeley, Berkeley, CA 94720, USA<br>

@@ -1,0 +1,20 @@
+---
+title: "Annotation of gene-metabolite functional relationships using multi-omics mapping of the Sorghum Bioenergy Association Panel"
+subtitle: "P1"
+author: "Jacob Olson"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/05/DNA_base-pair_diagram.jpg"
+categories: 
+- Biochemical and Molecular Genetics
+- Odd Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Plants synthesize a multitude of diverse metabolites crucial for plant survival and adaptation with implications in various biological processes and applications in agriculture and human health. However, the identity of most plant metabolites and the genes involved in their synthesis and regulation remain unknown. Thus, improving our understanding of plant gene-metabolite functional relationships is needed to unlock higher plant productivity and stress tolerance. We used a multi-omics approach combining untargeted liquid chromatography-mass spectrometry (LC-MS), LC-UV absorbance, and genome-wide association (GWA) to identify and characterize mass features and the alleles in genes responsible with their variation in the Sorghum Bioenergy Association Panel (BAP). Defense compounds, including salicylic acid (SA) and the dihydroxybenzoic acids (DHBAs), were identified. SA, 2,3 DHBA, and 2,5 DHBA levels are all variable dependent on genotype in the population. Additionally, several other compounds were identified including multiple flavonoids and dhurrin. Functional validation of both compound identities and gene functions were further explored via reverse genetics studies using a sequence-indexed EMS mutant population sorghum. The same untargeted LC-MS approach was used to profile a set of EMS mutants. One such mutant had a high-impact point mutation in CHALCONE SYNTHASE an important enzyme in flavonoid biosynthesis allowing the identification of a suite of flavonoids. Cross validation between the EMS mutant population and association mapping allows efficient validation, or rejection, of candidate genes identified by association mapping. Comparisons between LC-MS and LC-UV association data also help validate and identify mass features of interest. Additionally, total absorbance at specific wavelengths or the ratio of two specific wavelengths were mapped to identify alleles in genes associated with absorbance variations and higher abundances of light-absorbing compounds. LC-UV total absorbance association mapping can be compared and applied to field hyperspectral data, thus providing another application for the wealth of hyperspectral data collected from field studies.
+
+<a href='mailto:olson169@purdue.edu'>Olson, Jacob</a><sup>1 2</sup><br>Simpson, Jeffrey<sup>1 2</sup><br>Kaur, Amanpreet<sup>1 2</sup><br>Khangura, Rajdeep<sup>1 2</sup><br>Chapple, Clint<sup>1 2</sup><br><a href='mailto:bdilkes@purdue.edu'>Dilkes, Brian</a><sup>1 2</sup><br>
+
+<sup>1</sup>Department of Biochemistry, Purdue University, West Lafayette, IN 47907<br><sup>2</sup>Center for Plant Biology, Purdue University, West Lafayette, IN 47907<br>

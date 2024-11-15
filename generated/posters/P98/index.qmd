@@ -1,0 +1,20 @@
+---
+title: "Maize ETHYLENE INSENSITIVE3-LIKE genes are central regulators of shoot growth"
+subtitle: "P98"
+author: "Alejandro Aragón-Raygoza"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c1/Protective_Coleoptile_Tip_in_Zea_Mays_Embryo_%2847691344541%29.jpg"
+categories: 
+- Cell and Developmental Biology
+- Even Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+The hormone ethylene plays a key role in plant development where it acts largely to inhibit growth. Ethylene is also a pivotal stress signal. In contrast to the wealth of knowledge regarding ethylene’s roles in Arabidopsis, our understanding of its function in cereal crops is markedly limited. Here, we characterize mutations in maize ETHYLENE INSENSITIVE3(EIN3)-LIKE1 (ZmEIL1) and ZmEIL9 genes that encode co-orthologs of the Arabidopsis EIN3/EIL1 transcription factors. By stacking independently derived mutations in ZmEIL1 and ZmEIL9, we uncovered vegetative shoot phenotypes associated with mis-regulated growth that are distinct from Arabidopsis ein3;eil1 mutants. Zmeil1;Zmeil9 double mutants are insensitive to the ethylene precursor ACC in growth assays. We utilized single-cell transcriptomics to identify tissue- and cell-specific genetic signatures in Zmeil1;Zmeil9 and normal shoots with and without ACC. Transcripts of genes in hormone pathways and of genes involved in growth regulation differentially accumulate in various cell clusters between genotype and treatment conditions. We leveraged DNA Affinity Purification sequencing to identify genome-wide binding positions of ZmEILs. We found that many ZmEIL1 and ZmEIL9 binding sites overlap, suggesting co-regulation of a portion of putative target loci, including a proportion of genes that were identified as differentially expressed in our single-cell data. Our study shows that ZmEIL genes are central regulators of shoot growth and, by uncovering tissue-specific responses of the ethylene pathway, provides novel insights into our understanding of ethylene signaling in plants.
+
+<a href='mailto:jaaragon@ncsu.edu'>Aragón-Raygoza, Alejandro</a><sup>1</sup><br><a href='mailto:marygalli@waksman.rutgers.edu'>Galli, Mary</a><sup>2</sup><br><a href='mailto:eunger@iastate.edu'>Unger-Wallace, Erica</a><sup>3</sup><br><a href='mailto:satterl@cshl.edu'>Satterlee, James</a><sup>4</sup><br><a href='mailto:beeler.ce@gmail.com'>Beeler, Charlie</a><sup>3</sup><br><a href='mailto:jrlyen@ucdavis.edu'>Yen, Jeffrey</a><sup>4</sup><br><a href='mailto:ajrasey@ncsu.edu'>Rasey, Oliver</a><sup>1</sup><br><a href='mailto:fadarst@ncsu.edu'>Darst, Faith</a><sup>1</sup><br><a href='mailto:vollbrec@iastate.edu'>Vollbrecht, Erik</a><sup>3</sup><br><a href='mailto:agallavotti@waksman.rutgers.edu'>Gallavotti, Andrea</a><sup>2</sup><br><a href='mailto:jjstrabl@ncsu.edu'>Strable, Josh</a><sup>1</sup><br>
+
+<sup>1</sup>Department of Molecular and Structural Biochemistry, North Carolina State University<br><sup>2</sup>The Waksman Institute of Microbiology, Department of Plant Biology, Rutgers University<br><sup>3</sup>Department of Genetics, Development and Cell Biology, Iowa State University<br><sup>4</sup>Plant Biology Section, Cornell University<br>

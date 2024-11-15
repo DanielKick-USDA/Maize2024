@@ -1,0 +1,19 @@
+---
+title: "Teosinte pollen drive guides maize diversification and domestication by RNAi"
+subtitle: "T16"
+author: "Rob Martienssen"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b3/Genetic_corn.jpg"
+categories: 
+- Transposons & Epigenetics
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Meiotic drivers subvert Mendelian expectations by manipulating reproductive development to bias their own transmission. Chromosomal drive typically functions in asymmetric female meiosis, while gene drive is normally postmeiotic and typically found in males. Using single molecule and single-pollen genome sequencing, we describe Teosinte Pollen Drive, an instance of gene drive in hybrids between maize (Zea mays ssp. mays) and teosinte mexicana (Zea mays ssp. mexicana), that depends on RNA interference (RNAi). 22nt small RNAs from a non-coding RNA hairpin in mexicana depend on Dicer-Like 2 (Dcl2) and target Teosinte Drive Responder 1 (Tdr1), which encodes a lipase required for pollen viability. Dcl2, Tdr1, and the hairpin are in tight pseudolinkage on chromosome 5, but only when transmitted through the male. Introgression of mexicana into early cultivated maize is thought to have been critical to its geographical dispersal throughout the Americas, and a tightly linked inversion in mexicana spans a major domestication sweep in modern maize. A survey of maize landraces and sympatric populations of teosinte mexicana reveals correlated patterns of admixture among unlinked genes required for RNAi on at least 4 chromosomes that are also subject to gene drive in pollen from synthetic hybrids. Teosinte Pollen Drive likely played a major role in maize domestication and diversification, and offers an explanation for the widespread abundance of "self" small RNAs in the germlines of plants and animals.
+
+<a href='mailto:bberube@ohalogenetics.com'>Berube, Benjamin</a><sup>1</sup><br><a href='mailto:eernst@cshl.edu'>Ernst, Evan</a><sup>1</sup><br><a href='mailto:jcahn@cshl.edu'>Cahn, Jonathan</a><sup>1</sup><br><a href='mailto:benjamin.roche@und.edu'>Roche, Benjamin</a><sup>1</sup><br><a href='mailto:cdesantis@cshl.edu'>de Santis Alves, Cristiane</a><sup>1</sup><br><a href='mailto:jlynn@cshl.edu'>Lynn, Jason</a><sup>1</sup><br><a href='mailto:scheben@cshl.edu'>Scheben, Armin</a><sup>2</sup><br><a href='mailto:asiepel@cshl.edu'>Siepel, Adam</a><sup>2</sup><br><a href='mailto:rossibarra@ucdavis.edu'>Ross-Ibarra, Jeffrey</a><sup>3</sup><br><a href='mailto:kermicle@wisc.edu'>Kermicle, Jerry</a><sup>4</sup><br><a href='mailto:martiens@cshl.edu'>Martienssen, Robert</a><sup>1</sup><br>
+
+<sup>1</sup>Howard Hughes Medical Institute, Cold Spring Harbor Laboratory, Cold Spring Harbor, NY 11724<br><sup>2</sup>Simons Center for Quantitative Biology, Cold Spring Harbor Laboratory, Cold Spring Harbor, NY 11724<br><sup>3</sup>Dept. of Evolution & Ecology, Center for Population Biology and Genome Center, University of California, Davis, CA<br><sup>4</sup>Laboratory of Genetics, University of Wisconsin, Madison, WI<br>

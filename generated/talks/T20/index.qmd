@@ -1,0 +1,19 @@
+---
+title: "ZmIRA1, a new root system architecture gene identified by phenomics"
+subtitle: "T20"
+author: "Michelle Cho"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5e/Aztec_Diet_Basket_of_Corn_%289755332575%29.jpg"
+categories: 
+- Quantitative Genetics & Breeding
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Despite roots being a major organ essential to the well-being and survival of the plant the inherent difficulties in phenotyping them have resulted in inadequate knowledge of their genetic control. Recent techniques developed in our lab have allowed high-throughput quantification of roots in 2D and 3D to find genetic factors that regulate root system architecture (RSA). We applied these tools to the Illinois Long Term Protein Selection Strains (ILTPS) that have been recurrently selected for >100 years for their high and low protein content in the kernel, hypothesizing that the direct selection of nitrogen content in kernels also led to indirect selection of root phenotypes involved in nitrogen uptake. Using the recombinant inbred population of the ILTPS, the Illinois Protein Strain Recombinant Inbreds (IPSRIs), we performed a genome-wide association study (GWAS) with root traits extracted from 2D images of field-grown maize. A gene that we will refer to as Ideal Root Architecture 1 (ZmIRA1) was identified and is thought to function in central carbon-nitrogen metabolism. ZmIRA1 was confirmed to have promoter indels and differential expression between Illinois High Protein (IHP) and Illinois Low Protein (ILP) inbred lines, defining two alleles. In field experiments conducted in 2020 and 2022 with the IPSRI population, field-grown root crowns were measured from X-ray tomography-generated models and a custom feature extraction pipeline. We found that possessing either the IHP or ILP allele for ZmIRA1 was correlated with phenotypic differences in maize RSA. Subsequent examination of ZmIRA1 was done by CRISPR-Cas9 knockout mutants in a B73 background. In a greenhouse experiment with high nitrogen, we found that the mutants have specific root system architectural differences compared to the WT validating the potential link between central metabolism and root growth.
+
+<a href='mailto:michelle.s.cho@wustl.edu'>Cho, Michelle</a><sup>1 2</sup><br>Liu, Zhengbin<sup>3</sup><br>Yang, Bing<sup>2 4</sup><br>Gunn, Shayla<sup>2</sup><br>Duncan, Keith<sup>2</sup><br>Sellers, Mitchell<sup>2</sup><br>Lebow, Clara<sup>2</sup><br>Moose, Stephen<sup>5</sup><br>Topp, Christopher<sup>2</sup><br>
+
+<sup>1</sup>Division of Biology and Biomedical Studies, Department of Biology, Washington University in St. Louis, St. Louis, MO, 63110<br><sup>2</sup>Donald Danforth Plant Science Center, St. Louis, MO, 63132 USA<br><sup>3</sup>Partek Inc, Chesterfield, MO, 63005 USA<br><sup>4</sup>Division of Plant Sciences, Bond Life Sciences Center, University of Missouri, Columbia, MO 65211, USA.<br><sup>5</sup>Department of Crop Sciences, University of Illinois Urbana-Champaign, Urbana, IL 61801, USA.<br>

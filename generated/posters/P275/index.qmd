@@ -1,0 +1,20 @@
+---
+title: "To explain and to predict: Genetic diversity, environmental context, and phenotypic plasticity"
+subtitle: "P275"
+author: "Jianming Yu"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5e/Aztec_Diet_Basket_of_Corn_%289755332575%29.jpg"
+categories: 
+- Quantitative Genetics & Breeding
+- Odd Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Phenotypic plasticity is the property of a genotype to produce different phenotypes under different environmental conditions. Understanding the genetic and environmental factors behind phenotypic plasticity can help answer some longstanding biology questions and improve phenotype prediction. Through a set of focused studies of multiple traits in multiple crops (maize, sorghum, rice, wheat, and oat), we have recently developed an integrated framework for gene discovery underlying phenotypic plasticity and performance prediction across environments. With the identified environmental index to quantitatively connect environments, a systematic genome-wide performance prediction framework was established through either genotype-specific reaction norm parameters or genome-wide marker-effect continua. These parallel genome-wide approaches were demonstrated for in-season and on-target performance prediction by simultaneously exploiting genomics, environment profiling, and performance information. At the same time, the varied effects of genes, QTLs, and GWAS peaks along the environmental index visualized the environmental context of genetic effects, i.e., the gene-environment interplay. With additional multi-stage measurements of plant height, we profiled the genetic effect continua both along the environmental gradient and along the developmental stage. A conceptual model with three-dimensional reaction norms was proposed to showcase the interconnecting components underlying the phenotype: genotype, environment, and development, and at the three levels: single locus, multi-locus haplotype, and individual organism. This general framework and the companion CERIS-JGRA analytical package should facilitate biologically informed dissection of complex traits, enhanced performance prediction in breeding for future climates, and coordinated efforts to enrich our understanding of mechanisms underlying phenotypic variation. We propose that further integration of development and physiology at the whole-plant level and gene expression network at the molecular level would enhance our understanding of mechanisms underlying phenotypic variation observed under diverse environments.
+
+Yu, Jianming<sup>1</sup><br>Guo, Tingting<sup>2</sup><br>Mu, Qi<sup>3</sup><br>Tibbs-Cortes, Laura E.<sup>1 4</sup><br>Wei, Jialu<sup>1</sup><br>Alladassi, Boris M.E.<sup>1</sup><br>Li, Dongdong<sup>1</sup><br>Escamilla, Diana M.<sup>1</sup><br>Kusmec, Aaron<sup>1</sup><br>Vanous, Adam E.<sup>5</sup><br>Li, Xianran<sup>4</sup><br>
+
+<sup>1</sup>Department of Agronomy, Iowa State University, Ames, IA, USA 50011<br><sup>2</sup>National Key Laboratory of Crop Genetic Improvement, Huazhong Agricultural University, Wuhan, China 430070<br><sup>3</sup>Department of Plant and Soil Sciences, University of Delaware, Newark, DE, USA 19716<br><sup>4</sup>USDA-ARS, Wheat Health, Genetics, and Quality Research Unit, Pullman, WA, USA 99164<br><sup>5</sup>USDA ARS, North Central Regional Plant Introduction Station, Ames, IA, USA 50014<br>

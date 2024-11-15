@@ -1,0 +1,20 @@
+---
+title: "Transcriptomic profiles of developing meristems across sorghum accessions reveal nuanced regulatory pathways towards panicle morphology"
+subtitle: "P120"
+author: "Nicholas Gladman"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c1/Protective_Coleoptile_Tip_in_Zea_Mays_Embryo_%2847691344541%29.jpg"
+categories: 
+- Cell and Developmental Biology
+- Even Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Gene regulatory networks (GRNs) are composed of coding and non-coding DNA elements that control gene expression. They have become an essential aspect towards crop improvement by revealing modules that influence stress response, development, and plant evolution. Such GRNs are best created through multi-omics approaches in specific tissues to strengthen candidate genes and loci for functional characterization and ultimate incorporation into breeding programs. Combining transcriptomics, transcription factor (TF) binding profiles, and other genomic metrics, we construct dense sorghum GRNs to understand conserved and divergent modules that influence inflorescence development across multiple Sorghum Association Panel accessions, including breeding, non-breeding, and conversion lines. Developmentally crucial gene sets can still show notable differences in expression across inchoate tissue stages, suggesting a level of genetic redundancy or plasticity exists towards creating similar panicle morphologies. Additionally, TFs that are known regulators of inflorescence meristem progression in monocots, like Bearded Ear1 and Tassel Sheath 4, have different binding profiles in the promoter regions of these meristematic gene clusters and also indicate which TFs could have a more promiscuous regulatory purview compared to others. Finally, comparing the sorghum results with maize transcriptomic profiles also revealed which orthologous genes are conserved in their regulation through different TFs between maize and sorghum. This project was funded by the USDA-ARS award number 8062-21000-044-000D.
+
+<a href='mailto:gladman@cshl.edu'>Gladman, Nicholas</a><sup>1 2</sup><br><a href='mailto:fahey@cshl.edu'>Fahey, Audrey</a><sup>2</sup><br><a href='mailto:regulski@cshl.edu'>Regulski, Michael</a><sup>2</sup><br><a href='mailto:ware@cshl.edu'>Ware, Doreen</a><sup>1 2</sup><br>
+
+<sup>1</sup>USDA-ARS Robert Holley Center, Ithaca, NY<br><sup>2</sup>Cold Spring Harbor Laboratory, Cold Spring Harbor, NY<br>

@@ -1,0 +1,20 @@
+---
+title: "Catalytic and non-catalytic TREHALOSE-6-PHOSPHATE SYNTHASES (ZmTPSs) interact with RAMOSA3 to control embryo and post-embryo development"
+subtitle: "P66"
+author: "Thu Tran"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c1/Protective_Coleoptile_Tip_in_Zea_Mays_Embryo_%2847691344541%29.jpg"
+categories: 
+- Cell and Developmental Biology
+- Even Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Trehalose-6-phosphate (T6P) is the intermediate in the two-step pathway of trehalose biosynthesis mediated by T6P-synthase (TPS) and T6P-phosphatase (TPP). Plants harbor small families of TPS and TPP genes and most plant TPSs lack enzymatic activity, suggesting they might have regulatory functions. In maize, the classical mutant ramosa3 (ra3) increases inflorescence branching and RA3 encodes a catalytic TPP. To further explore the molecular mechanism of RA3’s functions, we screened for its interactors and found that RA3 interacts with ZmTPS1 and ZmTPS12, two non-catalytic TPSs. zmtps1 and zmtps12 mutants enhance ra3 phenotypes, suggesting their interaction is biologically significant. Interestingly, we found that ZmTPS1 also interacts with the two catalytic active TPSs, ZmTPS11 and ZmTPS14. We knocked out these genes using CRISPR-Cas9, and zmtps11;zmtps14 double mutants fail to complete embryogenesis, suggesting that the active TPSs are important for embryo development, as in Arabidopsis. Next, to ask if the TPS-TPP interactions affect enzyme activity, we performed a coupled enzyme assay, and found that the non-catalytic ZmTPS1 stimulated the coupled activity of RA3 and ZmTPS14. This result also suggested that RA3, ZmTPS1, and ZmTPS14 form a complex, and we confirmed it by expressing and purifying the three proteins from insect cells. Moving forward, we will visualize the complex by cryo-electron microscopy. This will allow first insights into the structural basis and stoichiometry of TPS-TPP interactions, which have not been studied in any organism.In summary, our results suggest that a maize TPP (RA3) functions in a complex with both non-catalytic and catalytic active TPSs, and the non-catalytic TPS stimulates the activity of the active enzymes. Our research also provided insights for the first time into the combined activity of the two major trehalose gene classes, TPSs and TPPs, in plant development.
+
+<a href='mailto:tran@cshl.edu'>Tran, Thu M</a><sup>1</sup><br>Claeys, Hannes<sup>2</sup><br>Michalski, Kevin<sup>1</sup><br>Boumpas, Panagiotis<sup>4</sup><br>Vi, Son L<sup>3</sup><br>Furukawa, Hiro<sup>1</sup><br>Jackson, David<sup>1</sup><br>
+
+<sup>1</sup>Cold Spring Harbor Laboratory, 1 Bungtown Road, Cold Spring Harbor, NY11724, USA<br><sup>2</sup>Inari, Industriepark 7A, 9052 Zwijnaarde, Belgium<br><sup>3</sup>Faculty of Biotechnology, Chemistry and Environmental Engineering, PHENIKAA University, Yen Nghia, Ha Dong, Hanoi 12116, Vietnam<br><sup>4</sup>Developmental Biology, Heidelberg, Germany<br>

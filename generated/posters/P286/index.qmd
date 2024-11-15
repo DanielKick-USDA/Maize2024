@@ -1,0 +1,20 @@
+---
+title: "Exploring tissue-specific variation in knob chromatin accessibility"
+subtitle: "P286"
+author: "Mateus Mondin"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b3/Genetic_corn.jpg"
+categories: 
+- Transposons & Epigenetics
+- Even Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Maize knobs are heterochromatic domains distinguished by significant variations in their quantity, size, and distribution along chromosomes. At the DNA sequence level, these knobs are composed of tandem arrays featuring two distinct repeat types: K180 and TR-1. While the existence of specific knobs has been associated with adaptive traits, the exact molecular mechanisms responsible for these correlations remain elusive. Notwithstanding this understanding, the epigenetic state of knob regions still lacks comprehensive elucidation. To illuminate the dynamics of chromatin structure in K180 and TR-1 knob regions, we utilized chromatin accessibility data from four distinct tissues (ear shoot, endosperm, coleoptilar node, and root tip) of Zea mays B73v5. The preliminary examination of chromatin structure patterns entailed visual inspection utilizing differential nuclease sensitivity mapping data within a genome browser (genomaize.org). The findings revealed that TR-1 knobs consistently maintained a closed chromatin structure pattern. Conversely, K180 knobs exhibited tissue-specific variations, with the endosperm displaying the most closed chromatin, followed by the coleoptile node and ear shoot. Unexpectedly, the root tip demonstrated the highest levels of chromatin accessibility. To delve into the significance of this variation, a quantitative analysis employing a z-score-based approach was conducted. DNS-Seq data for each tissue were utilized for peak calling, and the positively identified peaks were subsequently overlapped with the two types of knob repeats. Z-scores, representing the deviations in standard units from the mean expected intersections, were computed. The results concurred with the qualitative analysis, depicting TR-1 with consistent heterochromatic patterns across tissues, while revealing notable variation in K180 knobs. Remarkably, the root tip exhibited an unexpected behavior, featuring a z-score nearly four times higher than expected for a heterochromatic region (-9.5). This implies that the chromatin of K180 knobs might undergo remodeling during maize development, challenging the conventional notion of static packing.
+
+<a href='mailto:marianacansattle@gmail.com'>Sattler, Mariana C.</a><sup>1</sup><br><a href='mailto:ayushsingh5906@gmail.com'>Singh, Ayush</a><sup>2</sup><br><a href='mailto:bass@bio.fsu.edu'>Bass, Hank W.</a><sup>2</sup><br><a href='mailto:mmondin@usp.br'>Mondin, Mateus</a><sup>1</sup><br>
+
+<sup>1</sup>Luiz de Queiroz College of Agriculture, ESALQ, University of São Paulo, Piracicaba, SP, Brazil<br><sup>2</sup>Department of Biological Science, The Florida State University, Tallahassee, FL, USA<br>

@@ -1,0 +1,20 @@
+---
+title: "High-resolution crossover maps highlighting the role of DNA methylation in meiotic recombination of maize."
+subtitle: "P289"
+author: "Mohammad Mahmood Hasan"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b3/Genetic_corn.jpg"
+categories: 
+- Transposons & Epigenetics
+- Odd Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Meiotic recombination is a crucial process during which homologous chromosomes exchange genetic materials, impacting evolution and breeding. We investigated the influence of DNA methylation on meiotic recombination in maize mop1 (mediator of paramutation1) mutants, which affect CHH (H = A, T, or C) methylation near transcriptionally active genes. We resequenced 97 and 110 backcrossed (BC1) individuals derived from female mop1 mutants and female wild-types, and 122 and 94 BC1s derived from male mop1 mutants and male wild-types, identifying crossovers (COs) at high resolution. Using a Hidden Markov Model, we identified 4,048 COs, with approximately 50% occurring within a 2kb interval in all populations. The mop1 mutants display an increased frequency of COs at the distal ends of the chromosomes. Importantly, this effect is more pronounced during female meiosis as opposed to male meiosis. This observation indicates that the mop1 mutation exerts a differential influence on the distribution of COs along chromosomes, with the impact varying based on the sex. Interestingly, the shift in the CO landscape in both sexes correlated with an enrichment of miniature inverted repeat DNA transposable elements. Whole genome bisulfite sequencing revealed that CO sites identified in mop1 mutants had lower methylation levels than the same regions in WT, suggesting that mop1 introduces new CO sites and alters the CO landscape by locally reducing CHH methylation. Furthermore, the study reveals that CO hotspots are more widespread in the mop1 mutants, providing additional insights into the broader impact of the mop1 mutation on the genomic distribution of CO. Moreover, our data showed that mop1 mutants tend to introduce new crossover sites in the genomic regions with higher genetic diversity, the mechanism of which remains unclear. These findings shed light on the role of DNA methylation in meiotic recombination in maize at both local and global scales.
+
+<a href='mailto:m.hasan1@ufl.edu'>Hasan, Mohammad Mahmood</a><sup>1</sup><br><a href='mailto:mw729@cornell.edu'>Wang, Minghui</a><sup>2</sup><br><a href='mailto:lee.gwonjin@ufl.edu'>Lee, Gwonjin</a><sup>1</sup><br><a href='mailto:wp45@cornell.edu'>Pawlowski, Wojtek</a><sup>3</sup><br><a href='mailto:meixiazhao@ufl.edu'>Zhao, Meixia</a><sup>1</sup><br>
+
+<sup>1</sup>Department of Microbiology and Cell Science, University of Florida, Gainesville, Florida, USA, 32603<br><sup>2</sup>Meiogenix inc, Center for Life Science Ventures of Cornell university, Cornell University, Ithaca, New York, USA, 14850<br><sup>3</sup>School of Integrated Plant Science, Cornell University, Ithaca, NY 14853, USA<br>

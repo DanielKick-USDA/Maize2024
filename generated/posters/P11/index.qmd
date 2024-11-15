@@ -1,0 +1,20 @@
+---
+title: "Empirical assessment of the Wisconsin Crop Innovation Center high throughput maize gene editing pipeline"
+subtitle: "P11"
+author: "Anson Siu"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/05/DNA_base-pair_diagram.jpg"
+categories: 
+- Biochemical and Molecular Genetics
+- Odd Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Gene editing holds great promise as a significant advance for modern crop plant breeding. To facilitate large scale Agrobacterium transformation mediated gene editing projects in the elite inbred maize cultivar LH244, the Wisconsin Crop Innovation Center combined the recently published WOX2A with the BLACKSMITH polycistronic guide RNA expression cassette assembly system to produce MAIZEEDIT binary plasmids. These constructs hold up to four gRNA and feature the Seed RUBY marker gene for non-destructive identification of transgenic and null segregant kernels. In this experiment, nine MAIZEEDIT plasmids were designed, assembled, and transformation and gene editing performance was assessed, for targeting with two guides per gene a total of 17 genes. Molecular and visual analyses were combined to evaluate 162 plants generated from the nine constructs, 130 of which were found to be transgenic via end-point PCR detection of the Seed RUBY marker gene. An amplicon sequencing approach was used to assess gene editing in T0 plants, and gene editing metrics, as well as Seed RUBY performance, are reported. One construct contained gRNA targeting the phytoene synthase gene (y1; also called yellow endosperm 1). Interestingly, some ears which displayed y1 editing, based on visual kernel phenotype, occurred on ears on which Seed RUBY phenotype was not observed. While numerous examples of the expected 3:1 segregation ratio of RUBY:non-RUBY endosperm were observed, consistent with single-locus transgene insertion, multiple instances of unexpected segregation ratios were also found. The frequency of phenotypes observed on ears in which kernel traits were targeted supported that editing occurred early in the transformation process resulting in ears and tassels that were uniformly transmitting edits. Molecular and phenotype analyses of T1 progeny will confirm the operational functionality of the WCIC MAIZEEDIT pipeline to produce, via WOX2A-based transformation combined with polycistronic tRNA delimited gRNA, stable and heritable edited loci.
+
+<a href='mailto:acsiu@wisc.edu'>Siu, Anson</a><sup>1</sup><br><a href='mailto:rcollier2@wisc.edu'>Collier, Ray</a><sup>2</sup><br><a href='mailto:nwalter8888@gmail.com'>Walter, Nathalie</a><sup>2</sup><br><a href='mailto:jamahoy@wisc.edu'>Mahoy, Jill</a><sup>2</sup><br><a href='mailto:hfkaeppl@wisc.edu'>Kaeppler, Heidi</a><sup>1</sup><br><a href='mailto:ndeleongatti@wisc.edu'>de Leon, Natalia</a><sup>1</sup><br><a href='mailto:smkaeppl@wisc.edu'>Kaeppler, Shawn</a><sup>1 2</sup><br>
+
+<sup>1</sup>Department of Plant and Agroecosystem Sciences, University of Wisconsin, 1575 Linden Dr., Madison WI 53706<br><sup>2</sup>Wisconsin Crop Innovation Center, University of Wisconsin, 8520 University Green, Middleton WI 53562<br>

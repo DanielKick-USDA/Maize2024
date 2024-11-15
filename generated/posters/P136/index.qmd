@@ -1,0 +1,20 @@
+---
+title: "BRIDGEcereal webapp for survey and graph indel-based haplotypes from pan-genomes"
+subtitle: "P136"
+author: "Xianran Li"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e5/ENIAC-changing_a_tube.jpg"
+categories: 
+- Computational and Large-Scale Biology
+- Even Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+One of key reasons to develop a pan-genome is to bolster the process of identifying and characterizing causal polymorphisms for genes underlying phenotypic variations. Literature reviews show that large insertion and deletion (indel) polymorphism is an important category of casual polymorphisms, however, the process of identifying large indels from a pan-genome is challenging. To overcome this challenge, we first developed two unsupervised machine learning algorithms, CHOICE (Clustering HSPs for Ortholog Identification via Coordinates and Equivalence) and CLIPS (Clustering via Large-Indel Permuted Slopes), then constructed an interactive webapp BRIDGEcereal (https://bridgecereal.scinet.usda.gov/) to expedite this process. Over 120 assemblies, including 40 maize inbred genomes and other cereal crops, were compiled into the database. Through the intuitive graphical user interphase, the only required input is a gene model ID to mine through publicly available pan-genome for surveying and graphing indel-based haplotype.
+
+<a href='mailto:bosen.zhang@wsu.edu'>Zhang, Bosen</a><sup>1</sup><br><a href='mailto:haiyan.huang1@wsu.edu'>Huang, Haiyan</a><sup>1</sup><br><a href='mailto:laura.tibbs-cortes@usda.gov'>Tibbs-Cortes, Laura E.</a><sup>2 3</sup><br><a href='mailto:adam.vanous@usda.gov'>Vanous, Adam</a><sup>4</sup><br><a href='mailto:zhiwu.zhang@wsu.edu'>Zhang, Zhiwu</a><sup>1</sup><br><a href='mailto:karen.sanguinet@wsu.edu'>Sanguinet, Karen</a><sup>1</sup><br><a href='mailto:kim.garland-campbell@usda.gov'>Garland-Campbell, Kimberly A.</a><sup>1 2</sup><br><a href='mailto:jmyu@iastate.edu'>Yu, Jianming</a><sup>5</sup><br><a href='mailto:xianran.li@usda.gov'>Li, Xianran</a><sup>1 5</sup><br>
+
+<sup>1</sup>Department of Crop and Soil Sciences, Washington State University<br><sup>2</sup>USDA-ARS, Wheat Health, Genetics, and Quality Research Unit<br><sup>3</sup>USDA-ARS, Corn Insects and Crop Genetics Research Unit<br><sup>4</sup>USDA-ARS, Plant Introduction Research<br><sup>5</sup>Department of Agronomy, Iowa State University<br>

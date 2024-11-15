@@ -1,0 +1,20 @@
+---
+title: "MaizeGDB: AI-driven resources for maize"
+subtitle: "P157"
+author: "Carson Andorf"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e5/ENIAC-changing_a_tube.jpg"
+categories: 
+- Computational and Large-Scale Biology
+- Odd Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+In genetics and genomics, artificial intelligence (AI) and machine learning (ML) are increasingly being used in new and transformative roles. These technologies can now predict and design protein structures, generate interaction networks, assign functional annotations, and decipher the outcomes of mutations. These outcomes provide new opportunities for model organism databases to use AI/ML for high-throughput analysis and knowledge discovery. However, it also provides challenges in integrating predicted and generative results with existing high-quality experimentally determined datasets. MaizeGDB has embraced these innovations, offering a suite of AI/ML-driven tools tailored for maize research. Some of the new resources include (1) the Maize Feature Store, a centralized repository formatted for gene-based feature utilization in machine learning applications; (2) PanEffect, a tool to visualize potential effects of missense variants, considering both the B73 reference genome and the maize pan-genome; (3) Protein Structure Resources with tools like visualize, search, compare protein structures. Furthermore, MaizeGDB has developed several methodologies for functional annotations. MaizeGDB now has an AI data center to organize and provide a central resource to find these tools and datasets.
+
+<a href='mailto:carson.andorf@usda.gov'>Andorf, Carson M.</a><sup>1 2</sup><br>Haley, Olivia C.<sup>1</sup><br>Sen, Shatabdi<sup>3</sup><br>Hayford, Rita<sup>1</sup><br>Portwood II, John L.<sup>1</sup><br>Cannon, Ethalinda K.<sup>1</sup><br>Gardiner, Jack M.<sup>4</sup><br><a href='mailto:margaret.woodhouse@usda.gov'>Woodhouse, Margaret R.</a><sup>1</sup><br>
+
+<sup>1</sup>Corn Insects and Crop Genetics Research Unit, USDA-ARS, Ames, IA, 50011, USA<br><sup>2</sup>Department of Computer Science, Iowa State University, Ames, IA, 50011, USA<br><sup>3</sup>Department of Plant Pathology & Microbiology, Iowa State University<br><sup>4</sup>Division of Animal Sciences, University of Missouri, 65211, Columbia, MO, USA<br>

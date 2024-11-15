@@ -1,0 +1,20 @@
+---
+title: "Developmental genetics and genomics of perennial regrowth in Zea diploperennis"
+subtitle: "P77"
+author: "Kyle Swentowsky"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c1/Protective_Coleoptile_Tip_in_Zea_Mays_Embryo_%2847691344541%29.jpg"
+categories: 
+- Cell and Developmental Biology
+- Odd Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Perennial plants regrow for multiple years and perennial crops are sustainable agriculture systems. However, breeding perennial maize has been largely unsuccessful due to our poor understanding of genes and developmental mechanisms that control perenniality. The teosinte species Zea diploperennis is perennial and forms fertile hybrids when crossed with maize. Using Z. diploperennis/maize mapping populations, perennial regrowth was mapped to three dominant loci called Regrowth1 (Reg1), Reg2, and Reg3 on chromosomes 2, 7, and 8, respectively. By analyzing individuals that displayed regrowth at early and late time points in the perennial life cycle, we determined that Reg1 affects initial regrowth while Reg3 is necessary for multiple sustained cycles of perennial regrowth. Perenniality is a complex trait thought to involve the convergence of many loci that independently affect phenology, physiology, and meristem traits. We measured several traits in introgressed populations that were segregating Reg1 and Reg3 and determined that Z. diploperennis alleles of Reg1 and Reg3 significantly delay flowering time, Reg3 instills stay-green, and neither locus influences tiller number. We collected axillary meristems (AMs) and leaf tips of WT, Reg1, Reg3, and Reg1 Reg3 individuals at around the V10 stage for RNA-seq analysis. This will help us determine which developmental pathways are differentially regulated between annuals and perennials, and may reveal the genes that underly Reg1 and Reg3. We also plan to study the developmental mechanisms that dictate perennial regrowth in Z. diploperennis, and how they differ between perennial and annual grass species. We hypothesize that: (1) the maintenance of Z. diploperennis tiller buds in a juvenile and non-flowering state is necessary for perennial regrowth; and (2) dormant tiller buds become reactivated through phytohormone or carbohydrate signaling after flowering to begin the next cycle of perennial growth. Understanding the developmental genetics of perenniality could aid in breeding of more sustainable crops.
+
+<a href='mailto:swentow@cshl.edu'>Swentowsky, Kyle W</a><sup>1 2</sup><br>Bell, Harrison S<sup>2</sup><br>Wills, David M<sup>2</sup><br>Dawe, R Kelly<sup>2 3</sup><br><a href='mailto:jacksond@cshl.edu'>Jackson, David</a><sup>1</sup><br>
+
+<sup>1</sup>Cold Spring Harbor Laboratory, Cold Spring Harbor, NY 11724<br><sup>2</sup>Department of Plant Biology, University of Georgia, Athens, GA 30602<br><sup>3</sup>Department of Genetics, University of Georgia, Athens, GA 30602<br>

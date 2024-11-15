@@ -1,0 +1,20 @@
+---
+title: "The boron deficiency response during primary root development of maize"
+subtitle: "P111"
+author: "Liuyang Chu"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c1/Protective_Coleoptile_Tip_in_Zea_Mays_Embryo_%2847691344541%29.jpg"
+categories: 
+- Cell and Developmental Biology
+- Odd Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+The micronutrient boron is essential for plant development. Boron, in form of boric acid, is taken up by plants from the soil. Therefore, soil boron deficiency, which is a global problem, negatively affects crop yield and quality. While studies on boron deficiency-induced defects in maize have focused on shoot parameters, knowledge regarding the impact of boron deficiency on maize roots and the underlying causes is scarce. Most cellular boron is located in cell walls, crosslinking the pectic subunits rhamnogalacturonan II. Recent findings highlight boron deficiency-induced cell division defects and boron-phytohormone relations, opening up intriguing avenues to reveal potential cell wall-independent functions of boron. The experimental induction of boron deficiency is challenging, as boron is ubiquitous. Phenylboronic acid (PBA), which is structurally similar to boric acid, is proposed to compete with boric acid for boron binding sites, therefore inducing boron deficiency. Our study aims to characterize boron deficiency-induced defects in the maize primary root using PBA. We characterized the boron deficiency-induced defects in maize roots through time course experiments and compared these defects to those induced by PBA. PBA treatment and boron deficiency (using boron-free Hoagland medium) exhibited similar defects with different severity. Both treatments significantly reduced the lateral roots density and primary root length compared to conditions with adequate boron. In addition, histology results revealed that PBA treatment significantly increased the thickness of the primary root. The boron deficiency-induced reduction in lateral root density was correlated with a reduction in lateral root primordia numbers, indicating defects in lateral root initiation. The potential connection to the auxin cascade and cell division for these defects was assessed through time course experiments with auxin biosynthesis mutants and transgenic marker lines. Our results pinpoint boron-deficiency induced cellular and molecular defects, shedding light on the functions of boron during primary root development of maize.
+
+<a href='mailto:lchu@uni-bonn.de'>Chu, Liuyang</a><sup>1</sup><br><a href='mailto:s7cyscha@uni-bonn.de'>Schäfer, Cay</a><sup>1</sup><br><a href='mailto:abrox@uni-bonn.de'>Brox, Alexa</a><sup>1</sup><br><a href='mailto:s7beklam@uni-bonn.de'>Klammer, Beatrice</a><sup>1</sup><br><a href='mailto:s7jabrue@uni-bonn.de'>Brück, Julia</a><sup>1</sup><br><a href='mailto:mmatthes@uni-bonn.de'>Matthes, Michaela</a><sup>1</sup><br>
+
+<sup>1</sup>INRES-Crop Functional Genomics, University of Bonn, Friedrich-Ebert-Allee 144, Bonn, NRW, Germany, 53113<br>

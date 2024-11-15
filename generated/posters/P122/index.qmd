@@ -1,0 +1,20 @@
+---
+title: "Understanding leaf vascular density through quantitative genetics and high-throughput phenotyping"
+subtitle: "P122"
+author: "Diana Ruggiero"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c1/Protective_Coleoptile_Tip_in_Zea_Mays_Embryo_%2847691344541%29.jpg"
+categories: 
+- Cell and Developmental Biology
+- Even Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Efficient C4 photosynthesis requires high vein density to shuttle carbon from mesophyll to vascular bundle sheath cells. Maize leaves have several vein subtypes (lateral, intermediate, small, and transverse) defined by their sequence of development and spatial configuration. Amongst these, small veins make up most of the vascular tissue in the leaf and preferentially develop in the photosynthetically active blade. We are using natural diversity within the Wisconsin Diversity Panel (WiDiv) to identify genes influencing vascular density. We collected 6000+ leaf samples from 750+ WiDiv lines over three field seasons. To quantify microscopic vascular traits on a large scale we built a deep-learning phenotyping system that estimates subtype-specific vein density in images of cleared leaf tissues. The system implements a U-Net convolutional neural network (CNN) architecture for semantic, pixel-by-pixel image segmentation and vein-subtype classification. Because leaf physiology and vein density vary over leaf compartments, we trained a second U-Net model to segment leaf images into sheath, auricle, and blade, allowing for compartment specific phenotyping and GWAS. We used activation mapping and ‘DeepDream’-style feature visualization to show how the model interprets the leaf images at different levels of its architecture, showing that early model layers conduct fundamental image processing such as edge detection while later layers consider the spatial configuration of multiple vein subtypes. We used our data to perform correlation analysis between vein phenotypes and traits from other datasets. Our system also detects widespread ‘bundle-sheath fusions’, where ectopic bundle sheath cells appear between small veins in place of mesophyll cells, violating the spacing required for C4 photosynthesis. We used FarmCPU to conduct a preliminary vein trait GWAS on 14M+ publicly available SNPs, which revealed a polygenic genetic architecture for leaf vein phenotypes. These candidate loci will guide future studies in C4 vascular density and arrangement.
+
+<a href='mailto:ruggiedi@oregonstate.edu'>Ruggiero, Diana</a><sup>1</sup><br><a href='mailto:hendrawp@oregonstate.edu'>Hendrawinata, Pasquale</a><sup>1</sup><br><a href='mailto:wangni'>Wang, Nickson</a><sup>1</sup><br><a href='mailto:georgechuck@berkeley.edu'>Chuck, George</a><sup>2</sup><br><a href='mailto:leiboffs@oregonstate.edu'>Leiboff, Samuel</a><sup>1</sup><br>
+
+<sup>1</sup>Department of Botany and Plant Pathology, Oregon State University, Corvallis, OR, 97331, USA<br><sup>2</sup>Department of Plant and Microbial Biology, UC Berkeley, Berkeley, CA 94720, USA<br>

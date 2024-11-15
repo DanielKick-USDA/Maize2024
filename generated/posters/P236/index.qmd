@@ -1,0 +1,20 @@
+---
+title: "Identification of waxy genotype from iodine-stained maize pollen image by linear discriminant analysis"
+subtitle: "P236"
+author: "Hwi Moon"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5e/Aztec_Diet_Basket_of_Corn_%289755332575%29.jpg"
+categories: 
+- Quantitative Genetics & Breeding
+- Even Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Waxy maize is used as industrial raw material, feed, and food. It carries the recessive waxy1 (wx1) gene that elevates amylopectin content to 95-100% compared to 70-75% in normal counterpart. Iodine staining for maize pollen could serve as a straightforward and cost-effective method for waxy genotype. Here, we describe a method for rapid identification of waxy genotypes by RGB values from stained pollen images and linear discriminant analysis (LDA). A set of F2 segregating population were planted to identify genotype of individual plant along with two parental lines and F1 plants serving as known genotype information for LDA modelling. Pollens of wild type (Wx1Wx1) stained into black color, while pollens of waxy type (wx1wx1) remained unstained displaying yellow or brown color. Heterozygous type (Wx1wx1) showed the mixture of stained and non-stained pollens with the ratio of 1:1. Image of stained pollens was captured under a microscope. Individual pollen grains in a captured image from a single plant were determined by setting threshold and the Region of Interest feature in ImageJ software. RGB values from identified pollen grains was extracted and then averaged to obtain a datapoint for the individual plant. Datapoints from two parental lines and F1 plants were used to create a discriminant function in LDA while the function was applied to those from F2 individuals for genotype classification. The LDA results were validated from self-pollinated or test-crossed ears from the F2 individuals. This technique is rapid, accurate and cost effective in identifying waxy genotype in maize and can be easily employed even where marker-assisted breeding is limited.
+
+<a href='mailto:hmoon3@ncsu.edu'>Moon, Hwi</a><sup>1</sup><br><a href='mailto:yoonsup@gmail.com'>So, Yoon-Sup</a><sup>1</sup><br>
+
+<sup>1</sup>Department of Crop Science, Chungbuk National University, Cheongju, South Korea.<br>

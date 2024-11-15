@@ -1,0 +1,20 @@
+---
+title: "Investigating the expression regulation and enzymatic activity of the adaptive gene hpc1"
+subtitle: "P32"
+author: "Ruthie Stokes"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/05/DNA_base-pair_diagram.jpg"
+categories: 
+- Biochemical and Molecular Genetics
+- Even Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+After domestication, maize adapted to very different environmental conditions across the world. The molecular basis of how maize was able to adapt is not fully understood. Our lab has recently reported that variation in phosphatidylcholine levels in Zea mays helped maize adapt to different elevations. Variation in phospholipid levels from maize varieties adapted to different elevations is largely attributed to High PhosphatidylCholine 1 (HPC1), which encodes a phospholipase A1 enzyme (Barnes, Rodríguez-Zapata, Juárez-Nuñez et al. 2021). Palomero Toluqueño (PT), a highland traditional variety from central Mexico, and other highland varieties including the highland teosinte mexicana carry an impaired hpc1 function. The highland allele has also been found in maize adapted to colder environments, like Canada and Northern Europe. Maize lines carrying the highland hpc1 allele have shorter flowering times and better fitness when grown in highland conditions when compared to lowland maize. However, the molecular mechanisms of hpc1 impaired function are still unclear. On one hand, a mutation in the flap lid domain of hpc1 in highland maize may impair phosphatidylcholine access to the enzyme's active site. On the other hand expression data and promoter sequence analysis suggest that variation in hpc1 expression levels may also play a role in determining the metabolic output of hpc1 genetic variation. To investigate different genetic elements and enzymatic activity between HPC1-PT and HPC1-B73, we have cloned and expressed HPC1 in yeast. Using this heterologous system, together with targeted mutagenesis and lipase domain swapping between the two hpc1 alleles we hope to identify the possible causative mutations affecting HPC1 activity. Additionally, we are performing promoter swapping between the B73 and PT alleles of hpc1 to explore the possible effect of regulatory variants on hpc1 expression and the possible interaction between hpc1 gene expression and HPC1 enzyme activity.
+
+<a href='mailto:rstokes@ncsu.edu'>Stokes, Ruthie</a><sup>1</sup><br><a href='mailto:spersau@ncsu.edu'>Persaud, Shannon</a><sup>2</sup><br><a href='mailto:hdpil@ncsu.edu'>Pil, Hannah</a><sup>2</sup><br><a href='mailto:acbarne5@ncsu.edu'>Barnes, Allison</a><sup>1</sup><br><a href='mailto:rrellan@ncsu.edu'>Rellan Alvarez, Ruben</a><sup>1 2</sup><br>
+
+<sup>1</sup>Department of Molecular and Structural Biochemistry, North Carolina State University, Raleigh, NC, USA.<br><sup>2</sup>Genetics and Genomics, North Carolina State University, Raleigh, NC, USA.<br>

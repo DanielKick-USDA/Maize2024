@@ -1,0 +1,20 @@
+---
+title: "Maize x teosinte synergy: A holistic vision for climate-resilient crop evolution through integrated innovative breeding strategies"
+subtitle: "P304"
+author: "Senthilkumar Velmurugan"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/9a/CollapsedtreeLabels-simplified-fi.svg"
+categories: 
+- Evolution and Population Genetics
+- Even Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Maize, a cornerstone cereal crop, has witnessed transformative changes through domestication, leading to the depletion of critical adaptive alleles. This genetic bottleneck presents challenges amidst climate change, necessitating the reintroduction of allelic diversity for improved grain yield and quality. This study pioneers innovative breeding strategies that seamlessly integrate conventional and advanced tools to address these challenges. Teosintes, the untamed kin of maize, harbour a reservoir of potential traits, including drought and excess soil moisture stress tolerance, disease resistance, and improved yield and quality characteristics. Focusing on specific teosinte species—Zea mays subsp. parviglumis, Zea mays subsp. mexicana, Zea diploperennis, and Zea nicaraguensis—our aim is to enrich maize germplasm through a holistic breeding approach. Crossbreeding Zea mays subsp. parviglumis with maize lines has revealed Quantitative Trait Loci (QTLs) responsible for diverse traits, including Banded Leaf Sheath Blight (BLSB), Maydis Leaf Blight (MLB), red flour beetle resistance, high protein content, and alterations in flowering behaviour. Striking characteristics such as multiple ears, a stay-green phenotype, and adaptability for high-density planting have been observed. Exploiting the waterlogging tolerance potential of Zea nicaraguensis, we create populations to map QTLs and genes, developing tolerant lines for integration into the maize breeding program to yield waterlogging-tolerant hybrids. Challenges arise from undesirable genes and alleles in wild teosintes, potentially hampering the efficiency of introgressed lines. To overcome this, an innovative strategy is employed, curbing linkage drag through random mating among backcrossed inbred lines. The integration of in-vivo doubled haploid (DH) technology further expedites allele development and fixation within a short time frame. This synergistic approach, harmonizing the forces of nature and technology, aims to accelerate the domestication of valuable wild alleles. The resultant fortified germplasm holds immense promise for developing climate-resilient maize hybrids, fostering sustainable production, boosting productivity, elevating farmer income, and creating new employment opportunities.
+
+<a href='mailto:senthilkumaranpbg12@gmail.com'>Velmurugan, Senthilkumar</a><sup>1</sup><br><a href='mailto:priyagarkoti.rdp@gmail.com'>Garkoti, Priya</a><sup>1</sup><br><a href='mailto:thotlanaresh98@gmail.com'>Thotla, Naresh</a><sup>1</sup><br><a href='mailto:narendraksingh2@gmail.com'>Singh, Narendra Kumar</a><sup>1</sup><br>
+
+<sup>1</sup>Department of Genetics and Plant Breeding, Govind Ballabh Pant University of Agriculture and Technology, Pantnagar, Uttarakhand, India , Pin code -263145<br>

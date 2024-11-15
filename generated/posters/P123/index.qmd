@@ -1,0 +1,20 @@
+---
+title: "Unravelling the role of LIGULELESS2 in maize"
+subtitle: "P123"
+author: "Trisha McAllister"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c1/Protective_Coleoptile_Tip_in_Zea_Mays_Embryo_%2847691344541%29.jpg"
+categories: 
+- Cell and Developmental Biology
+- Odd Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Life on earth is marked by an incredible diversity in form and function, but how this diversity is defined and coordinated throughout development remains a fundamental question in biology. Organ shape poses an attractive target for crop improvement given that it can profoundly influence plant productivity, but how organ shape is controlled remains unclear. Boundary formation between and within organs is crucial for shape determination. These boundaries are defined during the earliest stages of development, when meristematic cells begin differentiating into distinct domains. Determination and maintenance of these domains influences growth patterns within the primordia to direct how an organ will be shaped. However, the gene regulatory networks underlying domain patterning and boundary specification and how they are modified to generate morphological diversity remain unknown. In maize the BZIP transcription factor LIGULELESS2 (LG2) is thought to have a key role in defining boundaries between domains in different organs. lg2 mutants lack a clear boundary between the leaf sheath and blade, the tassel has fewer branches, and there are defects in bract formation. How LG2 functions during the development of these different organs, and specifies boundaries is unclear. To address this, we are combining RNAseq, ChIPseq and CoIP to build the gene regulatory network that LG2 acts in. Through comparing the GRN between organs we hope to identify both core components, providing insight into how boundaries may be specified and maintained in growing organs, and key organ-specific changes that may be responsible for morphological differences.
+
+<a href='mailto:trisha.mcallister@ed.ac.uk'>McAllister, Trisha</a><sup>1</sup><br><a href='mailto:v1agupt8@ed.ac.uk'>Gupta, Ayushi</a><sup>1</sup><br>Chuck, George<sup>2</sup><br>Bertolini, Edoardo<sup>3</sup><br>Braud, Max<sup>3</sup><br>Eveland, Andrea<sup>3</sup><br>Hake, Sarah<sup>2 4</sup><br><a href='mailto:annis.richardson@ed.ac.uk'>Richardson, Annis</a><sup>1 2 4</sup><br>
+
+<sup>1</sup>Institute of Molecular Plant Sciences, School of Biological Sciences, University of Edinburgh, Edinburgh, UK<br><sup>2</sup>USDA Plant Gene Expression Center, Albany, California, USA<br><sup>3</sup>Donald Danforth Plant Science Center, St Louis, Missouri, USA<br><sup>4</sup>Plant and Microbial Biology, University of California Berkeley, California, USA<br>

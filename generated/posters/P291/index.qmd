@@ -1,0 +1,20 @@
+---
+title: "Maize AGO2 is involved in RNAi balance and epigenetic inheritance through the male germline"
+subtitle: "P291"
+author: "Jason Lynn"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b3/Genetic_corn.jpg"
+categories: 
+- Transposons & Epigenetics
+- Odd Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+RNA interference (RNAi) is a highly conserved mechanism that regulates gene expression at the transcriptional (TGS) and post-transcriptional levels (PTGS), with the outcomes of these silencing pathways differing profoundly in their persistence. Generally, PTGS represents a shorter-term silencing program while TGS, due to amplification of small RNAs (sRNA) from target loci, forms a feedback loop between sRNA and heterochromatin that is heritable through the germline. The silencing outcome of RNAi crucially relies on the interaction of sRNAs with Argonaute proteins (AGO), forming AGO-effector complexes that target homologous RNAs. While novel RNAi functions have evolved many times across eukaryotes, plants appear to have the most functionally diverse repertoire of RNAi machinery. The diversity of sRNA biogenesis factors coincides with an expansion of AGO genes, blurring the lines of how plants control the functional outcome of a given silencing sRNA. While seminal work in Arabidopsis has identified properties of sRNAs associated with AGO loading, the expanded AGO gene families in plants with large, repeat rich genomes like maize and rice highlights the need for a deeper understanding of the complex sorting mechanisms of plant AGOs. To address this need, we characterized maize AGO transposon insertion mutants and generated catalytic AGO mutants by targeting AGO PIWI domains with CRISPR-Cas9. We crossed these mutants into the b1 paramutation system to investigate the role of maize AGOs in epigenetic inheritance. We found that maize AGO2 is involved in suppressing spontaneous silencing of b1 and that loss of AGO2A affects the transmission of silencing through the male germline, leading to normal segregation of light and dark plants when crossed to B-I. These results suggest that AGO2A is involved in the establishment of b1 paramutation and that AGO2A and/or AGO2B are involved in balancing TGS and PTGS, perhaps through competition with RdDM-clade AGOs for substrate sRNAs.
+
+<a href='mailto:jlynn@cshl.edu'>Lynn, Jason S</a><sup>1 2</sup><br>Ernst, Evan<sup>1 2</sup><br>Blau, Samantha<sup>1</sup><br>Lowrey, Harper<sup>1</sup><br>Spielmann, Liam G<sup>1</sup><br>Cahn, Jonathan<sup>1 2</sup><br>Simorowski, Joseph<sup>1</sup><br>Ramu, Umamaheswari<sup>1</sup><br>Parent, Jean-Sebastien<sup>1</sup><br>Martienssen, Robert A<sup>1 2</sup><br>
+
+<sup>1</sup>Cold Spring Harbor Laboratory, Cold Spring Harbor, NY, USA 11724<br><sup>2</sup>Howard Hughes Medical Institute, Cold Spring Harbor Laboratory, Cold Spring Harbor, NY, USA 11724<br>

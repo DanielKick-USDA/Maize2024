@@ -1,0 +1,20 @@
+---
+title: "Characterizing the phenotypic rescue of D-erythrose in salt-stressed maize and its role in stress-response regulation and development"
+subtitle: "P68"
+author: "Sinead Cahill"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c1/Protective_Coleoptile_Tip_in_Zea_Mays_Embryo_%2847691344541%29.jpg"
+categories: 
+- Cell and Developmental Biology
+- Even Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Increased drought due to climate change has exacerbated soil salinization, particularly in agricultural systems where irrigation practices already contribute to excessive salt accumulation. Salt stress is a major constraint on maize yield, and has been shown to stunt root and shoot growth and decrease lateral root count. In order to study the mechanisms of stress response and development in maize, we are investigating metabolites localized to the meristem region of maize roots exposed to salt stress. Since the meristem is the site of stem cell differentiation, metabolite localization to this region could indicate increased growth response during stress, revealing an uncharacterized role of metabolic stress signaling. To determine spatial localization of metabolites during stress, we are developing a new data analysis pipeline for mass spectrometry imaging that combines data collected from desorption electrospray ionization-mass spectrometry imaging (DESI-MSI), high-performance liquid chromatography-mass spectrometry (HPLC-MS), and computational analysis to determine and confirm chemical composition and spatial localization. These techniques identified the sugar D-erythrose, a compound that localizes to the meristem region of maize roots. We found that salt-stressed maize treated with D-erythrose conferred phenotypic rescue in root growth. Phosphorylated erythrose is a known intermediate in the Calvin cycle and shikimate pathway, which are important for energy and amino acid production. Current investigations show that D-erythrose treatment significantly rescues root growth compared to the same concentration of D-sucrose treatment, suggesting an additional effect beyond providing energy supply. Erythrose could have important applications in terms of stress response signaling or have other roles in plant development regulation. We are continuing to characterize the role of erythrose during salt stress using chemical and genetic approaches.
+
+<a href='mailto:sbcahill@ucsd.edu'>Cahill, Sinead B</a><sup>1 2</sup><br><a href='mailto:asama@ucsd.edu'>Sama, Andrea M</a><sup>2</sup><br><a href='mailto:adickinson@ucsd.edu'>Dickinson, Alexandra J</a><sup>2</sup><br>
+
+<sup>1</sup>Department of Chemistry and Biochemistry; University of California, San Diego; La Jolla, CA 92093, USA<br><sup>2</sup>School of Biological Sciences; University of California, San Diego; La Jolla, CA 92093, USA<br>

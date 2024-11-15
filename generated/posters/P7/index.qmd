@@ -1,0 +1,20 @@
+---
+title: "Comparative study of approaches for gene activation in maize"
+subtitle: "P7"
+author: "Hui Liu"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/05/DNA_base-pair_diagram.jpg"
+categories: 
+- Biochemical and Molecular Genetics
+- Odd Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Modulating gene expression is an essential tool for understanding biological processes and advancing the field of synthetic biology. This study investigates the efficacy of three methods in maize for stably activating gene transcription. The first method involves the designer Transcription Activator-Like effector (dTALe), a programmable protein functioning in specific DNA binding and gene activation. The second method uses the dead Cas9 (dCas9) activation, an alternative programable system for transcriptional modulation. The third one employs standard overexpression of a transgene of interest with a strong promoter. To assess the magnitude of transcriptional activation of targeted genes, we are developing transient expression of each approach. The goal of this project is to provide information to identify optimal strategies for achieving targeted gene activation in maize. Our poster will discuss what we have developed and the issues we encountered.
+
+<a href='mailto:huil@ksu.edu'>Liu, Hui</a><sup>1</sup><br><a href='mailto:mingxia.zhao@pku-iaas.edu.cn'>Zhao, Mingxia</a><sup>1</sup><br><a href='mailto:tejman@ksu.edu'>Tamang, Tej Man</a><sup>1</sup><br><a href='mailto:zpeng21@jlau.edu.cn'>Peng, Zhao</a><sup>3</sup><br><a href='mailto:shpark@ksu.edu'>Park, Sunghun</a><sup>2</sup><br><a href='mailto:ffwhite@ufl.edu'>White, Frank F</a><sup>3</sup><br><a href='mailto:liu3zhen@ksu.edu'>Liu, Sanzhen</a><sup>1</sup><br>
+
+<sup>1</sup>Department of Plant Pathology, Kansas State University, Manhattan, KS 66506-5502, USA<br><sup>2</sup>Department of Horticulture and Natural Resources, Kansas State University, Manhattan, KS 66506-5502, USA<br><sup>3</sup>Department of Plant Pathology, University of Florida, Gainesville, FL 32611-0680, USA<br>

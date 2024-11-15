@@ -1,0 +1,20 @@
+---
+title: "Heat stress induced pollen tube growth arrest and sterility supported by a MaizeStressDB"
+subtitle: "P86"
+author: "Thomas Dresselhaus"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c1/Protective_Coleoptile_Tip_in_Zea_Mays_Embryo_%2847691344541%29.jpg"
+categories: 
+- Cell and Developmental Biology
+- Even Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+The reproductive phase in flowering plants is highly sensitive to ambient temperature stresses, with even a single hot day sometimes being fatal to reproductive success. Many studies of heat stress on crop plants have shown that pollen development and fertilization belong to the most sensitive reproductive stages. To study the sensitivity and contribution of the elongated stigma tissue of maize (silks) to reproduction under heat stress, we applied moderate heat stress before pollination and during pollen tube growth. We will show that moderate heat stress causes late growth arrest of pollen tubes ultimately leading to sterility. We further show that heat stress causes elevated levels of reactive oxygen species (ROS), which can be reduced by scavengers partly restoring pollen tube growth defects. Heat stressed silks show that among others hydrogen peroxide catabolic processes and bHLH transcription factor genes are downregulated, while NAC and other transcription factor genes are strongly upregulated. To further push the development of stress resistant/tolerant maize and to select genes for functional studies, we generated a transcriptomic and proteomic atlas of maize at various environmental conditions and over time. We applied three major abiotic stresses (cold, heat and drought) to seedlings over a period of ten days and generated a database and web interface named MaizeStressDB. Functional differentially expressed genes and proteins (DEGs and DEPs) as well as gene regulatory networks (GRNs) can be identified in the web browser and associated with core regulators in response to cold, heat and drought stress. The MaizeStressDB platform will now help to drive the development of maize varieties better adapted to transient heat stress during the reproductive phase.
+
+<a href='mailto:wen.gong@ur.de'>Gong, Wen</a><sup>1</sup><br><a href='mailto:mhaned.oubounyt@uni-hamburg.de'>Oubounyt, Mhaned</a><sup>2</sup><br><a href='mailto:kbegcy.padilla@ufl.edu'>Begcy, Kevin</a><sup>3</sup><br><a href='mailto:karina.van-der-linde@biologie.uni-regensburg.de'>van der Linde, Karina</a><sup>1</sup><br><a href='mailto:viktoriya.avramova@tum.de'>Avramova, Viktoriya</a><sup>4</sup><br><a href='mailto:olga.zolotareva@uni-hamburg.de'>Zolotareva, Olga</a><sup>2</sup><br><a href='mailto:jan.baumbach@uni-hamburg.de'>Baumbach, Jan</a><sup>2 5</sup><br><a href='mailto:thomas.dresselhaus@ur.de'>Dresselhaus, Thomas</a><sup>1</sup><br>
+
+<sup>1</sup>Cell Biology and Plant Biochemistry, University of Regensburg, Germany<br><sup>2</sup>Institute for Computational Systems Biology, University of Hamburg, Hamburg, Germany<br><sup>3</sup>Environmental Horticulture, University of Florida, Gainesville, USA<br><sup>4</sup>Plant Breeding, Technical University Munich, Freising, Germany<br><sup>5</sup>Department for Mathematics and Computer Science, University of Southern Denmark, Odense, Denmark<br>

@@ -1,0 +1,20 @@
+---
+title: "Breeding corn for organic production systems"
+subtitle: "P201"
+author: "Paul Scott"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5e/Aztec_Diet_Basket_of_Corn_%289755332575%29.jpg"
+categories: 
+- Quantitative Genetics & Breeding
+- Odd Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Organic meat and egg producers must use organic ingredients in feed, creating a great demand for organic corn. We are developing corn varieties to meet the needs of organic corn producers. We test varieties in organically certified fields and select for characteristics that are important to organic corn producers. Breeding targets include agronomic performance, nutritional quality, ability to produce seed in the absence of herbicides and natural resistance to insects and diseases. In addition, we incorporate genetic systems such as Ga1-S that allows exclusion of unwanted pollen and SHGD (spontaneous haploid genome doubling), that confers the ability to produce doubled haploids without chemical treatments that are banned in organic systems. Our breeding program includes a rapid cycle method that uses doubled haploids and genomic selection to greatly reduce the time required to complete a breeding cycle.
+
+<a href='mailto:mujjabi2@illinois.edu'>Mujjabi, Christopher</a><sup>1</sup><br><a href='mailto:smkinney@iastate.edu'>Kinney, Shelly</a><sup>2</sup><br><a href='mailto:mfakude@iastate.edu'>Fakude, Mercy</a><sup>2</sup><br><a href='mailto:hmclubb@iastate.edu'>Clubb, Hannah</a><sup>3</sup><br><a href='mailto:adrienne.moranlauter@usda.gov'>Moran Lauter, Adrienne</a><sup>3</sup><br><a href='mailto:ufrei@iastate.edu'>Frei, Ursula</a><sup>2</sup><br><a href='mailto:aamahama@iastate.edu'>Mahama, Assibi</a><sup>3</sup><br><a href='mailto:angela.linares@upr.edu'>Linares Ramirez, Angela</a><sup>4</sup><br><a href='mailto:mbohn@illinois.edu'>Bohn, Martin</a><sup>1</sup><br><a href='mailto:thomasl@iastate.edu'>Lubberstedt, Thomas</a><sup>2</sup><br><a href='mailto:paul.scott@usda.gov'>Scott, Paul</a><sup>3</sup><br>
+
+<sup>1</sup>University of Illinois Champaign-Urbana, Urbana IL, 61801<br><sup>2</sup>Iowa State University, Ames, IA, 50011<br><sup>3</sup>USDA-ARS, Ames, IA, 50011<br><sup>4</sup>University of Puerto Rico, Mayaguez, Mayaguez, PR 00680<br>

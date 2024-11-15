@@ -1,0 +1,20 @@
+---
+title: "Glossy2 and Glossy2-like demonstrate both unique and overlapping functions in maize cuticular wax formation."
+subtitle: "P22"
+author: "Dirk Winkelman"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/05/DNA_base-pair_diagram.jpg"
+categories: 
+- Biochemical and Molecular Genetics
+- Even Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+The cuticle is a hydrophobic barrier that covers all surfaces of the aerial organs of land plants. It provides the first line of defense from biotic and abiotic stresses that negatively impact plant health. The cuticle is composed of solvent-extractable cuticular waxes that are both intercalated within and laid atop an insoluble cutin polyester matrix. Cuticular wax composition varies depending on organ and stage of development, but usually consists of combinations of very long chain fatty acids (VLCFAs) and their derivatives, including hydrocarbons, alcohols, aldehydes, ketones, and wax esters. Classical genetic strategies have identified numerous glossy genes required for normal cuticle deposition in maize, and molecular characterization of these genes provides insights on cuticle formation. This study focuses on the maize Glossy2 (Gl2) gene. Although the biochemical function of GL2 remains unclear, homozygous gl2 mutant seedlings exhibit a glossy phenotype and the cuticular waxes of mutant plants are of shorter chain lengths, presumably due to an alteration of the fatty acid elongase complex (FAE). The Recently identified GL2-paralog, GLOSSY2-LIKE, shares 63% amino acid similarity with GL2. To assess the in planta function of Gl2-like, six mutant alleles were generated via CRISPR-Cas9 genome editing. Cuticle analyses of single gl2 and gl2-like mutants, and gl2;gl2-like double mutants demonstrate both overlapping and distinct contributions to FAE across different tissue types. While cuticular wax composition on maize leaves is primarily affected by the gl2 mutation, a chemotype was only observed on maize silks in the gl2;gl2-like double mutant. The functionality of GL2 and GL2-LIKE proteins has also been investigated via a synthetic biology approach in yeast, in which each paralog was co-expressed in an assortment of strains that also expressed enzymes from the maize FAE system. This combination of multidisciplinary strategies is unraveling the roles that Gl2 and Gl2-like serve in maize cuticle biosynthesis.
+
+<a href='mailto:dwink@iastate.edu'>Winkelman, Dirk C</a><sup>1 4</sup><br>Stanley, Tim<sup>1 6</sup><br>Alexander, Liza E<sup>1 4</sup><br>Trost, Elysse<sup>2 5</sup><br>Lopez, Miriam<sup>3</sup><br>Lauter, Nick<sup>3</sup><br>Nikolau, Basil J<sup>1 4</sup><br><a href='mailto:myn@iastate.edu'>Yandeau-Nelson, Marna D</a><sup>2 4</sup><br>
+
+<sup>1</sup>Roy J. Carver Department of Biochemistry, Biophysics and Molecular Biology, Iowa State University, Ames, IA 50011<br><sup>2</sup>Department of Genetics, Development and Cell Biology, Iowa State University, Ames, IA 50011<br><sup>3</sup>USDA-ARS Corn Insects and Crop Genetics Research Unit, Ames, IA 50011<br><sup>4</sup>Center for Metabolic Biology, Iowa State University, Ames, IA 50011<br><sup>5</sup>Undergraduate Genetics Major, Iowa State University, Ames, IA 50011<br><sup>6</sup>Undergraduate Biochemistry Major, Iowa State University, Ames, IA 50011<br>

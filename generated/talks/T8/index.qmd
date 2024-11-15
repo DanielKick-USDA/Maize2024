@@ -1,0 +1,19 @@
+---
+title: "A practical haplotype graph map of the ZeaSynthetic population enables integration of teosinte alleles into breeding efforts"
+subtitle: "T8"
+author: "Micah Kelleher"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e5/ENIAC-changing_a_tube.jpg"
+categories: 
+- Computational and Large-Scale Biology
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Domestication, adaptation, and inbreeding of modern maize has resulted in a significant loss of the genetic diversity found in the wild species of maize, teosinte. Genetic variation in teosinte could provide a useful source of diversity lacking in modern maize cultivars. However, the lack of high-resolution genetic resources for the study of teosinte has made it difficult to associate that variation with agronomic traits. We produced a genetic map of the Zea Synthetic population, a genetic resource created by randomly mating a 38-accession synthetic breeding population consisting of 11 geographically diverse teosinte (Zea mays ssp. parviglumis), B73, Mo17, and the 25 inbred Nested Association Mapping (NAM) founders. After 6 generations of random mating, 2000 DHs were produced, originally to study inbreeding depression.Our approach leverages full genome sequences of the population’s parent genomes using the practical haplotype graph (PHG), a server mounted pangenome built from a SQL database populated by a reference panel of whole genome sequences. To mirror the makeup of our Zea Synthetic population, we filled a reference panel with data from the whole-genome sequences of B73, Mo17, the 25 inbred NAM founders, and 11 teosinte pseudo-genomes. Approximately 4.6 million haplotypes were sampled from individuals and groups in this diverse panel to populate the PHG with individual and consensus reference haplotypes. These haplotypes were paired with low coverage GBS sequences from the 2000 DHs to accurately impute WGS data for the entire population for use in association mapping. Our map is able to identify QTL associations for traits such as flowering time and Cadmium accumulation as well as identify regions of segregation distortion and those that have experienced selection.
+
+<a href='mailto:mkelleher@danforthcenter.org'>Kelleher, Micah</a><sup>1</sup><br><a href='mailto:tkosfeld@danforthcenter.org'>Kosfeld, Tim</a><sup>1</sup><br><a href='mailto:gziegler@danforthcenter.org'>Ziegler, Greg</a><sup>1</sup><br><a href='mailto:cluebbert@danforthcenter.org'>Luebbert, Collin</a><sup>1</sup><br><a href='mailto:m.stetter@uni-koeln.de'>Stetter, Markus</a><sup>2</sup><br><a href='mailto:ibaxter@danforthcenter.org'>Baxter, Ivan</a><sup>1</sup><br><a href='mailto:rossibarra@ucdavis.edu'>Ross-Ibarra, Jeffrey</a><sup>3</sup><br><a href='mailto:sherry.flint-garcia@usda.gov'>Flint-Garcia, Sherry</a><sup>4</sup><br>
+
+<sup>1</sup>Donald Danforth Plant Science Center, St. Louis, MO 63132<br><sup>2</sup>Institute for Plant Sciences, University of Cologne, Cologne, Germany 50674<br><sup>3</sup>Department of Evolution and Ecology, University of California, Davis, CA 95616<br><sup>4</sup>United States Department of Agriculture—Agricultural Research Service Plant Genetics Research Unit, Columbia, MO 65211<br>

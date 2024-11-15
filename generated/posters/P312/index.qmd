@@ -1,0 +1,20 @@
+---
+title: "Unraveling the genetic basis of kernel protein concentration in the Illinois long term selection experiment through near-isogenic lines"
+subtitle: "P312"
+author: "Catherine Hardy-Ramey Li"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/9a/CollapsedtreeLabels-simplified-fi.svg"
+categories: 
+- Evolution and Population Genetics
+- Even Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+The Illinois Long Term Selection Experiment is the longest-running continuous genetics experiment in higher plants. Over 120 years of artificial selection have generated distinct populations representing the phenotypic extremes of kernel protein concentration in maize. To dissect the regions of the maize genome that have led to the rapid and dramatic responses to phenotypic selection, we have derived four populations of near-isogenic lines from combinations of the Illinois Protein Strains. To aid with the phenotypic evaluation of grain protein concentration, these populations also carried the FLOURY2-RFP reporter gene, a visual marker for alpha-zein accumulation that varies dramatically among the Illinois Protein Strains. Kernel protein concentration was measured using both near-infrared reflectance and pink color intensity of the FLOURY2-RFP reporter transgene. Selection for kernel protein concentration was applied throughout the development of these populations to favor genomic regions with functional effect, but not all introgressions displayed phenotypic deviations from the recurrent parent. This observation does not support an "omnigenetic" architecture for selection response, which posits any genomic region harbors loci influencing a complex quantitative phenotype. Leveraging prior work that identified SNPs with evolutionary patterns strongly correlated with changes in kernel protein concentration, our updated investigations of near-isogenic lines help refine and validate candidate genes contributing to the dynamic evolutionary changes in kernel composition.
+
+<a href='mailto:chli6@illinois.edu'>Hardy-Ramey Li, Catherine</a><sup>1</sup><br><a href='mailto:smoose@illinois.edu'>Moose, Stephen P</a><sup>1</sup><br>
+
+<sup>1</sup>Department of Crop Sciences, University of Illinois at Urbana-Champaign, Urbana, IL, USA, 61801<br>

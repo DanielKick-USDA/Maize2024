@@ -1,0 +1,20 @@
+---
+title: "Molecular evolution of a maize hybrid barrier over 12 million years suggests epistatic silencing"
+subtitle: "P305"
+author: "Elli Cryan"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/9a/CollapsedtreeLabels-simplified-fi.svg"
+categories: 
+- Evolution and Population Genetics
+- Odd Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Maize and its wild relatives teosinte can all readily hybridize, yet they remain distinct. Mating incompatibility loci provide one mechanism that can allow populations to maintain reproductive isolation. In Zea mays, three complex mating incompatibility loci encode genes that disrupt directional pollen tube growth down the silk. When a maternal plant receives pollen with incompatible alleles, fertilization is impeded, creating a prezygotic reproductive barrier. However, this barrier is not complete. Infrequent fertilization of incompatible gametes facilitates introgression of incompatibility genes into other populations. Previous modeling shows that each factor should only undergo brief periods of strong selection, on a timescale shorter than time to speciation in this clade. Against this expectation of transient benefit, we find evidence of syntenic gametophytic factor loci across modern maize lines, teosinte subspecies, other members of the Zea genus and Tripsacinae subtribe, and species as diverged as Sorghum bicolor. All of the loci display presence absence variation and copy number variation. To reconstruct the evolutionary history of these complex loci, we classify haplotype diversity at all three loci in over 30 Zea mays genomes, identify syntenic loci in related species, construct gene trees of known and candidate functional genes, and analyze rates of molecular evolution. We find evidence of potentially functional reproductive barrier loci and genes in lineages that have been estimated to be twelve million years diverged. Over millions of years, these genes have undergone selection and evolved to be distinct barriers. We find differences in predicted protein structures that reflect this distinction. We also find evidence of loci driving epigenetic silencing of interacting loci. These loci may have played a role in speciation in Zea.
+
+<a href='mailto:epcryan@ucdavis.edu'>Cryan, Elli</a><sup>1 2</sup><br><a href='mailto:agphinney@ucdavis.edu'>Phinney, Garnet</a><sup>2</sup><br><a href='mailto:arnstrm@iastate.edu'>Seetharam, Arun</a><sup>3 4</sup><br>Evans, Matthew M S<sup>5</sup><br>Kermicle, Jerry L<sup>6</sup><br><a href='mailto:kliebenstein@ucdavis.edu'>Kliebenstein, Daniel</a><sup>1</sup><br><a href='mailto:rossibarra@ucdavis.edu'>Ross-Ibarra, Jeffrey</a><sup>2</sup><br>
+
+<sup>1</sup>Plant Sciences; UC Davis; Davis, CA, USA 95616<br><sup>2</sup>Evolution and Ecology; UC Davis; Davis, CA, USA 95616<br><sup>3</sup>Ecology, Evolution and Organismal Biology; Iowa State University; Ames, IA, USA 50011<br><sup>4</sup>Genetics, Development and Cell Biology; Iowa State University; Ames, IA, USA 50011<br><sup>5</sup>Plant Biology; Carnegie Institution for Science; Stanford, CA, USA 94305<br><sup>6</sup>Genetics; University of Wisconsin - Madison; Madison, WI, USA 53715<br>

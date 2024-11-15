@@ -1,0 +1,19 @@
+---
+title: "A foundational large language model for edible plant genomes provides accurate predictions of regulatory elements and gene expression in the maize genome"
+subtitle: "T10"
+author: "Javier Mendoza Revilla"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e5/ENIAC-changing_a_tube.jpg"
+categories: 
+- Computational and Large-Scale Biology
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Significant progress has been made in the field of plant genomics in recent years, especially through the increased use of high-throughput methodologies that characterize multiple genome-wide molecular phenotypes. Given the time and cost of performing these experiments, a critical step for more efficient crop improvement is effectively leveraging them to make accurate predictions from genomic sequences alone. We present a novel foundational large language model, the Agronomic Nucleotide Transformer (AgroNT), based on the transformer architecture and pre-trained on reference genomes from 48 edible plant species. To explore how the AgroNT performs on predictions from genomic sequences alone, we further fine-tune it with genome-wide high-throughput experiments and compare performance to other available models. In multiple prediction tasks and across diverse plant species, we show that AgroNT obtains state-of-the-art predictions for many genomic elements in multiple plant genomes. In maize, we apply the AgroNT to multiple prediction tasks related to gene regulation. We have shown it has high performance (AUC = 0.99) in classifying maize transcripts as protein-coding (mRNA) or potentially regulatory (lncRNAs). Leveraging Assay for Transposase-Accessible Chromatin with high-throughput sequencing (ATAC-seq), it also classifies chromatin regions as open with high accuracy (AUC = 0.98). Next, we explored AgroNT’s ability to make numerical predictions from promoter sequences. First, we predict promoter strength as measured by Self-Transcribing Active Regulatory Region sequencing (STARR-seq) and obtain high correlation between observed and predicted values (average R2 0.73). We also use in vivo RNA-seq experiments to predict gene expression levels across 23 diverse maize tissues and show that our predictions correlate well with experimentally measured values (average R2 0.62). These results show that our foundational large language model has learned functional genomic features and can accelerate trait research via discovery of gene regulatory features from sequence alone, potentially accelerating efforts in genomic improvement.
+
+Mendoza Revilla, Javier<sup>1</sup><br>Trop, Evan<sup>1</sup><br>Gonzalez, Liam<sup>1</sup><br>Roller, Masa<sup>1</sup><br>Dalla-Torre, Hugo<sup>1</sup><br>de Almeida, Bernardo P<sup>1</sup><br>Richard, Guillaume<sup>1</sup><br>Caton, Jonathan<sup>2</sup><br>Lopez Carranza, Nicolas<sup>1</sup><br>Skwark, Marcin<sup>1</sup><br>Laterre, Alex<sup>1</sup><br>Beguir, Karim<sup>1</sup><br>Pierrot, Thomas<sup>1</sup><br>Lopez, Marie<sup>1</sup><br>
+
+<sup>1</sup>InstaDeep<br><sup>2</sup>Google DeepMind<br>

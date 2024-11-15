@@ -1,0 +1,20 @@
+---
+title: "WHETSTONE1 (WTS1), a single dominant locus from the W22 background suppresses Wavy auricle in blade2 (Wab2)"
+subtitle: "P125"
+author: "Nicholas Francis"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c1/Protective_Coleoptile_Tip_in_Zea_Mays_Embryo_%2847691344541%29.jpg"
+categories: 
+- Cell and Developmental Biology
+- Odd Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+The maize leaf has three morphologically distinct domains: a flat photosynthesizing blade, a rigid sheath grasping the stem, and a ligule with flexible auricle connecting blade to sheath. We previously showed Wavy auricle in blade2 (Wab2) is a semi-dominant leaf mutant which produces ectopic auricle-like tissue in the blade. Expression of Wab2 is highly variable in heterozygotes. We attempted to identify the underlying genetic mechanism by crossing Wab2 introgressed into the B73 background with W22. B73-Wab2 x W22 F1 hybrids did not express the Wab2 phenotype (N=40), demonstrating that one or more dominant suppressor loci modify expression of Wab2 in W22. We characterized the F2 generation to understand the genetic architecture of this suppression and identify causative loci by bulk segregant analysis (BSA) mapping-by-sequencing. Although genotyping via a cleaved amplified polymorphic sequence (CAPS) marker revealed that inheritance of the Wab2 allele matched Mendelian ratios (N=142), phenotypic ratios displayed significant suppression of the Wab2 allele in both heterozygotes and homozygotes. Here we used chi-squared goodness-of-fit tests to show that a single dominant suppressor, is the most parsimonious explanation for non-Mendelian variation in auricle-like tissue phenotypic expression. Because of its function in restoring wildtype blade morphology, we refer to this locus as WHETSTONE1 (WTS1). When the W22 allele, WTS1-W22 is present Wab2 is suppressed, whereas the B73 allele, WTS1-B73 allows Wab2 to be expressed. Using our genotypic and phenotypic data, we collected DNA from pools of 51 Wab2 suppressed individuals and 51 Wab2 expressed individuals from this F2 population to identify WTS1 through BSA mapping-by-sequencing with an allelic distance approach. Ongoing work will explore molecular genetic interactions between Wab2 and WTS1 in driving maize leaf morphology. Potential future steps include fine mapping and functional validation using gene knockout or overexpression to confirm the role of WTS1 in leaf morphology.
+
+<a href='mailto:francini@oregonstate.edu'>Francis, Nicholas</a><sup>1</sup><br><a href='mailto:harriles@oregonstate.edu'>Harris, Leslie</a><sup>1</sup><br><a href='mailto:martinalexander@berkeley.edu'>Alexander, Martin</a><sup>2</sup><br><a href='mailto:leiboffs@oregonstate.edu'>Leiboff, Samuel</a><sup>1</sup><br>
+
+<sup>1</sup>Department of Botany and Plant Pathology, Oregon State University, Corvallis, OR, 97331, USA<br><sup>2</sup>Department of Plant and Microbial Biology, UC Berkeley, Berkeley, CA 94720, USA<br>

@@ -1,0 +1,20 @@
+---
+title: "Phenotypic plasticity in flowering time in maize-teosinte introgression populations shaped by interaction between domestication loci and diurnal temperature range"
+subtitle: "P255"
+author: "Dongdong Li"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5e/Aztec_Diet_Basket_of_Corn_%289755332575%29.jpg"
+categories: 
+- Quantitative Genetics & Breeding
+- Odd Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Genetics, environmental factors, and their interaction shape the phenotype of living organisms. Flowering time is a critical trait of adaptation and domestication, exhibiting a diverse outcome of the gene-environment interplay. Understanding the underlying determinants of phenotypic plasticity, the property of a given genotype to produce different phenotypes in response to distinct environmental conditions, is a challenging topic in biology, evolution, and breeding. Herein, with eight B73-teosinte introgression populations evaluated for flowering time in 10 natural field conditions, the primary phenotypic plasticity pattern of flowering time was revealed. We found that diurnal temperature range from 9 to 29 days after planting during the growing season was the critical environmental index. Genetic loci, harboring domestication genes, including ZCN8, ZmCCT9, and ZmCCT10, were identified for reaction-norm parameters (intercept and slope) across environments and flowering time within individual environments through multi-allele QTL mapping. We observed the dynamic genetic effects of these loci along the environmental gradient and different parent-specific allele effects at individual loci. By exploring the genomic relationship and the environmental index, accurate prediction for flowering time was obtained with joint genomic regression analysis. The identification of genomic loci, environmental determinants, and their interplay enriches our understanding of genotype-by-environment interaction and how maize adapted to diverse climates.
+
+<a href='mailto:ddli@iastate.edu'>Li, Dongdong</a><sup>1</sup><br><a href='mailto:descamil@iastate.edu'>Escamilla, Diana M.</a><sup>1</sup><br><a href='mailto:detemplj@iastate.edu'>DeTemple, Joseph M.</a><sup>1</sup><br><a href='mailto:tguo@mail.hzau.edu.cn'>Guo, Tingting</a><sup>2</sup><br><a href='mailto:adam.vanous@usda.gov'>Vanous, Adam E.</a><sup>3</sup><br><a href='mailto:sherry.flint-garcia@usda.gov'>Flint-Garcia, Sherry</a><sup>4</sup><br><a href='mailto:xianran.li@wsu.edu'>Li, Xianran</a><sup>5</sup><br><a href='mailto:jmyu@iastate.edu'>Yu, Jianming</a><sup>1</sup><br>
+
+<sup>1</sup>Department of Agronomy, Iowa State University, Ames, IA, USA 50011<br><sup>2</sup>National Key Laboratory of Crop Genetic Improvement, Huazhong Agricultural University, Wuhan, China 430070<br><sup>3</sup>USDA-ARS, Plant Introduction Research, Ames, IA, USA 50011<br><sup>4</sup>USDA-ARS, Plant Genetics Research Unit, Columbia, MO, USA 65211<br><sup>5</sup>USDA-ARS, Wheat Health, Genetics, and Quality Research Unit, Pullman, WA, USA 99164<br>

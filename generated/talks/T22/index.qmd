@@ -1,0 +1,19 @@
+---
+title: "Exploring the cis-regulatory landscape of the B73 and Mo17 genomes"
+subtitle: "T22"
+author: "Andrea Gallavotti"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e5/ENIAC-changing_a_tube.jpg"
+categories: 
+- Computational and Large-Scale Biology
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+The domestication and improvement of many plant species frequently involved modulation of transcriptional outputs and continues to offer much promise for targeted trait engineering. The cis-regulatory regions controlling trait-associated transcriptional variants however reside within non-coding regions that are currently poorly annotated. This is particularly true in large crop genomes such as maize where regulatory regions constitute only a small fraction of the total genomic space. The current understanding of transcriptional regulation in eukaryotic organisms with large genomes posits that transcription factors (TFs) bind to short DNA sequence motifs (TF binding sites or TFBSs) in small regional clusters of accessible chromatin called cis-regulatory modules (CRMs), and control the gene expression changes responsible for plant developmental programs and environmental responses. CRMs can be in proximity of core promoters, upstream and downstream of the genes they regulate, and can even be located tens or hundreds of kilobases away from their regulated targets, complicating their identification. While sequences matching TFBS motifs are highly abundant within a genome, only a very small fraction is actually bound by TFs and affect gene expression. To improve the characterization of the functional regulatory space in maize, we used DAP-seq (DNA-affinity purification sequencing) to profile binding sites for ~200 TFs belonging to 30 distinct TF families in both B73 and Mo17 genomes. This allowed us to capture the DNA binding landscape of distinct TF families, and to assemble a panel of 66 TFs that represent a large portion of TFBS diversity. Overlap with orthogonal datasets of accessible chromatin regions uncovered the portion of the genome occupied by functional CRMs. Comparative analysis of TF binding in the two genomes revealed extensive variation in position, organization and structures of CRMs; the majority of this diversity is caused by existing structural variation. Guided by high-resolution maps of proximal and distal CRMs, we are disrupting specific CRMs and measuring phenotypic outcomes, with a focus on genes regulating plant architecture and biotic stresses. Our approach identifies functional CRMs and ultimately aids in understanding how TF-DNA binding and its variability in different genetic backgrounds affects gene regulation and ultimately phenotypic outcomes in maize.
+
+<a href='mailto:marygalli@waksman.rutgers.edu'>Galli, Mary</a><sup>1</sup><br><a href='mailto:zlchen@waksman.rutgers.edu'>Chen, Zongliang</a><sup>1</sup><br><a href='mailto:tg2210@nyu.edu'>Ghandour, Tara</a><sup>2</sup><br><a href='mailto:jrg233@scarletmail.rutgers.edu'>Gregory, Jason</a><sup>1</sup><br><a href='mailto:amina.chaudhry@waksman.rutgers.edu'>Chaudhry, Amina</a><sup>1</sup><br><a href='mailto:XuanZhang@uga.edu'>Zhang, Xuan</a><sup>3</sup><br><a href='mailto:schmitz@uga.edu'>Schmitz, Robert</a><sup>3</sup><br><a href='mailto:ch153@nyu.edu'>Huang, S. Carol</a><sup>2</sup><br><a href='mailto:agallavotti@waksman.rutgers.edu'>Gallavotti, Andrea</a><sup>1 4</sup><br>
+
+<sup>1</sup>Waksman Institute of Microbiology, Rutgers University, Piscataway, NJ 08854-8020,, USA<br><sup>2</sup>New York University, New York, NY 10003, USA<br><sup>3</sup>University of Georgia, Athens, GA 30602, USA<br><sup>4</sup>Department of Plant Biology, Rutgers University, New Brunswick, NJ 08901, USA<br>

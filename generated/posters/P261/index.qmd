@@ -1,0 +1,20 @@
+---
+title: "Response of mature maize kernels to inoculation with Aspergillus flavus"
+subtitle: "P261"
+author: "Anna Giulini"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5e/Aztec_Diet_Basket_of_Corn_%289755332575%29.jpg"
+categories: 
+- Quantitative Genetics & Breeding
+- Odd Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Crop growth and its interaction with microorganisms change yearly, mainly depending on local weather, making the agriculture particularly exposed to climate change. In the last seasons in Italy the climate was characterized by high temperatures that increased the parasitic ability of the fungus Aspergillus flavus and its power to colonize maize kernels, resulting in an increase in aflatoxins level. These molecules have the highest acute and chronic toxicity of all mycotoxins; hence, the maximal concentration in agricultural food and feed products and their commodities is regulated worldwide. An important way to contrast the fungus and high concentration of aflatoxins in maize kernel includes planting maize varieties that are resistant to A. flavus. In this study we suggest a simple methodology to test the susceptibility to A. flavus on candidate maize varieties before their release on the market.A panel of 100 breeding varieties of our reference collection was analyzed. Disease phenotypes were scored on artificially inoculated kernels using rolled towel assay. We confirmed the correlation between fungal infection with the reduced development of the seedling and recorded a rather wide variability in the response to fungal invasion between the genotypes analyzed, outlining four classes of susceptibility. The effect of the inoculation of A. flavus on genotypes marketed in different years (2001 vs 2010) suggests an increase of resistance in the latter year due to a success of plant breeding programs. We also investigated the combining ability effects on susceptibility to A. flavus to identify potential parents for hybrid development. The data collected with the laboratory screening will be used to perform a genome wide association study to unravel possible new genes involved in plant-pathogen interaction.
+
+<a href='mailto:isabella.mazzoleni@crea.gov.it'>Mazzoleni, Isabella</a><sup>1</sup><br><a href='mailto:mauro.dalpra@crea.gov.it'>Dal Prà, Mauro</a><sup>3</sup><br><a href='mailto:elena.novarini@crea.gov.it'>Novarina, Elena</a><sup>1</sup><br><a href='mailto:tommaso.bardelli@crea.gov.it'>Bardelli, Tommaso</a><sup>1</sup><br><a href='mailto:mattia.zuffada@crea.gov.it'>Zuffada, Mattia</a><sup>2</sup><br><a href='mailto:matteo.cremonesi@crea.gov.it'>Cremonesi, Matteo</a><sup>2</sup><br><a href='mailto:romana.bravi@crea.gov.it'>Bravi, Romana</a><sup>3</sup><br><a href='mailto:piergiacomo.bianchi@crea.gov.it'>Bianchi, Pier Giacomo</a><sup>1</sup><br>Giulini, Anna P.M.<sup>1</sup><br>
+
+<sup>1</sup>Research Centre for Plant Protection and Certification, Via Venezian, 22, Milan, Italy, 20133<br><sup>2</sup>Research Centre for Plant Protection and Certification, Via Emilia km 307, Tavazzano con Villavesco LO, Italy, 26838<br><sup>3</sup>Research Centre for Plant Protection and Certification, Via Guglielmo Marconi 2, Lonigo (VI), Italy, 36045<br>

@@ -1,0 +1,20 @@
+---
+title: "Phenotypic heritability in maize can be largely explained by genetic variation at transcription factor binding sites"
+subtitle: "P253"
+author: "Thomas Hartwig"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5e/Aztec_Diet_Basket_of_Corn_%289755332575%29.jpg"
+categories: 
+- Quantitative Genetics & Breeding
+- Odd Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Comprehensive maps of functional variation at transcription factor (TF) binding sites (cis-elements) are crucial for elucidating how genotype shapes phenotype. Here we present the construction of a first-generation pan-cistrome of the maize leaf under well-watered and drought conditions. We quantified haplotype-specific TF footprints across a pan-genome of 25 maize hybrids and mapped over two-hundred thousand genetic variants (termed binding-QTL) linked to cis-element occupancy. Three lines of evidence support the functional significance of binding-QTL: i) they coincide with numerous known causative loci that regulate traits, including novel alleles of Vegetative to generative transition1, Trehalase1, and the MITE transposon near ZmNAC111 under drought; ii) their footprint bias is also mirrored between inbred parents and by ChIP-seq; iii) partitioning genetic variation across genomic regions demonstrates that binding-QTL capture the majority of heritable trait variation across ~70% of 143 phenotypes in about 0.01% of the maize genome. Our study provides a promising approach to make previously hidden cis-variation more accessible for genetic studies and multi-target engineering of complex traits.
+
+Engelhorn, Julia<sup>1 2</sup><br>Snodgrass, Samantha J.<sup>4</sup><br>Kok, Amelie<sup>1 2 3</sup><br>Seetharam, Arun S.<sup>4</sup><br>Schneider, Michael<sup>5</sup><br>Kiwit, Tatjana<sup>1 2</sup><br>Singh, Ayush<sup>6</sup><br>Banf, Michael<sup>7</sup><br>Khaipho-Burch, Merritt<sup>8</sup><br>Runcie, Daniel E.<sup>9</sup><br>Camargo, Victor Sánchez<sup>10</sup><br>Torres-Rodriguez, J. Vladimir<sup>11</sup><br>Sun, Guangchao<sup>11</sup><br>Stam, Maike<sup>10</sup><br>Fiorani, Fabio<sup>12</sup><br>Schnable, James C.<sup>11</sup><br>Bass, Hank W.<sup>6</sup><br>Hufford, Matthew B.<sup>4</sup><br>Stich, Benjamin<sup>3 5 13</sup><br>Frommer, Wolf B.<sup>1 2 3</sup><br>Ross-Ibarra, Jeffrey<sup>14</sup><br><a href='mailto:thartwig@mpipz.mpg.de'>Hartwig, Thomas</a><sup>1 2 3</sup><br>
+
+<sup>1</sup>Institute for Molecular Physiology, Heinrich-Heine University, Düsseldorf, Germany<br><sup>2</sup>Independent Research Groups, Max Planck Institute for Plant Breeding Research, Cologne, Germany<br><sup>3</sup>Cluster of Excellence on Plant Sciences, Düsseldorf, Germany<br><sup>4</sup>Dept. of Ecology, Evolution, and Organismal Biology, Iowa State University, Ames, USA<br><sup>5</sup>Institute for Quantitative Genetics and Genomics of Plants, Cluster of Excellence on Plant Sciences, Heinrich-Heine University, Düsseldorf, Germany<br><sup>6</sup>Dept. of Biological Science, Florida State University, Tallahassee, USA<br><sup>7</sup>EducatedGuess.ai, Neunkirchen, Germany<br><sup>8</sup>School of Integrative Plant Sciences, Plant Breeding and Genetics Section, Cornell University, Ithaca, USA<br><sup>9</sup>Dept. of Plant Sciences, University of California, Davis, USA<br><sup>10</sup>Swammerdam Institute for Life Sciences, University of Amsterdam, Amsterdam, Netherlands<br><sup>11</sup>Dept. of Agronomy and Horticulture, University of Nebraska-Lincoln, Lincoln, USA<br><sup>12</sup>Institute of Bio- and Geosciences 2, Plant Sciences, Research Institute Jülich, Germany<br><sup>13</sup>Institute for Breeding Research on Agricultural Crops, Groß Lüsewitz, Germany<br><sup>14</sup>Dept. of Evolution and Ecology, Center for Population Biology and Genome Center, University of California, Davis, USA<br>

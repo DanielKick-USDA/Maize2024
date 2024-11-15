@@ -1,0 +1,20 @@
+---
+title: "Drawing the line: interactions of maize transcription factors to coordinate proximodistal and mediolateral patterning in the maize leaf"
+subtitle: "P78"
+author: "Lukas Evans"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c1/Protective_Coleoptile_Tip_in_Zea_Mays_Embryo_%2847691344541%29.jpg"
+categories: 
+- Cell and Developmental Biology
+- Even Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+The blade-sheath boundary (BSB) of the maize leaf comprises two distinct tissues, an epidermally-derived ligule and a hinge-like auricle, that demarcate the distal blade and proximal sheath identities. The recessive mutation liguleless1(lg1) deletes the ligule and auricle and thus provides a useful genetic tool for identification of genetic networks controlling BSB development. WOX3 family double mutants narrow sheath1; narrow sheath2 (ns1/2) delete the marginal domain leaving blunt leaf edges, whereas higher order WOX3 triple mutants (ns1 ns2 wox3a) delete the lateral and marginal domains and cause severe ligule/auricle defects. Class I KNOX family genes function antagonistically with WOX3 function during recruitment of leaf founder cells, and the KNOX gene LIGULELESS3 is expressed early in BSB development. Previous transcriptomic analyses of initiating ligules identified overlapping expression patterns for LG1, WOX3 family genes, and class I KNOX genes in the incipient BSB. In addition, lg1 mutants form ectopic sheath margin tissue that extends into the blade asymmetrically, implicating interactive LG1, WOX3, and KNOX function during proximodistal and mediolateral patterning. Although transcriptional analyses have been conducted on initiating maize ligules, the genetic mechanisms of later-staged BSB development are unknown. Here, we utilize single-cell transcriptomics to examine multiple stages of ligule/auricle outgrowth and patterning. Additionally, lg1 ns1 ns2 triple mutants condition surprising and synergistic phenotypes. In situ hybridizations support a model wherein the coordination of interactive LG1, WOX3, and class I KNOXes gene functions patterns robust proximodistal and mediolateral development. Previous attempts to generate maize WOX3 and LG1 fluorescent reporter-protein (FP) lines were unsuccessful, likely owing to complexities in maize promotor structures. Recently, mutants and FP lines of LG1, NS1/2, and WOX3a orthologous genes were generated in the grass model Brachypodium distachyon, to investigate the dynamic interactions of these transcription factors during proximodistal and mediolateral leaf development.
+
+<a href='mailto:le95@cornell.edu'>Evans, Lukas J.</a><sup>1</sup><br><a href='mailto:res398@cornell.edu'>Schnirman, Ruby E.</a><sup>1</sup><br><a href='mailto:rz444@cornell.edu'>Zhang, Ruqiang</a><sup>1</sup><br><a href='mailto:haowu2021@gmail.com'>Wu, Hao</a><sup>1</sup><br><a href='mailto:mjs298@cornell.edu'>Scanlon, Michael J.</a><sup>1</sup><br>
+
+<sup>1</sup>School of Integrative Plant Science, Cornell University, Ithaca, NY 14853<br>

@@ -1,0 +1,20 @@
+---
+title: "ZmCAND1 is hyposensitive to auxin treatment and controls maize growth and development"
+subtitle: "P127"
+author: "Norman Best"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c1/Protective_Coleoptile_Tip_in_Zea_Mays_Embryo_%2847691344541%29.jpg"
+categories: 
+- Cell and Developmental Biology
+- Odd Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+The phytohormone auxin controls plant growth and development. Auxin treatment of developing seedlings results in a strong inhibition of root growth. A concentration curve was performed with the synthetic auxin, 2,4-dichlorophenoxyacetic acid (2,4-D), on B73 maize seedlings grown in the dark. A concentration of 25 µM resulted in 85% reduction in root length. To identify genes involved in auxin perception and sensitivity we screened a set of B73-EMS M2 families treated with 25 µM 2,4-D and discovered one family that segregated seedlings with long roots and a reduction in nodal roots compared to wild-type controls. These insensitive mutants segregated in a recessive fashion and had altered growth and development under light grown conditions. The 2,4-D insensitive mutants had fewer leaves and were 54% shorter than wild-type controls. Tassel architecture was also affected as the mutant tassels were 51% shorter in length and had reduced tassel branching. To map the causative mutation, an F2 mapping population was created with Mo17. Bulk-segregant analysis and next generation sequencing was performed on a pool of 2,4-D insensitive mutants. A map region on chromosome 4 was identified by mapping SNPs between the mutant sequence pool and B73 reference genome. Only a single high effect transition mutation was identified in the cullin-associated and neddylation-dissociated1 (cand1) gene resulting in a premature stop codon. The CAND1 protein is responsible for recycling the AUXIN-RELATED F-BOX (AFB) proteins involved in auxin perception. Continued work is underway to further characterize the mutant phenotype and identify a second allele.
+
+<a href='mailto:jim.elder@usda.gov'>Elder, Jim</a><sup>1</sup><br><a href='mailto:esparks@udel.edu'>Sparks, Erin</a><sup>2</sup><br><a href='mailto:mcsteenp@missour.edu'>McSteen, Paula</a><sup>3</sup><br><a href='mailto:norman.best@usda.gov'>Best, Norman B.</a><sup>1</sup><br>
+
+<sup>1</sup>USDA-ARS, PGRU; Columbia MO, USA 65211<br><sup>2</sup>University of Delaware; Newark, DE, USA 19713<br><sup>3</sup>University of Missouri; Columbia, MO, USA 65211<br>

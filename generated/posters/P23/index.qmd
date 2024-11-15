@@ -1,0 +1,20 @@
+---
+title: "High-sensitivity transcriptional profiling of maize root tips via nascent and nuclear RNA sequencing"
+subtitle: "P23"
+author: "Lorenzo Concia"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/05/DNA_base-pair_diagram.jpg"
+categories: 
+- Biochemical and Molecular Genetics
+- Odd Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+The application of high-throughput sequencing to transcriptome profiling (RNA-Seq) has enabled significant advances in our understanding of gene expression in plants. The most widely adopted RNA-Seq protocol involves the purification of total cellular RNA, followed by reverse transcription and sequencing. Conventional RNA-Seq suffers some limitations. It reflects the balance between synthesis and degradation of each transcript (“steady-state”) and not its transcription rate in the nucleus. It also lacks the sensitivity to detect unstable and low-abundance RNA species, such as long noncoding RNAs (lncRNAs). To get a better estimate of transcriptional activity, we used the cell-permeable uracil analog, 5-ethynyl uridine (EU) to label nascent RNA of maize B73 root tips in vivo . After ribosomal RNA depletion, the EU-labeled RNA was sequenced, together with the steady-state nuclear RNA and steady-state cellular RNA. The nascent and steady-state cellular RNA profiles were clearly distinct, while the nascent and steady-state nuclear RNA profiles were tightly correlated. About 60% of the expressed genes were differentially expressed (adjusted p-value
+
+<a href='mailto:lamickel@ncsu.edu'>Mickelson-Young, Leigh</a><sup>1</sup><br><a href='mailto:emily_wear@ncsu.edu'>Wear, Emily</a><sup>1</sup><br><a href='mailto:lkhanley@ncsu.edu'>Hanley-Bowdoin, Linda</a><sup>1</sup><br><a href='mailto:wftb@ncsu.edu'>Thompson, William</a><sup>1</sup><br><a href='mailto:lconcia@tacc.utexas.edu'>Concia, Lorenzo</a><sup>2</sup><br>
+
+<sup>1</sup>North Carolina State University; Department of Plant and Microbial Biology; Raleigh, NC USA 27695<br><sup>2</sup>Texas Advanced Computing Center (TACC), University of Texas at Austin, TX, USA 78758<br>

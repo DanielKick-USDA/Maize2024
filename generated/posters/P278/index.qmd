@@ -1,0 +1,20 @@
+---
+title: "Using remote and proximal sensing to quantify plant architectural variation across maize diversity"
+subtitle: "P278"
+author: "Max Braud"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5e/Aztec_Diet_Basket_of_Corn_%289755332575%29.jpg"
+categories: 
+- Quantitative Genetics & Breeding
+- Even Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Maize plant architecture is an often under-appreciated collection of traits that has been critical for its explosive yield improvements over the past century. Much of this improvement can be connected to simply planting more individuals within a given space, increasing from ~30,000 plants/acre to over 80,000 plants/acre with today’s modern corn hybrids. The push for genotypes that can withstand tighter, more competitive growing space has resulted in the selection of hybrids with a more upright architecture. A maize plant with a so-called “ideal plant architecture” will have prone leaves near the bottom to efficiently absorb light while being less shaded by more upright leaves near the top. Since leaves and tassel branches are both lateral organs, some of the genes that control leaf architecture also play a pleiotropic role in the development of tassels. The interplay between these morphological traits, however, is not well understood. Based on our group’s previously collected data on leaf angle and tassel branch number, we selected 426 accessions from the Ames population to maximize genetic as well as architectural diversity in these two traits. We planted this subset of lines in two fields at each of 2 locations (MO and IL) and used a combination of remote and proximal phenotyping platforms and sensors to collect data on whole plant morphology and physiology. Handheld phenotyping tools were used to measure spectral reflectance and absorbance as well as photosynthetic efficiency of leaves to correlate them with architectural traits. Additionally, UAVs, ground rovers and an imaging backpack was used to collect RGB images, multispectral and hyperspectral reflectance and LIDAR data. Algorithms are being developed to reconstruct plant architecture from the various images and point clouds and novel trait extraction for genome-wide association analyses. This will facilitate rapid phenotyping of traits of interest, e.g. leaf angle and tassel architecture, as well as more elusive traits that can’t easily be measured such as how the architecture of individuals combine to form a canopy.
+
+<a href='mailto:mbraud@danforthcenter.org'>Braaud, Max</a><sup>1</sup><br><a href='mailto:ebertolini@danforthcenter.org'>Bertolini, Edoardo</a><sup>1</sup><br><a href='mailto:ajaykumar.patel@slu.edu'>Patel, Ajay Kumar</a><sup>2</sup><br><a href='mailto:alifu.haireti@slu.edu'>Haireti, Alifu</a><sup>2</sup><br><a href='mailto:junzhew3@illinois.edu'>Wu, Junzhe</a><sup>3</sup><br><a href='mailto:girishc@illinois.edu'>Chowdhary, Girish</a><sup>3</sup><br><a href='mailto:vasit.sagan@slu.edu'>Sagan, Vasit</a><sup>2</sup><br><a href='mailto:aeveland@danforthcenter.org'>Eveland, Andrea L.</a><sup>1</sup><br>
+
+<sup>1</sup>Donald Danforth Plant Science Center; 975 N Warson Rd; St. Louis, MO, 63132<br><sup>2</sup>Saint Louis University; 3694 West Pine Mall; St. Louis, MO, 63108<br><sup>3</sup>University of Illinois; 1304 West Pennsylvania Avenue; Urbana, IL, 61801<br>

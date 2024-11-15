@@ -1,0 +1,20 @@
+---
+title: "Maize domestication through the lens of transposable elements"
+subtitle: "P292"
+author: "Natasha Dhamrait"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b3/Genetic_corn.jpg"
+categories: 
+- Transposons & Epigenetics
+- Even Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+In maize, transposable element (TE) rich regions of the genome control most of the genetic variation for phenotypes. TEs are highly polymorphic and differ between individuals in presence-absence, sequence diversity, genomic location, and activity level. Investigating patterns of TE abundance and diversity have the potential to illuminate early maize domestication history, which has been difficult to research using SNPs or genic regions of the genome. In particular, specifics of where maize was domesticated are still unknown due to confounding population structure and continual gene flow between populations. Population-specific TEs can refine our understanding of the geography of domestication beyond the regional scale through identification of shared and unique TEs in maize and teosinte. Identification of teosinte population(s) with unique TEs present in all maize populations has the potential to indicate which populations of teosinte maize was domesticated from and in which geographical regions early maize domestication occurred. To test this hypothesis, we compared TE composition of 195 maize and teosinte individuals across 5 populations using short reads analyzed with RepeatExplorer2, an unsupervised clustering algorithm. We then compared overlap and divergence of TE clusters between populations of teosinte and maize while controlling for the age of the TE insertion and underlying population structure. Comparison of different TE clusters allows for detection of candidate geographic regions for early maize domestication. Updating our understanding of maize domestication can inform current research on maize diversity and evolution.
+
+<a href='mailto:ndhamrait@ucdavis.edu'>Dhamrait, Natasha</a><sup>1</sup><br><a href='mailto:rossibarra@ucdavis.edu'>Ross-Ibarra, Jeffrey</a><sup>1</sup><br>
+
+<sup>1</sup>University of California, Davis. Davis, CA 95616 United States<br>

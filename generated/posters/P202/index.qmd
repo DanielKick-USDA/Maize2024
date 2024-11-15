@@ -1,0 +1,20 @@
+---
+title: "Breeding for color and improved protein content in sweet corn and popcorn"
+subtitle: "P202"
+author: "Jonathan Niyorukundo"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5e/Aztec_Diet_Basket_of_Corn_%289755332575%29.jpg"
+categories: 
+- Quantitative Genetics & Breeding
+- Even Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Zein proteins dominate endosperm protein content of sweet corn and popcorn. However, zeins are deficient of essential amino acids such as lysine and tryptophan. The mutation in opaque-2 (O2) transcription factor that regulate protein formation in maize endosperm reduces the levels of alpha-zeins, thus increasing lysine-bound non zeins through proteome rebalancing. Building on insight gained from our previous Quality Protein Popcorn (QPP) project, this project aims to breed publicly available quality protein sweet corn (QPS) and colored QPP varieties. Modified o2 mutant maize, also known as Quality Protein Maize (QPM) were crossed to sugary-1 (su-1) and shrunken-2 (sh2) sweet corn verities and colored popcorn varieties. Colored QPP introgressions had progressed through selfing to advance to the next generation; backcrossing (BC) to recurrent popcorn parents to retain optimal popcorn background while selecting for vitreous kernel (modified) lines carrying the gamma zein o2 modifier gene. QPP lines are currently advanced to the final BC3 generation which will be followed by several rounds of selfing to generate inbred lines. Then the inbreds will be selected to produce QPP hybrids.For QPS breeding, F2 kernels visibly segregating for both o2 mutation and sweetcorn phenotype had been advanced through the F5 and had been selected for homozygous o2 mutation and field selected for sweetness and texture. In addition to protein quality, we aim to improve sweet corn micronutrient content and aesthetic appeal by breeding for color diversity. Therefore, sweet corn varieties were crossed to various color donors such as popcorn, dent corn, and flint corn and had been similarly advanced through the F5 generation with several rounds of selection for color, sweetness and texture at 20 DAP. Several standout QPS and colored sweetcorn lines have been identified and will be used in the production of hybrids. In the meantime, F4 and F5 kernels of colored sweet corn and QPS were collected at 20 days after pollination (DAP) and frozen for biochemical testing for sucrose, glucose and fructose, total starch, amino acids, resistant starch, and microbiome characteristics. Thus far, we have completed sucrose, glucose, and total starch analyses for both colored sweet corn and QPS and amino acids analysis for QPS is in progress. We will present summaries of our finds in the poster.
+
+<a href='mailto:niyorukundoj@gmail.com'>Niyorukundo, Jonathan</a><sup>1</sup><br><a href='mailto:dholding2@unl.edu'>Holding, David</a><sup>1</sup><br>
+
+<sup>1</sup>Department of Agronomy & Horticulture, University of Nebraska Lincoln; Lincoln, NE 68588<br>

@@ -1,0 +1,20 @@
+---
+title: "Parallel spindle genes restore haploid male fertility – removing a bottleneck in doubled haploid technology"
+subtitle: "P103"
+author: "Siddique Aboobucker"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c1/Protective_Coleoptile_Tip_in_Zea_Mays_Embryo_%2847691344541%29.jpg"
+categories: 
+- Cell and Developmental Biology
+- Odd Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Plant breeding must be accelerated to meet the growing agricultural demands. Doubled haploid (DH) technology can accelerate plant breeding by reducing the time needed to produce inbred lines in two generations versus six or more generations with conventional breeding. The two main steps in DH technology are: haploid induction and subsequent DH production. In maize DH breeding, haploid inducers have been established and causal genes are identified. Haploid plants - intermediates between diploids and DHs - carry only one set of chromosomes leading to erroneous male meiosis I (MI) resulting in male sterility. Current protocols commonly use colchicine (a mitotic inhibitor) to mitigate the sterility to produce DH. This process is laborious, resource intensive and inefficient. Alternatively, haploid male fertility (HMF) has been observed in some maize gentoypes, barley, pummelo, rapeseed, rice, rye and wheat bread but no genes have been described. Haploid female fertility (HFF), however, is present to some extent in plants possibly involving mechanisms different from HMF. Previous research has shown that in diploid Arabidopsis mutant, Atspo11-1 or Atspo11-2, chromosomes are unequally distributed during male MI, despite the presence of two sets of chromosomes. The result is also male sterility. Mutations in two individual genes, Atps1-1 and Atjas-2 can independently correct chromosomal distribution error of diploid spo11-1. These two mutants form parallel spindles (PS) in MII instead of the perpendicular spindles in wild type. We hypothesized that Atps1-1 and Atjas-2 mutations can correct erroneous MI in haploids. Herein, we demonstrate that mutations in the ps genes is sufficient to restore HMF in Arabidopsis with no impact on HFF. These genes are conserved across plant kingdom. Putative maize candidate genes have been identified and are currently being studied for their role in HMF restoration.
+
+<a href='mailto:siddique@iastate.edu'>Aboobucker, Siddique</a><sup>1</sup><br><a href='mailto:lzhou@iastate.edu'>Zhou, Liming</a><sup>1</sup><br><a href='mailto:ufrei@iastate.edu'>Frei, Ursula</a><sup>1</sup><br><a href='mailto:thomasl@iastate.edu'>Lubberstedt, Thomas</a><sup>1</sup><br>
+
+<sup>1</sup>Department of Agronomy, Iowa State University, Ames, IA 50011<br>

@@ -1,0 +1,20 @@
+---
+title: "Genome-wide association studies to establish the genetic basis of agro-morphological and climatic factors in wild maize relatives"
+subtitle: "P302"
+author: "Joseph Atemia"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/9a/CollapsedtreeLabels-simplified-fi.svg"
+categories: 
+- Evolution and Population Genetics
+- Even Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Maize's close wild relatives are teosintes, which have a wide ecogeographic distribution in Latinamérica spanning extreme ranges of precipitation and temperatures. The identification of the genetic variants associated with adaptation to such conditions is a necessary step in order to better monitor, conserve and use such diversity in applied projects. Knowledge in the form of sequenced genomes, transcriptomes, and especially loci identified to underpin adaptations to extreme growing conditions, provides a valuable resource for future breeding and in situ conservation projects aimed at providing maize races adapted to the challenges caused by global climate change. As part of our research, our Mexican collaborators performed an extensive teosinte sampling, including approximately 4,000 individuals of 276 populations of all the 7 teosinte species and subspecies distributed in Mexico. These samples were phenotyped in a greenhouse common garden, and genotyping by sequencing (GBS) was applied generating about 30,000 SNPs. We analysed the genetic population structure spanning seven teosinte taxa, phenotypic and eco-geographic variability elucidating relationships between genotype, habitat climate, and phenotype. A genome-wide association study (GWAS) was also done to elucidate the genetic basis of various morphological and climatic traits including plant height, plant surface area, number of tillers, the weight of 100 kernels, relative humidity, precipitation, and solar radiation among others. This was achieved using the fixed and random model circulating probability unification model (FarmCPU) and Multiple Loci Mixed Model (MLMM). Our findings highlight significant genetic diversity within teosinte populations, underscoring their adaptive responses to diverse climatic conditions. We identified candidate genes located in or near SNPs associated with these traits. We observed that the genetic loci associated with climatic factors differ across teosinte populations, emphasising the importance of preserving the genetic diversity of all populations. Consequently, our research indicates substantial potential for maize breeding, leveraging the rich genetic diversity within teosinte populations and therefore the importance of preserving the genetic diversity of all populations.
+
+<a href='mailto:j.atemia@fz-juelich.de'>Atemia, Joseph</a><sup>1</sup><br>Piñero, Daniel<sup>3</sup><br>Sánchez, José de Jesús<sup>3</sup><br>Rodríguez, Diana<sup>4</sup><br>Larios, Lino de la Cruz<sup>3</sup><br>Acevedo, Francisca<sup>5</sup><br>Wegier, Ana<sup>6</sup><br>Galvez, Nancy<sup>2</sup><br>Usadel, Björn<sup>1 7</sup><br>Mastretta-Yanes, Alicia<sup>5</sup><br>Hallab, Asis<sup>1 8</sup><br>
+
+<sup>1</sup>Institute of Bio- and Geosciences - Bioinformatics (IBG-4) - Forschungszentrum Jülich, Germany<br><sup>2</sup>Instituto de Ecologia, UNAM, Mexico<br><sup>3</sup>Centro Universitario de Ciencias Biológicas y Agropecuarias, Universidad de Guadalajara, Mexico<br><sup>4</sup>Instituto Tecnológico de Tlajomulco, Tecnológico Nacional de México, Jalisco, Mexico<br><sup>5</sup>Comision Nacional para el Conocimientoy Uso de la Biodiversidad, Mexico<br><sup>6</sup>Jardín Botánico, Instituto de Biologia, UNAM, México<br><sup>7</sup>Institute for Biological Data Science, Faculty of Mathematics and Natural Sciences, Cluster of Excellence on Plant Sciences, Germany<br><sup>8</sup>Technische Hochschule Bingen, Germany<br>

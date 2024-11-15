@@ -1,0 +1,20 @@
+---
+title: "Tandem repeat structure and conservation in maize"
+subtitle: "P309"
+author: "Rebecca Piri"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/9a/CollapsedtreeLabels-simplified-fi.svg"
+categories: 
+- Evolution and Population Genetics
+- Odd Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Centromeres are a critical element of eukaryotic genome architecture,serving as the site of kinetochore assembly and responsible for faithful chromosome segregation during cell division. Specialized histones define functional centromeres epigenetically, but tandemly-repeating DNA is associated on the sequence level. In recent studies of T2T assemblies, a close relationship between tandem repeat structure and function was observed in both human and Arabidopsis genomes. Underlying the functional centromere core exists highly-homogenized repeat patterns. Variation in repeat sequence and copy number among and within genetic lines indicate rapid and recurrent evolution on repeats. Here, we utilize 9 HiFi assemblies to investigate both centromeric and neocentromeric repeat structure. Uniquely, maize has four distinct tandem repeats that relate to centromere (CentC, Cent4) and neocentromere (TR1, knob180) activity. Through comparisons among and within genomes, we evaluate how repeat structure relates to function and how individual arrays in conserved positions vary.
+
+<a href='mailto:rdp22327@uga.edu'>Piri, Rebecca D</a><sup>1</sup><br>Dawe, R. Kelly<sup>1 2</sup><br>
+
+<sup>1</sup>Institute of Bioinformatics, University of Georgia, Athens, GA 30602<br><sup>2</sup>Department of Genetics, University of Georgia, Athens, GA 30602<br>

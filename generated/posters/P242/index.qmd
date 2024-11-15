@@ -1,0 +1,20 @@
+---
+title: "Longitudinal modeling of stomatal conductance potentiates the optimization of water-use efficient maize"
+subtitle: "P242"
+author: "Harel Bacher"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5e/Aztec_Diet_Basket_of_Corn_%289755332575%29.jpg"
+categories: 
+- Quantitative Genetics & Breeding
+- Even Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Abstract Slow-activating anion channel 1 (slac1) is a key regulator in stomatal closure, thus impacting water use efficiency (WUE) and productivity. The stomatal response to daily atmospheric parameters shapes the stomatal conductance (gsw) dynamics and determines WUE. A drawback of breeding for WUE by reducing gsw to minimize water loss is that it can decrease productivity. Our objective is to enhance WUE in maize by utilizing slac1 alleles that allow for the differential regulation of stomatal closure, enabling the selection of higher gsw predominantly in the morning when vapor pressure deficit (VPD) is lower, thus improving WUE without compromising productivity. To evaluate the feasibility of generating extreme gsw phenotypes that have optimal diurnal dynamics, we created a series of hybrids by separately crossing a slac1-mu null allele and its non-mutant slac1 counterpart with eight inbred lines showing variation in haplotype diversity at slac1, along with differences in slac1 expression levels. We measured the diurnal dynamics of gsw on the eight hybrid pairs, comprising slac1/slac1 and slac1/slac1-mu genotypes, totaling 16 hybrids, in a replicated field trial over an approximately 11 h period on multiple days during the 2023 field season. By fitting a Gaussian model to the daily measurement of gsw for each hybrid, three parameters were extracted: peak value of gsw, time of maximum gsw, and rate of daily gsw dynamics. On average, we observed that the Gaussian model reasonably captured the data distribution (R2=0.65), and the three parameters demonstrated a moderate level of broad-sense heritability. Among the eight hybrid pairs, two slac1/slac1 hybrids were found to be significantly different (P
+
+Bacher, Harel<sup>1</sup><br>Twohey, Robert J III<sup>2</sup><br>Studer, Anthony J<sup>2</sup><br>Robbins, Kelly R<sup>1</sup><br>Gore, Michael A<sup>1</sup><br>
+
+<sup>1</sup>Plant Breeding and Genetics Section, School of Integrative Plant Science, Cornell University, Ithaca, NY 14853.<br><sup>2</sup>Department of Crop Sciences, University of Illinois Urbana-Champaign, Urbana, IL 61801.<br>

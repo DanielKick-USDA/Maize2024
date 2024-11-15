@@ -1,0 +1,20 @@
+---
+title: "Phytoextraction potential of Quinoa and wheat grown under saline conditions as a measure for adaptation to salt stress"
+subtitle: "P104"
+author: "Ramesh Katam"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c1/Protective_Coleoptile_Tip_in_Zea_Mays_Embryo_%2847691344541%29.jpg"
+categories: 
+- Cell and Developmental Biology
+- Even Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Phytoremediation efficiency depends on the uptake mechanisms of soil contaminants by the plants. Phytoextraction is a potential alternative to diffuse the soil minerals in agriculture lands using high yielding crops, as these are expected to decontaminate the soil. Two crop plants Chenopodium quinoa and Triticum aestivum have been investigated for phytodesalination. Plants were exposed to stress at three salinity levels (5, 10, and 15 dsm -1) for 28 days and the remediation efficiency of sodium, potassium, calcium, magnesium, and chlorine was evaluated. Chenopodium quinoa, with 23.96% efficiency, showed the highest potential for sodium uptake at the highest salinity levels. The highest magnesium and chloride uptake efficiencies were 24.52% and 18.41% in Chenopodium quinoa plants at the highest salinity level. The efficiency of phytoremediation of potassium in Triticum aestivum at the highest salinity level was 5.03 ± 2.04% and in Chenopodium quinoa was 10.33 ± 2.48%. Bioaccumulation of sodium, potassium, calcium, magnesium, and chloride was also investigated in the roots and shoots of plants. The efficiency of calcium uptake in Triticum aestivum decreased with increasing salinity levels and reached 14.97 ± 3.52%. Calcium uptake efficiency in both plants decreased with increasing salinity levels and reached 14.97 ± 3.52 and 20.85 ± 4.11%, respectively. The leaf area and dry weight of Chenopodium quinoa increased with increasing salinity levels. The highest transfer factor of 11.39 was observed in Chenopodium quinoa for calcium ions in the control sample. The results suggest that, in salinity areas, Chenopodium quinoa and Triticum aestivum should be grown alternately to improve the land reclamation, reduce salinity, and increase yields of wheat.
+
+Hoseini, Sepideh<sup>1</sup><br>Moogouei, Roxana<sup>2 3 6</sup><br>Borghei, Mehdi<sup>4</sup><br>Abedi, Zahra<sup>4</sup><br>Ramezani, Mehdi<sup>5</sup><br>Katam, Ramesh<sup>3</sup><br>
+
+<sup>1</sup>Department of Environmental Management, Faculty of Natural Resources and Environment, Science and Research Branch, Islamic Azad University, Tehran, Iran<br><sup>2</sup>Department of Environmental Planning, Management and Education, North Tehran Branch, Islamic Azad University, Tehran, Iran<br><sup>3</sup>Department of Biological Sciences, Florida A&M University, Tallahassee FL USA<br><sup>4</sup>Department of Chemical and Petroleum Engineering, Sharif University of Technology, Tehran, Iran<br><sup>5</sup>Department of Environmental Economics, Faculty of Natural Resources and Environment, Science and Research Branch, Islamic Azad University, Tehran, Iran<br><sup>6</sup>Department of Environmental Sciences, Faculty of Natural Resources and Environment, Science and Research Branch, Islamic Azad University, Tehran, Iran<br>

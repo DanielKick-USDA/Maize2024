@@ -1,0 +1,20 @@
+---
+title: "Vasculature connection in maize “Twin-Grafts”"
+subtitle: "P124"
+author: "David Zimmerman"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c1/Protective_Coleoptile_Tip_in_Zea_Mays_Embryo_%2847691344541%29.jpg"
+categories: 
+- Cell and Developmental Biology
+- Even Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Grafting is a technique that has been used in agriculture for millennia to combine two genetically distinct crop varieties to create a plant with maximally beneficial shoot and root traits. Previously it was thought that graft compatibility was an exclusive trait of dicotyledonous species, however a recent study reported a method of grafting in monocots by preforming the grafting in pre-germinated seeds and kernels. Indeed, we have developed a protocol and shown the ability of Zea mays to form a symplastic connection between primary root and shoot in both homo- and heterografts. However, this method requires destruction of the grafted shoot to confirm successful connection of the tissues. Here we present results from a novel shoot/shoot grafting method in which two individual maize shoots are fused at the mesocotyl during germination. Fused shoots were genotyped using molecular markers and phloem-xylem connectivity established by administering radioactive 11CO2 to a source leaf on one shoot and measuring phloem transport of [11C]-photosynthate down the shoot to the roots and back up the second shoot via the xylem. Gamma ray counting and autoradiography were used for these measurements. In subsequent studies, shoot/shoot xylem connectivity will be examined using radioactive 2-deoxy-2-[18F]fluoro-D-glucose administered hydroponically through a select set of nodal roots connected to just one of the shoots. We expect that with its ease of use and visual scoring coupled with the high rate of shoot/shoot fusion our method will become the standard grafting protocol for maize in the future. Grafting in maize will allow researchers to unravel long distance signaling networks, secondary metabolite production, and source-sink dynamics throughout the maize lifecycle.
+
+<a href='mailto:djz3@illinois.edu'>Zimmerman, David J.</a><sup>1</sup><br><a href='mailto:ferrierir@missouri.edu'>Ferrieri, Richard A.</a><sup>2 3 4 5</sup><br><a href='mailto:schuellerm@missouri.edu'>Schueller, Michael J.</a><sup>2 3</sup><br><a href='mailto:astuder@illinois.edu'>Studer, Anthony J.</a><sup>1</sup><br>
+
+<sup>1</sup>Department of Crop Sciences, University of Illinois Urbana-Champaign, Urbana, IL 61801<br><sup>2</sup>Missouri Research Reactor Center, University of Missouri, Columbia, MO 65211<br><sup>3</sup>Department of Chemistry, University of Missouri, Columbia, MO 65211<br><sup>4</sup>Division of Plant Science and Technology, University of Missouri, Columbia, MO 65211<br><sup>5</sup>Interdisciplinary Plant Group, University of Missouri, Columbia, MO 65211<br>

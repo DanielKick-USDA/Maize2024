@@ -1,0 +1,20 @@
+---
+title: "The Maize-10-Maze project, an educational public chromosome map garden with mutants of maize at FSU and online."
+subtitle: "P188"
+author: "Bianca Sheridan"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/69/Leiden_University_Library_-_Seikei_Zusetsu_vol._19%2C_page_019_-_%E7%8E%89%E8%9C%80%E9%BB%8D_-_Zea_mays_L.%2C_1804.jpg"
+categories: 
+- Education & Outreach
+- Even Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+The Maize-10-Maze is a public outreach event representing the ten chromosomes of maize in a live field museum of select fun and famous mutants of maize. Positioned within a cornfield with a walking path and information placards, families segregating for dominant or recessive mutants are planted in chromological order in which each row represents a single chromosome with ~7-10 mutant families. Our most recent Maize-10-Maze was held in Tallahassee FL in the summer of 2023, and replicated at other institutions (The Danforth Center in St. Louis, MO; NC State University in Raleigh, NC). These chromosome gardens provide opportunities for training and educating the scientists and students who produce and host them. Here we report on the June 2023 Maize-10-Maze event, a cornerstone outreach event of our maize DNA replication project (NSF IOS 2025811). The selected mutants showcased visually striking phenotypes/traits or those with agronomic or scientific importance, such as Knotted1 (Kn1), lazy plant1 (la1), brittle endosperm1 (bt1), or teosinte branched1 (tb1). The site offered tours, either self-guided or hosted by FAMU/FACE students, and exhibited mutants with detailed placards (FSU 2023 placards & pheno-pics) containing links to maize genetics. This year, the Young Scholars Program (YSP) high school students added fun-fact centromeres to each chromosome. In collaboration with Florida A&M University's FACE Summer Program, YSP, and videographer Jonathan Doster, we created engaging digital content about maize mutants and plant genetics. Public access continues to be facilitated through various outlets, including a dedicated website, www.crazylazycorn.org, social media channels such as Instagram (@cornqueenb) and TikTok (@scienceforyall), online placards document, OMEKA (crazycornmutants.omeka.net/), a virtual mutant museum, curated by students for a worldwide audience. This project serves as a captivating opportunity for public engagement with modern maize research incorporating molecular genetics, genomics, and plant biology.
+
+<a href='mailto:bsheridan@fsu.edu'>Sheridan, Bianca K. M.</a><sup>1</sup><br><a href='mailto:tvf20a@fsu.edu'>Flores, Tammy V.</a><sup>1</sup><br><a href='mailto:cah19k@fsu.edu'>Hambuechen, Callie A.</a><sup>1</sup><br><a href='mailto:kimberly.davis@famu.edu'>Davis, Kimberly</a><sup>2</sup><br><a href='mailto:jonathan@jdosterphoto.com'>Doster, Jonathan</a><sup>1</sup><br><a href='mailto:emily_wear@ncsu.edu'>Wear, Emily E.</a><sup>3</sup><br><a href='mailto:lamickel@ncsu.edu'>Mickelson-Young, Leigh</a><sup>3</sup><br><a href='mailto:lconia@tacc.utexas.edu'>Concia, Lorenzo</a><sup>4</sup><br><a href='mailto:wftb@ncsu.edu'>Thompson, William F.</a><sup>3</sup><br><a href='mailto:lkhanley@ncsu.edu'>Hanley-Bowdoin, Linda K.</a><sup>3</sup><br><a href='mailto:bass@bio.fsu.edu'>Bass, Hank W.</a><sup>1</sup><br>
+
+<sup>1</sup>Department of Biological Science, Florida State University, Tallahassee, FL, USA<br><sup>2</sup>Florida A & M University, Tallahassee, FL, USA<br><sup>3</sup>Plant and Microbial Biology, North Carolina State University, Raleigh, NC, USA<br><sup>4</sup>Texas Advanced Computing Center, University of Texas, Austin, TX, USA<br>

@@ -1,0 +1,19 @@
+---
+title: "x1 encodes a putative RNA-binding protein required for paramutations at multiple loci"
+subtitle: "T26"
+author: "Oliver Marchus"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b3/Genetic_corn.jpg"
+categories: 
+- Transposons & Epigenetics
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Paramutations are defined by trans-homolog interactions resulting in meiotically-heritable epigenetic changes affecting gene regulation. While the nature of these interactions remains unclear, an Arabidopsis thaliana (A.t.)-based 24 nucleotide (nt) RNA-directed DNA methylation (RdDM)-like mechanism provides one working model. In maize, paramutations occur between specific alleles at several loci including purple plant1 (pl1) and booster1 (b1) which encode transcription factors promoting purple/red pigmentation. Relative to highly-expressed reference states (Pl-Rh and B-I), paramutant derivatives (Pl′ and B′ ) confer weak plant color and are exclusively transmitted from respective Pl-Rh / Pl′ and B-I / B′ heterozygotes in apparent violation of Mendelian segregation. In forward genetic screens for factors required to maintain repression (rmr) of Pl′ states, ethyl methanesulfonate-induced mutations define at least sixteen loci. All seven known RMR proteins facilitate RNA polymerase IV-derived 24nt RNA biogenesis, yet no RdDM-like 24nt RNA effector proteins have been identified. Here we show the rmr17 locus is genetically required for paramutations at both pl1 and b1. Bulk-segregant WGS analysis and deletion-based validation map rmr17 to the x1 gene located within the highly-studied a1–sh2 interval. x1 encodes the founding member of a protein family with namesake XS domains responsible for binding double-stranded (ds) RNA. The likely A.t. X1 orthologs represent a clade of three non-redundant paralogs forming heterotetrameric complexes required for RdDM. These complexes 1) bind duplexes of 24nt RNA and RNA polymerase V-derived long non-coding RNA (lncRNA) scaffolds, 2) interact with the SWI3B nucleosome remodeler, and 3) help recruit the de novo cytosine methyltransferase DRM2. Our findings support a role for X1 in paramutation by recognizing 24nt RNA-lncRNA duplexes and recruiting proteins that facilitate meiotically-heritable repressive chromatin modifications. The identification and characterization of rmr17 thus represents a significant advance in understanding the role of 24nt RNAs in defining heritable epigenetic variations.
+
+<a href='mailto:marchus.3@buckeyemail.osu.edu'>Marchus, Oliver J</a><sup>1</sup><br><a href='mailto:hollick.3@osu.edu'>Hollick, Jay B</a><sup>1</sup><br>
+
+<sup>1</sup>Department of Molecular Genetics and Centers for Applied Plant Sciences and RNA Biology, The Ohio State University, Columbus, OH, 43210<br>

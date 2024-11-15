@@ -1,0 +1,20 @@
+---
+title: "Making good connections: How transverse veins span the maize leaf vascular network"
+subtitle: "P100"
+author: "Camila Medina"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c1/Protective_Coleoptile_Tip_in_Zea_Mays_Embryo_%2847691344541%29.jpg"
+categories: 
+- Cell and Developmental Biology
+- Even Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+The plant vascular system is a complex network which connects all organs. In maize leaves, the midvein, primary lateral, intermediate, and small veins are developed parallel to the direction of growth. Transverse veins, on the other hand, grow perpendicular to the other vein types, and therefore interconnect the entire leaf vascular system. We used a combination of plant anatomy tools and hormone reporters to observe the morphology and cellular development of transverse veins. A combination of diagnostic stains demonstrate that transverse veins may form between all parallel vein classes (midvein, lateral, intermediate, small), and like parallel veins, mature transverse veins consist of xylem, phloem and bundle sheath cell types. Although transverse veins may initiate connections between parallel veins which have already differentiated specialized cells, mature transverse veins display seamless connections with the bundle sheath, xylem vessel elements, and phloem sieve tubes of parallel veins, requiring cellular reorganization from these cells. Using the PIN1a-YFP marker line, early transverse vein formation is observed as single transverse anticlinal cell divisions followed by high PIN1a-YFP expression within paired spots along the procambium of parallel vascular bundles, flanking an incipient transverse vein. Cells in these spots are characterized by prominent nuclei and a denser cytoplasm than observed in surrounding procambial cells. Later, PIN1a-YFP is observed in a small file of cells that converges bidirectionally inward, derived from anticlinal divisions within leaf ground tissue cells. Our evidence suggests that PIN1a-YFP appears at the same time or after the first divisions which define the transverse vein, and DR5::erRFP is not detected in these cells. In contrast to parallel vein types, we conclude auxin transport and signaling are involved after an unknown vein recruitment signal, perceived prior to ground cell division. Ongoing work uses transverse veins as an experimental system for monocot vein ontogenesis via live imaging.
+
+<a href='mailto:medinamm@oregonstate.edu'>Medina, Maria Camila</a><sup>1</sup><br><a href='mailto:georgechuck@berkeley.edu'>Chuck, George</a><sup>2</sup><br><a href='mailto:leiboffs@oregonstate.edu'>Leiboff, Samuel</a><sup>1</sup><br>
+
+<sup>1</sup>Department of Botany and Plant Pathology, Oregon State University, Corvallis, OR 97331, USA<br><sup>2</sup>Department of Plant and Microbial Biology, UC Berkeley, Berkeley, CA 94720, USA.<br>

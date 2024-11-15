@@ -1,0 +1,20 @@
+---
+title: "A Rootless1 knockdown allele affects maize nodal root development, changing root system architecture and function."
+subtitle: "P191"
+author: "Alexander Liu"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5e/Aztec_Diet_Basket_of_Corn_%289755332575%29.jpg"
+categories: 
+- Quantitative Genetics & Breeding
+- Odd Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Nodal roots are the dominant part of the maize root system and are important for nutrient acquisition and physical support. Changes in nodal rooting patterns could help improve root system function, for example, the “Steep, Cheap, and Deep” paradigm posits that high occupancy nodes at, or just above, the soil line, but no higher, have benefits to efficient nitrogen and water capture. Rootless1, a classic maize mutant first described in 1930 and later mapped to Chromosome 3S, produces very few nodal roots aboveground. We previously identified a large indel in the promoter of ZmRt1 that reduces expression and which we hypothesize is responsible for the original rootless1 phenotype. However, an Ac/Ds knockdown allele of ZmRt1 named Rt1-2, was observed to induce supernumerary nodal roots close to the soil line before a precipitous decline at higher nodes which we hypothesize to result in changes in the root system, improving nutrient acquisition abilities. A comprehensive multi-year analysis of altered nodal root development and changes to root system architecture was conducted. A nitrogen contrast field experiment was performed in 2022 and 2023 comparing the Zmrt1-2 allele to the ZmRt1 wild type allele in high and low nitrogen conditions. Root crowns and 1m deep soil cores were taken to determine root distributions and root length density across the depth profile. Plants containing the Rt1-2 allele demonstrated changes in root length density, suggesting changes in nodal rooting affect root system exploration in the soil. Aboveground measures including biomass, total plant nitrogen, and yield were measured. Plants containing the Rt1-2 allele demonstrated higher yield in both high and low nitrogen conditions than the ZmRt1 wildtype allele, suggesting a positive influence on root resource capture efficiency.
+
+Liu, Alexander E.<sup>1 2</sup><br>Thiruppathi, Dhineshkumar<sup>3</sup><br>Bray, Adam<sup>3</sup><br>Sellers, Mitchell<sup>2</sup><br>Topp, Christopher N.<sup>2</sup><br>
+
+<sup>1</sup>Washington University in Saint Louis, 1 Brookings Dr, St. Louis, MO, USA 63130<br><sup>2</sup>Donald Danforth Plant Science Center, 975 N Warson Rd, Olivette, MO, USA 63132<br><sup>3</sup>Bayer Crop Science Division, 800 N. Lindbergh Blvd. St. Louis, MO, USA 63167<br>

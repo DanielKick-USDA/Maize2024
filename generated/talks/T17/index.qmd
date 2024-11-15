@@ -1,0 +1,19 @@
+---
+title: "How recombination facilitated the domestication of maize."
+subtitle: "T17"
+author: "Ruth Epstein"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/9a/CollapsedtreeLabels-simplified-fi.svg"
+categories: 
+- Evolution and Population Genetics
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Since maize was domesticated 10,000 years ago, its genome composition has been radically altered. Although selection during domestication reduced the genetic diversity of maize, meiotic recombination counteracted this reduction through the breakage of linkages between loci. Therefore, recombination has played a major role in shaping the genomic landscape of modern maize. It has been hypothesized that domestication increases global recombination rates. However, the role of recombination during domestication has not been thoroughly investigated and the intricate relationship between the recombination landscape and maize domestication has not been examined. Studying this phenomenon on a fine scale requires large high-resolution recombination maps, which do not exist in plants. To explore the maize recombination landscape during domestication, we inferred past recombination events through the population genomics method of coalescence, which is a backward-in-time approach to reconstruct a population’s genealogy. We also used an identity-by-descent analysis, which identifies shared haplotype blocks. Together, these approaches yielded one million recombination events enabling us to construct the first high-resolution maps of recombination rates in plants. These unparalleled maps permitted us to examine the variation between the maize and teosinte recombination landscapes. First, we were able to confirm domestication increased the global recombination rate in maize (0.71 cM/Mb) compared to teosinte (0.63 cM/Mb). We also found that maize recombination rates were additionally increased at the boundaries of domestication selective sweeps, suggesting that recombination increased the efficiency of selection. To understand mechanistically how recombination rates evolved, we investigated recombination genes in maize and teosinte. We found selection signatures in recombination genes in maize and identified some of those genes to be either candidates for direct selection targets or located within domestication selective sweeps. We propose that selection during domestication affected recombination patterns which in turn made selection more efficient.
+
+<a href='mailto:rke27@cornell.edu'>Epstein, Ruth</a><sup>1</sup><br><a href='mailto:jjwheeler4120@gmail.com'>Wheeler, JJ</a><sup>1</sup><br><a href='mailto:mt269@cornell.edu'>Hubisz, Melissa</a><sup>2</sup><br><a href='mailto:qisun@cornell.edu'>Sun, Qi</a><sup>2</sup><br><a href='mailto:bukowski@cornell.edu'>Bukowski, Robert</a><sup>1 2</sup><br><a href='mailto:wp45@cornell.edu'>Pawlowski, Wojtek</a><sup>1</sup><br>
+
+<sup>1</sup>Section of Plant Breeding, School of Integrative Plant Science, Cornell University<br><sup>2</sup>Bioinformatics Facility, Cornell University<br>

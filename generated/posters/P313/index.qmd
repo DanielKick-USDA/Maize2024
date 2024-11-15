@@ -1,0 +1,20 @@
+---
+title: "Phenotypic selection in SynAdapt, a genetically diverse maize-teosinte hybrid population"
+subtitle: "P313"
+author: "Tyrus Cryan"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/9a/CollapsedtreeLabels-simplified-fi.svg"
+categories: 
+- Evolution and Population Genetics
+- Odd Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Effective crop improvement methods should be developed with knowledge of the genetic basis of adaptive evolution and an understanding of factors that can limit responses to selection. In particular, well-characterized wild relative and crop systems are ideal for exploring the role of introgression on adaptive evolution because alleles associated with phenotypes under selection can be easily attributed to wild vs. cultivated origin. We are characterizing local phenotypic selection pressures on a maize-teosinte hybrid population (SynAdapt) using a multi-generation local adaptation field experiment at Davidson College. For each of five generations, we will measure the growth, survival, pest-damage, and reproductive success of individual plants. We consider selection on focal traits acting through both female (seed number) and male (total tassel length) components of fitness. Lastly, we will conduct a resurrection experiment using seeds from the first and fifth generations to quantify the extent of adaptive evolution that has occurred. This project will yield valuable data that can be used to teach students about the evolution of complex traits and provides opportunities for students to identify the origin of genetic variants (maize vs. teosinte) associated with fitness components and traits under selection.
+
+<a href='mailto:rachaaban@davidson.edu'>Chaaban, Ramsey M</a><sup>1</sup><br><a href='mailto:tycryan@davidson.edu'>Cryan, Ty</a><sup>1</sup><br><a href='mailto:suwadgymar@davidson.edu'>Wadgymar, Susana</a><sup>1</sup><br>
+
+<sup>1</sup>Davidson College, 405 N Main Street, Davidson, NC, USA 28035<br>

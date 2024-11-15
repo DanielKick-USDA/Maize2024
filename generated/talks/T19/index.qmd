@@ -1,0 +1,19 @@
+---
+title: "Fractionation in the tripsacinae subtribe"
+subtitle: "T19"
+author: "Samantha Snodgrass"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/9a/CollapsedtreeLabels-simplified-fi.svg"
+categories: 
+- Evolution and Population Genetics
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Polyploidy and fractionation— the processes by which genomes grow and shrink in size—characterize plant genome evolution. The rate of fractionation has typically been studied using a single species relative to a diploid reference or a set of species each descendent from different whole genome duplication events (WGD). From these, fractionation has been hypothesized to occur quickly after the initial WGD event and the genome re-diploidized before subsequent speciation events. The ancestral species of the Tripsacinae subtribe, which contains the genera Tripsacum and Zea, underwent a WGD ~12MYA after divergence from Sorghum. The descendant species that comprise the subtribe, including maize, have since fractionated back to a diploid-like state with Zea genomes comprised of 10 chromosomes and Tripsacum 18. Previous work in maize demonstrate ongoing fractionation at the timescale of hundreds of years, much more recent than earlier hypothesized. To better estimate the timing and rate of fractionation, we use high-quality, de novo assemblies of genomes across the Tripsacinae. We developed a pipeline to accurately identify shared and segregating fractionation of homoeologs across 35 Tripsacinae genomes. Using parsimony, the timing of fractionation is estimated across the clade. Preliminary findings suggest that, while most fractionation is shared across all genomes and occurred before the divergence of genera or right after, Tripsacum shows more retention of homoeologs than Zea, indicating that the rate of fractionation varies between lineages. Substantial chromosomal rearrangements and downsizing appear to uniquely characterize Zea species. By using a wide sampling of genomes descending from a single WGD event, we gain a better understanding of the complex and dynamic processes of genome evolution after polyploidy and provide a framework for future exploration of other ancient polyploids.
+
+<a href='mailto:snodgras@iastate.edu'>Snodgrass, Samantha J.</a><sup>1</sup><br><a href='mailto:margaret.woodhouse@usda.gov'>Woodhouse, Margaret R.</a><sup>2</sup><br><a href='mailto:arn@iastate.edu'>Seetharam, Arun S.</a><sup>1 3</sup><br><a href='mailto:mcs368@cornell.edu'>Stitzer, Michelle C.</a><sup>4</sup><br><a href='mailto:mhufford@iastate.edu'>Hufford, Matthew B.</a><sup>1</sup><br>
+
+<sup>1</sup>Department of Ecology, Evolution, and Organismal Biology, Iowa State University, Ames, IA, 50010<br><sup>2</sup>USDA-ARS, Corn Insects and Crop Genetics Research Unit, Ames, IA, 50010<br><sup>3</sup>Department of Genetics, Development, and Cellular Biology, Iowa State University, Ames, IA, 50010<br><sup>4</sup>Institute for Genomic Diversity, Cornell University, Ithaca, NY, 14853<br>

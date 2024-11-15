@@ -1,0 +1,20 @@
+---
+title: "The heterofertilization and kernel abortion phenotypes in maize gex2 mutants are consistent with differential fertilization recovery of egg and central cells."
+subtitle: "P115"
+author: "Harrison Flieg"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c1/Protective_Coleoptile_Tip_in_Zea_Mays_Embryo_%2847691344541%29.jpg"
+categories: 
+- Cell and Developmental Biology
+- Odd Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Sperm cells of flowering plants accomplish double fertilization via attachment and subsequent fusion of sperm cells to the egg cell and polar nuclei in the embryo sac, giving rise to the embryo and endosperm respectively. Mutations in both the Arabidopsis and maize GEX2 orthologs are associated with reduced mutant transmission, and an increased production of aborted kernels when transmitted through the male; likely due to defects in gamete attachment. To better understand GEX2 function, we have characterized phenotypes associated with two different mutations in the maize gex2 gene caused by insertion of an engineered GFP-marked transposable element. Although both insertions interrupt GEX2 coding sequence, the alleles are associated with a statistically significant difference in transmission defect severity. We are using RT-PCR to investigate whether the less severe phenotype is linked to alterations in splicing or protein structure.Use of anthocyanin markers indicates that the most severe gex2 allele is associated with an increased rate of heterofertilization, where the egg cell and central cell are fertilized by different pollen tubes. Genotyping the embryo and endosperm of heterofertilized kernels shows 88.2% are associated with gex2 fertilization of the egg cell. Conversely, aborted kernels from male gex2 crosses typically develop endosperm without embryo, suggesting that these abortions are a result of single fertilization of the central cell. Taken together, these data suggest that gex2 sperm are associated with high rates of single fertilization, with fertilization recovery rescuing those associated with the egg but not central cell. To further investigate the gex2 heterofertilization phenotype, we adapted the pollen preservation approach of Shoemaker et al. 2022 to a double pollination protocol that facilitates measurement of heterofertilization rate. Comparison with previous results will allow validation of this new method, as well as determination of whether the different gex2 alleles also differentially influence heterofertilization.
+
+<a href='mailto:fliegh@oregonstate.edu'>Flieg, Harrison C.</a><sup>1</sup><br><a href='mailto:fowlerjo@oregonstate.edu'>Fowler, John E.</a><sup>1</sup><br>
+
+<sup>1</sup>Oregon State University; United States; Corvallis, Oregon, 97331<br>

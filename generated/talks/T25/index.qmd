@@ -1,0 +1,19 @@
+---
+title: "Meiotic recombination differs between sexes in maize."
+subtitle: "T25"
+author: "Gwonjin Lee"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/05/DNA_base-pair_diagram.jpg"
+categories: 
+- Biochemical and Molecular Genetics
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Meiotic recombination is a fundamental biological process that exchanges genetic material between homologous chromosomes during meiosis. It involves the physical swapping of DNA strands, known as crossover (CO), which influences genetic diversity in offspring. However, a comprehensive understanding of the patterns and regulation of COs, especially in female and male meiocytes in maize, remains to be elucidated. In this study, we used parental inbred lines from the maize nested association mapping (NAM) populations, representing more than 85% of intraspecies genetic diversity in maize, to explore variations and factors involved in meiotic recombination between the sexes. We performed genotyping-by-sequencing (GBS) on approximately 3,000 backcrossed (BC1) individuals derived from 15 male and female F1 hybrids. Some BC1 hybrids showed significantly more COs in either males or females, particularly with higher recombination rates at the chromosome ends. In other lines, no significant differences were observed between sexes in COs at the whole-genome level, although some distinctions were found at the chromosome level. These results suggest that meiotic recombination differs considerably among different maize genetic backgrounds. Furthermore, CO frequencies in females were negatively correlated with CHH (where H = A, T, or C) methylation levels in somatic cells, indicating that standing variation in CHH methylation could impact meiotic recombination variability in female meiocytes across different lines. These observations, together with further investigations into genetic and epigenetic factors, may contribute to a comprehensive understanding of the regulation of sex-specific meiotic recombination.
+
+<a href='mailto:lee.gwonjin@ufl.edu'>Lee, Gwonjin</a><sup>1</sup><br><a href='mailto:meixiazhao@ufl.edu'>Zhao, Meixia</a><sup>1</sup><br>
+
+<sup>1</sup>Department of Microbiology and Cell Science, University of Florida, Gainesville, FL 32611<br>

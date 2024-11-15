@@ -1,0 +1,20 @@
+---
+title: "The shape of data: a new concept for understanding crop diversity"
+subtitle: "P274"
+author: "Randall WISSER"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5e/Aztec_Diet_Basket_of_Corn_%289755332575%29.jpg"
+categories: 
+- Quantitative Genetics & Breeding
+- Even Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+We present topological data analysis (TDA) – methods for studying the shape of data in multivariate space – as an alternative to the long-standing statistical framework for studying crop diversity. This is demonstrated with multi-scale data combined from phenotyping platforms and field experiments on traits for crop growth and development. Using TDA to study genetic and phenotypic spaces in maize, we find that directed interrogation of topological structure provides unique insights into evolution and adaptation. At the phenotypic scale, TDA uncovers physiological divergence among genotypes with common flowering times, in addition to different evolutionary and breeding trajectories for phenotypic change. At the genetic scale, TDA also reveals how common flowering times arise from genetic heterogeneity of polygenic variation. For genetics and breeding, TDA helps to localize territories of multivariate space with taxa (populations, genotypes, or alleles) that are favorable for genetic dissection and environmental adaptation. By developing a biologically interpretable understanding of topological information, we define a new approach for generating testable hypotheses and actionable results for crop improvement.
+
+Rodriguez, Jonas<sup>1</sup><br>Millet, Emilie<sup>2</sup><br>Piat, Arnaud-Desbiez<sup>1</sup><br>Carrière, Mathieu<sup>3</sup><br>Wisser, Randall J.<sup>1</sup><br>
+
+<sup>1</sup>Laboratory of Plant Ecophysiological responses to Environmental Stresses, INRAE, L’Institut Agro, University of Montpellier, 34060 Montpellier, France<br><sup>2</sup>Genetics and Improvement of Fruit and Vegetables, INRAE, 84143 Avignon, France<br><sup>3</sup>DataShape, Centre Inria d&#39;Université Côte d&#39;Azur, 06902 Valbonne, France<br>

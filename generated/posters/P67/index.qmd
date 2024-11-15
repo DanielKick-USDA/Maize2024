@@ -1,0 +1,20 @@
+---
+title: "Cause and consequences of abnormal Meiosis II division in bige7 heterozygotes"
+subtitle: "P67"
+author: "Alec Chin-Quee"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c1/Protective_Coleoptile_Tip_in_Zea_Mays_Embryo_%2847691344541%29.jpg"
+categories: 
+- Cell and Developmental Biology
+- Odd Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Big embryo7 (Bige7) encodes the BRIZ1 subunit of the universally conserved BRAP/BRIZ E3 ligase, implicated in animal cell cycle regulation and pleiotropic roles in plant development. The suite of bige7 phenotypes includes defects in seed germination, aleurone differentiation, meiosis II, and male gametophyte development. Interestingly, the latter two phenotypes occur in heterozygotes. Reciprocal crosses confirmed normal transmission through the female. Analyses of pollen morphology and germination rates have thus far not established a basis for reduced transmission. However, abnormal tetrad shapes in bige7/+ anthers are attributed to one cell of the dyad mis-dividing while the other cell divides normally. Both this pattern, and pollen transmission ratio, are consistent with uncovering of recessive bige7 in dyad cells by meiosis I segregation. To test the meiosis I segregation hypothesis, bige7 was crossed with inbred Ki11, which carries a knob (K2S) that is linked to the BigE7 locus, both on 2S. Dividing dyad meiocytes and tetrad microspores from F1 anthers were genotyped for knob constitution by FISH using a K-180 probe. Inferred dyad bige7 genotypes were then correlated with meiosis II division angles measured by 3D rendering and image processing using ICY and ImageJ. Meiosis II division angles of homozygous recessive bige7 dyad cells showed significantly larger deviations from normal division compared to heterozygous and wild type dyad cells, providing unambiguous support for the Meiosis I segregation hypothesis. The hypothesis has striking implications: 1) BigE7 is transcribed in dyads during the brief interkinesis stage of meiosis, and 2) fates of bige7 microspores depend on the genotype of their diploid dyad progenitor implying an unexpected connection between meiosis II division and microspore development. Because few essential genes are thought to be expressed during interkinesis, meiosis I segregation is assumed to have little impact on male fitness. In contrast, the bige7 phenotype challenges that assumption.
+
+<a href='mailto:chinquee2@ufl.edu'>Chin-Quee, Alec</a><sup>1</sup><br><a href='mailto:ha20be@bio.fsu.edu'>Hafiza, Sara Akram</a><sup>2</sup><br><a href='mailto:Wus@ufl.edu'>Wu, Shan</a><sup>1</sup><br><a href='mailto:Masaharu@ufl.edu'>Suzuki, Masaharu</a><sup>1</sup><br><a href='mailto:bass@bio.fsu.edu'>Bass, Hank W.</a><sup>2</sup><br><a href='mailto:drm@ufl.edu'>McCarty, Donald R.</a><sup>1</sup><br>
+
+<sup>1</sup>Horticultural Sciences Department, University of Florida; Gainesville; Florida; 32611, USA<br><sup>2</sup>Department of Biological Science, Florida State University; Tallahassee; Florida; 32306, USA<br>

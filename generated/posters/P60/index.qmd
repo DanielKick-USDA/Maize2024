@@ -1,0 +1,20 @@
+---
+title: "A KNOX-BLH homeodomain complex targets a major domestication locus"
+subtitle: "P60"
+author: "George Chuck"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c1/Protective_Coleoptile_Tip_in_Zea_Mays_Embryo_%2847691344541%29.jpg"
+categories: 
+- Cell and Developmental Biology
+- Even Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Flowering teosinte initiates several small female inflorescences in each leaf axil compared to domesticated maize that produces only a single large one. A major QTL controlling this phenotype, prol1.1, maps to a 2.7 Kb region upstream of the grassy tillers1 (gt1) homeodomain leucine zipper gene known to play a role in repression of tillering and carpel abortion in tassels. Our previous work identified a potential KNOX homeodomain binding site at pro1.1 that was confirmed via ChIP-sequencing using a KNOTTED1 (KN1) antibody. Because KNOX homeodomain proteins are known to dimerize with BLH homeobox proteins, we investigated whether a KNOX/BLH complex could bind to prol1.1. From transcription profiling we discovered that gt1 transcripts are highly downregulated in blh12/14 mutants that are defective in intermediate vein patterning, making the functionally redundant BLH12/14 proteins good candidates to be members of a complex. Furthermore, pull-down experiments indicated that KN1 and BLH12 or BLH14 proteins could physically interact as a complex in vivo. To verify potential binding at prol1.1, ChIP-seq using a BLH14 specific antibody on male and female inflorescence chromatin was done. This confirmed binding of BLH proteins to prol1.1, with a binding peak that overlaps completely with the KN1 peak. Interestingly, GT1 imunolocalization in kn1 or blh12/14 mutant backgrounds revealed reduced expression in axillary meristems, both vegetative and floral. This finding, together with the RNAseq results, indicate that the KNOX/BLH complex functions to activate gt1 in axillary positions where it may function to repress growth. This activation, however, occurs within a window after axillary meristem formation, but before lateral organ initiation as a mechanism to prevent excess branching late in development.
+
+Shemyakina, Elena<sup>1</sup><br>Abraham, Jazmin<sup>2</sup><br>Leiboff, Sam<sup>3</sup><br>Tsuda, Katsutoshi<sup>4</sup><br>Chuck, George<sup>1</sup><br>
+
+<sup>1</sup>University of California Berkeley, Albany, CA USA 94710<br><sup>2</sup>LANGEBIO, CINVESTAV, Irapuato, Mexico 36821<br><sup>3</sup>Oregon State University, Corvallis, OR, USA 97331<br><sup>4</sup>National Institute of Genetics, Mishima, Shizuoka Japan 411-8540<br>

@@ -1,0 +1,20 @@
+---
+title: "A developmental series transcriptomic study of nitrogen-related heterosis"
+subtitle: "P130"
+author: "Alexandria Tran"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e5/ENIAC-changing_a_tube.jpg"
+categories: 
+- Computational and Large-Scale Biology
+- Even Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Nitrogen use efficiency (NUE) has been documented to be increased in maize hybrids with both uptake and internal use phenotypes enhanced compared to inbred parents. Some traits involved in this are reliant on developmental phase-specific variations in organ nutrient remobilization such as stay-green, inspiring a season-wide assay of leaf-level gene regulation. B73, H99, and F1 hybrids of B73 and H99 were grown in paired N-deficient and -sufficient plots and sampled at early and mid-vegetative, and flowering timepoints for RNA-sequencing. H99 knockout mutants of a key nitrate transporter and F1 crosses of this mutant with B73 were grown and sampled in the same field in order to further dissect the role of nitrogen status signaling in heterosis NUE. Classical likelihood ratio testing reveals differential gene expression of expected nitrogen metabolism genes and indicates possible master regulators associated with their targets by gene network inference. With the quality of the pan-genome, SNP-aware alignment and RNA quantification also helps to piece apart the gene expression contribution of each parent and demystify some of the regulatory landscape.
+
+<a href='mailto:tran30@illinois.edu'>Tran, Alexandria</a><sup>1</sup><br><a href='mailto:chli6@illinois.edu'>Li, Catherine</a><sup>2</sup><br><a href='mailto:amymc@illinois.edu'>Marshall-Colon, Amy</a><sup>3</sup><br><a href='mailto:smoose@illinois.edu'>Moose, Steve</a><sup>2</sup><br>
+
+<sup>1</sup>Department of Informatics; University of Illinois; Urbana, IL 61801<br><sup>2</sup>Department of Crops Sciences; University of Illinois; Urbana, IL 61801<br><sup>3</sup>Department of Plant Biology; University of Illinois; Urbana, IL 61801<br>

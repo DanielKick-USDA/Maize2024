@@ -1,0 +1,20 @@
+---
+title: "The maize E3 ligase ZmCER9 specifically targets activated NLRs for degradation"
+subtitle: "P56"
+author: "Wen-Yu Liu"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/05/DNA_base-pair_diagram.jpg"
+categories: 
+- Biochemical and Molecular Genetics
+- Even Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Plant disease resistance proteins of the nucleotide binding leucine-rich repeat (NLR) type are activated upon recognition of specific pathogen-derived effector proteins and induce a strong defense response, known as effector-triggered immunity or ETI, which often includes a rapid localized cell death known as the hypersensitive cell death defense response (HR). The maize NLR protein Rp1-D21, an autoactive derivative of the Rp1-D common rust resistance protein, triggers a spontaneous HR in the absence of pathogen challenge. ZmCER9, a member of the E3 ligase family associated with endoplasmic reticulum-associated degradation (ERAD), emerges as a crucial player in this process. Through genome-wide association (GWA) mapping, we identified ZmCER9 as a candidate among the modifier loci influencing Rp1-D21-induced HR. Our study characterizes ZmCER9 as an active E3 ligase localized to the endoplasmic reticulum, where it facilitates the proteasome-dependent degradation of Rp1-D21. Intriguingly, ZmCER9 exhibits a broader spectrum of influence, suppressing and directing the degradation of autoactive NLRs from maize, Arabidopsis, and barley. Extending our investigation to Arabidopsis, we observe an increased hypersensitive response (HR) to specific pathogens in the absence of AtCER9, highlighting the conservation of the CER9-mediated degradation mechanism across plant species. In conclusion, our findings unveil a previously undiscovered process in plants involving ZmCER9 and the ERAD system, providing insights into the degradation of NLR proteins of immune homeostasis.
+
+<a href='mailto:wliu34@ncsu.edu'>Liu, Wen-Yu</a><sup>1</sup><br><a href='mailto:shaileshkarre86@gmail.com'>Karre, Shailesh</a><sup>2</sup><br><a href='mailto:terri_long@ncsu.edu'>Long, Terri</a><sup>1</sup><br><a href='mailto:pjbalint@ncsu.edu'>Balint-Kurti, Peter</a><sup>2</sup><br>
+
+<sup>1</sup>Department of Plant and Microbial Biology, NCSU<br><sup>2</sup>Dept of Entomology and Plant Pathology, NCSU<br>

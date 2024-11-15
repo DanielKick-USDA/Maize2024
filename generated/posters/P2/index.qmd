@@ -1,0 +1,20 @@
+---
+title: "Autoimmune mutants reveal new immunity pathways in maize"
+subtitle: "P2"
+author: "Jazmin Abraham-Juarez"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/05/DNA_base-pair_diagram.jpg"
+categories: 
+- Biochemical and Molecular Genetics
+- Even Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+The plant immune system includes constitutive and induced responses, when the strict fine-tuning regulation is disrupted autoimmunity may occur, i.e. spontaneous initiation of plant defense response affecting plant performance. In a screening to look for developmental affected maize mutants we identified narrow odd dwarf (nod) and Liguleless narrow (Lgn); surprisingly, transcriptome analysis showed overrepresentation of defense related gene categories, suggesting autoimmunity in these mutants. Proteomic analysis of NOD and LGN immunoprecipitated complexes showed interaction with exocyst components and MAPKs, and NOD with LGN interaction, BiFC experiments showed plasma membrane localization of NOD, LGN and some interactors relating these proteins with MAPK signaling pathways. NOD is the maize ortholog of the Arabidopsis MCAs (Mid-Complementing Activity 1 and 2), which have been reported forming a calcium import channel, based on the 3D structure and the MLKL domain, recently MCA2 was proposed to be a hNLR protein. In addition, NOD was identified interacting with P. maydis effectors in a Y2H screen, suggesting that NOD may be an atypical NLR. To test whether NOD can produce cell death, we did transient expression in N. benthamiana, showing that NOD N-terminus domain is enough to produce cell death. To explore the nod and Lgn involvement in pathogen response we are using Setosphaeria turcica to infect mutants in different genetic backgrounds. We found differential expression patterns of pathogenesis-related genes in B73 and Mo17, suggesting that those proteins are preventing PR genes induction depending on genetic background. Next experiments with fungal effectors will give information about NOD and LGN function at molecular level during pathogen infection in maize.
+
+<a href='mailto:jazmin.abraham@cinvestav.mx'>Abraham-Juarez, Jazmin</a><sup>1</sup><br><a href='mailto:enrique.pola@cinvestav.mx'>Pola-Sanchez, Enrique</a><sup>1</sup><br><a href='mailto:rodrigo.munoz@cinvestav.mx'>Muñoz-Javier, Rodrigo</a><sup>1</sup><br><a href='mailto:hake@berkeley.edu'>Hake, Sarah</a><sup>2</sup><br><a href='mailto:helm6@purdue.edu'>Helm, Matthew</a><sup>3</sup><br>
+
+<sup>1</sup>Unidad de Genómica Avanzada, Laboratorio Nacional de Genómica para la Biodiversidad, CINVESTAV-Irapuato, Guanajuato, México 36821<br><sup>2</sup>Plant Gene Expression Center, USDA-ARS and UC Berkeley, Albany CA 94710<br><sup>3</sup>Crop Production and Pest Control Research Unit, U.S. Department of Agriculture-Agricultural Research Service (USDA-ARS), West Lafayette, IN 47907<br>

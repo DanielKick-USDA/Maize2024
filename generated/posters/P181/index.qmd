@@ -1,0 +1,20 @@
+---
+title: "Broader impact through teacher education: Teachers confront the messiness of scientific practice"
+subtitle: "P181"
+author: "Daniel Levin"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/69/Leiden_University_Library_-_Seikei_Zusetsu_vol._19%2C_page_019_-_%E7%8E%89%E8%9C%80%E9%BB%8D_-_Zea_mays_L.%2C_1804.jpg"
+categories: 
+- Education & Outreach
+- Odd Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+How might plant geneticists have a broad impact on science education for diverse populations? Examples of outreach have included development of curricula and workshops for teachers, or support for underrepresented students to conduct laboratory research. Here we describe a different approach. We designed, implemented, and evaluated a “plant genetics unit” to be integrated into formal science teacher education coursework, with the aim of reaching diverse public school students through teachers. The unit focuses on the genetics of disease resistance in Maize and ethylene response in Arabidopsis. Both sets of experiments are conducted in parallel over the course of 3-4 class periods. We piloted the unit in two different teacher education contexts, with a small number of students (n=5; n=6). Students were teachers or student teachers in majority-minority school districts. We collected and analyzed students’ lab notebooks and responses to a questionnaire and recordings of classroom discussions. Both implementations presented problems that made the inquiry “messy”. In one case, Arabidopsis seedlings didn’t grow, and in the other, maize controls did not behave as expected. In the latter, the students discovered segregation of an albino mutation and shifted to understand the inheritance of albinism. Given the logistical problems, we recognize implementing this unit requires greater attention to optimizing conditions, and we are modifying the design to mitigate potential problems. Nevertheless, nine of the eleven students reported that the unit gave them their first real look into the “messiness” of science, and most valued such insight. This work raised questions about whether it is appropriate for adolescents (and/or teachers) to have an “inconclusive” experience with science before having a “positive” experience in which experiments work as expected. We propose that larger-N studies, in which we compare outcomes from conditions of “messy” and “clean” experiments, will provide greater insight into this debate.
+
+<a href='mailto:dlevin2@umd.edu'>Levin, Daniel M.</a><sup>1</sup><br><a href='mailto:pjbalint@ncsu.edu'>Balint-Kurti, Peter</a><sup>2</sup><br><a href='mailto:carenc@umd.edu'>Chang, Caren</a><sup>3</sup><br>
+
+<sup>1</sup>College of Education, University of Maryland, College Park, MD<br><sup>2</sup>USDA-ARS, Plant Science Research Unit, Raleigh NC<br><sup>3</sup>College of Computer, Mathematical, and Natural Sciences, University of Maryland, College Park, MD<br>

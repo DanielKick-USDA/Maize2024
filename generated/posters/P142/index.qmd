@@ -1,0 +1,20 @@
+---
+title: "Comparison of rRNA depletion methods in maize"
+subtitle: "P142"
+author: "Leigh Mickelson-Young"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e5/ENIAC-changing_a_tube.jpg"
+categories: 
+- Computational and Large-Scale Biology
+- Even Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+To assess how transcription, particularly the rate of transcription, correlates to maize root tip DNA replication timing, we made RNA-seq libraries from nascent, nuclear, and cellular RNA isolated from the 0-1 mm terminal portion of maize root tips. To obtain a more inclusive representation of the transcriptomes for mRNAs, non-polyA RNAs, antisense transcripts and long non-coding (lnc) RNAs in the RNA-seq libraries, we used ribosomal RNA (rRNA) depletion instead of polyA selection prior to library construction. We compared commercially available kits (Invitrogen RiboMinus, Vazyme Ribo-off, and Qiagen QiaFastSelect) for plants that use probe hybridization to rRNAs. To analyze the ribo-depletion efficiencies of the kits and to filter out highly repetitive transcripts like tRNAs and signal recognition particle (7SL/SRP) RNAs in the resulting RNA-seq data, we generated maize-specific, custom databases of 5S, 5.8S, 18S, 28S, internal transcribed spacer (ITS), mitochondrial and chloroplast rRNAs, tRNAs and SRP sequences to use with the SortMeRNA bioinformatic tool. All kits reduced the amount of rRNA, but none successfully removed all rRNAs. With the Vazyme kit, the type of RNA used for the library impacted the amount of rRNA contamination in the reads, with 10%, 30%, and 80% rRNA contaminants in the nascent, nuclear and cellular RNA-seq reads, respectively. In nuclear RNA-seq libraries, ~30% of the RNA-seq reads corresponded to rRNA sequences when either the Vazyme or the Qiagen kit was used. However, the kits differed in the types of rRNA that were not removed efficiently. The major read contaminant for the Vazyme kit was from 28S rRNA (89% of the reads removed by SortMeRNA databases), whereas for the Qiagen kit the major contaminants were from mitochondrial and ITS rRNAs (~60% and 27% of SortMeRNA reads, respectively). Further characterization of the kits and a description of how the maize rRNA databases were generated will be presented.
+
+<a href='mailto:lamickel@ncsu.edu'>Mickelson-Young, Leigh</a><sup>1</sup><br><a href='mailto:lconcia@tacc.utexas.edu'>Concia, Lorenzo</a><sup>2</sup><br><a href='mailto:emily_wear@ncsu.edu'>Wear, Emily</a><sup>1</sup><br><a href='mailto:caschob2@ncsu.edu'>Schober-Colburn, Christel</a><sup>1</sup><br><a href='mailto:eamarkha@ncsu.edu'>Wheeler, Emily</a><sup>1</sup><br><a href='mailto:wftb@ncsu.edu'>Thompson, William</a><sup>1</sup><br><a href='mailto:linda_hanley-bowdoin@ncsu.edu'>Hanley-Bowdoin, Linda</a><sup>1</sup><br>
+
+<sup>1</sup>North Carolina State University; Department of Plant and Microbial Biology; Raleigh, NC USA 27695<br><sup>2</sup>University of Texas at Austin, Texas Advanced Computing Center, Austin, TX USA 78758<br>

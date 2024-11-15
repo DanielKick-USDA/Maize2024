@@ -1,0 +1,20 @@
+---
+title: "Maize-specific LOX4 and LOX5 genes subfunctionalize to play contrasting roles in defense against necrotrophic and hemibiotrophic pathogens"
+subtitle: "P39"
+author: "Israel Arellano"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/05/DNA_base-pair_diagram.jpg"
+categories: 
+- Biochemical and Molecular Genetics
+- Odd Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Anthracnose Leaf Blight (ALB) and Stalk Rot, caused by a hemibiotrophic fungal pathogen, Colletotrichum graminicola, results in maize annual losses of up to $1 billion in the United States. Additionally, the necrotroph Cochliobolus heterostrophus causes Southern Corn Leaf Blight (SCLB) disease, which devastated 15% of US and southern Canada maize crops during the 1970 epidemics, and results in substantial yield loss to this day. To improve resistance to these pathogens, a better understanding of the molecular mechanisms of defense and new genetic targets for molecular breeding are needed. Fatty-acid derived oxylipins, mainly the products of lipoxygenase (LOX) pathway, are implicated in defenses against pests and pathogens. Here, we report the identification of two non-JA producing, tonoplast-localized 9-LOXs, ZmLOX4 and ZmLOX5, that share 94% amino acid sequence identity to each other and play unique roles in defense to these pathogens. Remarkably, lox4 knock-out mutants are susceptible to ALB but resistant to SCLB, whereas lox5 mutants display the exact opposite phenotypes; they are resistant to C. graminicola, but susceptible to SCLB. These results suggest that the two duplicated paralogues evolved to specialize in conferring defense to these two pathogens with contrasting disease lifestyles. Metabolite analyses revealed that such functional divergence can be explained by the differential role of these highly related enzymes in the regulation of biosynthesis of the major defense hormones, salicylic acid and jasmonic acid, in response to infection by these two pathogens.
+
+<a href='mailto:i_a67@tamu.edu'>Arellano, Israel</a><sup>1</sup><br><a href='mailto:peiguo.yuan@ag.tamu.edu'>Yuan, Peiguo</a><sup>1</sup><br><a href='mailto:yspark2005@kongju.ac.kr'>Park, Yong-Soon</a><sup>1 2</sup><br><a href='mailto:haomin.lyu@usda.gov'>Lyu, Haomin</a><sup>3</sup><br><a href='mailto:qingyi.yu@usda.gov'>Yu, Qingyi</a><sup>3</sup><br><a href='mailto:kolomiets@tamu.edu'>Kolomiets, Michael V</a><sup>1</sup><br>
+
+<sup>1</sup>Department of Plant Pathology and Microbiology; Texas A&M University; College Station, TX, USA 77843<br><sup>2</sup>Department of Plant Resources, College of Industrial Sciences, Kongju National University, Yesan, Republic of Korea 32439<br><sup>3</sup>USDA-ARS, Daniel K. Inouye U.S. Pacific Basin Agricultural Research Center Tropical Plant Genetic Resources and Disease Research Unit, Hilo, HI 96720<br>

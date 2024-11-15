@@ -1,0 +1,19 @@
+---
+title: "Integrating single-cell transcriptomes links organ-specific gene expression with function"
+subtitle: "T24"
+author: "Sunil Kenchanmane Raju"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c1/Protective_Coleoptile_Tip_in_Zea_Mays_Embryo_%2847691344541%29.jpg"
+categories: 
+- Cell and Developmental Biology
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Root architecture determines spatiotemporal control of resource exploration and acquisition, leading to crucial implications in plant productivity. Little is known about cell type differences among these roots at the molecular level and how these affect cellular organization, development, and function. Here, we present a comparative study of single-cell transcriptomes from the embryonic primary and seminal roots and post-embryonic lateral and crown roots in maize B73. Integration of scRNAseq datasets combining more than 24,000 cells revealed conserved and unique transcriptional programs in cell type specification and allowed dissection of gene expression pattern changes within cell types. While primary and secondary roots morphologically differ in their number of cortical layers, we didn't see significant differences in the number of cells with cortical identity. However, a significantly higher number of cells showed endodermis identity in lateral roots, revealing a potential root-type specific transcriptional specialization. Post-embryonic crown roots showed an overrepresentation of genes involved in water transport, epidermis differentiation, and response to stress compared to primary and seminal roots. We also identified genes that switched cell-type-specific expression patterns across root types. For example, grassy tillers1, a class I HD-Zip gene that controls lateral branching, showed broad expression across all cell types in the lateral roots, while its expression was restricted to specific cell types such as pericycle and less differentiated xylem and phloem in primary and seminal roots, and almost absent in crown roots. The gt1 mutant phenotype consistently shows longer lateral roots, suggesting that gt1’s growth suppression phenotypes are conserved in shoot and root. These results together show the potential of scRNAseq in unraveling functionally relevant molecular complexity of root architecture in maize.
+
+<a href='mailto:kenchanmane@gmail.com'>Kenchanmane Raju, Sunil</a><sup>1</sup><br><a href='mailto:bg93@nyu.edu'>Guillotin, Bruno</a><sup>1</sup><br><a href='mailto:hailongyang@umass.edu'>Yang, Hailong</a><sup>2</sup><br><a href='mailto:pli1@nyu.edu'>Ip, Pui-Leng</a><sup>1</sup><br><a href='mailto:mbartlett@umass.edu'>Bartlett, Madelaine</a><sup>2</sup><br><a href='mailto:ken.birnbaum@nyu.edu'>Birnbaum, Ken</a><sup>1</sup><br>
+
+<sup>1</sup>Center for Genomics and Systems Biology, New York University, New York, NY, USA<br><sup>2</sup>Biology Department, University of Massachusetts, Amherst, MA, USA<br>

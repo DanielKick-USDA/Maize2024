@@ -1,0 +1,20 @@
+---
+title: "Kernel morphology influences maize hybrid seed production efficiency"
+subtitle: "P239"
+author: "John Searl"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5e/Aztec_Diet_Basket_of_Corn_%289755332575%29.jpg"
+categories: 
+- Quantitative Genetics & Breeding
+- Odd Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Inbred seed parent production traits, including kernel grade size and the resultant fraction of sellable kernels, impact the commercial feasibility of producing large quantities of hybrid seed. Applying selection for seed production traits during the breeding process enables identification of new inbred lines that will support efficient hybrid seed production. We evaluated a set of 421 inbred lines primarily comprised of materials with Expired Plant Variety Protection (exPVP) for kernel grade size and sellable kernels using manual measurements. The kernels were harvested in 2022 from a replicated experiment grown at the West Madison Agricultural Research Station. The percent sellable kernels ranged from 26.6% percent in LASER (an ornamental ex-PVP) to 100% percent in multiple formerly commercial ex-PVPs, including LH235. Using 12,952 SNPs, a significant association with marker S5_163144081, was identified for the percent of sellable kernels. This marker lies within, Zm00001eb240940 (prh40), an annotated protein phosphatase gene and has an effect of -3.3 (percent sellable kernels). The allele conferring a negative effect for percent sellable kernels is not evenly represented across heterotic groups; Iodent minor allele frequency (MAF) = 0.0%, Non-Stiff Stalk MAF = 15.0%, Stiff Stalk MAF = 4.1%, Unrelated/Flint MAF = 23.7%. The negative effect allele occurs at a lower-than-expected frequency in the Stiff Stalk heterotic group (p-value of 0.03) which contains inbreds traditionally used as the seed parent in hybrid seed production while it is more common than expected in the Non-Stiff Stalk heterotic group (p-value of 0.02), traditionally used as the pollen parent. Our results support that useful genetic variation exists for percent sellable kernels and that developing inbreds improved for this trait is a reasonable goal within a breeding program.
+
+<a href='mailto:jsearl@wisc.edu'>Searl, John C</a><sup>1</sup><br><a href='mailto:smkaeppl@wisc.edu'>Kaeppler, Shawn M</a><sup>1</sup><br><a href='mailto:ndeleongatti@wisc.edu'>de Leon, Natalia</a><sup>1</sup><br>
+
+<sup>1</sup>Department of Agronomy, University of Wisconsin, 1575 Linden Dr., Madison, WI 53706<br>

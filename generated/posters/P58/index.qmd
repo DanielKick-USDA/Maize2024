@@ -1,0 +1,20 @@
+---
+title: "Transformation of Fast Flowering Mini Maize (FFMM)"
+subtitle: "P58"
+author: "James Birchler"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/05/DNA_base-pair_diagram.jpg"
+categories: 
+- Biochemical and Molecular Genetics
+- Even Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Fast Flowering Mini Maize (FFMM) is a line that has a generation time under two months. It is being used worldwide for various studies, particularly those needing controlled environments, and by those who desire quick results. We are developing methods to use FFMM to expedite maize transformation and gene editing. FFMM has been transformed using BabyBoom (BBM) and Wuschel (WUS), but subsequently with only WUS2 to minimize the effect on plant morphology. Constructs have been assembled for the eventual stacking of multiple transgenes in FFMM with the ability to remove the selectable marker and WUS2. A landing site on a GFP marked B chromosome for insertion via recombination mediated by phiC31 recombinase has been introgressed into FFMM for multiple generations. Insertions into this B chromosome will permit extensive dosage analyses of the transformed genes. Gene editing within FFMM was demonstrated by mutating the nondisjunction factor gene on a phenotypically marked B chromosome introgressed into FFMM. A haploid inducer derivative of FFMM has been produced that has GFP and RUBY phenotypic markers that will aid in the identification of haploids. With the addition of editing constructs to this inducer, the ability to edit any target line via Haploid Induction-Edit with an expedited timeframe will be possible. Various approaches are being tried to reduce the transformation time as much as possible.
+
+Liu, Hua<sup>1</sup><br>Zhang, Zhengzhi<sup>1</sup><br>Swyers, Nathan C.<sup>2</sup><br>Graham, Nathaniel<sup>2</sup><br>Cody, Jon P.<sup>2</sup><br>Albert, Patrice S.<sup>2</sup><br>Yang, Hua<sup>2</sup><br>Kelly, Jacob A.<sup>2</sup><br>Birchler, James A.<sup>2</sup><br>Yang, Bing<sup>2 3</sup><br>
+
+<sup>1</sup>Division of Plant Science and Technology, University of Missouri, Columbia, MO 65211<br><sup>2</sup>Division of Biological Sciences, University of Missouri, Columbia, MO 65211<br><sup>3</sup>Donald Danforth Plant Science Center, St. Louis, MO 63132<br>

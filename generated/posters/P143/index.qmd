@@ -1,0 +1,20 @@
+---
+title: "Coupling ecophysiology and genetics in a digital environment for modeling crop adaptation"
+subtitle: "P143"
+author: "Arnaud Desbiez-Piat"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e5/ENIAC-changing_a_tube.jpg"
+categories: 
+- Computational and Large-Scale Biology
+- Odd Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Adapting maize to climate change encompasses a three-way interaction between genetic variation, environmental plasticity, and directed evolution. Here, we show how interfacing digital and life sciences offers new possibilities to model more realistic genotype-to-phenotype relations in evolving populations, to build the underpinnings of a new integrative synthesis, and guide progress in plant breeding. In a novel virtual system that couples evolutionary genetic models (EGM) with crop growth models (CGM), we bridge a divide between models (and modelers) that: [i] simulate daily growth across a plants life cycle leading to phenotypes for emergent traits such as flowering time and yield across environments (physiologists, agronomists); and [ii] how selection can act on those outcomes to drive evolution and impact diversity (geneticists, breeders). As a proof-of-concept, we focus on flowering time, using a diversity panel in a high-throughput phenotyping plateform as a training population to incorporate the genetic architecture of flowering trait components into the EGM. New genetic parameters of virtual recombinants (outputs of the EGM) are then passed to the CGM to predict the flowering dates of recombinant inbred lines in different environments based on their genetic makeup, and those predictions are then compared to observed data. Our system highlights the need for specifically designed experiments to accurately estimate GxE interactions. We further investigate how 20 years of climate change is impacting maize flowering time in terms of variance components, leading to compressed variation in flowering time with potential impacts on the selection response. In turn, we explore how interactions between genetic architecture, recombination and parental sampling can determine the adaptive potential of maize to different environments under climate change.
+
+<a href='mailto:arnaud.desbiez-piat@inrae.fr'>Desbiez-Piat, Arnaud</a><sup>1</sup><br><a href='mailto:jonas.rodriguez@inrae.fr'>Rodriguez, Jonas</a><sup>1</sup><br><a href='mailto:loic.manceau@inrae.fr'>Manceau, Loïc</a><sup>1</sup><br><a href='mailto:randall.wisser@inrae.fr'>Wisser, Randall J.</a><sup>1</sup><br>
+
+<sup>1</sup>INRAE, Institut Agro Montpellier, UMR LEPSE, 2 Pl. Pierre Viala, 34000 Montpellier, France<br>

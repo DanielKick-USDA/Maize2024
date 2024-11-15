@@ -1,0 +1,20 @@
+---
+title: "Genetic interaction analysis of maize meristem regulators"
+subtitle: "P21"
+author: "Jason Punskovsky"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/05/DNA_base-pair_diagram.jpg"
+categories: 
+- Biochemical and Molecular Genetics
+- Odd Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+The formation of the plant body proceeds post-embryonically through the coordinated action of small groups of stem cells called meristems. Maintenance of meristems is mediated by the CLAVATA-WUSCHEL negative feedback loop. Aberrations in this well-conserved pathway result in either enlarged or prematurely terminated meristems. As such, in maize, grain yield is ultimately determined by the size of the female inflorescence meristem (IM) which dictates the number of rows of kernels in an ear of corn. Prior characterization of ramosa1 enhancer locus2 (rel2) mutants revealed pleiotropic vegetative and reproductive phenotypes such as defective axillary meristem initiation and IM maintenance in single recessive mutants. The REL2 family of transcriptional corepressor proteins is composed of four members, REL2, REL2-LIKE1 (RELK1), RELK2 and RELK3. Interestingly, rel2;relk1 mutants display enhanced enlargement in female IMs. However, it is currently unclear whether REL2-RELK1 function in the canonical CLAVATA-WUSCHEL pathway or in parallel pathways. To distinguish these possibilities, we performed a genetic interaction analysis with rel2 and known meristem maintenance mutants: thick tassel dwaf1 (td1), fasciated ear3 (fea3), and fasciated ear4 (fea4). TD1 encodes an LRR-receptor-like kinase, FEA3 encodes an LRR-receptor-like protein while FEA4 encodes a bZIP transcription factor. Our analysis showed a strong synergistic interaction between rel2 and fea3, and rel2 and fea4, while an epistatic interaction was detected between rel2 and td1 mutants. These results suggest that REL2, FEA3, and FEA4, work in parallel pathways regulating meristem size, while TD1 and REL2 may work in the same pathway. As the signaling cascades initiated by TD1 and FEA3 ultimately repress the expression of the stem-cell promoting transcription factor WUS1, we are currently analyzing the genetic interactions between rel2, relk1, and wus1 mutants. We acknowledge funding from the National Science Foundation (IOS#2026561).
+
+<a href='mailto:jpunskovsky576@gmail.com'>Punskovsky, Jason</a><sup>1</sup><br><a href='mailto:jrg233@scarletmail.rutgers.edu'>Gregory, Jason</a><sup>1</sup><br><a href='mailto:zlchen@waksman.rutgers.edu'>Chen, Zongliang</a><sup>1</sup><br><a href='mailto:cgallardo@waksman.rutgers.edu'>Gallardo, Cecilia</a><sup>1</sup><br><a href='mailto:xueliu@waksman.rutgers.edu'>Liu, Xue</a><sup>1</sup><br><a href='mailto:agallavotti@waksman.rutgers.edu'>Gallavotti, Andrea</a><sup>1 2</sup><br>
+
+<sup>1</sup>Waksman Institute of Microbiology, Rutgers University, Piscataway, New Jersey 08854-8020, USA<br><sup>2</sup>Department of Plant Biology, Rutgers University, New Brunswick, New Jersey USA 08901, USA<br>

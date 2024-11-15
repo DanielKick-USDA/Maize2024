@@ -1,0 +1,20 @@
+---
+title: "SeqSNP-based genic markers revealed the genetic structure and identified candidate genes for low soil nitrogen tolerance in tropical quality protein (QPM) maize inbred lines"
+subtitle: "P264"
+author: "Pearl Abu"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5e/Aztec_Diet_Basket_of_Corn_%289755332575%29.jpg"
+categories: 
+- Quantitative Genetics & Breeding
+- Even Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Maize production in Sub-Saharan Africa (SSA) is threatened by low soil nitrogen (low-N). The identification of quantitative trait loci (QTLs) for low-N tolerance related traits is critical to increase the breeding efficiency through the integration of marker-assisted selection (MAS). In this study gene targeting markers (GTM) via SeqSNPs was used to determine the population structure and identify candidate genes for low-N tolerance. A total of 150 extra-early yellow, orange and white quality protein maize (QPM) inbred lines were evaluated under low-N and high-nitrogen (high-N). The inbred lines were genotyped using 2,500 SeqSNP markers which targeted genes previously reported for grain yield and other low-N tolerance related traits. Population structure analysis and phylogenetic tree both classified the genotypes into six sub-populations. Two, one, two and 10 significant SNPs were identified for low nitrogen base index (LNBI), low nitrogen tolerance index (LNTI), grain yield under low-N and grain yield under high-N respectively. The two SNPs for LNTI co-localized the putative gene hotspot GRMZM2G077863, belonging to the GDSL esterase/ lipase gene family and highly expressed in the roots of young seedlings at 6 days after planting and during tassel meiosis prior to flowering, which suggested a strong association of the gene with the traits. The putative genes GRMZM2G026137 and GRMZM2G004459 on chromosome (chr) 1, GRMZM2G111809 on chr 2, GRMZM2G380319 on chr 3, GRMZM2G442057 and GRMZM2G080314 on chr 6, GRMZM2G011213 and GRMZM2G090928 on chr 8, and GRMZM2G338056 and GRMZM2G150598 on chr 9 are involved in normal plant growth, tassel meiosis, root architecture, plant cell proliferation, cell growth, reproduction and post-embryonic development. The validation of these markers and the candidate genes in other population could make them useful for MAS to increase the selection efficiency and genetic gain in breeding for low-N tolerance.
+
+<a href='mailto:plabu@wacci.ug.edu.gh'>Abu, Pearl</a><sup>1</sup><br><a href='mailto:b.badu-apraku@cgiar.org'>Badu-Apraku, Baffour</a><sup>2</sup><br><a href='mailto:bifie@wacci.ug.edu.gh'>Ifie, Beatrice Elohor</a><sup>1 3</sup><br><a href='mailto:jeleblu@wacci.ug.edu.gh'>Eleblu, John Saviour</a><sup>1</sup><br><a href='mailto:ptongoona@wacci.ug.edu.gh'>Tongoona, Pangirayi</a><sup>1</sup><br><a href='mailto:soffei@wacci.ug.edu.gh'>Offei, Samuel Kwame</a><sup>1</sup><br>
+
+<sup>1</sup>West Africa Centre for Crop Improvement, University of Ghana, PMB 30 Legon, Ghana<br><sup>2</sup>International Institute of Tropical Agriculture (IITA), PMB 5320, Oyo Rd, Ibadan, Nigeria<br><sup>3</sup>Institute of Biological, Environmental & Rural Sciences (IBERS), Aberystwyth University<br>

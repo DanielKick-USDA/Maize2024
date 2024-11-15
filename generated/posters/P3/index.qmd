@@ -1,0 +1,20 @@
+---
+title: "Challenges and insights from establishing a maize transformation laboratory"
+subtitle: "P3"
+author: "Juliana Yassitepe"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/05/DNA_base-pair_diagram.jpg"
+categories: 
+- Biochemical and Molecular Genetics
+- Odd Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Maize genetic transformation, especially that mediated by Agrobacterium tumefaciens, is a crucial method for creating genetically modified varieties. Besides its extensive utilization for generating transgenic events, it is currently the method of choice to deliver CRISPR/Cas9 machinery into maize cells, allowing the production of genome-edited genotypes. In recent years, significant advancements in maize transformation protocols have been made. These developments have gained attention from both academic and industry organizations, resulting in the emergence of several public and private maize transformation laboratories and facilities worldwide. In 2019, we established maize transformation capabilities at the Genomics for Climate Change Research Center (GCCRC) in Campinas, Brazil, as part of a plant biotechnology pipeline using maize immature zygotic embryos of the model temperate inbred line B104. We observed a significant increase in transformation efficiency after incorporating the utilization of ternary vectors and morphogenic regulator genes (MR). The “altruist” method increases transformation efficiency and the number of fertile plants by avoiding the adverse effects caused by defective MR excision when using a single vector for the target and MR genes. With these optimizations, we can now transform and edit tropical maize lines more efficiently than B104. Seasonal variation has a significant impact on embryo production, which is highly correlated with transformation efficiency. Currently, we are testing a leaf-based protocol, which has shown promising results in overcoming this issue.
+
+<a href='mailto:juliana.yassitepe@embrapa.br'>Yassitepe, Juliana</a><sup>1 2</sup><br><a href='mailto:maisadesiqueira@gmail.com'>Pinto, Maisa S.</a><sup>1</sup><br><a href='mailto:leticia_rios1518@hotmail.com'>Vieira, Leticia R.</a><sup>1</sup><br><a href='mailto:mfaustinonibruno@gmail.com'>Bruno, Maria H. F.</a><sup>1</sup><br><a href='mailto:juliana.nonato@gmail.com'>Nonato, Juliana V. A.</a><sup>1</sup><br><a href='mailto:priasilva@hotmail.com'>Silva, Priscila A.</a><sup>1</sup><br><a href='mailto:fernanda.rausch@embrapa.br'>Fernandes, Fernanda R.</a><sup>1 2</sup><br><a href='mailto:isabel.gerhardt@embrapa.br'>Gerhardt, Isabel R.</a><sup>1 2</sup><br><a href='mailto:ricardo.dante@embrapa.br'>Dante, Ricardo A.</a><sup>1 2</sup><br><a href='mailto:marciojs@unicamp.br'>Silva, Marcio J.</a><sup>1</sup><br><a href='mailto:laurens.Pauwels@psb.vib-ugent.be'>Pauwels, Laurens</a><sup>3 4</sup><br><a href='mailto:parruda@unicamp.br'>Arruda, Paulo</a><sup>1 2</sup><br>
+
+<sup>1</sup>Genomics for Climate Change Research Center (GCCRC), Universidade Estadual de Campinas, Campinas, SP, Brazil,13083-875<br><sup>2</sup>Embrapa Agricultura Digital, Campinas, SP, Brazil, 13083-886<br><sup>3</sup>VIB Center for Plant Systems Biology, Ghent, Belgium, 9052<br><sup>4</sup>Department of Plant Biotechnology and Bioinformatics, Ghent University, Ghent, Belgium, 9000<br>

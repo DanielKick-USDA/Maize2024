@@ -1,0 +1,20 @@
+---
+title: "Swift pan-genomic methods for comprehensive genome annotation in maize genomes"
+subtitle: "P166"
+author: "Doreen Ware"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e5/ENIAC-changing_a_tube.jpg"
+categories: 
+- Computational and Large-Scale Biology
+- Even Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+The advancement in generating high-quality genome assemblies from long reads has facilitated standard practices, yet precise gene structure annotation remains a formidable task. This challenge persists due to algorithmic predictiveness and inconsistent transcriptome evidence. A singular reference annotation inadequately represents a species' coding potential, while de novo annotations face sensitivity and specificity issues. Addressing the growing maize accessions, establishing pan-genes—encompassing gene models or alleles present in a species—becomes crucial. To tackle this, we developed a pan-genomic approach employing representative models derived from a comparative analysis of 38K gene family trees across 26 maize genomes via the Ensembl Compara pipeline. We identified 106K pan-genes, with 20% core, 66% softcore, and 14% shell genes. Additionally, we classified pan-genes based on taxonomic age.Core genes exhibited higher multi-exonic features, on average older in taxonomic age and mRNA evidence than softcore and shell genes. We propagated these pan-gene representatives to 26 maize NAM genomes using Liftoff and improved gene structures using full length transcriptome evidence via PASA. This approach increased average protein coding gene counts to ~60K across maize accessions, increasing sensitivity, enhancing annotations, detecting novel isoforms, and variants. The protein coding set had 33% core, 54% softcore & 13% shell genes. Utilizing the Gramene gene tree curation tool, we visually identified inconsistent gene models, flagging 272 genes for manual curation out of 1167 initially evaluated for B73 v5 models. We further open this curation tool for the community to explore flag genes that are problematic.
+
+<a href='mailto:kchougul@cshl.edu'>Chougule, Kapeel</a><sup>1</sup><br><a href='mailto:weix@cshl.edu'>Wei, Sharon</a><sup>1</sup><br><a href='mailto:luj@cshl.edu'>Lu, Zhenyuan</a><sup>1</sup><br><a href='mailto:braynen@cshl.edu'>Braynen, Janeen</a><sup>1</sup><br><a href='mailto:olson@cshl.edu'>Olson, Andrew</a><sup>1</sup><br><a href='mailto:ware@cshl.edu'>Ware, Doreen</a><sup>1 2</sup><br>
+
+<sup>1</sup>Cold Spring Harbor Laboratory, Cold Spring Harbor, NY 11724<br><sup>2</sup>USDA-ARS NAA, Robert W. Holley Center for Agriculture and Health, Ithaca, NY, USA<br>

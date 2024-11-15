@@ -1,0 +1,20 @@
+---
+title: "Global modulation of gene expression in aneuploidy combinations in maize"
+subtitle: "P176"
+author: "Hua Yang"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/ab/Angiosperm_Morphology_The_Closed_and_Collateral_Vascular_Bundle_in_Zea_%2837215761790%29.jpg"
+categories: 
+- Cytogenetics
+- Even Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Genomic imbalance refers to the more severe phenotypic consequences of changing part of a chromosome compared to changing the whole genome set. Previous genome imbalance studies in maize have identified gene expression modulation in aneuploids of single chromosome arms in both haploids and diploids. The modulation of gene expression in more complex aneuploids, e.g. monosomy of one arm and trisomy of another, has not been systematically studied in any organism. In this study, hyperploid heterozygotes of B-A translocations involving two different chromosome arms were crossed together. Then, by crossing these combination lines to a normal female stock, nine genotypes can be produced for each. These will have one, two and three copies of one arm with independent one, two and three copies of the other arm in each of the three genotypes for the opposite arm. For the kernel phenotype, the combination of trisomy + trisomy is easily identifiable phenotypically due to the enhanced smaller kernel phenotype, resulting from chromosome deficiency in the central cell affecting endosperm development. By examining RNA modulation, we discovered that cis genes on varied chromosome arms are generally more dosage-compensated in aneuploid combinations than in single aneuploidy even though some showed a clear dosage effect. For genes on the unvaried chromosome (trans), there is greater modulation in most of the aneuploidy combinations, leading to both reductions and increases in gene expression. The modulation in trans is more pronounced in double monosomy than in double trisomy, aligning with the plant phenotype, suggesting that a greater chromosome dosage change could induce more significant alterations in phenotype and gene expression. Ongoing work involves measuring transcriptome size in aneuploidy combinations that will help us understand whether the more dramatic stoichiometric changes of genes involved in protein complexes in the aneuploid combination would upset global mRNA transcription.
+
+<a href='mailto:yanghu@missouri.edu'>Yang, Hua</a><sup>1</sup><br><a href='mailto:vab2d6@mail.missouri.edu'>Brennan, Vinny</a><sup>1</sup><br><a href='mailto:gaoz@missouri.edu'>Gao, Zhi</a><sup>1</sup><br><a href='mailto:chengji@missouri.edu'>Cheng, Jianlin</a><sup>2</sup><br><a href='mailto:birchlerj@missouri.edu'>Birchler, James A.</a><sup>1</sup><br>
+
+<sup>1</sup>Division of Biological Sciences, University of Missouri, Columbia, MO 65211<br><sup>2</sup>Department of Electrical Engineering and Computer Science, University of Missouri, Columbia, MO 65211<br>

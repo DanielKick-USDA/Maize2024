@@ -1,0 +1,20 @@
+---
+title: "mRNA splicing variation in mop1-1 mutant maize"
+subtitle: "P296"
+author: "Kathryn Koirtyohann"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b3/Genetic_corn.jpg"
+categories: 
+- Transposons & Epigenetics
+- Even Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+In plants, RNA-directed DNA methylation (RdDM) is an epigenetic pathway involved in the establishment and maintenance of heterochromatin. One mutant genotype of maize called mop1-1, deficient in a crucial component of the RdDM pathway, has been used extensively to study the effects of RdDM on different cellular and genetic processes. In other species, chromatin structure has been shown to be associated with mRNA splicing, and some variability in splicing has been observed previously in mop1-1 mutants. It is hypothesized that mop1-1 mutant maize has higher overall splicing variability than wild type. To examine variations in splicing across these genotypes, RNA sequencing data from wild type and mop1-1 maize is being evaluated. Preliminary data using the isoform percentages calculated for specific genes of interest showed many had higher splicing variation in mop1-1 mutants than in wild type. To examine splicing variation in this genotype more broadly, RNA sequence data was run through a program called VaSP, an R package used for quantification of variations in splicing events in a population. This program generates a Single Splicing Strength (3S) score for each intron splicing event based on junction reads and gene-level reads. Preliminary data and current results of the analysis with VaSP will be presented.
+
+<a href='mailto:kmk20cn@fsu.edu'>Koirtyohann, Kathryn M</a><sup>1</sup><br><a href='mailto:mcginnis@bio.fsu.edu'>McGinnis, Karen M</a><sup>1</sup><br>
+
+<sup>1</sup>Florida State University; Tallahassee, Florida, United States 32306<br>

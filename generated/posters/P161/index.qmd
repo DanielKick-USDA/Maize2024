@@ -1,0 +1,20 @@
+---
+title: "Microbial Partner (MiPner) analysis for the discovery and study of microbe-microbe interactions"
+subtitle: "P161"
+author: "Jeff Bennetzen"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e5/ENIAC-changing_a_tube.jpg"
+categories: 
+- Computational and Large-Scale Biology
+- Odd Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Although a few species of bacteria have been studied in great detail, little is known about the characteristics of the enormous number of microbe-microbe interactions that occur on a daily basis in almost every environment worldwide. We have developed a simple and robust technique to set up the foundation for investigating pairwise bacterial-bacterial interactions, using cell-cell binding to identify possibly functional bacterial species pairs. We first isolated, sequenced and annotated a Serratia marcescens strain (SMC43) from Georgia soil to use as “bait”. Bacteria were then purified by their specificity in binding SMC43 that were attached to a wooden applicator stick. The microbe-saturated stick was streaked onto a plate containing bacterial media, and a few individual colonies were purified, while the whole stick-bound community was also examined by lifting the entire microbial growth off the plate as a mixture, and shotgun sequencing the DNA from this mixture. The isolated Microbial Partners (MiPners) were greatly enriched for previously undiscovered bacterial species, especially including members of the genera Sphingobium and Caulobacter, many novel. Some of the MiPners were unable to grow on the plate type tested in the absence of SMC43, suggesting an obligate partnership for those MiPner bacteria.
+
+<a href='mailto:maize@uga.edu'>Bennetzen, Jeff</a><sup>1</sup><br><a href='mailto:jf68753@uga.edu'>Fernandez Canela, Josue</a><sup>2</sup><br><a href='mailto:vnelmgreen@ucdavis.edu'>Elmgreen, Vienna</a><sup>1</sup><br><a href='mailto:shaugnessy.mccann25@uga.edu'>McCann, Shaugnessy R.</a><sup>1</sup><br><a href='mailto:norrisma22@gmail.com'>Norris, Mary E.</a><sup>1</sup><br><a href='mailto:philip.braileyjones@uga.edu'>Brailey-Jones, Phil</a><sup>1</sup><br>
+
+<sup>1</sup>Department of Genetics, University of Georgia, Athens, GA, USA 30677<br><sup>2</sup>Department of Plant Biology, University of Georgia, Athens, GA, USA 30677<br>

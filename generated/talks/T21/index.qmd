@@ -1,0 +1,19 @@
+---
+title: "Genetic and environmental impacts on the maize microbiome across the United States"
+subtitle: "T21"
+author: "Jason Wallace"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5e/Aztec_Diet_Basket_of_Corn_%289755332575%29.jpg"
+categories: 
+- Quantitative Genetics & Breeding
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Microbes live on, around, and inside maize, yet we know relatively little about what most of them are doing and how they impact the plant. Two key questions are to what degree the local environment and host genetics shape these microbial communities, and what sort of interactions happen between them. To address these questions, we performed two analyses of maize microbiomes across the US as part of the Genomes to Fields Initiative. Our first analysis focused on soil and endophyte microbiomes from young (
+
+<a href='mailto:jason.wallace@uga.edu'>Wallace, Jason G.</a><sup>1 2 3</sup><br><a href='mailto:hl46161@uga.edu'>Li, Hanxia</a><sup>1</sup><br><a href='mailto:corey.schultz09@gmail.com'>Schultz, Corey</a><sup>1</sup><br><a href='mailto:Hanish.Desai@uga.edu'>Desai, Hanish</a><sup>4</sup><br>
+
+<sup>1</sup>Department of Crop & Soil Sciences, University of Georgia, Athens, Georgia, USA 30602<br><sup>2</sup>Institute of Plant Breeding, Genetics, & Genomics, University of Georgia, Athens, Georgia, USA 30602<br><sup>3</sup>Institute of Bioinformatics, University of Georgia, Athens, Georgia, USA 30602<br><sup>4</sup>Biological Sciences, University of Georgia, Athens, Georgia, USA 30602<br>

@@ -1,0 +1,19 @@
+---
+title: "Crazy leaves and truffula trees"
+subtitle: "T2"
+author: "Annis Richardson"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c1/Protective_Coleoptile_Tip_in_Zea_Mays_Embryo_%2847691344541%29.jpg"
+categories: 
+- Cell and Developmental Biology
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Plant architecture is crucial in determining productivity. In maize the iterative development of units called phytomers; composed of a node, internode, axillary meristem and organ such as a leaf; defines final plant shape. Modulation of the growth and development of each part of the phytomer also contributes to morphological diversity underpinning differences in productivity. Auxin plays a key role in regulating phytomer development, however the pathway that decodes its effects is not well understood, in part due to few reported auxin mutants with vegetative phenotypes. Here we present two dominant maize mutants with opposing vegetative phenotypes; Hoja loca1(Oja) and Truffula(Trf); both of which have defects in auxin transcriptional response. Oja plants often fail to produce leaves at each node, and those that do form can be midribless or tube-shaped. Oja is due to a mutation in the highly conserved degron motif of the auxin response repressor ZmIAA28. In contrast, Trf plants develop extra leaves at nodes, which can have multiple midribs. The Trf mutation is located in the DNA-binding domain of ZmARF28, a member of the repressive class-B Auxin Response Factor clade that we know relatively little about. Our unique comparative analysis of maize and moss, species separated by ~500 million years of evolution, reveals a novel evolutionarily conserved degron motif, shedding light on a new pathway for class-B ARF regulation in plants. Through investigating Oja and Trf we not only build new understanding of auxin-regulated phytomer development in maize, but also uncover fundamental components of auxin response regulation important for land plants.
+
+Prigge, Michael J.<sup>1</sup><br>Sluis, Aaron<sup>2 3</sup><br>Morffy, Nicholas<sup>4</sup><br>de Neve, Amber<sup>2 3</sup><br>Szutu, Whitney<sup>1</sup><br>Abraham-Juárez, María Jazmín<sup>5</sup><br>Johnson, Kjel<sup>2 3</sup><br>Do, Nicole<sup>1</sup><br>Lavy, Meirav<sup>1</sup><br>Hake, Sarah<sup>2 3</sup><br>Strader, Lucia<sup>4</sup><br>Estelle, Mark<sup>1</sup><br>Richardson, Annis E<sup>2 3 6</sup><br>
+
+<sup>1</sup>Department of Cell and Developmental Biology, School of Biological Sciences, University of California San Diego, La Jolla, CA, USA<br><sup>2</sup>USDA Plant Gene Expression Center, 800 Buchanan Street, Albany, CA 94710.<br><sup>3</sup>Department of Plant and Microbial Biology, University of California Berkeley, CA.<br><sup>4</sup>Department of Biology, Duke University, Durham, NC, USA<br><sup>5</sup>Laboratorio Nacional de Genómica para la Biodiversidad (LANGEBIO), Unidad de Genómica Avanzada, Centro de Investigación y de Estudios Avanzados (CINVESTAV), Irapuato, 36821, Mexico.<br><sup>6</sup>Institute of Molecular Plant Sciences, School of Biological Sciences, University of Edinburgh, Edinburgh, UK.<br>

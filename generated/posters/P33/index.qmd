@@ -1,0 +1,20 @@
+---
+title: "Investigating the maize systemic disease response to the southern leaf blight pathogen, Cochliobolus heterostrophus."
+subtitle: "P33"
+author: "Diana Ramirez Segovia"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/05/DNA_base-pair_diagram.jpg"
+categories: 
+- Biochemical and Molecular Genetics
+- Odd Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Plants rely on cell-mediated innate immunity and systemic signals from infected sites to activate defense responses against pathogens. The plant's local response to infection induces the production of signaling compounds such as salicylic acid that will further lead to the systemic expression of pathogenesis-related (PR) genes in a phenomenon called systemic acquired resistance (SAR). Consequently, the systemic acquired resistance response results in enhanced broad-spectrum immunity of distantly located tissues. Although research on SAR in monocotyledonous systems has increased over the years, most of the research has been conducted on dicotyledonous plants. Maize is an important staple food worldwide and it can be highly affected by diseases causing yield losses and reduced food availability, thus affecting food security. This study aims to investigate the maize SAR response to the southern leaf blight (SLB) pathogen, Cochliobolus heterostrophus, which is found in maize cultivation all around the world. In our preliminary experiments, a series of 3-week-old B73 maize plants showed that a localized inoculation with Cochliobolus heterostrophus at different time points (time 0, 24, and 48 hours) in the 3rd, 4th, and 5th leaves resulted in less disease severity in the upper leaves of inoculated plants when compared to the non-inoculated plants 72 hours post-inoculation. Further analysis on different maize lines will be conducted to confirm that Cochliobolus heterostrophus induces the SAR response and how it differs between lines.
+
+<a href='mailto:daramir3@ncsu.edu'>Ramirez Segovia, Diana</a><sup>1</sup><br><a href='mailto:pjbalint@ncsu.edu'>Balint-Kuri, Peter</a><sup>1 2</sup><br>
+
+<sup>1</sup>Department of Entomology and Plant Pathology, North Carolina State University, Raleigh, North Carolina, US, 27607<br><sup>2</sup>ARS USDA, North Carolina State University, Raleigh, North Carolina, US, 27607<br>

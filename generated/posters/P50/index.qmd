@@ -1,0 +1,20 @@
+---
+title: "Roles of REL2 mediated transcriptional co-repression in maize immunity"
+subtitle: "P50"
+author: "Brianna Griffin"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/05/DNA_base-pair_diagram.jpg"
+categories: 
+- Biochemical and Molecular Genetics
+- Even Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Protein acetylation is a major post-translational modification that modulates many cellular processes, including plant immunity and stress responses. Cochlibolus carbonum (Northern Corn Leaf Spot) produces the effector HC-Toxin, a lysine deacetylase inhibitor required for pathogen virulence. RAMOSA1 ENHANCER LOCUS2 (REL2) is a transcriptional corepressor homologous to TOPLESS (TPL) in Arabidopsis. TPL family members are required for various biological processes, including development and immunity, and are critical components of hormone responses, including auxin and jasmonate signaling pathways. We identified a lysine acetylation site on REL2 using global acetylome profiling of maize treated with HC-Toxin or C. carbonum. Furthermore, we found that rel2 loss of function mutant plants are susceptible to infection, demonstrating that REL2 is directly related to plant immunity. Lastly, we have created an integrated gene regulatory network with mass-spec-based proteomics and transcriptomics that give insight into how REL2 plays a role in maize immunity. This work aims to elucidate how hyperacetylation impacts the biological activity of REL2 and REL2’s roles in plant-pathogen interactions to gain a detailed molecular understanding of plant immunity and to reconstruct a model for how REL2 transcriptionally regulates plant pathogen response.
+
+<a href='mailto:bdg@iastate.edu'>Griffin, Brianna D.</a><sup>1</sup><br><a href='mailto:chrisfm@iastate.edu'>Montes-Serey, Christian</a><sup>1</sup><br><a href='mailto:jwalley@iastate.edu'>Walley, Justin W.</a><sup>1</sup><br>
+
+<sup>1</sup>Department of Plant Pathology, Entomology, and Microbiology, Iowa State University; Ames, IA, USA, 50011<br>

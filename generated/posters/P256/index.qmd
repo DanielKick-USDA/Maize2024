@@ -1,0 +1,20 @@
+---
+title: "Phenotypic selection of maize adapted to temperature extremes as a strategy to maintain productivity under global climate change"
+subtitle: "P256"
+author: "Denise E. Costich"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5e/Aztec_Diet_Basket_of_Corn_%289755332575%29.jpg"
+categories: 
+- Quantitative Genetics & Breeding
+- Even Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+One of the goals of the multidisciplinary, multi-institutional project called CERCA (Circular Economy that Reimagines Corn Agriculture) is to create maize cultivars that can be planted several months earlier than the current practice, adapted to the cool spring temperatures that are predicted by climate change modelers to prevail in the US Midwestern Cornbelt of the future. A wide variety of strategies could allow earlier planting and field emergence, including uniform germination under colder temperatures, winter dormant seeds, or deep planting to maintain the meristem below ground until spring. As part of the trait discovery team focusing on the seed germination life stage, we plan to evaluate diverse maize germplasm and related wild species under a range of cold soil conditions. To create the appropriate selection environment, we are using the soil-based LabField™ simulation table, an instrument that has been used to study seed germination behavior in a wide variety of crop species. We present here the results of our preliminary trials, in which we are experimenting with a range of parameters, most importantly soil temperature range, but also planting depth, trial duration, and planting density, by monitoring seed and seedling trait responses.
+
+<a href='mailto:dc58@cornell.edu'>Costich, Denise E.</a><sup>1</sup><br><a href='mailto:welbaum@vt.edu'>Welbaum, Gregory E.</a><sup>2</sup><br><a href='mailto:pjt76@cornell.edu'>Thompson, Priscilla J.</a><sup>1</sup><br><a href='mailto:mcr72@cornell.edu'>Romay, Cinta</a><sup>1</sup><br><a href='mailto:esb33@cornell.edu'>Buckler, Edward S.</a><sup>3 4</sup><br>
+
+<sup>1</sup>Institute for Genomic Diversity, Cornell University, Ithaca, NY USA 14853<br><sup>2</sup>Department of Horticulture, Virginia Polytechnic Institute and State University, Blacksburg, VA USA 24061<br><sup>3</sup>School of Integrative Plant Sciences, Section of Plant Breeding and Genetics, Cornell University, Ithaca, NY USA 14853<br><sup>4</sup>USDA-ARS; Ithaca, NY, USA 14853<br>

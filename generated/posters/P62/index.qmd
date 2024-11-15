@@ -1,0 +1,20 @@
+---
+title: "A regulatory module of LITTLE ZIPPER and ROLLED LEAF1/REVOLUTA controls ligule development in maize"
+subtitle: "P62"
+author: "Zongliang Chen"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c1/Protective_Coleoptile_Tip_in_Zea_Mays_Embryo_%2847691344541%29.jpg"
+categories: 
+- Cell and Developmental Biology
+- Even Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+The ligule is a grass-specific leaf appendage that, along with the auricle, comprises the blade-sheath boundary. Ligule initiation from the adaxial epidermis of developing leaf primordia is the first morphological demarcation of the blade and sheath. This patterning event has become a classic developmental model for studies on cell fate diversification in grasses. However, gene regulatory networks that control the precise formation of this unique structure remain largely unknown. We identified the conserved LITTLE ZIPPER-ROLLED LEAF1/REVOLUTA (ZPR-RLD1/REV) module as a key regulator of maize ligule development. Disrupting three ZPR genes (ZmZPR3, ZmZPR4a, and ZmZPR4b) simultaneously caused defective ligule formation and upright leaf blades. Subsequent genetic analysis of single, double, and triple Zmzpr mutants revealed redundant functions within the ZPR family, highlighting their collective requirement for proper ligule formation. Arabidopsis ZPR proteins were previously shown to interact with REV, an HD-ZIPIII transcription factor that promotes ad/abaxial polarity during leaf development. Using yeast two-hybrid assays, we confirmed protein-protein interactions between all three ZmZPR proteins and RLD1/ZmREV1, an ortholog of Arabidopsis REV. Previously reported mis-expression of RLD1/ZmREV1 in dominant Rld1 mutants notably induces ectopic ligule development on the abaxial leaf surface at the blade-sheath boundary, underscoring its critical role in establishing the ligule. Additionally, we examined genetic interactions between triple Zmzpr mutants and liguleless2 (lg2) and found that quadruple mutant leaves phenocopied lg2, suggesting that the LG2 encoded bZIP domain TGA transcription factor may be a downstream target of the ZmZPRs in ligule development. This, along with overlapping mRNA expression patterns of ZmZPRs, RLD1/ZmREV1, and LG2 in leaf primordia, highlights a diverse function of the ZPR-REV regulatory module in maize. Taken together, our findings unveil the ZPR-REV module as a novel regulator of ligule formation, potentially mediated through LG2 regulation.
+
+<a href='mailto:zlchen@waksman.rutgers.edu'>Chen, Zongliang</a><sup>1</sup><br><a href='mailto:marygalli@waksman.rutgers.edu'>Galli, Mary</a><sup>1</sup><br><a href='mailto:jjstrabl@ncsu.edu'>Strable, Josh</a><sup>3</sup><br><a href='mailto:agallavotti@waksman.rutgers.edu'>Gallavotti, Andrea</a><sup>1 2</sup><br>
+
+<sup>1</sup>Waksman Institute of Microbiology, Rutgers University, Piscataway, NJ<br><sup>2</sup>Department of Plant Biology, Rutgers University, New Brunswick, NJ<br><sup>3</sup>Department of Molecular and Structural Biochemistry, North Carolina State University, Raleigh, NC<br>

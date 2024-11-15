@@ -1,0 +1,20 @@
+---
+title: "Unveiling the molecular mechanism of the B chromosome nondisjunction—a component of its drive mechanism"
+subtitle: "P179"
+author: "Hua Yang"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/ab/Angiosperm_Morphology_The_Closed_and_Collateral_Vascular_Bundle_in_Zea_%2837215761790%29.jpg"
+categories: 
+- Cytogenetics
+- Odd Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+In addition to the A chromosomes, maize has a nonvital B chromosome that has been useful in genetic analyses in the history of our discipline. Despite being dispensable, it is maintained in populations by a drive mechanism. One of the components of the B chromosome drive is that its centromere frequently undergoes nondisjunction (probably due to the delayed DNA replication) at the second pollen mitosis, which produces one sperm with two copies of the B chromosome and the other sperm with no B. During this division, at least two trans factors are required for the unequal allocation of the B chromosome. Previous genetic analyses showed that an F-box domain containing gene Zm00044a000666 (“666”) on the tip of the long arm of the B chromosome is required for nondisjunction. The predicted function of this gene is to bind substrates for ubiquitin-mediated proteolysis. To consolidate the genetic evidence, a complementation experiment was conducted by transforming 666-HA driven by its native promoter and then crossed with a B chromosome harboring a 666 deletion (previously recovered by CRIPSR-Cas9 mutagenesis). The resulting F1 plants were further crossed with the r1-r tester and the results showed that the presence of the transgene could complement the edited B chromosome for nondisjunction to a level of the normal B chromosome. To further identify proteins that might interact with 666, we collected mature pollen from three genotypes, including plants containing only the 666 transgene, those with only the 666 deletion, and those with both the transgene and the deletion. Then we used HA antibody to perform Co-Immunoprecipitation followed by mass spectrometry. We are currently analyzing the results of MS to identify proteins that interact with 666.
+
+<a href='mailto:yanghu@missouri.edu'>Yang, Hua</a><sup>1</sup><br><a href='mailto:liuhu@missouri.edu'>Liu, Hua</a><sup>3</sup><br><a href='mailto:jl4mc@mail.missouri.edu'>Liu, Jian</a><sup>2</sup><br><a href='mailto:fbqc9@missouri.edu'>Boadu, Frimpong</a><sup>2</sup><br><a href='mailto:chengji@missouri.edu'>Cheng, Jianlin</a><sup>2</sup><br><a href='mailto:yangbi@missouri.edu'>Yang, Bing</a><sup>3</sup><br><a href='mailto:birchlerj@missouri.edu'>Birchler, James A.</a><sup>1</sup><br>
+
+<sup>1</sup>Division of Biological Sciences, University of Missouri, Columbia, Missouri, USA 65211<br><sup>2</sup>Department of Electrical Engineering and Computer Science, University of Missouri, Columbia, MO 65211<br><sup>3</sup>Division of Plant Science & Technology, University of Missouri, Columbia, MO 65211<br>

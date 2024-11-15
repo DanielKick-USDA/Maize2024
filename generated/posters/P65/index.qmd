@@ -1,0 +1,20 @@
+---
+title: "Automated image analysis of maize pollen for phenotypic measurements"
+subtitle: "P65"
+author: "Harrison Bell"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c1/Protective_Coleoptile_Tip_in_Zea_Mays_Embryo_%2847691344541%29.jpg"
+categories: 
+- Cell and Developmental Biology
+- Odd Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+The Fowler lab is interested in pollen development and how it relates to plant reproduction, particularly in maize. Previous work has shown that for at least one pollen mutant, stt1, reduced pollen grain size correlates with reduced pollen grain germination (Phillips, 2011). As such, it would be beneficial to investigate the variation and breadth of pollen grain size and shape phenotypes across maize lines, including specific mutants impacting pollen fitness, as well as inbred lines capturing the genetic diversity across the species. A single maize plant can produce several million pollen grains, all containing unique haploid genomes following meiosis, and such large populations could be utilized to generate rich phenotypic datasets. This project is developing the automation of large-scale pollen grain measurements. Key to this approach are the plating of pollen, the microscope utilized, automation of the imaging process, and the ability to selectively differentiate and measure objects in accordance with user-specified parameters. The current working model is adapted from established approaches used for measurement of microscopic features like nuclei (Schindelin et al, 2012). This approach has been validated with an established pollen grain size mutant (stt1). Preliminary results demonstrate that this approach can be used to detect differences in ploidy, or detection of aberrant pollen morphology. Additionally, we have identified subpopulations of differing size in single heterozygous populations (stt1, stt2, and stt3) as well as in double heterozygous populations (MDR1 / DNG102), which we are using to validate the robustness of this approach when applied to complex or mixed populations of pollen.
+
+<a href='mailto:bellhar@oregonstate.edu'>Bell, Harrison S T</a><sup>1</sup><br><a href='mailto:John.Fowler@oregonstate.edu'>Fowler, John</a><sup>1</sup><br><a href='mailto:allison.phillips@wlc.edu'>Phillips, Allison</a><sup>2</sup><br><a href='mailto:gent@uga.edu'>Gent, Jonathan</a><sup>3</sup><br>
+
+<sup>1</sup>Oregon State University, Corvallis, OR, USA 97331<br><sup>2</sup>Wisconsin Lutheran College, Milwaukee, WI 53226<br><sup>3</sup>University of Georgia, Athens, GA, 30602<br>

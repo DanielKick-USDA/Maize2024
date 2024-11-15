@@ -1,0 +1,20 @@
+---
+title: "Genetic mapping of resistance to Goss's wilt of maize"
+subtitle: "P228"
+author: "Olamide Adesina"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5e/Aztec_Diet_Basket_of_Corn_%289755332575%29.jpg"
+categories: 
+- Quantitative Genetics & Breeding
+- Even Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Goss's bacterial wilt and leaf blight, caused by the Gram-positive actinobacterium Clavibacter nebraskensis (Cn), is a significant bacterial disease of maize and affects the maize production in the US and Canada. Similar to many plant pathogens, genetic resistance remains one of the best control strategies. However, host responses to Gram-positive bacteria and the molecular and genetic resistance mechanisms associated with developing plant disease symptoms caused by Cn in maize are poorly understood. We analyzed gene expression upon Cn infection in both resistant (R) and susceptible (S) lines, identifying Cn-triggering expression of genes involved in multiple hormone pathways. The mutants of some of those genes are being collected from the public stock center or generated through CRISPR editing for genetic analysis. At the same time, mapping of the resistance gene has identified multiple genomic regions conferring Goss’s wilt resistance. We have constructed mapping populations for further finer-scale mapping. In this poster, we will update our mapping result through using Bulk Segregant RNA-seq (BSR-seq). Our integrated approach aims to provide foundational data for mechanistic studies to mitigate the effects of this important maize disease.
+
+<a href='mailto:oadesina@ksu.edu'>Adesina, Olamide</a><sup>1</sup><br><a href='mailto:ecstier@ksu.edu'>Stier, Erica</a><sup>1</sup><br><a href='mailto:yangfanh@ksu.edu'>Hao, Yangfan</a><sup>1</sup><br><a href='mailto:jennifer.jaqueth@corteva.com'>Jaqueth, Jennifer</a><sup>2</sup><br><a href='mailto:bailin.li@corteva.com'>Li, Bailin</a><sup>2</sup><br><a href='mailto:liu3zhen@ksu.edu'>Liu, Sanzhen</a><sup>1</sup><br>
+
+<sup>1</sup>Department of Plant Pathology; Kansas State University, Manhattan, Kansas, USA 66506<br><sup>2</sup>Corteva Agriscience; Johnston, IA, USA 50131<br>

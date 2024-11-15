@@ -1,0 +1,20 @@
+---
+title: "TIPs and tricks for identifying transposable element insertion polymorphisms using short-read data"
+subtitle: "P293"
+author: "Claire Menard"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b3/Genetic_corn.jpg"
+categories: 
+- Transposons & Epigenetics
+- Odd Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Transposable element insertion polymorphisms (TIPs) are transposable element (TE) sequences not found in the same location between individuals. TIPs have been shown to contribute to dramatic differences in phenotype which has compelling implications for crop improvement and genome evolution. Historically, a major challenge with characterizing TIPs on a genome-wide level is access to high quality genome assemblies, precise annotation of reference transposable elements, and algorithms that can accurately use this information with short-read data. Now, with access to genome assemblies from 700+ plant species, and multiple assemblies within some species, we are poised to study polymorphic TE insertions at the genome and population levels. There are several tools available that use short-read resequencing data from the population together with reference TE annotations to identify novel TIPs. Here, we benchmark six programs using Arabidopsis and maize resequencing data, with regards to precision, sensitivity, F1, FDR, and power of discovery relative to a gold standard set of TIP calls from whole genome alignment of reference quality genome assemblies. One substantial drawback to these six programs is each program's runtime and memory efficiency within large complex genomes. Consequently, we developed a fast and memory efficient new tool, SWIF-TE (Short-read Whole-genome Insertion Finder for Transposable Elements), which is built to balance computational resources and accuracy for practical use in species with large genomes. We further characterize how SWIF-TE provides variable accuracy based on mappability of the region, genomic context (e.g. genic vs non-genic regions, centromeric regions, etc.), and TE classification. This benchmarking study provides valuable insight into the computational tools that are best suited for the identification of TIPs based on the biological questions of interest and the data and information that is available for the analysis.
+
+<a href='mailto:menar060@umn.edu'>Menard, Claire C</a><sup>1</sup><br><a href='mailto:catlinna@msu.edu'>Catlin, Nathan S</a><sup>3 4</sup><br><a href='mailto:plattsad@msu.edu'>Platts, Adrian E</a><sup>3 4</sup><br><a href='mailto:mmunasin@umn.edu'>Munasinghe, Manisha</a><sup>2</sup><br><a href='mailto:ou.195@osu.edu'>Ou, Shujun</a><sup>5</sup><br><a href='mailto:qiuxx21@umn.edu'>Qiu, Yinjie</a><sup>6</sup><br><a href='mailto:springer@umn.edu'>Springer, Nathan</a><sup>2</sup><br><a href='mailto:emjosephs@gmail.com'>Josephs, Emily B</a><sup>3 4</sup><br><a href='mailto:cnhirsch@umn.edu'>Hirsch, Candice N</a><sup>1</sup><br>
+
+<sup>1</sup>Department of Agronomy and Plant Genetics, University of Minnesota, Minneapolis, MN, 55455, USA<br><sup>2</sup>Department of Plant and Microbial Biology, University of Minnesota, Minneapolis, MN, 55455, USA<br><sup>3</sup>Department of Plant Biology, Michigan State University, East Lansing, MI, 48824, USA<br><sup>4</sup>Ecology, Evolution, and Behavior Program, Michigan State University, East Lansing, MI, 48824, USA<br><sup>5</sup>Department of Molecular Genetics, The Ohio State University, Columbus, OH, 43210, USA<br><sup>6</sup>Minnesota Supercomputing Institute, University of Minnesota, Minneapolis, MN, 55455, USA<br>

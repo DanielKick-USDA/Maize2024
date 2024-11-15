@@ -1,0 +1,20 @@
+---
+title: "Characterizing heirloom maize of the United States"
+subtitle: "P206"
+author: "Melissa Draves"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5e/Aztec_Diet_Basket_of_Corn_%289755332575%29.jpg"
+categories: 
+- Quantitative Genetics & Breeding
+- Even Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Hybrid yellow dent maize has stood the test of time on the domestic and international markets, generating billions of dollars for fuel and livestock feed. Open-pollinated maize heirlooms (landraces) are incredibly genetically diverse, both between and within populations, and harbor unique alleles not present in modern cultivars that have experienced intense directional selection. Historically, heirlooms were grown throughout the world for subsistence farming and livestock feed before the advent of modern hybrids. Heirlooms are prized in niche markets, with smallholder farms, chefs, and organic farms interested in their unique and broad culinary applications. Heirlooms from other countries have been intensively studied, with extensive monographs written about landraces from Mexico, South America, Asia, and Europe; however, there is no monograph from the United States. Data that does exist for US heirlooms is largely incomplete and lacks defined population structures based on phenotypic and genetic data. This project will systematically characterize about 1000 heirlooms, representing most of the open-pollinated varieties from the US and Canada held in the North Central Regional Plant Introduction Station. Manual and unmanned aerial vehicle technologies will be used to collect plant architectural traits, and a digital imaging pipeline will measure ear and kernel morphologies, with emphasis on end-use traits. Near-infrared spectroscopy will assess kernel composition traits, including starch, protein, and oil. Pool-seq technology will be used to genotype 500 heirlooms, which represent a large portion of the genetic diversity present in the set. Genetic data will provide insight into the population structure of heirlooms with similar names and morphologies, delineating natural groupings within the set. Subsequent GWAS integrating historical weather, phenotypic, and genotypic data will identify genes involved in adaptation and morphology. Ultimately, this project will produce a publicly available, comprehensive data set describing US heirlooms and the genetics involved in adaptation and quality-related traits.
+
+<a href='mailto:madcfr@umsystem.edu'>Draves, Melissa A.</a><sup>1</sup><br><a href='mailto:jcummin5@ncsu.edu'>Cummings, Jordan M.</a><sup>2</sup><br><a href='mailto:gmhzpy@mail.missouri.edu'>Hall, Garret</a><sup>1</sup><br><a href='mailto:jacob.washburn@usda.gov'>Washburn, Jacob D.</a><sup>3</sup><br><a href='mailto:thom1718@msu.edu'>Thompson, Addie</a><sup>4</sup><br><a href='mailto:vivian.bernau@usda.gov'>Bernau, Vivian</a><sup>5</sup><br><a href='mailto:jlgage@ncsu.edu'>Gage, Joseph L.</a><sup>2</sup><br><a href='mailto:james_holland@ncsu.edu'>Holland, James</a><sup>6</sup><br><a href='mailto:sherry.flint-garcia@usda.gov'>Flint-Garcia, Sherry</a><sup>3</sup><br>
+
+<sup>1</sup>University of Missouri, Division of Plant Science and Technology, Columbia, MO 65211<br><sup>2</sup>North Carolina State University, Department of Crop and Soil Sciences, Raleigh, NC 27695<br><sup>3</sup>USDA-ARS Plant Genetics Research Unit, Columbia, MO 65211<br><sup>4</sup>Michigan State University, Department of Plant, Soil and Microbial Sciences, East Lansing, MI 48824<br><sup>5</sup>USDA-ARS Plant Introduction Research Unit, Ames, IA 50014<br><sup>6</sup>USDA-ARS Plant Science Research Unit, Raleigh, NC 27695<br>

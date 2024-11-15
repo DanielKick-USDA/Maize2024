@@ -1,0 +1,20 @@
+---
+title: "A MYB transcription factor underlying plant height in sorghum and maize reveals functional connections across natural alleles, mutant, and edited alleles"
+subtitle: "P190"
+author: "Qi Mu"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5e/Aztec_Diet_Basket_of_Corn_%289755332575%29.jpg"
+categories: 
+- Quantitative Genetics & Breeding
+- Even Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Manipulating plant height is essential for crop improvement. Plant height was generally reduced through breeding in wheat, rice, and sorghum to resist lodging and increase grain yield, but kept high for bioenergy crops. Here, we positionally cloned a plant height quantitative trait locus (QTL) qHT7.1 as a MYB transcription factor controlling internode elongation, cell proliferation, and cell morphology in sorghum. A 740 bp transposable element insertion at the intronic region caused a partial mis-spliced transcript isoform with an additional exon, which contained a premature stop codon and led to a truncated amino acid sequence with an altered C terminus. Gene expression analysis revealed a dynamic pattern of qHT7.1 across development and along the internode position. The orthologue of qHT7.1 was identified to underlie the brachytic1 (br1) locus in maize. A large insertion in exon 3 and a 160 bp insertion at the promoter region were identified in the br1 mutant, while an 18 bp promoter insertion was found to be associated with reduced plant height in a natural recessive allele. CRISPR/Cas9 induced gene knockout in two maize inbred lines showed significant plant height reduction. The overall discovery enriched our understanding of plant height regulation in sorghum and maize, and enhanced our toolbox for fine-tuning plant height for crop improvement.
+
+<a href='mailto:qimu@udel.edu'>Mu, Qi</a><sup>1 4</sup><br><a href='mailto:jlwei@iastate.edu'>Wei, Jialu</a><sup>1</sup><br><a href='mailto:hlongest@iastate.edu'>Longest, Hallie</a><sup>1</sup><br><a href='mailto:sinianchar@missouri.edu'>Char, Si Nian</a><sup>2</sup><br><a href='mailto:jhinrich@iastate.edu'>Hinrichsen, Jacob</a><sup>1</sup><br><a href='mailto:laura.tibbs-cortes@usda.gov'>Tibbs-Cortes, Laura</a><sup>1 3</sup><br><a href='mailto:yangbi@missouri.edu'>Yang, Bing</a><sup>2</sup><br><a href='mailto:li.xianran@usda.gov'>Li, Xianran</a><sup>3</sup><br><a href='mailto:jmyu@iastate.edu'>Yu, Jianming</a><sup>1</sup><br>
+
+<sup>1</sup>Department of Agronomy, Iowa State University, Ames, IA 50011<br><sup>2</sup>Division of Plant Sciences, University of Missouri, Columbia, MO 65211<br><sup>3</sup>USDA-ARS, Wheat Health, Genetics & Quality Research, Pullman, WA 99164<br><sup>4</sup>Department of Plant and Soil Sciences, University of Delaware, Newark, DE 19716<br>

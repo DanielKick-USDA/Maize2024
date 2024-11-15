@@ -1,0 +1,19 @@
+---
+title: "Understanding the role of ZmWUS1 and cis-regulatory elements in maize inflorescence development at single-cell resolution"
+subtitle: "T23"
+author: "Sohyun Bang"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c1/Protective_Coleoptile_Tip_in_Zea_Mays_Embryo_%2847691344541%29.jpg"
+categories: 
+- Cell and Developmental Biology
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Maize inflorescences arise through cell divisions from a group of undifferentiated stem cells within the inflorescence meristem. The organization of stem cells in the meristems is maintained by WUSCHEL (WUS) in the organizing center, which is situated beneath the stem cells. WUS encodes a homeodomain transcription factor whose expression is regulated by a negative feedback loop with CLAVATA3. The Barren inflorescence3 (Bif3) mutant in maize is caused by a tandem duplicated copy of ZmWUS1, and it displays phenotypic alterations in ear, enlarged inflorescences and reduced numbers of spikelet-pair meristems. We hypothesized that ZmWUS1 overexpression alters gene expression by modifying cis-regulatory elements (CREs) near target genes. The precise target region of WUS remains elusive due to restricted expression and activity of WUS in specific cells. Here, we performed an in vivo approach, single-cell Assay for Transposase-Accessible Chromatin with sequencing (scATAC-seq) in early developing ears in wild type and Bif3 mutants to identify CREs affected by overexpressed ZmWUS1. We identified 14 distinct cell types, including organizing center with high chromatin accessibility around ZmWUS1 correlating with its known expression. Using the ZmWUS1-bound motif TGAATGAA, obtained in DNA Affinity Purification and sequencing (DAP-seq) experiments, we found ZmWUS1binding activity in outer cells, encompassing stem cells. This suggests ZmWUS1 migration from the organizing center to outer cells. However, alternative CREs were observed in the organizing center of Bif3, but not in outer cells. This indicates that in Bif3, excess ZmWUS1 binds non-target CREs in the organizing center, leading to altered gene regulation. Further investigation revealed increased chromatin accessibility in CREs of the Bif3 organizing center, enriched with the motif TWAT, distinct from the one identified in DAP-seq. These findings show that altered ZmWUS1 levels influence its binding behavior in the organizing center of Bif3, and may explain the drastic phenotypic changes observed in mutant ears.
+
+<a href='mailto:sohyunbk@gmail.com'>Bang, Sohyun</a><sup>1</sup><br><a href='mailto:xuanzhang@uga.edu'>Zhang, Xuan</a><sup>2</sup><br><a href='mailto:jrg233@scarletmail.rutgers.edu'>Gregory, Jason</a><sup>3</sup><br><a href='mailto:zlchen@waksman.rutgers.edu'>Chen, Zongliang</a><sup>3</sup><br><a href='mailto:marygalli@waksman.rutgers.edu'>Galli, Mary</a><sup>3</sup><br><a href='mailto:agallavotti@waksman.rutgers.edu'>Gallavotti, Andrea</a><sup>3</sup><br><a href='mailto:schmitz@uga.edu'>Schmitz, Robert J.</a><sup>2</sup><br>
+
+<sup>1</sup>Institute of Bioinformatics, University of Georgia, Athens, GA, 30602, USA<br><sup>2</sup>Department of Genetics, University of Georgia, Athens, GA 30602, USA<br><sup>3</sup>Waksman Institute of Microbiology, Rutgers University, Piscataway, NJ 08854-8020, USA<br>

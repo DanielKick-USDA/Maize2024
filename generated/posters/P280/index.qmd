@@ -1,0 +1,20 @@
+---
+title: "Analysis of de novo mutator transposon insertions across tissue types"
+subtitle: "P280"
+author: "Justin Scherer"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b3/Genetic_corn.jpg"
+categories: 
+- Transposons & Epigenetics
+- Even Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+The Mutator (Mu) transposable element is a highly active DNA transposon that is native to Maize. Recently, targeted sequencing techniques have been utilized to identify the precise insertion locations of inherited Mu elements. This technique, known as Museq, has been used to quickly identify genetic knockouts. To better understand the de novo activity of Mu, we developed a modification to Museq, known as Museq2, to improve the quantifiability and sensitivity for detecting de novo insertions. Quantitative improvements in Museq2 were facilitated by the incorporation of molecular counting and suppression PCR to reduce the amount of non-transposon amplification. Museq2 has a detection threshold of 1 Mu insertion in 100,000 wild-type copies of DNA, allowing for precise analysis of de novo insertions over 5 orders of magnitude. We applied Museq2 to matched leaf, root, endosperm, and pollen tissue from individual plants and detected on average 80,000 de novo insertions per sample. Inherited and de novo insertions were distinguished by filtering insertions that were shared between pre-zygotically derived endosperm tissue and the zygotically derived tissue. De novo Mu insertions most frequently occurred in hotspots of ~1 kb, with thousands of specific hotspots identifiable across the Maize genome. We compared Mu insertion preferences across tissue types to evaluate the tissue specificity of Mu activity. Surprisingly, many hotspots were shared between tissue types. This finding may suggest that some of the biological determinants dictating Mu insertion preference may lack tissue specificity. Additionally, we find that Mu inserts into a palindromic target sequence motif just outside of Mu’s target site duplication. Overall, these findings provide the first insights into the tissue-specific analysis of de novo insertions for any transposon and demonstrate that the sensitivity of Museq2 can be used to gain a great deal of insight into the well-studied Mutator transposon.
+
+<a href='mailto:jts34805@uga.edu'>Scherer, Justin T</a><sup>1</sup><br><a href='mailto:nelms@uga.edu'>Nelms, Brad</a><sup>1</sup><br>
+
+<sup>1</sup>University of Georgia, Athens, Georgia, United States, 30603<br>

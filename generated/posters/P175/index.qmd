@@ -1,0 +1,20 @@
+---
+title: "Elucidating the relationship between DNA replication timing within S-phase and the spatial organization of chromatin within maize nuclei"
+subtitle: "P175"
+author: "Hafiza Sara Akram"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/ab/Angiosperm_Morphology_The_Closed_and_Collateral_Vascular_Bundle_in_Zea_%2837215761790%29.jpg"
+categories: 
+- Cytogenetics
+- Odd Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+DNA replication is a temporally regulated process across the S phase of the cell cycle. The timing of replication within the S phase for a specific genomic region is measurable and is referred to as Replication Timing (RT). Aspects of RT are relatively well characterized in animals, but considerably less so in plants. To fill this gap, our group has developed robust technologies to define and characterize the genomic and spatial organization of DNA replication in maize (B73 and NC350) and its close relative sorghum. We discovered that maize euchromatin exists in two distinct "compartments" that are distinguished by their replication timing (early versus middle S) and chromatin status as determined by DAPI concentration. This model is being tested to determine if the two euchromatin compartments are general features of the maize genome throughout the cell cycle. Two orthogonal assays are being used, one using chromosome painting oligos designed from RT classification and another using proximity ligation where intra-compartment contacts between same RT class sequences are expected to be enriched. Oligo FISH painting with RT-specific probes along a representative chromosome arm (5, short) revealed that early S replicating regions and middle S replicating regions occupy largely non-overlapping nuclear regions despite their extensively interspersed arrangement along the linear genome assembly. The early S FISH paint signals were in DAPI weak areas whereas the middle S FISH paint signals were in DAPI strong areas. These findings provide cytological evidence for our published "mini-domain chromatin fiber RT model", now also seen outside of S phase, in G1-stage nuclei.
+
+<a href='mailto:ha20be@fsu.edu'>Akram, Hafiza Sara</a><sup>1</sup><br><a href='mailto:lconia@tacc.utexas.edu'>Concia, Lorenzo</a><sup>2</sup><br><a href='mailto:emily_wear@ncsu.edu'>Wear, Emily E.</a><sup>3</sup><br><a href='mailto:lamickel@ncsu.edu'>Mickelson-Young, Leigh</a><sup>3</sup><br><a href='mailto:wftb@ncsu.edu'>Thompson, William F.</a><sup>3</sup><br><a href='mailto:lkhanley@ncsu.edu'>Hanley-Bowdoin, Linda K.</a><sup>3</sup><br><a href='mailto:bass@bio.fsu.edu'>Bass, Hank W.</a><sup>1</sup><br>
+
+<sup>1</sup>Department of Biological Science, Florida State University, Tallahassee, FL, USA<br><sup>2</sup>Texas Advanced computing center, University of Texas, Austin, TX, USA<br><sup>3</sup>Plant and Microbial Biology, North Carolina State University, Raleigh, NC, USA<br>

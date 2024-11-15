@@ -1,0 +1,20 @@
+---
+title: "Crosstalk between auxin and jasmonic acid in maize root development"
+subtitle: "P72"
+author: "Clarice Gonzales"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c1/Protective_Coleoptile_Tip_in_Zea_Mays_Embryo_%2847691344541%29.jpg"
+categories: 
+- Cell and Developmental Biology
+- Even Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Phytohormones play crucial roles in regulating plant growth, development, and environmental responses. Extensive studies in model plants such as Arabidopsis have demonstrated that plant hormones can have distinct, overlapping, and antagonistic functions. For example, both auxin and jasmonic acid (JA) can inhibit root growth and JA-auxin crosstalk has been well-studied in Arabidopsis. Root growth inhibition by JA and auxin in maize suggests that these hormones may also be integrated during maize root morphogenesis. To address this knowledge gap, we are employing hormone response assays, gene expression analyses, and in vivo quantification of hormone levels. An auxin signaling mutant, arf27, exhibited insensitivity to JA compared to wild-type W22 seedlings. JA biosynthesis and signaling genes are decreased in arf27 compared to W22 based on RNA-seq data, which is in line the arf27 JA response phenotype. To determine if these transcriptional changes can impact hormone levels in vivo, hormone levels will be examined in W22 and arf27 in the presence or absence of exogenous auxin treatment. The findings of this study will provide valuable insights into JA-auxin crosstalk during maize root development.
+
+<a href='mailto:clariceg@iastate.edu'>Gonzales, Clarice F</a><sup>1</sup><br><a href='mailto:dkelley@iastate.edu'>Kelley, Dior R</a><sup>1</sup><br>
+
+<sup>1</sup>Iowa State University, Ames, Iowa, United States of America, 50010<br>

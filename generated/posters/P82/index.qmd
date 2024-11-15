@@ -1,0 +1,20 @@
+---
+title: "Functional characterization of maize nitrogen transporters"
+subtitle: "P82"
+author: "Emilia Pierce"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c1/Protective_Coleoptile_Tip_in_Zea_Mays_Embryo_%2847691344541%29.jpg"
+categories: 
+- Cell and Developmental Biology
+- Even Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Root systems perform multiple functions for plants, including anchorage and nutrient uptake. Past work has studied the trade-off between brace root mechanics and nitrogen uptake and it was found that bigger brace roots take up more nitrogen. Previous unpublished research also found that aerial brace and soil brace roots take up different amounts of nitrogen. It is hypothesized that this anomaly is caused by the differential expression of nitrogen transporters in brace roots. To test this hypothesis, RNA from previously collected brace root samples from five different genotypes was used to perform RT-qPCR, using primers for seven different nitrogen transporters, to determine how much of each nitrogen transporter is expressed in each brace root. Preliminary results show that some genes are differentially expressed between aerial brace roots and terrestrial brace roots. Additionally, five nitrogen transporter maize mutants were grown and phenotyped. Nitrogen uptake assays were performed on the aerial and soil brace roots to determine if the mutation affects the plant’s ability to take up nitrogen and the plant’s preference for nitrogen type. Bend tests were also performed on aerial and soil brace roots for each plant, and additional samples were taken for RT-qPCR. Mechanical data from the bend tests will be compared to the nitrogen uptake data to further understand the tradeoff, or lack thereof, between brace root mechanics and nitrogen uptake.
+
+<a href='mailto:emiliap@udel.edu'>Pierce, Emilia</a><sup>1</sup><br><a href='mailto:esparks@udel.edu'>Sparks, Erin</a><sup>1</sup><br>
+
+<sup>1</sup>University of Delaware; Newark, DE, 19716<br>

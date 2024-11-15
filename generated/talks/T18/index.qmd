@@ -1,0 +1,19 @@
+---
+title: "Maize development is controlled by an ancient nutrient signaling pathway"
+subtitle: "T18"
+author: "Michael Busche"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c1/Protective_Coleoptile_Tip_in_Zea_Mays_Embryo_%2847691344541%29.jpg"
+categories: 
+- Cell and Developmental Biology
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+The rate of development in maize is stable under many stresses but its tempo changes significantly when nutrients, including nitrogen or carbohydrates, are limiting. TARGET OF RAPAMYCIN (TOR) is a deeply conserved eukaryotic protein kinase that monitors cellular resources to coordinate growth and development with the availability of these essential nutrients. To study the impact of changing nutrient availability on maize development, we designed a nutrient-limiting assay with sixteen unique conditions to precisely toggle nutrient-sensitive developmental responses in growing maize embryos. We performed functional genomic experiments including transcriptomics, quantitative proteomics and phosphoproteomics, metabolomics, polysome profiling, and Ribo-seq on embryos grown under these conditions. Combined with phenotypic and targeted molecular analyses, these experiments demonstrate that TOR precisely responds to changes in sugar availability by regulating gene expression at every level—transcriptionally, post-transcriptionally, translationally, and post-translationally. We have identified thousands of DEGs, hundreds differentially abundant metabolites, and dozens of phosphorylation events all dependent on TOR’s response to nutrient levels. More specifically, we have identified deeply conserved residues in TOR targets that are identical across 150 million years of evolution. We have also identified novel targets and networks in maize related to C4 photosynthesis and grass developmental patterning. Together, these data provide a map for future genetic interventions to enhance nutrient use efficiency in maize.
+
+<a href='mailto:busche2@wisc.edu'>Busche, Michael</a><sup>1</sup><br><a href='mailto:hake@berkeley.edu'>Hake, Sarah</a><sup>2</sup><br><a href='mailto:brunkard@wisc.edu'>Brunkard, Jacob O.</a><sup>1</sup><br>
+
+<sup>1</sup>University of Wisconsin, Madison; Madison, WI USA 53703<br><sup>2</sup>Plant Gene Expression Center, USDA-ARS and UC Berkeley; Albany CA 94710<br>

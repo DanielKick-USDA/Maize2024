@@ -1,0 +1,19 @@
+---
+title: "Strigolactone control of iron homeostasis in maize."
+subtitle: "T27"
+author: "Elsbeth Walker"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/05/DNA_base-pair_diagram.jpg"
+categories: 
+- Biochemical and Molecular Genetics
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Strigolactones are plant hormones with roles in a wide range of signaling and developmental processes. A yellow-striped maize mutant, (interveinal yellow) ivy, was determined to have low iron in tissues under normal growth conditions. The gene underlying the ivy mutation was mapped and identified as ZmCCD8, a key enzyme in the biosynthesis of strigolactones. Under iron-replete conditions, comparison of the transcriptomes of wild-type plants and maize ccd8 mutants revealed suppression of several iron-regulated genes in ccd8. These genes are normally up-regulated during iron deficiency and include the key iron-regulated transcription factor IRO2 as well as genes involved in the biosynthesis of iron chelators and transporters. Additionally, external supply of synthetic strigolactone in the mutants alleviated chlorosis and returned iron-regulated gene expression to wild-type levels. In iron limited conditions, iron-regulated gene expression in ccd8 mutants responded normally, indicating that strigolactones are not required for the iron deficiency response. However, they are required for basal expression of iron-regulated genes when adequate iron is available, highlighting a distinction between iron homeostasis during normal growth, and the iron deficiency response. The connection between strigolactones and iron homeostasis is not limited to maize, as Arabidopisis ccd8 mutants also show strong chlorosis when grown on medium with moderate levels of iron. This previously unappreciated role may have implications for the use of strigolactones in agricultural contexts.
+
+<a href='mailto:ewalker@umass.edu'>Walker, Elsbeth L</a><sup>1</sup><br><a href='mailto:sfili@umass.edu'>Fili, Stavroula</a><sup>1 2</sup><br><a href='mailto:guanjc@ufl.edu'>Guan, Jiahn-Chou</a><sup>3</sup><br><a href='mailto:kekoch@ufl.edu'>Koch, Karen E.</a><sup>3 4 5</sup><br>
+
+<sup>1</sup>Biology Department, University of Massachusetts, Amherst; Amherst, MA 01003<br><sup>2</sup>Plant Biology Graduate Program, University of Massachusetts, Amherst; Amherst, MA 01003<br><sup>3</sup>Horticultural Sciences Department, University of Florida; Gainesville, Florida 32611<br><sup>4</sup>Plant Molecular Biology Program, University of Florida; Gainesville. Florida 32611<br><sup>5</sup>3.5. Genetics Institute, University of Florida; Gainesville, Florida, 32610<br>

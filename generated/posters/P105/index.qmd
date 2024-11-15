@@ -1,0 +1,20 @@
+---
+title: "Plant regeneration using morphogenic regulators"
+subtitle: "P105"
+author: "Theresa Clark"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c1/Protective_Coleoptile_Tip_in_Zea_Mays_Embryo_%2847691344541%29.jpg"
+categories: 
+- Cell and Developmental Biology
+- Odd Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Plants possess an incredible degree of developmental plasticity and ability to regenerate. Plant regeneration can be generally achieved using tissue culture systems involving the manipulation of the hormones auxin and cytokinin. However, the ability to regenerate shoots is still a bottleneck in several plant species. Ectopic overexpression of plant morphogenic genes is a promising strategy for increasing the regeneration efficiency of recalcitrant plants, such as maize. Such morphogenic genes include the transcription factor BABYBOOM (BBM) and the transcription factor-cofactor complex GROWTH REGULATING FACTOR4-GRF-INTERACTING FACTOR1 (GRF-GIF), whose overexpression has been previously shown to improve regeneration in maize while avoiding pleiotropic effects. However, the mechanisms through which these factors promote shoot regeneration are not well understood. My project seeks to investigate the mechanisms of plant regeneration by using a previously developed transformation system overexpressing BBM and GRF-GIF (GGB system). To address this, I am performing a time course RNA-Sequencing experiment on wild type and GGB calli to assess differential expression of important stem cell development regulators. Moreover, I am examining auxin dynamics in GGB calli by visualizing the expression and localization of the PINFORMED1(PIN1) auxin efflux transporter using timelapse confocal microscopy. The characterization of gene expression and hormone dynamics in the GGB system will enable us to better understand and enhance the plant regeneration process. Improving plant regeneration will make plant transformation and agricultural biotechnology more efficient.
+
+<a href='mailto:tclark@cshl.edu'>Clark, Theresa</a><sup>1</sup><br><a href='mailto:iohannes@cshl.edu'>Iohannes, Sessen D.</a><sup>1</sup><br><a href='mailto:zadrozny@cshl.edu'>Skopelitis, Tara</a><sup>1</sup><br><a href='mailto:agallavotti@waksman.rutgers.edu'>Gallavotti, Andrea</a><sup>2</sup><br><a href='mailto:zlchen@waksman.rutgers.edu'>Chen, Zongliang</a><sup>2</sup><br><a href='mailto:jacksond@cshl.edu'>Jackson, David</a><sup>1</sup><br>
+
+<sup>1</sup>Cold Spring Harbor Laboratory; Cold Spring Harbor, NY 11724 United States<br><sup>2</sup>Waksman Institute, Piscataway, NJ 08854-8020 United States<br>

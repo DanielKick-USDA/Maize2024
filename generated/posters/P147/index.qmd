@@ -1,0 +1,20 @@
+---
+title: "Genetic determinants of Northern Corn Leaf Blight resistance revealed by multi-scale systems genetics"
+subtitle: "P147"
+author: "Justin Walley"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e5/ENIAC-changing_a_tube.jpg"
+categories: 
+- Computational and Large-Scale Biology
+- Odd Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Quantifying changes in transcript and protein expression in response to a specific biological process has been essential for the discovery of genetic determinants controlling the expression levels of gene-products. However, the role of post-translational modifications, such as phosphorylation, has not been explored on such a high-throughput scale. Here, we integrated transcriptome, proteome, and phosphoproteome measurements to map molecular quantitative trait loci (QTL) and build predictive regulatory networks from Mo17xB73 derived recombinant inbred line leaf tissue infected with Northern Corn Leaf Blight (NLB). We detected 34,816 transcripts, 11,618 proteins, and 42,078 phosphosites and further mapped 34,056 transcript, 5,321 protein, 4,935 phosphosite, and 11,393 metabolite QTL. Novel genetic determinants of NLB resistance were validated using CRISPR/cas loss-of-function lines. Our results demonstrate the feasibility of high-throughput mapping of multi-level molecular QTL and identify novel genes required for resistance to NLB.
+
+<a href='mailto:jwalley@iastate.edu'>Walley, Justin W</a><sup>1</sup><br><a href='mailto:nclark@broadinstitute.org'>Clark, Natalie M</a><sup>1</sup><br><a href='mailto:sgy0097'>Song, Gaoyuan</a><sup>1</sup><br><a href='mailto:mkabahuma38@gmail.com'>Kabahuma, Mercy</a><sup>1</sup><br><a href='mailto:jmkolkman@gmail.com'>Kolkman, Judith</a><sup>2</sup><br><a href='mailto:chrisfm@iastate.edu'>Montes, Christian</a><sup>1</sup><br><a href='mailto:smalik@iastate.edu'>Malik, Shikah</a><sup>1</sup><br><a href='mailto:rjn7@cornell.edu'>Nelson, Rebecca J</a><sup>2</sup><br>
+
+<sup>1</sup>Iowa State University; Ames, IA<br><sup>2</sup>Cornell University; Ithaca, NY<br>

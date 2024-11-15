@@ -1,0 +1,20 @@
+---
+title: "Scaling analyses of cis-regulatory evolution across hundreds of wild grass species"
+subtitle: "P307"
+author: "Charles Hale"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/9a/CollapsedtreeLabels-simplified-fi.svg"
+categories: 
+- Evolution and Population Genetics
+- Odd Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+With the rapidly increasing availability of non-model genomes, methods to scale comparative genomic analyses across hundreds or thousands of species are needed. Along with coding sequence changes, non-coding variation underlies much of phenotypic evolution. We investigated cis-regulatory evolution in an extensive panel of Andropogoneae grass species which encompasses diverse environmental adaptations and numerous tropical-temperate transitions. Species were collected globally and used to generate dozens of long-read assemblies and hundreds of additional short read assemblies. We characterized cis-regulatory evolution across Andropogoneae by comparing occurrences of transcription factor (TF) binding motifs across orthologous promoters, testing the hypothesis that TF networks were similarly re-wired during repeated environmental adaptations. We associated presence-absence variation of promoter motifs with species’ environmental traits, identifying several TF families for which motif occurrence and/or co-occurrence was strongly associated with environmental variables. The most significant TF families show repeated expansions and contractions of their putative regulons as the Andropogoneae diversified and adapted to new environments. Our approach provides a scalable method to identify TF families that may have been central to adaptation over macroevolutionary time scales, nominating candidates for functional validation.
+
+<a href='mailto:coh22@cornell.edu'>Hale, Charles O</a><sup>1</sup><br><a href='mailto:tayaubuchon@gmail.com'>AuBuchon-Elder, Taylor</a><sup>4</sup><br><a href='mailto:gmc222@cornell.edu'>Costa-Neto, Germano</a><sup>2</sup><br><a href='mailto:ajg326@cornell.edu'>Gelfond, Allen</a><sup>1</sup><br><a href='mailto:sh2246@cornell.edu'>Hsu, Sheng-Kai</a><sup>2</sup><br><a href='mailto:mhufford@iastate.edu'>Hufford, Matthew</a><sup>5</sup><br><a href='mailto:lcj34@cornell.edu'>Johnson, Lynn</a><sup>2</sup><br><a href='mailto:ekellogg@danforthcenter.org'>Kellogg, Elizabeth A</a><sup>4</sup><br><a href='mailto:thuyla@cornell.edu'>La, Thuy</a><sup>2</sup><br><a href='mailto:amarand@umich.edu'>Marand, Alexandre P</a><sup>6</sup><br><a href='mailto:mcr72@cornell.edu'>Romay, M Cinta</a><sup>2</sup><br><a href='mailto:ajs692@cornell.edu'>Schulz, Aimee J</a><sup>1</sup><br><a href='mailto:arnstrm@gmail.com'>Seetharam, Arun</a><sup>5</sup><br><a href='mailto:tw493@cornell.edu'>Wrightsman, Travis</a><sup>1</sup><br><a href='mailto:esb33@cornell.edu'>Buckler, Edward S</a><sup>1 2 3</sup><br>
+
+<sup>1</sup>Section of Plant Breeding and Genetics, Cornell University,;Ithaca, NY USA 14853<br><sup>2</sup>Institute for Genomic Diversity, Cornell University; Ithaca, NY USA 14853<br><sup>3</sup>USDA-ARS; Ithaca, NY, USA 14853<br><sup>4</sup>Donald Danforth Plant Science Center; St. Louis, MO USA 63132<br><sup>5</sup>Iowa State University; Ames, IA USA 50011<br><sup>6</sup>University of Michigan; Ann Arbor, MI USA 48109<br>

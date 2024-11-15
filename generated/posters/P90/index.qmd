@@ -1,0 +1,20 @@
+---
+title: "Investigating links between pectin dynamics and meristem activity in maize"
+subtitle: "P90"
+author: "Charles Maus"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c1/Protective_Coleoptile_Tip_in_Zea_Mays_Embryo_%2847691344541%29.jpg"
+categories: 
+- Cell and Developmental Biology
+- Even Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Plant meristems serve as a center for growth; they house stem cells that both self-renew and provide cells for organogenesis. All plant cells, including meristematic cells, are surrounded by rigid cell walls, a complex polysaccharide matrix that must be remodeled when cells expand and divide. Most plants have Type I cell walls, which have relatively high levels of pectin. In contrast, maize and other grasses have Type II cell walls, with significantly lower levels of pectin and a greater abundance and variety of hemicelluloses. Despite the importance of meristems and the cell wall in regulating plant growth, relatively little is known about how the cell wall is integrated with meristem function, although pectin is emerging as a key component in Type I plant cell walls. For example, in Arabidopsis, de-methylesterification of pectin is required to increase cell wall extensibility and promote primordia outgrowth. The role of pectin in plants with Type II cell walls, including maize, is much less clear. Maize contains multiple meristem types that vary in determinacy, phyllotaxy and primordia identity, and thus is an excellent system to investigate the links between the cell wall and meristem function. We first investigated the role of pectin in maize floral meristems using three monoclonal antibodies that recognize specific pectic epitopes. Interestingly, pectin accumulates differently in the upper and lower florets. In the upper floret, de-methylesterified pectin accumulated in initiating organ primordia, similar to Arabidopsis, whereas methylesterified pectin accumulated on the apical surface of the meristem. In contrast, little staining for either epitope was observed in the lower floret. We also examined the localization of a specific epitope of another pectin, rhamnogalacturonan-I, which interestingly, accumulated specifically at the boundary between the upper and lower floret. To further understand the role of pectin in meristems, we are examining the localization of these three pectic epitopes in other inflorescence meristem types, in vegetative shoot meristems, and in developmental mutants that alter meristem activity. Indeed, pectin accumulation is altered in bearded-ear mutants, which have defects in floral meristem determinacy and identity. Our results suggest that despite its low abundance in Type II cell walls, pectin is remarkably dynamic during maize development and may contribute to meristem growth dynamics.
+
+<a href='mailto:mausc17@students.ecu.edu'>Maus, Charles</a><sup>1</sup><br><a href='mailto:djmaynard97@gmail.com'>Maynard, Daniel</a><sup>1</sup><br><a href='mailto:hailongcornwork@gmail.com'>Yang, Hailong</a><sup>1</sup><br><a href='mailto:thompsonb@ecu.edu'>Thompson, Beth</a><sup>1</sup><br>
+
+<sup>1</sup>ECU Department of Biology; East Carolina University; Greenville, NC, USA 27858<br>

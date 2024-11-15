@@ -1,0 +1,20 @@
+---
+title: "Stability of chromosome segregation by synthetic maize centromeres"
+subtitle: "P177"
+author: "Yibing Zeng"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/ab/Angiosperm_Morphology_The_Closed_and_Collateral_Vascular_Bundle_in_Zea_%2837215761790%29.jpg"
+categories: 
+- Cytogenetics
+- Odd Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Synthetic chromosomes enable the engineering of multiple genetic pathways for large-scale genome manipulation. To ensure the faithful transmission of synthetic chromosomes, the synthesis of fully functional centromeres is indispensable. In plants, centromeres are not solely defined by DNA sequences but by a histone variant—centromeric histone H3 (CENH3). CENH3 plays a vital role in specifying centromere positions and loading of centromere machinery to direct chromosome segregation. In our previous work, we showed that an Array Binding Sites locus (ABS) containing LexO motifs inserted into maize chromosome 4 long arm (4L) can recruit LexA protein fused with CENH3 (LexA-CENH3). LexA-CENH3 replaces the canonical H3 and recruits native CENH3 to form centromeres. Centromeres activation at ABS loci transformed chromosome 4 into a dicentric chromosome and initiated Breakage Fusion Bridge (BFB) cycles. At low frequency, 4Ls were released and rescued by ABS centromeres (Neo4Ls) at the same time, demonstrating the functionality of synthetic centromeres. So far, we have screened fifteen Neo4Ls and transmitted them at least two generations without LexA-CENH3. The transmission rates of Neo4Ls can improve over time, possibly correlated with centromere expansion. Nevertheless, Neo4Ls still exhibit instability during plant growth, gametogenesis, or fertilization due to altered genome dosage, centromere-mediated chromosome erasures, or meiotic errors of single-copy chromosomes lacking pairing partners.
+
+<a href='mailto:yz77862@uga.edu'>Zeng, Yibing</a><sup>1</sup><br><a href='mailto:kdawe@uga.edu'>Dawe, R. Kelly</a><sup>1 2</sup><br>
+
+<sup>1</sup>Department of Genetics, University of Georgia, Athens, GA, USA, 30602<br><sup>2</sup>Department of Plant Biology, University of Georgia, Athens, GA, USA, 30602<br>

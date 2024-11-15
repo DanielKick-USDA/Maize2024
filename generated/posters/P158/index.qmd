@@ -1,0 +1,20 @@
+---
+title: "MaizeMine: Tools for exploring genomic datasets from the maize research community"
+subtitle: "P158"
+author: "Jack Gardiner"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e5/ENIAC-changing_a_tube.jpg"
+categories: 
+- Computational and Large-Scale Biology
+- Even Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Over twenty years of maize genomics research has created a large and diverse collection of high-quality data sets characterizing the maize genome. This has given rise to the need for specialized tools that allow researchers to integrate their data sets with publicly available genome annotation data as well as published community datasets. MaizeMine (http://maizemine.maizegdb.org), a component of MaizeGDB (http://maizegdb.org), aims to meet this need by integrating data from a variety of sources into a unified data mining warehouse. Based on the InterMine platform, MaizeMine provides an assortment of web-based search tools as well as an application programming interface (API) for programmatic access. The simple keyword search retrieves report pages for database objects such as genes and transcripts. Preconstructed template queries provide simple menus that enable users to perform complex queries integrating diverse data collections. The QueryBuilder can be used to modify template queries or construct custom queries. The List Tool takes an input list of identifiers that can be saved and used in further queries, gene set enrichment analysis and set operations such as union and intersection. The Regions Search Tool is used to retrieve selected genomic features based on chromosome coordinates. Query results are provided as tables that can be further filtered and exported in several formats, including tab-delimited, comma-separated, XML, JSON, GFF3, BED and fasta. The InterMine API libraries support programmatic access to template and custom queries with Perl, Ruby, Java and Python. We have recently developed API support for programmatic access to the MaizeMine Regions Search Tool using Python. Originally focused on the B73 reference genome, we expanded MaizeMine to encompass the maize pangenome based on B73 and 25 high quality Nested Associated Mapping (NAM) founder genome assemblies. Datasets included for each of the lines include Gene Ontology (GO) annotations, gene symbols and descriptions, and metabolic pathways using the E2P2 prediction pipeline. As the common parent to the NAM populations, the Zm-B73-REFERENCE-NAM-5.0 genome assembly continues to serve as the backbone for MaizeMine and is supported by a rich collection of supporting data sets which includes gene expression data from MaizeGDB’s qTeller, SNPs from Ensembl Plants, pathways from Plant Reactome and KEGG, Gene Ontology and protein annotations from Uniprot, protein domains from InterPro, and a collection of maize community data sets. Here we highlight those community data sets which include Uniform Mu and Ac/Ds insertions, transcription start sites from multiple tissues, enhancer regions, and an atlas of genome wide association studies. We invite suggestions from the research community for datasets to include in future MaizeMine releases.
+
+<a href='mailto:jack.m.gardiner@gmail.com'>Gardiner, Jack, M</a><sup>1</sup><br><a href='mailto:walshamy@missouri.edu'>Walsh, Amy, T</a><sup>1</sup><br><a href='mailto:carson.andorf@usda.gov'>Andorf, Carson, M</a><sup>2</sup><br><a href='mailto:ElsikC@missouri.edu'>Elsik, Christine, G</a><sup>1 3</sup><br>
+
+<sup>1</sup>Division of Animal Sciences, University of Missouri, Columbia, MO<br><sup>2</sup>USDA-ARS-CICGRU, Ames, IA<br><sup>3</sup>Division of Plant Science & Technology, University of Missouri, Columbia, MO<br>

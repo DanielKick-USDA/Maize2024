@@ -1,0 +1,20 @@
+---
+title: "Pipe dream or partitioning reality? Exploring extreme maize phenotypes and their role in programming senescence"
+subtitle: "P257"
+author: "Matthew Runyon"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5e/Aztec_Diet_Basket_of_Corn_%289755332575%29.jpg"
+categories: 
+- Quantitative Genetics & Breeding
+- Odd Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Carbon partitioning is a key regulator of maize senescence. In some genotypes the inhibition of seed set and subsequent buildup of carbohydrates in source tissue contributes to the phenomenon of non-pollination senescence. Alternative sink tissues can play a pivotal role in accepting excess photosynthate and delaying plant death. A preliminary screen of known non-pollination senescence sensitive and insensitive genotypes showed a strong correlation between cob density and staygreen traits, suggesting relevance of this structure as an alternative sink. Previous attempts to assess the importance of a cob-specific role have been confounded by non-pollination itself, which impedes cob developmental processes. To accurately test the sink strength of the cob, fully pollinated ears on isogenic lines with normal and high cob density are needed for comparison. Pipecorn is a specialty maize variety grown for its large, woody cobs to produce corn cob pipes. Pipecorn inbreds were used as high cob density donor parents and crossed to non-pollination senescence sensitive and insensitive recurrent parent lines B73 and PHG35. Among F2 and BC1S1 populations, response to selection across backcrossing generations for both cob density and diameter traits has been notable. High density selection populations demonstrated transgressive segregation, suggesting synergistic genetic control of this trait compared to the recurrent parents. Pipecorn has undergone minimal genetic improvement, with all publicly available inbreds originating from the original pipe corn open-pollinated variety. New inbred lines are currently being derived from this open pollinated variety to develop pipecorn germplasm for future breeding applications and enhance its performance under modern agronomic conditions.
+
+<a href='mailto:mrunyon2@illinois.edu'>Runyon, Matthew J.</a><sup>1</sup><br><a href='mailto:astuder@illinois.edu'>Studer, Anthony J.</a><sup>1</sup><br>
+
+<sup>1</sup>Department of Crop Sciences; University of Illinois Urbana-Champaign; Urbana, IL 61801, USA<br>

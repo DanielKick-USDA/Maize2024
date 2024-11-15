@@ -1,0 +1,19 @@
+---
+title: "The nitrogen cycle in the rhizosphere of diverse grass species in Andropogoneae"
+subtitle: "T13"
+author: "Sheng-Kai Hsu"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/9a/CollapsedtreeLabels-simplified-fi.svg"
+categories: 
+- Evolution and Population Genetics
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Nitrogen (N) fertilization in modern crop production has a profound impact on the N cycle in the ecosystem. Excess N in the soil leads to nitrous oxide (N2O) emissions and to nitrate (NO3-) leaching. Breeding for efficient N use and recycling in a cropping system is crucial for global sustainability. An optimized strategy for N reuse may not exist in modern crops given the lack of selection and strong bottleneck during domestication. However, we hypothesize their wild relatives may keep the favorable phenotypes. Hence, we examined the N cycle in the rhizosphere of 39 grass species related to maize and sorghum. We discovered significant phylogenetic variation in potential nitrification rates and NO3- loss in the rhizosphere soil of diverse species. Contrary to our hypothesis, all annual species including sorghum and maize are amongst the N “Conservationists,” inhibiting nitrification and conserving N within the system. Many perennials are either "Leachers" that enhanced nitrification and leaching or "Nitrate Keepers" with similar nitrification enhancing effect but lost less NO3-. Although this result rejects our hypothesis, it unveils the diverse abilities to influence soil microbial chemistry and the varying N use efficiencies of grass species. We investigated the native habitat environments of the studied species and showed that several soil characteristics including acidity and fertility have been the key drivers shaping the plant-microbe interaction in the rhizosphere. Using comparative genomic and transcriptomic approaches, we nominated key genes encoding transporters for inorganic N and secondary metabolites that underlies the phylogenetic variation in rhizosphere N cycle. We anticipate these genes could be harnessed to improve agricultural sustainability with further functional studies.
+
+<a href='mailto:sh2246@cornell.edu'>Hsu, Sheng-Kai</a><sup>1</sup><br>Emmett, Bryan<sup>2</sup><br>Costa-Neto, Germano<sup>1</sup><br>Hale, Charles<sup>3</sup><br>Schulz, Aimee J<sup>3</sup><br>Lepak, Nick<sup>4</sup><br>La, Thuy<sup>1</sup><br>AuBuchon-Elder, Taylor<sup>5</sup><br>Kellogg, Elizabeth A<sup>5</sup><br>Raglin, Sierra S<sup>6</sup><br>Kent, Angela D<sup>6 7</sup><br>Romay, Cinta M<sup>1</sup><br>Buckler, Edward S<sup>1 3 4</sup><br>
+
+<sup>1</sup>Institute for Genomic Diversity, Cornell University, Ithaca, NY, USA 14853<br><sup>2</sup>USDA-ARS, National Laboratory for Agriculture and the Environment, Ames, IA, USA 50011<br><sup>3</sup>Section of Plant Breeding and Genetics, Cornell University, Ithaca, NY USA 14853<br><sup>4</sup>USDA-ARS, Robert W. Holley Center for Agriculture and Health, Ithaca, NY, USA 14853<br><sup>5</sup>Donald Danforth Plant Science Center, St. Louis, MO USA 63132<br><sup>6</sup>University of Illinois at Urbana-Champaign Institute for Genomic Biology, Urbana, IL, USA 61801<br><sup>7</sup>Department of Natural Resources and Environmental Sciences, University of Illinois at Urbana-Champaign, Urbana, IL, USA 61801<br>

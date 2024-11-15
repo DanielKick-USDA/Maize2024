@@ -1,0 +1,20 @@
+---
+title: "Identification of genomic regions associated with the causal QTL of SHDG trait in Ames diversity panel by GWAS"
+subtitle: "P235"
+author: "Mercy Fakude"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5e/Aztec_Diet_Basket_of_Corn_%289755332575%29.jpg"
+categories: 
+- Quantitative Genetics & Breeding
+- Odd Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+The doubled haploid (DH) approach is a promising alternative to traditional self-pollination for inbred line development, primarily because it decreases the time taken to obtain homozygous lines. Currently, DH technology is widely dependent on chemical treatment (colchicine) to induce haploid genome doubling and, subsequently, male fertility. These chemicals can be harmful to humans and plants and have typically recorded a doubling rate of about 10 to 30% due to the recalcitrance of some temperate genetic materials. Thus, genome doubling remains a bottleneck to large-scale DH production. Although to a limited extent, spontaneous haploid genome doubling (SHGD) and male fertility of maize haploids (without chemical treatment) have been studied and recorded doubling rates ranging from less than 5% to greater than 50%. Recently, there has been increased interest to omit chemical treatment and rely on SHGD as it would eliminate the use of colchicine for genome doubling and make it possible to directly plant a haploid seed in the field and avoid greenhouse costs. A major breakthrough was the discovery of a maize line A427 with SHGD and a major QTL mapped to chromosome 5. The introgression of this major QTL to elite germplasm may overcome the need to use colchicine. However, it is necessary to identify additional sources of major QTL for SHGD in maize as they may (1) simplify managing SHGD in different heterotic groups and (2) allow simplified introgression procedures into elite germplasm by stacking respective SHGD QTL. This genome-wide association study (GWAS) aims to identify additional sources of major QTL controlling SHGD.
+
+<a href='mailto:mfakude@iastate.edu'>Fakude, Mercy</a><sup>1</sup><br><a href='mailto:ufrei@iastate.edu'>Frei, Ursula K.</a><sup>1</sup><br><a href='mailto:tfoster@iastate.edu'>Foster, Tyler L.</a><sup>1</sup><br><a href='mailto:thomasl@iastate.edu'>Lubberstedt, Thomas</a><sup>1</sup><br>
+
+<sup>1</sup>Iowa State University; Department of Agronomy; Ames; Iowa, 50011<br>

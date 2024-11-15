@@ -1,0 +1,20 @@
+---
+title: "Improving transformation and regeneration of tropical inbred lines using calcium channel blockers"
+subtitle: "P27"
+author: "Jaclyn Nicole Uy"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/05/DNA_base-pair_diagram.jpg"
+categories: 
+- Biochemical and Molecular Genetics
+- Odd Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Commercial production of transgenic maize relies on agrobacterium-mediated transformation due to the simplicity, cost-effectiveness, and stable inheritance of exogenous genes with low copy numbers. However, transformability and rengenerability remain a bottleneck in tropical maize lines, where limited genotypes and lower transformation efficiencies persist. Recent advances in morphogenic regulators (e.g. BBM and WUS2) which enhance somatic embryo formation have expanded the range of transformable genotypes, particularly in temperate maize lines. To address the challenges in tropical maize transformation, our study aimed to enhance the process using calcium channel blockers (CCB) in conjunction with morphogenic regulators. CCBs are pharmacological agents that can hinder the plant's immune response by specifically targeting calcium signaling pathways, affecting hypersensitive response. Here, we investigate the impact of Ca2+ chelators (EDTA and EGTA) and a non-selective calcium channel antagonist, (lanthanum chloride), on the transformability and regeneration frequency of tropical inbred lines, Tzi8 and CML277, using varying concentrations (0, 0.1, 1, 10, 100 mM). We pre-treated immature embryos of Tzi8 and CML277 with calcium channel blockers before transformation with an auxotrophic agrobacterium LBA4404Thy-containing pHP81430, a heat shock excisable BBM and WUS2 vector with a modified acetolactase synthase gene as a selectable marker. Endpoint PCR was used to identify T0 plants and screen for BBM and WUS2. ddPCR was used to determine copy number variation of the T0 plants. The highest regeneration percentages (2.6%) and occurrence of single copy events (3.3%) were achieved in Tzi8 when immature embryos were pre-treated with 10 mM LaCl3. In CML 277, regeneration percentages were highest in immature zygotic embryos pre-treated with 1 mM EDTA (86%), and occurrences of single copy events were at 2.7%. No T0 plants were produced in the no pre-treatment controls for both inbreds. This study successfully improved the transformation and regeneration efficiency of the two tropical inbreds using CCBs.
+
+<a href='mailto:uyjnr69@hawaii.edu'>Uy, Jaclyn Nicole</a><sup>1</sup><br><a href='mailto:amore@hawaii.edu'>Amore, Teresita</a><sup>1</sup><br><a href='mailto:mgmuszyn@hawaii.edu>'>Muszynski, Micheal</a><sup>1</sup><br>
+
+<sup>1</sup>Department of Tropical Plant and Soil Sciences, University of Hawai&#39;i at Manoa, 3190 Maile Way, Honolulu, HI, US, 96822<br>

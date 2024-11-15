@@ -1,0 +1,20 @@
+---
+title: "CIMMYT Maize Lines (CMLs): A fundamental resource for maize breeders and geneticists"
+subtitle: "P205"
+author: "Cristian Zavala Espinosa"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5e/Aztec_Diet_Basket_of_Corn_%289755332575%29.jpg"
+categories: 
+- Quantitative Genetics & Breeding
+- Odd Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+CIMMYT Maize Lines (CMLs): A Fundamental Resource for Maize Breeders and Geneticists Alejandro Velazquez, Alberto Chassaigne, Cristian Zavala* ¹CIMMYT Int., j.velazquez@cgiar.org, ¹CIMMYT Int. a.chassaigne@cgiar.org, ¹CIMMYT Int. c.zavala@cgiar.org. CIMMYT Maize Lines (CMLs) are a carefully curated collection of 647 elite lines, actively developed by the CIMMYT Global Maize Program since 1991. These lines represent a widely utilized resource of freely available, elite germplasm for both public and private sector maize breeders worldwide. Since 2005, the responsibility for the conservation, regeneration, and distribution of this crucial genetic resource has resided with the CIMMYT Maize Germplasm Bank (BGM). Notably, CMLs constitute the most frequently requested accessions within the BGM collection, requiring more frequent regeneration cycles. Over the past five years, the CIMMYT BGM has forged collaborations with over 100 national institutions, public and private sectors, along with independent producers and universities. These collaborations have addressed all seed requests emanating from the BGM collection, of which more than 50% were for CMLs. Within the framework of the MasAgro-Biodiversity Seed of Discovery (SeeD) Project, we are engaged in a comprehensive evaluation of the genetic diversity encompassing all 27,500 maize, teosinte, and tripsacum spp. accessions housed within the BGM. This endeavor aims to culminate in the development of a comprehensive molecular atlas of maize. Such an atlas holds immense potential to enhance our understanding of maize genetic resources, encompassing landraces alongside advanced and elite breeding lines. Ultimately, this will facilitate the selection, utilization, and further research involving these valuable materials. Genotyping serves as the cornerstone of data unification, critical for its subsequent use in constructing molecular atlases. Concurrent with the BGM accession genotyping evaluations, a more in-depth assessment of CMLs was conducted. This assessment aimed to detect any potential divergence between the original seed received by the BGM in 2005 and subsequent regenerations. Additionally, the objective was to establish a standardized genetic fingerprint for routine quality control analyses. This will ensure the unwavering purity of each CML line following each seed increment or regeneration cycle. The present work details the outcomes of this analysis and its subsequent application in the development of a CML genotyping platform.
+
+<a href='mailto:c.zavala.mgb@gmail.com'>Zavala Espinosa, Cristian</a><sup>1</sup><br><a href='mailto:Ricculli'>Chassaigne, Alberto A.</a><sup>1</sup><br><a href='mailto:Juarez'>Velazquez, J. Alejandro</a><sup>1</sup><br>
+
+<sup>1</sup>CIMMYT<br>

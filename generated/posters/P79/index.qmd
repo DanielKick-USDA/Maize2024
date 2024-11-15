@@ -1,0 +1,20 @@
+---
+title: "Elucidating the role of TERMINAL EAR1 (TE1) in maize development and stress"
+subtitle: "P79"
+author: "Nandhakumar Shanmugaraj"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c1/Protective_Coleoptile_Tip_in_Zea_Mays_Embryo_%2847691344541%29.jpg"
+categories: 
+- Cell and Developmental Biology
+- Odd Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Maize TERMINAL EAR 1 (TE1) encodes a predicted RNA-binding protein containing three conserved RNA recognition motifs. Loss-of-function mutants have pleiotropic developmental defects, including faster leaf initiation, altered phyllotaxy, dwarf stature, and a feminized tassel. Despite controlling various aspects of maize development, the mechanism of TE1 action is poorly understood. RNA-immunoprecipitation and sequencing (RIP-Seq) using TE1-Yellow fluorescent protein (YFP)-expressing maize ear primordia revealed TE1 binding to mRNAs of multiple maize developmental genes, including SQUAMOSA PROMOTER BINDING PROTEIN-LIKE genes TASSELSHEATH4, UNBRANCHED2, and UNBRANCHED3. However, mRNA-Seq analysis of te1 mutants did not identify a significant change in the levels of most candidate TE1-bound target mRNAs. In contrast, the proteins encoded by candidate TE1-bound mRNAs were more abundant in te1 mutants, suggesting TE1 may control its targets at a post-transcriptional level. We also identified TE1-YFP interacting proteins using proteomics, and Gene Ontology analysis revealed enrichment in stress granule assembly and regulation of translation categories. Consistent with this, a functional TE1-YFP fusion localized to cytoplasmic puncta. These puncta accumulate and enlarge following heat shock and co-localize with a stress granule marker. To ask if TE1 functions in heat stress responses, we tested germination following heat treatments, and found that te1 mutants were more sensitive to heat stress. Our results suggest that TE1 binding to developmental mRNAs and sequestering them in cytoplasmic granules may be part of a mechanism to negatively regulate plant development. Thus, we hypothesize that TE1 may function to control the important tradeoff between plant growth and stress responses. Further understanding of TE1 function could provide new insights to enhance sustainable food production and ensure food security in the face of a changing climate.
+
+<a href='mailto:shanmug@cshl.edu'>Shanmugaraj, Nandhakumar</a><sup>1</sup><br><a href='mailto:tran@cshl.edu'>Tran, Thu</a><sup>1</sup><br>Chen, Richelle<sup>5</sup><br><a href='mailto:pwu@cshl.edu'>Wu, Peipei</a><sup>1</sup><br><a href='mailto:hclaeys@inari.com'>Claeys, Hannes</a><sup>3</sup><br><a href='mailto:edgar.demesa-arevalo@hhu.de'>Demesa Arevalo, Edgar</a><sup>4</sup><br><a href='mailto:mkitagaw@mail.hzau.edu.cn'>Kitagawa, Munenori</a><sup>2</sup><br><a href='mailto:leil@mail.hzau.edu.cn'>Liu, Lei</a><sup>2</sup><br><a href='mailto:jacksond@cshl.edu'>Jackson, David</a><sup>1</sup><br>
+
+<sup>1</sup>Cold Spring Harbor Laboratory, 1 Bungtown Road, Cold Spring Harbor, New York 11724, USA<br><sup>2</sup>Huazhong Agricultural University, Wuhan, China,<br><sup>3</sup>Inari, Industriepark 7A, 9052 Zwijnaarde, Ghent, Belgium<br><sup>4</sup>Institute for Developmental Genetics, Heinrich Heine University Düsseldorf, Düsseldorf 40225, Germany<br><sup>5</sup>Cardozo School of Law, New York, USA<br>

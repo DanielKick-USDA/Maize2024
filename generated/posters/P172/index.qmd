@@ -1,0 +1,20 @@
+---
+title: "Utilizing hyperspectral field imagery for accurate southern leaf blight severity grading in maize"
+subtitle: "P172"
+author: "Grace Vincent"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e5/ENIAC-changing_a_tube.jpg"
+categories: 
+- Computational and Large-Scale Biology
+- Even Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Crop disease detection using traditional scouting and visual inspection approaches can be laborious and time-consuming. Timely detection of disease and its severity over large spatial regions is critical for minimizing significant yield losses. Hyperspectral imagery has been demonstrated as a useful tool for a broad assessment of crop health. In this study, we used off-axis hyperspectral imagery from entire fields, coupled with breeder-assigned plot-wise severity scores from a single growing season, to develop a machine-learning framework to detect and grade the severity of southern leaf blight infection in corn. We formulated a process that (i) enhances the predictability of assigned severity scores and (ii) assesses the interpretability of specific spectral wavelengths by surveying their connections to well-known biochemical processes. We implemented feature reduction methods, e.g., Linear Discriminant Analysis (LDA), L1-Regularization, and Sequential Feature Selector, with a focus on identifying the most discriminative wavelengths. These selected wavelengths were then evaluated using linear and non-linear regression-based models and quantified their effectiveness in identifying and grading disease in corn. The results showed that transforming the feature space with LDA achieves an R2 value of 0.72, however, accepting a reduction in performance (R2 of 0.57) enables the selection of wavelengths through L1-Regularization. Spectral content in wavelengths ranging from 500-550 nm and 675-725 nm have been identified as descriptive and correlate with the production of compounds, such as carotenoids and chlorophyll, highlighting the underlying biochemical mechanisms. Our results show that hyperspectral imagery offers the unique advantage of scrutinizing the intensities of specific wavelengths, allowing us to capture variations in disease grades and their progression. Furthermore, the development of hyperspectral field imagery and machine learning models hold the potential for broader applications in monitoring and mitigating stressors in various crops, thereby advancing food security and promoting sustainability in agriculture.
+
+<a href='mailto:gmvincen@ncsu.edu'>Vincent, Grace M</a><sup>1 2</sup><br>Kudenov, Michael<sup>1 2</sup><br>Balint-Kurti, Peter<sup>3</sup><br>Dean, Ralph<sup>3</sup><br>Williams, Cranos M<sup>1 2 4</sup><br>
+
+<sup>1</sup>NC Plant Sciences Initiative, North Carolina State University, Raleigh, NC 27606<br><sup>2</sup>Department of Electrical and Computer Engineering, North Carolina State University, Raleigh, NC 27606<br><sup>3</sup>Department of Entomology and Plant Pathology, North Carolina State University, Raleigh, NC 27606<br><sup>4</sup>Department of Plant and Microbial Biology, North Carolina State University, Raleigh, NC 27606<br>

@@ -1,0 +1,20 @@
+---
+title: "Regulation of meristem size by the REL2corepressor family"
+subtitle: "P107"
+author: "Jason Gregory"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c1/Protective_Coleoptile_Tip_in_Zea_Mays_Embryo_%2847691344541%29.jpg"
+categories: 
+- Cell and Developmental Biology
+- Odd Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+The post-embryonic formation of the plant body proceeds in a sequential manner through the action of meristems, organized structures containing plant stem cells. Tightly coordinated meristematic regulation is required for proper development and reproductive success, eventually determining yield in crop species. In maize, the RAMOSA ENHANCER LOCUS2 (REL2) family of transcriptional corepressor proteins includes four members, REL2, RELK1 (REL2-LIKE1), RELK2, and RELK3. In an unbiased genetic screen for enhancers of the rel2 mutant, we identified double mutants with fewer and shorter internodes, and enlarged female inflorescence meristems (IMs) carrying mutations in RELK1. We show that RELK1 partially buffers the developmental defects of rel2 mutants and actively compensates for the loss of REL2 function. We therefore investigated the function and relationship among the various family members by also generating CRISPR-Cas9 induced mutations in RELK2 and RELK3. Our analysis shows that RELK genes have largely redundant functions in the development and maintenance of various meristem types throughout the plant life cycle. Analysis of different triple mutant combinations revealed that REL2, RELK1, RELK2, and RELK3 function redundantly during embryogenesis and in the formation and maintenance of the shoot apical meristem (SAM). Different double mutants demonstrated that ear formation requires REL2 and RELK3 while REL2, RELK1 and RELK2 are required for maintenance of ear IM. Overall, REL2 functions as the essential gene, while the other members appear dispensable and can only partially compensate its loss. We are currently assessing to what extent activate compensation mechanisms are in play among the various family members. Expression analysis show that REL2 and RELK1 cooperatively regulate female IM development by regulating genes involved in redox balance, hormone catabolism, and differentiation ultimately tipping the meristem toward a molecular environment favorable to expanded expression of ZmWUS1, encoding a stem-cell promoting transcription factor. We also show that the loss of one functional copy of REL2 can promote an increase in kernel row number across a diverse set of F1 hybrid combinations. Our findings reveal that the REL2 family of transcriptional corepressors maintains maize development from embryonic initiation to reproductive growth and can potentially be harnessed for increasing seed yield in a major crop species.We acknowledge funding from the National Science Foundation (IOS#2026561).
+
+<a href='mailto:jason.gregory@rutgers.edu'>Gregory, Jason</a><sup>1 2</sup><br><a href='mailto:xueliu@waksman.rutgers.edu'>Liu, Xue</a><sup>1</sup><br><a href='mailto:zlchen@waksman.rutgers.edu'>Chen, Zongliang</a><sup>1</sup><br><a href='mailto:cgallardo@waksman.rutgers.edu'>Gallardo, Cecilia</a><sup>1</sup><br><a href='mailto:jip43@scarletmail.rutgers.edu'>Punskovsky, Jason</a><sup>1</sup><br><a href='mailto:marygalli@waksman.rutgers.edu'>Galli, Mary</a><sup>1</sup><br><a href='mailto:agallavotti@waksman.rutgers.edu'>Gallavotti, Andrea</a><sup>1 2</sup><br>
+
+<sup>1</sup>Waksman Institute of Microbiology, Rutgers University, Piscataway, New Jersey 08854-8020, USA<br><sup>2</sup>Department of Plant Biology, Rutgers University, New Brunswick, New Jersey USA 08901, USA<br>

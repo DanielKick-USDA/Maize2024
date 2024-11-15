@@ -1,0 +1,20 @@
+---
+title: "Performance of triple cross hybrids with varying genetic distances among inbred parents"
+subtitle: "P252"
+author: "Tae-Chun Park"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5e/Aztec_Diet_Basket_of_Corn_%289755332575%29.jpg"
+categories: 
+- Quantitative Genetics & Breeding
+- Even Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+This study explores the potential of triple cross hybrids for organic seed production. Most commercial maize varieties are single cross hybrids. It is difficult to produce seed on single cross hybrids in certified organic fields because seed is produced on inbred parent lines that are small and easily overcome by the weeds that are often present in organic fields. However, triple cross varieties may be good alternatives, particularly from a seed production perspective. Unlike single cross hybrids, triple cross hybrids have three parents and seed is produced on a hybrid parent plant, rather than an inbred. With three parents, selection of parents for a triple cross hybrid is a challenge, especially with regard to heterotic groups. It is not clear how best to take advantage of existing heterotic groups to maximize performance. Moreover, the intricate interplay of genetic material from two distinct crosses in triple cross hybrids leads to a more complex genetic landscape compared to single crosses. Assessing genetic distances among parent lines may be useful for understanding the intricate relationship between parental lines and the resulting hybrid performance. To conduct a detailed genetic analysis, we genotyped a set of parent lines with 8K SNPs. The performance of a set of triple cross hybrids made with these parents was evaluated in multilocation field trials. Examination of the relationship of genetic distance between the parents and hybrid performance may lead to a deeper understanding of the complex genetic dynamics shaping the performance and adaptability of triple cross hybrids.
+
+<a href='mailto:tcpark@iastate.edu'>Park, Tae-Chun</a><sup>1</sup><br><a href='mailto:smkinney@iastate.edu'>Kinney, Shelly</a><sup>1</sup><br><a href='mailto:adrienne.moranlauter@usda.gov'>Lauter, Adrienne M</a><sup>2</sup><br><a href='mailto:paul.scott@usda.gov'>Scott, Paul M</a><sup>2</sup><br><a href='mailto:ufrei@iastate.edu'>Frei, Ursula K</a><sup>1</sup><br><a href='mailto:thomasl@iastate.edu'>Lübberstedt, Thomas</a><sup>1</sup><br>
+
+<sup>1</sup>Department of Agronomy, Iowa State University, Ames, IA, 50011, USA<br><sup>2</sup>USDA-ARS-CICGRU, Ames, IA, 50011, USA<br>

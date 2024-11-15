@@ -1,0 +1,20 @@
+---
+title: "Exploring the genetics of drought resilience in sorghum"
+subtitle: "P14"
+author: "Yuguo Xiao"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/05/DNA_base-pair_diagram.jpg"
+categories: 
+- Biochemical and Molecular Genetics
+- Even Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Drought stress, a major threat to global food security, is intensifying due to climate change. Among cereal crops, sorghum stands out for its remarkable drought resilience, demonstrating superior adaptability to water scarcity compared to other major cereals. Under drought stress, sorghum exhibits a multifaceted response. Leaf rolling and stomata closure reduce transpiration, while photosynthetic efficiency adapts for optimal water use. Reduced growth prioritizes resources, and root architecture adjusts for enhanced water uptake, ensuring survival in harsh conditions. Here, we explore the genetic foundations of sorghum drought resilience through whole-plant phenotyping of a sequence-indexed, EMS mutagenized sorghum population using an automated, high-throughput field scanner system in Maricopa, AZ. This allowed us to identify mutants displaying various responses to drought stress, including those with altered photosynthetic efficiencies and exaggerated leaf rolling. Among these, the leaf rolling 1 (lr1) mutant exhibited a severe leaf rolling phenotype even in response to mild environmental stress. Characterization of this mutant also revealed a defective root system. Analysis of an F2 mapping population indicated that both traits were recessive. We performed bulked segregant analysis using DNA pools from individuals with either the leaf rolling or defective root phenotypes and showed that a single locus on chromosome 9 was responsible for both traits. Further characterization of the lr1 mutant through 3D reconstruction of root development, controlled stress experiments, and gene editing will provide mechanistic insights into root-to-shoot responses to drought stress. Overall, our field-based analyses of mutant phenotypes allow us to link genotype to stress-responsive phenotype, unraveling the genetic intricacies of sorghum's drought resilience and paving the way for the development of drought-resistant varieties crucial for ensuring food security in a changing climate.
+
+<a href='mailto:yxiao@danforthcenter.org'>Xiao, Yuguo</a><sup>1</sup><br>Sumeet, Mankar<sup>1</sup><br>Braud, Maxwell<sup>1</sup><br>Kumar, Indrajit<sup>1</sup><br>Gonzalez, Emmanuel<sup>2</sup><br>Ozersky, Philip<sup>1</sup><br>Pauli, Duke<sup>2</sup><br>Dilkes, Brian<sup>3</sup><br>Topp, Christopher<sup>2</sup><br>Eveland, Andrea L.<sup>1</sup><br>
+
+<sup>1</sup>Donald Danforth Plant Science Center, St. Louis, MO<br><sup>2</sup>University of Arizona, Tucson, AZ<br><sup>3</sup>Purdue University, West Lafayette, IN<br>

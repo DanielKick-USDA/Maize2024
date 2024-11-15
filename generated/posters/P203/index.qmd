@@ -1,0 +1,20 @@
+---
+title: "Breeding for root traits in cereal crops"
+subtitle: "P203"
+author: "Jagdeep Singh Sidhu"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5e/Aztec_Diet_Basket_of_Corn_%289755332575%29.jpg"
+categories: 
+- Quantitative Genetics & Breeding
+- Odd Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Optimization of root traits is a promising avenue for mitigating edaphic stresses such as drought, salinity, and suboptimal nutrient availability in cereal crops. Furthermore, crop root systems have the potential to contribute significantly to carbon sequestration to combat climate change . Significant variation for root anatomical and architectural has been found in major crops including maize, rice, and wheat. This variation can be exploited by incorporating root traits into the existing breeding programs. Here, we define a road map on “How to breed for root traits?”. First, we discuss the major hurdles breeders face when including root traits in their breeding programs, including the difficulty of phenotyping due to the underground nature of roots, high plasticity in root traits. Considering these difficulties, we describe 1) a selection of environment specific root ideotypes that includes both root anatomical and architectural phenotypes. For new trait discovery, the most promising germplasm, such as synthetic mixes, landraces, and wild relatives, can be used depending on the trait of interest. 2) We show the value of functional-structrual root modelling to explore the phenome landscape. We also emphasize a detailed physiological understanding of a trait, including tradeoffs, plasticity, pleiotropy, and phenotypic interactions. 3) We describe high throughput phenotyping platforms such as shovelomics, anatomics, and LEADER (leaf elemental accumulation for deep roots) to phenotype the root traits of interest and integration of these protocols into genomic prediction models. Furthermore, we describe the use of potential proxy traits which can be used estimate complex root functions like rooting depth. As a proof of concept, we discuss successful examples of breeding for root metaxylem vessel area in wheat and root hairs in common beans. We also describe a program we are establishing to select on roots traits in maize.
+
+<a href='mailto:jzs806@psu.edu'>Sidhu, Jagdeep Singh</a><sup>1</sup><br><a href='mailto:rjs6686@psu.edu'>Sawers, Ruairidh J.H.</a><sup>1</sup><br>
+
+<sup>1</sup>Penn State University, University Park, PA, USA, 16802<br>

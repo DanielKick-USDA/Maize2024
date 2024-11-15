@@ -1,0 +1,20 @@
+---
+title: "Site-directed integration of microbial HemG-type protoporphyrinogen IX oxidase (PPO) at a target site in corn genome creates tolerance to PPO-inhibiting herbicides"
+subtitle: "P52"
+author: "Mingsheng Peng"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/05/DNA_base-pair_diagram.jpg"
+categories: 
+- Biochemical and Molecular Genetics
+- Even Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Crop herbicide tolerance traits are important for weed management and crop yield. However, continuous herbicide application has driven weeds to evolve herbicide resistance which challenges corn production. Therefore, creating new herbicide tolerance trait is essential to reduce herbicide resistance evolution in weeds and sustain crop yield. Expression of a microbial HemG-type protoporphyrinogen IX oxidase, PPO_H_N90, in crops enabled tolerance to PPO-inhibiting herbicides in Bayer. In this study, PPO_H_N90 was inserted to a pre-selected target site in corn genome by Site-Directed Integration (SDI) technology. After several rounds of self-pollination and selection, one lead event was identified to contain a single, intact and full-length PPO_H-N90 gene at the target site without backbone and SDI machinery, and PPO expression was detected in the lead event. In field trials, the lead event showed excellent tolerance to PPO-inhibiting herbicides, while the agronomic traits were not affected by PPO expression and application of PPO-inhibiting herbicides.
+
+<a href='mailto:mingsheng.peng@bayer.com'>Peng, Mingsheng</a><sup>1</sup><br>Guo, Shirley<sup>1</sup><br>Sparks, Oscar<sup>1</sup><br>Goley, Mike<sup>1</sup><br>Bauer, Matthew<sup>1</sup><br>Gaeta, Bob<sup>1</sup><br>Voss, Steve<sup>1</sup><br>Griffith, Cara<sup>1</sup><br>
+
+<sup>1</sup>Bayer Crop Science; 700 Chesterfield Parkway West, Chesterfield, MO., USA 63017<br>

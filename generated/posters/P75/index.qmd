@@ -1,0 +1,20 @@
+---
+title: "Development of a lineage tracing line for maize brace root developmental studies"
+subtitle: "P75"
+author: "Taran Kermani"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c1/Protective_Coleoptile_Tip_in_Zea_Mays_Embryo_%2847691344541%29.jpg"
+categories: 
+- Cell and Developmental Biology
+- Odd Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Brace roots, a type of adventitious root, contribute to root lodging resistance in many plants, including Zea mays. The main stages of brace root development (initiation, elongation, and maturation) are understood; however, it is unknown which nodal cells begin the development process. We developed a lineage tracing tool to address this unknown; lineage tracing marks a progenitor cell and enables its progeny to be tracked. Using Golden Gate restriction enzyme cloning, a two-construct lineage tracing system was developed. One construct carries a CRE recombinase fused to a Cyclin B1 dBox, which is expressed under a heat shock-inducible promoter and only functional in mitotically active cells. The other construct contains a ubiquitous promoter driving a floxed terminator and 3xYFP. In a cell containing both components, heat shock induces CRE-dBox expression. CRE then recognizes the loxP sites in the second component and excises the terminator between 3xYFP and the promoter. This allows 3xYFP to be expressed, permanently marking that cell and all of its progeny. These constructs are being transformed into maize, and the transformed lines will be used to determine which nodal cells give rise to brace root primordia. Ultimately, this work aims to elucidate the mechanisms behind the initiation of brace root development and investigate biomechanical resistance to root lodging. An understanding of these phenomena could aid the design of root lodging-resistant crops. Root lodging-resistant crops could efficiently increase yield on currently available agricultural land, providing food to meet the demands of the continuously growing human population while minimizing agricultural land use.
+
+<a href='mailto:kermani@udel.edu'>Kermani, Taran A.</a><sup>1</sup><br><a href='mailto:thanduan@udel.edu'>Kamei, Thanduanlung</a><sup>1</sup><br><a href='mailto:esparks@udel.edu'>Sparks, Erin E.</a><sup>1</sup><br>
+
+<sup>1</sup>Department of Plant and Soil Sciences, University of Delaware, Newark, DE 19713, USA<br>

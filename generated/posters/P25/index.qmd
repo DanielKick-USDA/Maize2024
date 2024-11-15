@@ -1,0 +1,20 @@
+---
+title: "Identifying physiologically relevant transcriptional regulatory mechanisms in tetrapyrrole biosynthesis using natural and induced variation in Mg2+ chelatase in maize."
+subtitle: "P25"
+author: "Brian Dilkes"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/05/DNA_base-pair_diagram.jpg"
+categories: 
+- Biochemical and Molecular Genetics
+- Odd Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Mutants with defects in pathways can help expose regulation. But strong phenotypically impactful mutations do not always detect the same changes in expression affected by the natural variants that fine tune pathway functions and determine fitness. This is especially true for essential genes and genes in highly conserved pathways. Tetrapyrroles are macrocyclic compounds present in and required for all life on earth. In plants, they include chlorophyll, heme, siroheme, and phytochromobilin and are required for photosynthesis, respiration, metabolism, and light perception. All tetrapyrroles in plants are synthesized from a common phototoxic precursor, Uroporphyrinogen III. Competition among the necessary branches for shared substrates and the presence of multiple phototoxic intermediates and side products suggest that regulation of tetrapyrrole biosynthesis should be tight and complex. Maintaining a balance between the branches to serve the demands of photosynthesis, respiration, and metabolism while avoiding photodamage must be a critical function of this regulation. We used RNA-seq to study the impact of a semi-dominant dominant-negative complex-poisoning allele of Mg chelatase subunit I, Oil yellow1-N1989, on transcription in tetrapyrrole biosynthesis pathway. Coordinate and compensatory effects were observed at multiple genes encoding steps in tetrapyrrole biosynthesis demonstrating heretofore unknown transcriptional regulation of this pathway. Expression level GWA analysis of tetrapyrrole pathway genes revealed that natural variation at the oy1 locus also affected coordinate transcriptional regulation of multiple genes encoding steps in tetrapyrrole biosynthesis in wildtype plants. This transcriptional feedback in the absence of strong phenotypic impacts demonstrates that detected regulation works under physiologically relevant perturbations of chlorophyll biosynthesis. We identified a subset of genes in tetrapyrrole pathway as the common targets of transcription regulation and identified multiple trans-regulatory hotspots affecting the coordinate regulation of this pathway.
+
+<a href='mailto:kaur60@purdue.edu'>Kaur, Amanpreet</a><sup>1</sup><br><a href='mailto:rkhangur@purdue.edu'>Khangura, Rajdeep S.</a><sup>1</sup><br><a href='mailto:bdilkes@purdue.edu'>Dilkes, Brian P.</a><sup>1</sup><br>
+
+<sup>1</sup>Department of Biochemistry and Center for Plant Biology, Purdue Univeristy, Lafayette, IN, USA. 47907<br>

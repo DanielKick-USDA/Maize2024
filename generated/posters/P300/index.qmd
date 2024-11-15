@@ -1,0 +1,20 @@
+---
+title: "Evolutionary mining of cold tolerance alleles in maize for future farming sustainability"
+subtitle: "P300"
+author: "Wei-Yun Lai"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/9a/CollapsedtreeLabels-simplified-fi.svg"
+categories: 
+- Evolution and Population Genetics
+- Even Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Shifting the maize growth cycle by planting earlier in the season can lead to better utilization of sunlight and prolonged land coverage, which in turn helps reduce fertilizer inputs and prevent greenhouse gas emissions. Consequently, increasing seedling cold tolerance is a crucial breeding target for maize cultivation. One strategy to help achieve this goal is the exploration of the existing allelic diversity in the global maize population. We hypothesize that maize lines developed in northern regions and high-altitudes have adaptive alleles for improved fitness in cold conditions, as they have undergone selection for cold tolerance. We make use of 75 high-quality, long-read genome assemblies from diverse global maize accessions, and perform a genome-wide scan to identify signatures of diversifying selection among these accessions. Further, we will explore the functional consequences of identified variants using an evolution-informed machine learning model. Loci identified through these methods are unbiased for the targets of selection. To identify causal variants for cold adaptation, we will conduct an environment-genotype association analysis using measurements of the environment where the lines were developed. Focusing on loci identified as selected and functionally important will reduce false positives, improving our power to detect directly actionable alleles. This study aims to provide valuable insights into maize crop improvement and global agricultural sustainability.
+
+Lai, Wei-Yun<sup>1</sup><br>Franco, Jose A. V.<sup>2</sup><br>Johnson, Lynn<sup>1</sup><br>Costa Neto, Germano<sup>1</sup><br>Romay, M. Cinta<sup>1</sup><br>Stitzer, Michelle C.<sup>1</sup><br>Buckler, Edward S.<sup>1 2 3</sup><br>
+
+<sup>1</sup>Institute for Genomic Diversity, Cornell University, Ithaca, NY, USA 14853<br><sup>2</sup>Section of Plant Breeding and Genetics, Cornell University, Ithaca, NY USA 14853<br><sup>3</sup>USDA-ARS, Robert W. Holley Center for Agriculture and Health, Ithaca, NY, USA 14853<br>

@@ -1,0 +1,19 @@
+---
+title: "A novel domestication gene establishes developmental boundaries"
+subtitle: "T4"
+author: "George Chuck"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c1/Protective_Coleoptile_Tip_in_Zea_Mays_Embryo_%2847691344541%29.jpg"
+categories: 
+- Cell and Developmental Biology
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Early farmers selected for a suite of different vegetative and reproductive crop traits during domestication but identifying the causative loci has been hampered by their epistasis and functional redundancy. Using ChIP-seq combined with genome wide association analysis, we uncovered a developmental regulator that controls both categories of traits while acting upstream of multiple domestication loci. Mapping of four maize domestication and improvement QTL identified tasselsheath4 (tsh4) as a strong candidate gene. We show that tsh4 functions redundantly with a pair of homologs to bind and activate three domestication genes, teosinte branched1, tassels replace upper ears1 and teosinte glume architecture1. tsh4 is in fact a novel domestication gene that establishes developmental boundaries and specifies meristem versus lateral organ fates. TSH4 does this by employing an unusual mechanism where it targets and represses the very same microRNAs that negatively regulate it via a double negative feedback loop. TSH4 then cements these boundaries by binding to AUX IAA genes to repress auxin responsiveness in lateral organs and redirect the flow of auxin to axillary meristems to enable their growth. One such meristem is the spikelet pair meristem that is responsible for doubling seed yield in maize versus teosinte and is missing in higher order tsh4 mutants. A comparison of the maize versus teosinte alleles of tsh4 within introgressed backgrounds revealed that the former contains a small intron deletion and is more highly expressed. Thus, by selecting for this high expressing allele early farmers were able to modify a variety of key architectural traits to maximize yield gain, placing tsh4 at the top of the domestication hierarchy.
+
+<a href='mailto:zbdong@cau.edu.cn'>Dong, Zhaobin</a><sup>1 2</sup><br><a href='mailto:s20203010070@cau.edu.cn'>Hu, Gaoyuan</a><sup>2</sup><br><a href='mailto:myrmica2@gmail.com'>Shemyakina, Elena</a><sup>1</sup><br><a href='mailto:whipple@byu.edu'>Whipple, Clinton</a><sup>3</sup><br><a href='mailto:georgechuck@berkeley.edu'>Chuck, George</a><sup>1</sup><br>
+
+<sup>1</sup>University of California Berkeley, Albany, CA USA 94710<br><sup>2</sup>China Agricultural University, No. 2 Haidian District, Beijing, China<br><sup>3</sup>Brigham Young University, Provo, UT, USA 84602<br>

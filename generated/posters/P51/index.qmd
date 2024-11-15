@@ -1,0 +1,20 @@
+---
+title: "Roles of vacuolar invertase genes (Ivr1 & Ivr2) in the pollination biology of maize"
+subtitle: "P51"
+author: "Katherine Gray"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/05/DNA_base-pair_diagram.jpg"
+categories: 
+- Biochemical and Molecular Genetics
+- Odd Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Invertases are essential to developing kernels and other tissues that depend on import of sucrose transported from leaves. These enzymes are pivotal to sucrose and catalyze the first step in its metabolism. In addition, vacuolar invertases can link sucrose import to cellular expansion in growing tissues. The Ivr1 invertase is expressed primarily in male plant parts (anthers and pollen), whereas Ivr2 localizes to female parts (silks) and root tips. Together they can markedly impact pollination success. The Ivr1 gene also shows a "domestication signature" suggesting a selective advantage during ancient breeding and emphasizing its biological significance. The goal of this work is to determine the contributions by each of these invertases to pollination biology of maize. Genetic materials (knock-out mutants) have been developed that will allow individual roles to be tested. Four distinct lines with mutant alleles disrupting the Ivr genes at different sites have been confirmed, two disrupting the Ivr1 gene and two disrupting the Ivr2 gene. These provide a foundation for in-depth exploration. Phenotypical analysis of invertase mutants are ongoing, with preliminary results showing an increased anthesis silking interval and stunted pollen germination in the mutants of both the Ivr1 and Ivr2 genes; two factors pivotal to pollination success. Molecular analyses by PCR and qPCR will parallel field studies to quantify the expression of both genes at crucial sites during pollination, particularly in tissues of rapid cellular expansion, such as the silks and the filaments. In an era of growing demand for sustainable food production, understanding the intricate genetic underpinnings of yields from vital crop species like maize is essential. This research will help dissect complex genetic interactions that sustain a crop that feeds the world, with far-reaching implications for agricultural innovation and global food security.
+
+<a href='mailto:kgray3@ufl.edu'>Gray, Katherine</a><sup>1</sup><br><a href='mailto:guanjc@ufl.edu'>Guan, Jiahn-Chou</a><sup>1</sup><br><a href='mailto:darcy.jordan@ufl.edu'>Jordan, Darcy</a><sup>1</sup><br><a href='mailto:kekoch@ufl.edu'>Koch, Karen</a><sup>1</sup><br>
+
+<sup>1</sup>University of Florida, Department of Horticultural Sciences, Fifield Hall 2550 Hull Rd., Gainesville, FL, 32611 USA<br>

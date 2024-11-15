@@ -1,0 +1,20 @@
+---
+title: "Single parent expression and heterosis in a diverse diallel F1 population"
+subtitle: "P265"
+author: "Samantha Snodgrass"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5e/Aztec_Diet_Basket_of_Corn_%289755332575%29.jpg"
+categories: 
+- Quantitative Genetics & Breeding
+- Odd Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+The genetic mechanism underlying heterosis has been studied for over 100 years, resulting in several possible genetic models. The complementation model has the most empirical support, stating the masking of recessive, deleterious alleles underlies heterosis. This implies more distantly related populations that are distinguished by more genetic variants will produce hybrids with higher heterosis. An extreme pattern of differential gene expression called single parent expression (SPE) supports this hypothesis. SPE occurs when the hybrid and one parent express a gene while the other parent does not, leading to a greater number of genes expressed in the hybrid than either parent. Previous work has identified the patterns and genetic mechanisms of SPE in temperate maize, but wider crosses (e.g., between temperate and tropical lines) have not been studied. The phenotypic consequences of SPE have also recieved little attention. Here, we developed a full diallel population from thirteen diverse inbred maize lines, including temperate and tropical germplasm, to address these questions. In 2020, fourteen traits related to plant architecture, yield, and growth rate were measured in Ames, IA, with most traits showing extreme heterosis. Greater heterosis was observed with more distantly related crosses and was not constrained to crosses between historically important heterotic groups. RNA-sequence data generated for each genotype in the half-diallel identified SPE. Across genotypes, the number of SPE genes ranged from 28 to 374, with significantly more paternal expressed SPE occurring and most SPE private to one or two genotypes. While the amount of SPE did not correlate to genetic distance of the parents (Pearson's correlation = 0.058), crosses between the same heterotic groups may share more SPE. The results of this study will strengthen the claim of SPE gene expression as an extreme example of the complementation model of heterosis.
+
+<a href='mailto:snodgras@iastate.edu'>Snodgrass, Samantha J.</a><sup>1</sup><br><a href='mailto:arnstrm@iastate.edu'>Seetharam, Arun S.</a><sup>1 2</sup><br><a href='mailto:mlsyring@iastate.edu'>Syring, Michael L.</a><sup>1</sup><br><a href='mailto:mhufford@iastate.edu'>Hufford, Matthew B.</a><sup>1</sup><br>
+
+<sup>1</sup>Department of Ecology, Evolution, and Organismal Biology, Iowa State University, Ames IA, 50010<br><sup>2</sup>Department of Genetics, Development, and Cellular Biology, Iowa State University, Ames, IA, 50010<br>

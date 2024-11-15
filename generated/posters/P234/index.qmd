@@ -1,0 +1,20 @@
+---
+title: "Host-specificities of microbial consortia revealed by metagenomic approaches in Sorghum bicolor"
+subtitle: "P234"
+author: "Phil Brailey-Jones"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5e/Aztec_Diet_Basket_of_Corn_%289755332575%29.jpg"
+categories: 
+- Quantitative Genetics & Breeding
+- Even Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Plant-microbiome interactions play important roles in mediating plant responses to ever changing environmental conditions. Arbuscular mycorrhizal fungi (AMF) are key symbionts of many plants and can provide benefits to their host such as enhanced nutrient uptake and drought tolerance. Close AMF-bacterial interactions may also make a historically underappreciated contribution to the symbiosis through mechanisms such as nutrient ion release from the surrounding soil. Understanding this tripartite interaction will allow us to develop strategies for maximizing microbiome benefits to bioenergy crops such as sorghum that are grown with few inputs on marginal land to avoid competition with food crops. Through multi-year field trials across contrasting ecoregions in the United States (GA and AZ), we seek to identify genotypes that can best benefit from AMF associations, and sorghum genetic markers related both to the symbiosis and specific partner choice. Here, we present results from the ongoing analysis of the first year GWAS study in GA where we implemented a factorial N/P fertilization experiment for 337 sorghum genotypes from a bioenergy association panel. Through this, we documented the extent of variation in both aboveground yield phenotypes and the AMF species recruited by individual genotypes across the panel. We also have used this system to explore methods of how to best identify and quantify the composition and abundance of bacterial consortia within plant roots. On a subset of samples from the factorial fertilization treatments, we implemented both amplicon and whole-genome shotgun sequence approaches to develop more accurate quantitation methods of microbial abundances based on host-plant sequence normalization. Through this approach, we reveal patterns in bacterial composition not apparent from traditional analysis alone.
+
+<a href='mailto:pab14613@uga.edu'>Brailey-Jones, Philip</a><sup>1</sup><br><a href='mailto:thpiv@uga.edu'>Pendergast IV, Thomas H</a><sup>2 3 4</sup><br><a href='mailto:ashton.brinkley@uga.edu'>Brinkley, Ashton K</a><sup>1</sup><br><a href='mailto:sarah.mondibrown@uga.edu'>Mondibrown, Sarah R</a><sup>1</sup><br><a href='mailto:ndenum.shitta@uga.edu'>Shitta, Ndenum S</a><sup>1</sup><br><a href='mailto:fingermillet@uga.edu'>Devos, Katrien M</a><sup>2 3 4</sup><br><a href='mailto:maize@uga.edu'>Bennetzen, Jeffrey L</a><sup>1</sup><br>
+
+<sup>1</sup>Department of Genetics, University of Georgia, Athens, GA<br><sup>2</sup>Department of Plant Biology, University of Georgia, Athens, Ga<br><sup>3</sup>Department of Crop and Soil Sciences, University of Georgia, Athens, GA<br><sup>4</sup>Institute of Plant Breeding, Genetics and Genomics, University of Georgia, Athens, GA<br>

@@ -1,0 +1,20 @@
+---
+title: "Maize rough endosperm6 (rgh6) encodes a predicted DEAD-box RNA helicase and affects miRNA processing in endosperm development"
+subtitle: "P40"
+author: "Tianxiao Yang"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/05/DNA_base-pair_diagram.jpg"
+categories: 
+- Biochemical and Molecular Genetics
+- Even Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Maize rough endosperm (rgh) mutants have defective kernels with a rough, etched, or pitted endosperm surface. Molecular genetic analysis of this mutant class has identified multiple RNA processing proteins critical to endosperm development. Here, we isolated the rgh6 mutant using forward genetic screen strategy from UniformMu transposon tagging population. The rgh6 mutant disrupts seed development with reduced endosperm size and shifted embryo position. The rgh6 mutant shows endosperm-embryo developmental interaction, in which normal embryo fails to develop in conjunction with mutant endosperm. Molecular cloning of the rgh6 locus suggested that it encodes a predicted DEAD-box RNA helicase. The Rgh6 transcripts is highly expressed in endosperm epidermal cells, and the RGH6 protein is localized to nucleolus and nuclear speckles. The rgh6 mutant shows increased precursor miRNA (pre-miRNA), decreased mature miRNA, and increased miRNA targets accumulation, indicating that rgh6 is required for miRNA processing. Our study demonstrated that maize rgh6 is a predicted DEAD-box RNA helicase required for miRNA processing and endosperm differentiation.
+
+<a href='mailto:tianxiao.yang@ufl.edu'>Yang, Tianxiao</a><sup>1 2</sup><br><a href='mailto:masaharu@ufl.edu'>Suzuki, Masaharu</a><sup>1 2</sup><br><a href='mailto:lchannah@ufl.edu'>Hannah, L. Curtis</a><sup>1 2</sup><br><a href='mailto:andrew.m.settles@nasa.gov'>Settles, A. Mark</a><sup>1 2 3</sup><br>
+
+<sup>1</sup>Plant Molecular and Cellular Biology Program, University of Florida, Gainesville, Florida, USA<br><sup>2</sup>Horticultural Sciences Department, University of Florida, Gainesville, Florida, USA<br><sup>3</sup>Bioengineering Branch, NASA Ames Research Center, Moffett Field, California, USA<br>

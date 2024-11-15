@@ -1,0 +1,20 @@
+---
+title: "Genetic determinants of hybrid decay in backcross populations of maize"
+subtitle: "P287"
+author: "Manisha Munasinghe"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b3/Genetic_corn.jpg"
+categories: 
+- Transposons & Epigenetics
+- Odd Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Hybrid incompatibilities triggered by wide crosses can limit plant breeders’ ability to utilize broad allelic diversity present in wild relatives of crop species. An unusual type of hybrid incompatibility has been characterized between maize and its wild relative the Mexican teosinte - a “hybrid decay” in which the fitness of backcrosses progressively declined despite becoming practically isogenic to maize. Initial analyses suggest that this sickly phenotype may be caused by improper regulation of transposable elements (TEs) in hybrids. Here, we further explore both the phenotype and the genetic determinants underlying hybrid decay in backcross populations. We have confirmed the transmission of hybrid decay into two distinct genetic backgrounds, B73 and Mo17, and its persistence in 5 generations of backcrossing to the healthy parental line. Backcrossed individuals show reduced values for several traits, and there is a slight increase in severity of hybrid decay if it is transmitted maternally rather than paternally. We performed long-read whole genome sequencing using Nanopore on a single BC11 individual descending from the initial cross between W22 and the teosinte sourced from Valle de Bravo, Mexico that produces the hybrid decay phenotype. We are now characterizing structural variation between the BC11 line that exhibits hybrid decay and the W22 reference genome to determine the extent of unregulated TE variation in the genome.
+
+<a href='mailto:mmunasin@umn.edu'>Munasinghe, Manisha</a><sup>1</sup><br><a href='mailto:andrew.read@usda.gov'>Read, Andrew C.</a><sup>2</sup><br><a href='mailto:herma074@umn.edu'>Hermanson, Peter J.</a><sup>3</sup><br><a href='mailto:ybrandva@umn.edu'>Brandvain, Yaniv</a><sup>1 4</sup><br><a href='mailto:cnhirsch@umn.edu'>Hirsch, Candice N.</a><sup>3</sup><br><a href='mailto:springer@umn.edu'>Springer, Nathan</a><sup>1 5</sup><br>
+
+<sup>1</sup>Department of Plant and Microbial Biology, University of Minnesota, St. Paul, MN, 55108, USA<br><sup>2</sup>Agricultural Research Service, US Department of Agriculture, St. Paul, MN, 55108<br><sup>3</sup>Department of Agronomy and Plant Genetics, University of Minnesota, St. Paul, MN, 55018, USA<br><sup>4</sup>Department of Ecology, Evolution, and Behavior, University of Minnesota, St. Paul, MN, 55108, USA<br><sup>5</sup>Bayer Crop Science, Chesterfield MO 63017<br>

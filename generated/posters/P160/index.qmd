@@ -1,0 +1,20 @@
+---
+title: "Mapping loci controlling sorghum seed color using computer vision models pre-trained in distantly related grain crops"
+subtitle: "P160"
+author: "Nikee Shrestha"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e5/ENIAC-changing_a_tube.jpg"
+categories: 
+- Computational and Large-Scale Biology
+- Even Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Bioactive compounds like tannins, polyphenols, and other antioxidants are becoming more popular, and sorghum has a significant diversity of these compounds, represented by different seed colors. Computer vision models have the potential to enable rapid, accurate measurements of seed color with lower cost and human labor input. However, to date, the majority of published applications of these models have relied on building and training models for specific crop species, requiring both large ground truth datasets and substantial computational and machine-learning expertise from the researcher. Here, we evaluated the potential of transferring previously trained and published models for rice and wheat grain phenotyping to new applications in a new crop (sorghum). The model trained on rice seeds was selected based on seed segmentation accuracy in sorghum and used to segment scans of sorghum seeds from 1664 unique plots from a replicated sorghum diversity panel field experiment. Three seed morphology and six color-related traits were scored from the segmented scans. GWAS for seed morphology traits, conducted using a subset of sorghum genotypes for which whole genome resequencing data was available, identified 23 trait-associated SNPs, a number of which corresponded to previously described QTLs for sorghum seed size. GWAS for seed color phenotypes identified two known large-effect loci for seed color in sorghum (y1 and tan1) as well as an independently segregating large-effect seed color locus near the y1 locus, which exhibited significantly non-additive phenotypic interactions with y1. The effect of the newly identified locus was validated via genotyping a set of 96 additional sorghum genotypes not included in the original GWAS study. These results illustrate the potential and challenges of transferring computer vision-based grain phenotyping from proof of concept studies to application in biological question-focused research.
+
+<a href='mailto:nshrestha5@huskers.unl.edu'>Shrestha, Nikee</a><sup>1</sup><br><a href='mailto:vladimir.torres@unl.edu'>Torres-Rodriguez, J. Vladimir</a><sup>1</sup><br><a href='mailto:mtross2@huskers.unl.edu'>Tross, Michael C.</a><sup>1</sup><br><a href='mailto:llopez-corona2@unl.edu'>Lopez-Corona, Lina</a><sup>1</sup><br><a href='mailto:klinders2@unl.edu'>Linders, Kyle</a><sup>1</sup><br><a href='mailto:s.guangchao@gmail.com'>Sun, Guangchao</a><sup>1</sup><br><a href='mailto:ravi.mural@sdstate.edu'>Mural, Ravi V.</a><sup>2</sup><br><a href='mailto:schnable@unl.edu'>Schnable, James C.</a><sup>1</sup><br>
+
+<sup>1</sup>Center of Plant Science Innovation and Department of Agronomy and Horticulture, University of Nebraska, Lincoln, NE, USA<br><sup>2</sup>Department of Agronomy, Horticulture and Plant Science, South Dakota State University, Brookings, SD 57007, USA<br>

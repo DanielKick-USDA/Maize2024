@@ -1,0 +1,20 @@
+---
+title: "Determination of genetic and epigenetic regulations of meiotic recombination under domestication in maize"
+subtitle: "P298"
+author: "Akwasi Yeboah"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/9a/CollapsedtreeLabels-simplified-fi.svg"
+categories: 
+- Evolution and Population Genetics
+- Even Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Meiotic recombination involves the exchange of genetic material between homologous chromosomes, playing a key role in evolution and genetic diversity. Meiotic crossovers are not evenly distributed on chromosomes; instead, they are enriched in hotspots controlled by both genetic and epigenetic factors. In maize, meiotic recombination has significantly contributed to its domestication. However, the specific mechanisms of meiotic recombination influencing maize domestication remain largely unexplored. In this study, our objective is to elucidate the genetic and epigenetic mechanisms orchestrating meiotic recombination during the domestication of maize. Our investigation encompasses a comprehensive range of maize lines, including 5 teosintes, 7 landraces, and 16 cultivars. These lines were selected because they maximize genetic diversity and thus are most likely to show variation for recombination. Currently, we have obtained data from two teosinte lines (BT1 and BT2) and 14 cultivars. Our results reveal significant differences in genetic distance and crossover numbers between the two teosinte lines, indicating wide genetic diversity between them. Moreover, estimation of the recombination rate shows that BT2 recombines at a lower rate compared to BT1, further highlighting the divergence between these two teosinte lines. Comparatively, while one of the teosinte lines displays the highest number of crossovers, the other exhibits the lowest crossover numbers in comparison to the 14 cultivated lines, indicating substantial variations between these groups. Our next step is to complete the analysis of the remaining maize lines and perform further investigations to enhance our understanding of the mechanisms involved in meiotic recombination in maize.
+
+<a href='mailto:akwasiyeboah@ufl.edu'>Yeboah, Akwasi</a><sup>1</sup><br><a href='mailto:lee.gwonjin@ufl.edu'>Lee, Gwonjin</a><sup>1</sup><br><a href='mailto:meixiazhao@ufl.edu'>Zhao, Meixia</a><sup>1</sup><br>
+
+<sup>1</sup>University of Florida<br>

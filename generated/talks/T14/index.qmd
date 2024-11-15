@@ -1,0 +1,19 @@
+---
+title: "Genomic structural variation underlies differential root responses to nitrogen stress in maize"
+subtitle: "T14"
+author: "Stephanie Klein"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5e/Aztec_Diet_Basket_of_Corn_%289755332575%29.jpg"
+categories: 
+- Quantitative Genetics & Breeding
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Uncovering the functional relationships between genome and phenome are critical for efficiently selecting desirable traits for plant resilience to environmental stress. Unlike genomic prediction that uses markers to link genotype to phenotype, whole genome assemblies can be used to predict phenotypic outcomes based on structural variation in genic and the vast intergenic regions. Using the maize Nested Association Mapping (NAM) population, we sought to identify structural variants associated with root growth angle (RGA), a root architectural trait that is important for nitrogen (N) acquisition and plastic in low N environments. Gene candidates contributing to RGA have been recently detected, but the genetic control of its plasticity is poorly understood. We surveyed the NAM founders in the field under high and low N and identified two genotypes that warranted further investigation because of their contrasting root responses to low N: B73 (steep-angled and non-responsive to stress) and Oh7B (whose RGA became significantly steeper under low N). In a followup field study, we observed a wide range of RGA plasticity in response to low N in the NAM family of recombinant inbred lines derived from B73 and Oh7B. Using linkage mapping, we identified genomic regions associated with RGA plasticity and evaluated these regions further by developing a tool to compare genomic structural variation between B73 and Oh7B. To bridge the gap between phenotypes and genome regions, we also assessed differential transcript abundance within these regions using RNAseq to identify specific elements that could account for these differential phenotypic responses to low N. Our results demonstrate that we can identify new breeding targets for increased resiliency by using a multiomics approach.
+
+<a href='mailto:spklein@iastate.edu'>Klein, Stephanie P.</a><sup>1</sup><br><a href='mailto:bacharya@iastate.edu'>Acharya, Bimala</a><sup>1</sup><br><a href='mailto:kaitlinj@iastate.edu'>Higgins, Kaitlin</a><sup>1</sup><br><a href='mailto:arowzee@iastate.edu'>Rowzee, Anna</a><sup>1</sup><br><a href='mailto:ellatown@iastate.edu'>Townsend, Ella</a><sup>1</sup><br><a href='mailto:connerv@iastate.edu'>Valentine, Conner</a><sup>1</sup><br><a href='mailto:sna@iastate.edu'>Anderson, Sarah</a><sup>1</sup><br>
+
+<sup>1</sup>Department of Genetics, Developmental & Cell Biology; Iowa State University; Ames, IA, USA, 50011<br>

@@ -1,0 +1,20 @@
+---
+title: "Genetic legacies of the first ancient South American State in archaeological maize"
+subtitle: "P301"
+author: "Heather Chamberlain-Irwin"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/9a/CollapsedtreeLabels-simplified-fi.svg"
+categories: 
+- Evolution and Population Genetics
+- Odd Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Moquegua Valley in South Peru has an ancient legacy of maize cultivation and colonization preceding European contact. While maize arrived in Peru ~6,600 BP at least partially domesticated, documented movement of maize within the Andes and admixture with Mexican varieties suggests a complicated evolutionary history. Moquegua Valley inhabitants gradually increased cultivation of maize over several thousand years, with more diverse subsistence farming dominating for much of the region’s history. Trade networks were well developed between the peoples of the Valley and the high-altitude regions of the Andes, including the Tiwanaku state. By tracing highland and lowland alleles and studying trait selection over 1,500 years of human occupation, this research provides insight into the co-evolution of humans and maize. We document early maize traits under selection and explore the impacts of Tiwanaku colonization of the Moquegua Valley. Our methodology analyzes ancient DNA from AMS-dated archaeological maize specimens spanning thousands of years to understand how Tiwanaku state colonization influenced maize genomics, advancing our comprehension of the human-maize relationship. Comparisons to modern maize help assess the legacy of these processes within current germplasm. Moreover, broader impacts will empower of local farmers through documentation and curation of diverse regional germplasm, provide educational opportunities through training of undergraduate and graduate students, and establish a meaningful link between the past and the present for future researchers.
+
+<a href='mailto:hchamber@iastate.edu'>Chamberlain-Irwin, Heather N.</a><sup>1</sup><br><a href='mailto:asomervi@iastate.edu'>Somerville, Andrew D.</a><sup>2</sup><br><a href='mailto:mhufford@iastate.edu'>Hufford, Matthew B.</a><sup>1</sup><br>
+
+<sup>1</sup>Ecology, Evolution, and Organismal Biology Department, Iowa State University, Ames, Iowa. United States, 50011<br><sup>2</sup>World Language Cultures Department, Iowa State University, Ames, Iowa. United States, 50011<br>

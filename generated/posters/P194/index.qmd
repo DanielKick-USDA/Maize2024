@@ -1,0 +1,20 @@
+---
+title: "A comparative approach for selecting orthologous candidate genes underlying signal in elemental accumulation genome-wide association studies across multiple species"
+subtitle: "P194"
+author: "Lauren Whitt"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5e/Aztec_Diet_Basket_of_Corn_%289755332575%29.jpg"
+categories: 
+- Quantitative Genetics & Breeding
+- Even Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Advances in quantitative genetics and high-throughput pipelines have allowed for rapid identification of genomic markers associated with changes in phenotype. However, linking those markers to causal genes is still difficult, as many genes may be linked to one marker. We aimed to improve candidate gene selection by creating a new method that identifies conserved genes underlying GWAS loci in multiple species. Using this method with GWAS measuring elemental uptakes (ionomic) traits, we identified 14,336 candidates across Arabidopsis, soybean, rice, maize, and sorghum. Acquiring and homeostatically maintaining the cellular concentrations of elements are functions shared by all living organisms. Thus, it was not surprising to find that nine ortholog groups linked to GWAS loci across all five species contained the most likely candidate genes according to calculations using random permutations of the data. These 5/5 ortholog groups include seven orthologs in maize and thirteen in sorghum. Two ortholog groups have previously known elemental uptake functions, and the rest contain orthologs suggested to have previously unknown functions. We verified these predictions in the Arabidopsis orthologs by measuring ionomic phenotypes of T-DNA mutants and are identifying alleles of orthologs in maize and sorghum for similar mutant screens. Our methods highlight the conserved nature of ionomic genetic regulators and enable the identification of previously unknown ionomic genes.
+
+<a href='mailto:lwhitt@danforthcenter.org'>Whitt, Lauren</a><sup>1 6</sup><br><a href='mailto:mjanik@danforthcenter.org'>Janik, Magdalena</a><sup>1</sup><br><a href='mailto:elizabeth.mahood@corteva.com'>Mahood, Elizabeth</a><sup>1</sup><br><a href='mailto:gziegler@danforthcenter.org'>Ziegler, Greg</a><sup>1</sup><br><a href='mailto:cluebbert@danforthcenter.org'>Luebbert, Collin</a><sup>1</sup><br><a href='mailto:jason.gillman@ars.usda.gov'>Gillman, Jason D.</a><sup>2</sup><br><a href='mailto:g.norton@abdn.ac.uk'>Norton, Gareth J.</a><sup>3</sup><br><a href='mailto:a.price@abdn.ac.uk'>Price, Adam H.</a><sup>3</sup><br><a href='mailto:prof.david.e.salt@proton.me'>Salt, David E.</a><sup>4</sup><br><a href='mailto:bdilkes@purdue.edu'>Dilkes, Brian P.</a><sup>5</sup><br><a href='mailto:ibaxter@danforthcenter.org'>Baxter, Ivan</a><sup>1</sup><br>
+
+<sup>1</sup>Donald Danforth Plant Science Center, Saint Louis, MO<br><sup>2</sup>USDA-ARS Plant Genetics Research Unit, Columbia, MO<br><sup>3</sup>University of Aberdeen, Aberdeen, UK<br><sup>4</sup>University of Nottingham, Nottingham, UK<br><sup>5</sup>Purdue University, West Lafayette, IN<br><sup>6</sup>University of Missouri, Columbia, MO<br>

@@ -1,0 +1,20 @@
+---
+title: "Unraveling the chromatin environment of double-strand breaks leading to crossovers and non-crossovers"
+subtitle: "P171"
+author: "Quinn Johnson"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e5/ENIAC-changing_a_tube.jpg"
+categories: 
+- Computational and Large-Scale Biology
+- Odd Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Meiotic recombination is initiated by the formation of double-strand breaks (DSBs), in chromosomal DNA, which are subsequently repaired to result in crossovers (COs) or non-crossovers (NCOs). COs occur when there is a reciprocal exchange of genetic material between homologous chromosomes. NCO formation, which is how the majority of DSBs get repaired, occurs through DNA synthesis, utilizing either the sister chromatid or the homologous chromosome as the template. Chromatin environment is thought to play a role in controlling the distribution patterns of both DSBs and COs. Interestingly, there are indications that the chromatin environment of DSBs that become repaired into COs are distinct from the chromatin environment of DSBs that result as NCOs. We aim to identify the specific chromatin features that facilitate these two types of repair. To do this, we use machine learning (ML) to analyze high-resolution maps of DSBs, CO-intermediates, and COs. Understanding how the chromatin environment facilitates CO formation will help us design methods to control where COs occur in the genome.
+
+<a href='mailto:qyj2@cornell.edu'>Johnson, Quinn</a><sup>1</sup><br><a href='mailto:bukowski@cornell.edu'>Bukowski, Robert</a><sup>2</sup><br><a href='mailto:wp45@cornell.edu'>Pawlowski, Wojciech</a><sup>1</sup><br>
+
+<sup>1</sup>School of Integrative Plant Science, Plant Breeding and Genetics Section, Cornell University<br><sup>2</sup>Bioinformatics Facility, Cornell Institute of Biotechnology<br>

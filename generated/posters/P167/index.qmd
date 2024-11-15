@@ -1,0 +1,20 @@
+---
+title: "The establishment and progression of microbial communities associated with the developing seedling roots of maize and sorghum"
+subtitle: "P167"
+author: "Josue Fernandez Canela"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e5/ENIAC-changing_a_tube.jpg"
+categories: 
+- Computational and Large-Scale Biology
+- Odd Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+All plant seeds carry ectopic and/or internal microbes that can become a major component of the developing plant’s microbiome. Very little is known about the biology of the early seedling participants in microbiome communities in any organism or organ, including the root tissues of grasses. We used a time course of shotgun RNA and DNA sequence analysis of root samples taken from maize seedlings transplanted into a field on the University of Georgia campus to identify and quantify the changes ongoing during early stages of seedling development. These stages included replicates for 4 data points in the first 24 hours after these 14-day-old seedlings were transplanted into the field. Three different genotypes of sorghum were studied in parallel, to look for host genotype effects, and another set of identical experiments was performed at the same time with maize inbred B73. A huge diversity of microbes was detected, from all kingdoms of life, but a much lower diversity than seen in the surrounding rhizosphere or adjacent root-free soil. We will present analyses indicating the temporal, successional, functional, and host-species-specific processes that occur in this dynamic, complex environment.
+
+<a href='mailto:jf68753@uga.edu'>Fernandez-Canela, Josue</a><sup>1</sup><br><a href='mailto:maize@uga.edu'>Bennetzen, Jeffrey L.</a><sup>2</sup><br>
+
+<sup>1</sup>Department of Plant Biology, University of Georgia, Athens, GA<br><sup>2</sup>Department of Genetics, University of Georgia, Athens, GA<br>

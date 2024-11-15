@@ -1,0 +1,20 @@
+---
+title: "Insights into genomic regions associated with resistance and susceptibility to Gibberella ear rot"
+subtitle: "P29"
+author: "Sarah Lipps"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/05/DNA_base-pair_diagram.jpg"
+categories: 
+- Biochemical and Molecular Genetics
+- Odd Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Phytopathogenic fungi are some of the most damaging plant pathogens. In maize, ears can be colonized and infected with the fungus Fusarium graminearum, the causal agent of Gibberella ear rot (GER). Infected grain contains mycotoxins that causes severe health risks to humans and livestock when consumed. Host resistance is an important management strategy for GER. In 2021 and 2022 we screened a diverse panel of maize lines (n= 318) for resistance and identified markers associated with GER resistance and toxin accumulation. We then selected and screened near-isogenic lines based on our findings and the literature regarding GER resistance. The selected near-isogenic lines are either in a B73 background with introgressions from teosinte (n= 25) or Oh43 (n= 72), or in an H100 background with introgressions from NC344 (n= 202). We evaluated these lines for resistance to GER in 2023 in Urbana, IL. In the B73 × Oh43, B73 × teosinte, and NC344 × H100 populations most lines were moderately resistant with a slight skew towards susceptibility. We identified multiple lines that were significantly different (α = 0.05) from their recurrent parent based on a Dunnett's post hoc test. A total of 6 and 3 lines were significantly more susceptible than B73 in the B73 × Oh43 and B73 × teosinte populations, respectively. In the NC344 × H100 population, 14 lines were significantly more resistant than NC344. We then identified regions associated with susceptibility and resistance. We plan to evaluate the selected near-isogenic lines again in 2024 to validate our findings. We believe that these lines will be useful for exploring the mechanisms underlying susceptibility to GER.
+
+<a href='mailto:slipps@illinois.edu'>Lipps, Sarah</a><sup>1</sup><br><a href='mailto:cbuttsw@siue.edu'>Butts-Wilmsmeyer, Carolyn</a><sup>2 3</sup><br><a href='mailto:mbohn@illinois.edu'>Bohn, Martin</a><sup>1</sup><br><a href='mailto:tjamann@illinois.edu'>Jamann, Tiffany</a><sup>1</sup><br>
+
+<sup>1</sup>University of Illinois, Urbana, IL Department of Crop Sciences<br><sup>2</sup>Southern Illinois University, Edwardsville, IL Center for Predictive Analytics<br><sup>3</sup>Southern Illinois University, Edwardsville, IL Department of Biological Sciences<br>

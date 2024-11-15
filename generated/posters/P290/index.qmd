@@ -1,0 +1,20 @@
+---
+title: "Influence of the DNA glycosylase MDR1 on histone modifications in endosperm"
+subtitle: "P290"
+author: "Yirui Sun"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b3/Genetic_corn.jpg"
+categories: 
+- Transposons & Epigenetics
+- Even Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+DNA demethylation by DNA glycosylases is essential for endosperm development. Demethylation of the maternal but not paternal genome results in genomic imprinting at genes where demethylation is required for transcriptional activation. In maize, two closely related DNA glycosylases, MDR1 (a.k.a. DNG101) and DNG102, redundantly perform this function, but MDR1 has a stronger effect. The majority of their target loci appear to be demethylated but not transcriptionally activated. To determine how transcriptional activation is related to chromatin structure, we used CUT&Tag in wild-type and mdr1 mutant endosperm with antibodies for two histone modifications, H3K56ac for active chromatin, and H3K27me3 for repressive chromatin. While many MDR1 target loci are associated with H3K56ac, more commonly they are associated with H3K27me3. Many of these loci have H3K27me3 specifically in endosperm, where they are demethylated. These results suggest that the removal of one form of transcriptional repression from the maternal genome (DNA methylation) is replaced by another (H3K27me3) to maintain repression, albeit by a different mechanism. We are currently searching for genetic features that could explain which loci gain H3K27me3 when they are demethylated by MDR1 and which loci gain H3K56ac. We also hope through this work to learn why some loci but not others are demethylated in endosperm, and how that demethylation affects chromatin structure and transcription. Understanding interactions between DNA demethylation and histone modifications will provide insights into the genes and processes that control endosperm development.
+
+<a href='mailto:s.yirui@uga.edu'>Sun, Yirui</a><sup>1</sup><br><a href='mailto:dwkim07@uga.edu'>Kim, Dong won</a><sup>2</sup><br><a href='mailto:gent@uga.edu'>Gent, Jonathan I.</a><sup>2</sup><br>
+
+<sup>1</sup>Institute of Bioinformatics, University of Georgia, Athens, GA, USA 30602<br><sup>2</sup>Department of Plant Biology, University of Georgia, Athens, GA, USA 30602<br>

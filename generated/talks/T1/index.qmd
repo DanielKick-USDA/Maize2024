@@ -1,0 +1,19 @@
+---
+title: "An exocyst component ZmEXO70F4 coordinates with jasmonate signaling pathway to regulate maize immunity to Gibberella stalk rot"
+subtitle: "T1"
+author: "Xiquan Gao"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/05/DNA_base-pair_diagram.jpg"
+categories: 
+- Biochemical and Molecular Genetics
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Gibberella Stalk Rot (GSR) caused by Fusarium graminearum is one of the most devastating diseases worldwide, which significantly reduces the production and quality, and restricts the application of mechanic harvesting technology in maize. Despite that several resistance genes associated with GSR have been cloned, more candidate genes need to be characterized, and the complex genetic and molecular mechanisms underlying GSR immunity await to be fully dissected, considering that the trait is controlled by many minor-effect loci. We identified a novel GSR-resistant QTN qRGS1, and ZmExo70F4 was identified as the candidate gene via Genome-wide association study (GWAS), allelic analysis, and gene functional analysis. Using yeast-two hybrid library screening, combined with RNA-seq and WGCNA, multiple immune signaling components, including those from jasmonates signaling pathways, were identified to be associated with ZmExo70F4-meidated immunity to GSR. The interactions between ZmEXO70F4 and its potential interacting proteins including ZmMYC7 was confirmed and their functions in GSR immunity were validated. ZmMYC7 was further found to modulate GSR immunity through regulating isoflavonoids production. The results obtained will not only help us to deep insights into the complex GSR resistance mechanisms, but also provide novel genetic resources for molecular breeding of maize stalk rot resistance.
+
+<a href='mailto:xgao@njau.edu.cn'>Gao, Xiquan</a><sup>1 2 3</sup><br>Ma, Liang<sup>1 2 3</sup><br>Xie, Fugui<sup>1 2 3</sup><br>Wang, Qing<sup>1 2 3</sup><br>
+
+<sup>1</sup>State Key Laboratory of Crop Genetics & Germplasm Enhancement and Utilization, Nanjing Agricultural University, Nanjing, Jiangsu Province, 210095, P. R. China<br><sup>2</sup>College of Agriculture, Nanjing Agricultural University, Nanjing, Jiangsu Province, 210095, P. R. China<br><sup>3</sup>Collaborative Innovation Center for Modern Crop Production co-sponsored by Province and Ministry, Nanjing Agricultural University, Nanjing, Jiangsu Province, 210095, P. R. China<br>

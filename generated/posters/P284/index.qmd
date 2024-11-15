@@ -1,0 +1,20 @@
+---
+title: "Dynamic genomic evolution via active LTR transposable elements in maize"
+subtitle: "P284"
+author: "Taylor Isles"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b3/Genetic_corn.jpg"
+categories: 
+- Transposons & Epigenetics
+- Even Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Long terminal repeats (LTR) retrotransposons, found across eukaryotes, are transposable elements which can copy and insert themselves into other loci within a genome. These transposable elements are similar to retroviruses in that they rely on reverse transcriptase to “copy and paste” themselves elsewhere in the host genome. From their own RNA transcript, they are able to use reverse transcriptase to make another DNA copy of themselves. This initially gave them the moniker, selfish genes. However, in the decades after the discovery of reverse transcriptase and LTR retrotransposons, it became known that non-genic DNA could have other functions. LTR retrotransposons are sources of mutation, inserting themselves into and mutating genes within their host organism. However, LTR retrotransposons are prone to mutation themselves, quickly becoming inactive, incapable of transposition. LTR retrotransposons constitute approximately 75% of the total genomic sequence of maize. The vast majority of these LTR retrotransposons are completely inactive. While these inactive retrotransposons can be useful for gleaning information about an organism’s evolutionary history, the rare active LTR retrotransposons are of more interest. They are capable of causing mutations in current maize crosses and maize inbred lines. In this study, we created a tool for filtering out the inactive LTR retrotransposons and locating potentially active ones by adding extra functionalities to the freely available tool “LtrDetector” for locating LTRs. In an initial filter, LtrDetector found over three million potential LTR retrotransposons across thirty publicly available maize lines. After incorporating restrictions for size, an intact primer binding site, a polypurine tract, and coding sequences for reverse transcriptase, RNase and integrase, we narrowed down that large pool of candidates to just 27 potentially active LTR retrotransposons.
+
+<a href='mailto:taylor.isles@outlook.com'>Isles, Taylor</a><sup>1</sup><br><a href='mailto:angadhsingh2064@gmail.com'>Singh, Angadh</a><sup>1</sup><br><a href='mailto:istiaque147@gmail.com'>Chowdhury, Istiaque</a><sup>1</sup><br><a href='mailto:wiggingtons1@montclair.edu'>Wiggington, Shay</a><sup>1</sup><br><a href='mailto:leporel2@mail.montclair.edu'>Lepore, Laura</a><sup>1</sup><br><a href='mailto:duc@montclair.edu'>Du, Charles</a><sup>1</sup><br>
+
+<sup>1</sup>Montclair State University; 1 Normal Ave; Montclair, New Jersey, United States, 07043<br>

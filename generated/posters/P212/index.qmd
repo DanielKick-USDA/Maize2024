@@ -1,0 +1,20 @@
+---
+title: "Developing transformable haploid inducers to meet commercial-scale genome editing in maize"
+subtitle: "P212"
+author: "Xia Zhang"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5e/Aztec_Diet_Basket_of_Corn_%289755332575%29.jpg"
+categories: 
+- Quantitative Genetics & Breeding
+- Even Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Introducing favorable alleles into commercial crop germplasm is time consuming and costly. Two technologies that are disrupting maize breeding are doubled haploids (DH) and genome editing (GE). Recently, DH and GE were combined into HI-Edit TM, a method in which a haploid inducer (HI) line is transformed with a CRISPR cassette to deliver an edit to any maize variety in a single cross, obviating recurrent selection and linkage drag from trait introgression. HI can be achieved through maternal HI system triggered by mutations of MTL/ZmPLA1/NLD, and paternal HI system through engineered CENTROMERIC HISTONE3 (CENH3). Typically, HI lines are less amenable to transformation given their aberrant reproductive characteristics. For HI-Edit TM to operate at commercial scale, there is an urgent need to develop an efficient and transformable HI lines. Leveraging marker assisted selection for HI genes (matl, dmp, R1, and C1) and four generations of phenotyping, we developed maternal MATL HI lines in Iodent and Stiff Stalk germplasm with a combination of high transformability, HI performance, and a dominant anthocyanin embryo marker for haploid identification. In addition, a new paternal CenH3 HI line bred with color marker was developed in Stiff Stalk germplasm showing desirable performances in transformation frequency and HI. These results may facilitate the development of commercially scalable HI-EditTM for maize and other crops.
+
+Delzer, Brent<sup>2</sup><br><a href='mailto:Rachel.Egger@syngenta.com'>Egger, Rachel</a><sup>1</sup><br><a href='mailto:Xia.Zhang@syngenta.com'>Zhang, Xia</a><sup>1</sup><br><a href='mailto:tim.kelliher@syngenta.com'>Kelliher, Tim</a><sup>1</sup><br>
+
+<sup>1</sup>Syngenta Seeds Research, Durham, North Carolina, USA<br><sup>2</sup>Syngenta Seeds Development, Janesville, Wisconsin, USA<br>

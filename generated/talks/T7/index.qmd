@@ -1,0 +1,19 @@
+---
+title: "Harnessing AI for agricultural innovation"
+subtitle: "T7"
+author: "Steve Johnson"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e5/ENIAC-changing_a_tube.jpg"
+categories: 
+- Computational and Large-Scale Biology
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+As the depth and complexity of scientific data and literature expand, the role of artificial intelligence (AI) has become increasingly pivotal. AI techniques are proving to be an indispensable tool for sifting through and integrating disparate streams of information, paving the way for unprecedented breakthroughs. From protein design to cell fate determination, there are a growing number of examples of AI technologies providing key contributions to scientific discovery. Bayer Crop Science is fully engaged in the pursuit of cutting-edge solutions for the next wave of maize agricultural production. To achieve this, we have adopted a multi-level strategy that harnesses the latest developments in AI technology. In this session, we will shed light on how Bayer Crop Science is leveraging AI for large-scale yield prediction, redefining phenotyping with computer vision techniques, and augmenting the productivity of individual scientists. Furthermore, we will unveil our approach to Machine Learning Operations (MLOps), which plays a crucial role in sustaining and advancing the complex array of AI models that are integral to our product development pipeline. This talk aims to provide insights into the multi-level, dynamic contributions AI can play in modern agricultural research.
+
+<a href='mailto:seyedvahid.mirnezami@bayer.com'>Mirnezami, Sayed Vahid</a><sup>1</sup><br>Miao, Chenyong<sup>1</sup><br>Liao, Wei-Ting<sup>1</sup><br>Carpenter, Neal<sup>1</sup><br><a href='mailto:nima.hamidighalehjegh@bayer.com'>Hamidi, Nima</a><sup>1</sup><br>Clark, Kelly<sup>1</sup><br><a href='mailto:steven.johnson1@bayer.com'>Johnson, Steven</a><sup>1</sup><br><a href='mailto:ruth.wagner@bayer.com'>Wagner, Ruth</a><sup>1</sup><br>
+
+<sup>1</sup>Bayer Crop Science; Chesterfield, MO, 63017<br>

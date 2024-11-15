@@ -1,0 +1,20 @@
+---
+title: "Dissecting the genetic architecture of root traits in the MEXIMAGIC population"
+subtitle: "P214"
+author: "Patrick Sydow"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5e/Aztec_Diet_Basket_of_Corn_%289755332575%29.jpg"
+categories: 
+- Quantitative Genetics & Breeding
+- Even Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Within Mexican territory alone, the tireless efforts of generations of farmers have produced 50+ recognized varieties of native maize, adapted to elevations from sea level to well over 3,000 m and environments ranging from semi-desert to the hot, humid tropics. As maize dispersed, it was the roots that most directly faced many challenges posed by new environments. While the diversity of ear morphology readily illustrates the richness of Mexican maize, below-ground traits may be of greatest importance in developing maize varieties for future climates. Here, we present high-throughput root phenotyping approaches that are beginning to provide a picture of the variation in root system architecture and root anatomy to be found in Mexican native maize. We introduce a novel multi-parent advanced generation inter-cross mapping population for Mexican native maize (MEXIMAGIC) and illustrate its application in testing adaptive hypotheses. Following the development of test cross-families developed using eight parent families, the root systems of 169 F1 families were evaluated in a common garden field experiment, allowing for the identification of Quantitative Trait Loci (QTL) for root system width, nodal root number, and lateral root density. Parsing QTL alleles to their respective founders reveals substantial variation in the parental allele effects, displaying diverse phenotypes. Further analysis of these allele effects paired with climate variables describing the native climate of the eight founders allows for the additional identification of putative signals of local adaptation. These adaptive QTL present building blocks for developing maize varieties displaying root systems conferring resistance to abiotic stresses. With more than 500 families, continued use of the MEXIMAGIC population will provide substantial power to identify QTL at a higher resolution. Further evaluations in multiple soil environments will provide additional information into the adaptive potential of parental alleles responsible for root traits conferring resilience in the face of climate change.
+
+<a href='mailto:pws5408@psu.edu'>Sydow, Patrick W.</a><sup>1</sup><br><a href='mailto:sjp6181@psu.edu'>Pérez-Limón, Sergio</a><sup>1</sup><br><a href='mailto:cmc7333@psu.edu'>McLaughlin, Chloee</a><sup>1</sup><br><a href='mailto:mpm5587@psu.edu'>Perryman, Melanie G.</a><sup>1</sup><br><a href='mailto:rjs6686@psu.edu'>Sawers, Ruairidh J. H.</a><sup>1</sup><br>
+
+<sup>1</sup>Department of Plant Science, The Pennsylvania State University, State College, PA, 16802, USA.<br>

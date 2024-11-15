@@ -1,0 +1,20 @@
+---
+title: "MARVEL: An inclusive student persistence framework to close equity gaps in STEM workforce development"
+subtitle: "P187"
+author: "Brandi Sigmon"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/6/69/Leiden_University_Library_-_Seikei_Zusetsu_vol._19%2C_page_019_-_%E7%8E%89%E8%9C%80%E9%BB%8D_-_Zea_mays_L.%2C_1804.jpg"
+categories: 
+- Education & Outreach
+- Odd Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Student retention in STEM majors is critical to meet an increased demand for STEM graduates within the workforce. Student retention challenges, particularly for underrepresented groups, often include barriers impacting student self-efficacy, persistence, motivation, and STEM identity. To address these issues and promote student persistence in STEM, the MARVEL (Microbiology Achievement through Research and Valuable and Experiential Learning) program was developed as an intervention to address these barriers impacting student persistence by fostering community, building confidence, and providing early experiential learning opportunities. Targeted interventions include embedding student participation in research symposia, experiential learning, and professional development-oriented workshops into the curriculum of a first semester majors’ course, as well as application and reflection of learning outcomes to students’ specific career preparation plans. Through participation in these activities, student confidence and sense of belonging increased as students saw themselves as part of a vibrant scientific community and able to network with other students, faculty, and staff with similar interests. Through the guided reflections, students also were able to connect the value of participating in these activities to their own career preparation goals. With continued participation throughout their academic programs, students will continue to build their confidence by developing a portfolio of professional development skills while networking and building connections to enhance their chances for future success in the workforce. The MARVEL program provides a model for other STEM majors and programs to promote inclusive access to professional development, experiential learning, and networking activities while fostering community and providing workforce development opportunities for students within their programs.
+
+<a href='mailto:bsigmon2@unl.edu'>Sigmon, Brandi</a><sup>1 2</sup><br>
+
+<sup>1</sup>Department of Plant Pathology; University of Nebraska-Lincoln; Lincoln, NE, USA 68583<br><sup>2</sup>Microbiology Program; University of Nebraska-Lincoln; Lincoln, NE, USA 68588<br>

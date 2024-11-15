@@ -1,0 +1,20 @@
+---
+title: "A new ethanol extraction method in maize using lab-scale, dry-grind technology�"
+subtitle: "P195"
+author: "Zachary Traylor"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5e/Aztec_Diet_Basket_of_Corn_%289755332575%29.jpg"
+categories: 
+- Quantitative Genetics & Breeding
+- Odd Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Understanding maize genetic diversity has become an exciting research avenue that will result in new ways to add value to maize as a crop. As biochemical and genomic tools become more high-throughput and cheaper, research can answer questions regarding maize diversity. One such question is how diversity can be leveraged to make better food and beverage products that rely on maize as the primary ingredient. To answer this question, we are exploring metabolite diversity in heirloom varieties and in corn whiskey produced from these heirlooms, and using QTL mapping approaches to identify genetic loci controlling production of these metabolites. We developed a platform to efficiently produce new-make whiskey from small batches of heirlooms in order to quantify metabolites that contribute to flavor. Typically, current lab-scale methods require larger quantities of seed (on the order of 500 grams to 1 kilogram) to produce whiskey and are not optimized for low yielding heirlooms or non-elite populations. Our new method is a scaled-down version of the industrial distilling process that minimizes seed input (100g, or approximately 1-2 heirloom ears) while producing sufficient distillate (about 14 mL). This method mimics industry production in the US and is effective at producing ethanol at a genetics/breeding research scale. We have validated the method using ethanol and sugar quantification assays to effectively measure the success of anaerobic fermentation. This platform allows for further study of metabolic diversity in heirlooms and serves as a methodology for quantifying kernel carbohydrates for ethanol production in maize.
+
+<a href='mailto:zbtyxb@umsystem.edu'>Traylor, Zachary</a><sup>1</sup><br><a href='mailto:gmhzpy@missouri.edu'>Hall, Garret</a><sup>2</sup><br><a href='mailto:psbvb@missouri.edu'>Somavat, Pavel</a><sup>3</sup><br><a href='mailto:gary@woodhatspirits.com'>Hinegardner, Gary</a><sup>4</sup><br><a href='mailto:braundm@missouri.edu'>Braun, David</a><sup>1 2</sup><br><a href='mailto:sherry.flint-garcia@usda.gov'>Flint-Garcia, Sherry</a><sup>5</sup><br>
+
+<sup>1</sup>MU Bio Sci; University of Missouri; Columbia, MO, 65211<br><sup>2</sup>MU Plant Sci; University of Missouri; Columbia, MO, 65211<br><sup>3</sup>MU Agricultural Engineering; University of Missouri; Columbia, MO, 65211<br><sup>4</sup>Wood Hat Spirits; New Florance, MO, 63363<br><sup>5</sup>USDA-ARS Plant Genetics Research Unit; Columbia, MO, 65211<br>

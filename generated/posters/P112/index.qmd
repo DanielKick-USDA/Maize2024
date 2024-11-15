@@ -1,0 +1,20 @@
+---
+title: "The cis-regulatory evolution of GRASSY TILLERS1 (GT1) over deep time"
+subtitle: "P112"
+author: "Hailong Yang"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c1/Protective_Coleoptile_Tip_in_Zea_Mays_Embryo_%2847691344541%29.jpg"
+categories: 
+- Cell and Developmental Biology
+- Even Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+The evolution of cis-regulatory regions is critical for evolutionary divergence in gene function. One class of developmental genes that may have shifted in function following cis-regulatory change are the class I HD-ZIP transcription factor genes. Class I HD-ZIPs control multiple developmental programs in flowering plants and have deep conserved roles in grasses like maize, barley, and wheat. For example, GRASSY TILLERS1 (GT1) is a pleiotropic domestication gene involved in repressing growth in multiple developmental contexts, including in lateral buds, roots, leaves, and floral organs. A cis-regulatory region upstream of GT1 (prol1.1) underlies a major QTL for ear number (prolificacy). To dissect the function and evolution of prol1.1, we have traced the evolution of conserved non-coding sequences in the grasses, and are editing the GT1 promoter in Zea mays and Brachypodium distachyon to determine how GT1’s pleiotropic functions are regulated and conserved in the grass family. RNA in situ hybridization in Zea mays and Setaria viridis suggest that GT1 homologs have conserved expression patterns in degenerating tissues. Our work will help us understand the evolution of this important, pleiotropic domestication gene, and precisely modulate gene expression in the grasses.
+
+<a href='mailto:hailongyang@umass.edu'>Yang, Hailong</a><sup>1</sup><br><a href='mailto:jpg@umass.edu'>Gallagher, Joseph P</a><sup>1</sup><br><a href='mailto:rmcknight@umass.edu'>McKnight, Ronan</a><sup>1</sup><br><a href='mailto:kslally@umass.edu'>Lally, Kyra</a><sup>1</sup><br><a href='mailto:adeneve@umass.edu'>De Neve, Amber</a><sup>1</sup><br><a href='mailto:mbartlett@umass.edu'>Bartlett, Madelaine</a><sup>1</sup><br>
+
+<sup>1</sup>Department of Biology, University of Massachusetts Amherst, Amherst, Massachusetts, USA 01003<br>

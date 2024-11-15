@@ -1,0 +1,20 @@
+---
+title: "Large-scale single-cell profiling of stem cells uncovers regulators of plant shoot development"
+subtitle: "P96"
+author: "Xiaosa Xu"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c1/Protective_Coleoptile_Tip_in_Zea_Mays_Embryo_%2847691344541%29.jpg"
+categories: 
+- Cell and Developmental Biology
+- Even Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Stem cells are a rare population of cells in plant shoots that produce leaves, fruits and seeds, vital sources for food and bioethanol. Uncovering regulators expressed in these stem cells will inform crop engineering to boost productivity. Single-cell analysis is a powerful tool for identifying regulators expressed in specific groups of cells. However, accessing plant shoot stem cells is challenging. Recent single-cell analyses of plant shoots have not captured these cells, and failed to detect stem cell regulators like CLAVATA3 and WUSCHEL. In this study, we finely dissected stem cell-enriched shoot tissues from both maize and arabidopsis for single-cell RNA-seq profiling. We used an optimized protocol to efficiently recover thousands of CLAVATA3 and WUSCHEL expressed cells. A cross-species comparison identified conserved stem cell regulators between maize and arabidopsis. We also performed single-cell RNA-seq on stem cell overproliferation mutants in maize to find additional candidate regulators. Expression of candidate stem cell regulators was validated using spatial transcriptomics, and we functionally confirmed roles in shoot development. These candidates include a family of ribosome-associated RNA-binding proteins, and two families of sugar kinase genes related to hypoxia signaling and cytokinin hormone homeostasis. Our cross-species stem cell profiling provides a resource for mining stem cell regulators, advances understanding of shoot development, and opens avenues for manipulating diverse crops to enhance food and energy security.
+
+<a href='mailto:xjkxu@ucdavis.edu'>Xu, Xiaosa</a><sup>1 2</sup><br>Passalacqua, Michael<sup>1</sup><br>Demesa-Arevalo, Edgar<sup>1 8</sup><br>Kojima, Mikiko<sup>3</sup><br>Takebayashi, Yumiko<sup>3</sup><br>Harris, Benjamin<sup>1</sup><br>Sakakibara, Hitoshi<sup>4</sup><br>Gallavotti, Andrea<sup>5 6</sup><br>Gillis, Jesse<sup>1 7</sup><br>Jackson, David<sup>1</sup><br>
+
+<sup>1</sup>Cold Spring Harbor Laboratory, Cold Spring Harbor, NY 11724, USA<br><sup>2</sup>Department of Plant Biology, University of California, Davis, CA 95616, USA<br><sup>3</sup>RIKEN Center for Sustainable Resource Science, Suehiro 1-7-22, Tsurumi, Yokohama 230-0045, JAPAN<br><sup>4</sup>Graduate School of Bioagricultural Sciences, Nagoya University, Nagoya 464-8601, Japan<br><sup>5</sup>Waksman Institute of Microbiology, Rutgers University, Piscataway, NJ 08540, USA<br><sup>6</sup>Department of Plant Biology, Rutgers University, New Brunswick, NJ 08901, USA<br><sup>7</sup>Department of Physiology, University of Toronto, Toronto, Ontario, M5S 3E1, CANADA<br><sup>8</sup>Current address: Institute for Developmental Genetics, Institute for Plant Genetics, Heinrich Heine University Düsseldorf, Universitätsstaße 1, 40225 Düsseldorf<br>

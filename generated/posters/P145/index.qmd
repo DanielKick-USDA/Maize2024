@@ -1,0 +1,20 @@
+---
+title: "Enhancing plant genome annotation through DNA language model: A focus on arabidopsis and maize"
+subtitle: "P145"
+author: "Zong-Yan Liu"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e5/ENIAC-changing_a_tube.jpg"
+categories: 
+- Computational and Large-Scale Biology
+- Odd Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Advancements in genome sequencing have revolutionized the study of diverse organisms by making it more affordable and accessible. Despite these strides, deciphering the intricacies of genomic structural and functional variation remains a significant challenge. Genome annotation is the process of inferring and modeling transcription and translation across the genome. Genome size, complexity, and diversity further complicate the annotation process. To enhance the speed and accuracy of gene annotation in plant genomes, we fine-tune a machine learning model called the Genomic Pre-trained Network (GPN), which could help us translate the DNA language model. This method streamlines the gene prediction process, enabling the recognition of small peptides often overlooked by traditional tools. Our approach uses Ribosome profiling (Ribo-seq) data from Arabidopsis to scan the genome and label the gene boundaries of the potential translation initiation sites (TIS) and stop sites. Applying GPN embeddings to a trial dataset containing 1.1 million potential initiation sites and 3.6 million potential stop sites in Arabidopsis showed a prediction accuracy of 92% in identifying the putative initiation and stop sites. This accuracy enables the precise location of genes and facilitates the identification of splice donor and acceptor sites. Finally, to validate the efficacy of the GPN in maize, we compared our model with existing gene prediction tools. Our findings showcase the effectiveness of a DNA language model as a valuable tool and resource for the plant research community. This work provides a robust solution for genome annotation challenges and significantly advances our understanding of plant biology.
+
+<a href='mailto:zl843@cornell.edu'>Liu, Zong-Yan</a><sup>1</sup><br><a href='mailto:jz963@cornell.edu'>Zhai, Jingjing</a><sup>2</sup><br><a href='mailto:esb33@cornell.edu'>Buckler, Edward S.</a><sup>1 2 3</sup><br>
+
+<sup>1</sup>School of Integrative Plant Sciences, Section of Plant Breeding and Genetics, Cornell University, Ithaca, NY USA 14853<br><sup>2</sup>Institute for Genomic Diversity, Cornell University, Ithaca, NY USA 14853<br><sup>3</sup>USDA-ARS; Ithaca, NY, USA 14853<br>

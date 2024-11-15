@@ -1,0 +1,20 @@
+---
+title: "GWAS analysis reveals resistant genes to maize southern leaf blight"
+subtitle: "P222"
+author: "Tao Zhong"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5e/Aztec_Diet_Basket_of_Corn_%289755332575%29.jpg"
+categories: 
+- Quantitative Genetics & Breeding
+- Even Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Southern leaf blight (SLB), caused by the necrotrophic fungal pathogen Cochliobolus heterostrophus, is a major foliar disease of maize worldwide. Identifying genetic variations contributing to resistance against SLB is crucial for maize yield and quality. Here, we used an association mapping panel consisting of 270 diverse inbred lines with high-density genetic markers to dissect the genetic basis of SLB resistance. Overall, fifteen significant variants corresponding to ten candidate genes were identified as associated with SLB resistance. We found thirteen of the fifteen associated SNPs co-localized with previously reported quantitative trait loci (QTLs). Two annotated genes located in the SLB-resistant QTLs were shown to be involved in plant defense pathways. Through insertional mutagenesis and transgenic validation, we demonstrated that ZmMAPKKK45, which encodes a mitogen activated protein (MAP) kinase kinase kinase (MAPKKK) associated with the MAPK cascade, is positively regulating SLB resistance. Overexpression of another candidate gene ZmLSP, which encodes a leaf senescence-related protein could significantly enhance the resistance of maize to SLB. Our results provide resistant loci/genes as direct targets for crop resistance genetic improvement.
+
+<a href='mailto:tzhong3@ncsu.edu'>Zhong, Tao</a><sup>1</sup><br><a href='mailto:qyang@nwafu.edu.cn'>Yang, Qin</a><sup>2</sup><br><a href='mailto:james_holland@ncsu.edu'>Holland, James</a><sup>3 4</sup><br><a href='mailto:pjbalint@ncsu.edu'>Balint-Kurti, Peter</a><sup>1 4</sup><br>
+
+<sup>1</sup>Department of Entomology and Plant Pathology, North Carolina State University, Raleigh, NC, USA<br><sup>2</sup>State Key Laboratory of Crop Stress Biology for Arid Areas, College of Agronomy, Northwest A&F University, Yangling, Shaanxi, China<br><sup>3</sup>Department of Crop and Soil Sciences, North Carolina State University, Raleigh, NC, USA<br><sup>4</sup>USDA-ARS Plant Science Research Unit, Raleigh, NC, USA<br>

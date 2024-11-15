@@ -1,0 +1,20 @@
+---
+title: "Comparing k-mer-based and SNP-based GWAS approaches to identify structural variants in sweet corn"
+subtitle: "P208"
+author: "Mariana Vianna"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5e/Aztec_Diet_Basket_of_Corn_%289755332575%29.jpg"
+categories: 
+- Quantitative Genetics & Breeding
+- Even Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Structural variants play an important role in adaptation and evolution. Those polymorphic regions can influence gene expression, epigenetic marks, and, consequently, the phenotype. Genome-wide association studies (GWAS) are commonly used to find candidate genes associated with a trait of interest in polyphonic regions. However, we hypothesize that the SNP-based GWAS may miss important genomic regions associated with structural variation (SV) types when the single nucleotide polymorphism (SNP) is not in linkage disequilibrium with the causal SV variant. An alternative approach is to use short sequences, k-mers, as variables in the GWAS analysis. Here, we compare k-mer-based and SNP–based GWAS approaches to find candidate genes associated with important traits in sweet corn. We used ~9X coverage whole-genome short reads from a sweet corn panel with 693 genotypes to build a presence/absence (PAV) table based on k-mers and call SNP variants. The population was phenotyped for a variety of traits measured across three years. The k-mer-based pipeline begins performing the k-mer occurrence count (KOC) of 31 bp from the raw sequences for each individual. After the filtering steps, a k-mer presence/absence table was created to represent the genetic diversity in the population. GWAS analysis was conducted using a linear mixed model (LMM) in GEMMA, with k-mers filtered for minor allele frequency (MAF) 0.05. For the SNP-based GWAS approach, we called variants using GATK and obtained a VCF with 16M SNPs. Overall, we found that for some traits, the k-mer-based approach was more effective at identifying significant genomic regions. Additionally, for some traits, the k-mer-based GWAS was more consistent across years of data for the same trait. However, a disadvantage of the approach is that the pipeline is significantly more time-consuming and computational-intensive.
+
+<a href='mailto:viannam@ufl.edu'>Vianna, Mariana</a><sup>1</sup><br><a href='mailto:vnc9@cornell.edu'>Colantonio, Vincent</a><sup>2</sup><br><a href='mailto:deamorimpeixotom@ufl.edu'>Peixoto, Marco</a><sup>1</sup><br><a href='mailto:leachk@ufl.edu'>Leach, Kristen</a><sup>1</sup><br><a href='mailto:mresende@ufl.edu'>Resende, Marcio</a><sup>1</sup><br>
+
+<sup>1</sup>Horticultural Science Department, University of Florida, Gainesville, FL 32611, USA<br><sup>2</sup>USDA-ARS Plant, Soil, and Nutrition Research Unit, Robert W. Holley Center for Agriculture and Health, Ithaca, NY 14853, USA<br>

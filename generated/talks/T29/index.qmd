@@ -1,0 +1,19 @@
+---
+title: "Elucidating the metabolomic and single-cell transcriptomic landscape of maize leaf senescence"
+subtitle: "T29"
+author: "MANWINDER SINGH BRAR"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/05/DNA_base-pair_diagram.jpg"
+categories: 
+- Biochemical and Molecular Genetics
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Delayed leaf senescence (a.k.a. staygreen) is associated with higher grain yield, increased total dry matter, and heat and drought tolerance. To resolve the genetic architecture of senescence, we generated a high-resolution map of physiological, transcriptomic, and metabolic processes underlying natural diversity for staygreen. Analysis of distinct physiological indicators of senescence revealed that there are multiple paths to staygreen traits specified by temporally and spatially distinct cellular processes. Time-course analysis of primary and secondary leaf metabolome in 10 inbred lines, five staygreen and five non-staygreen, at three developmental stages revealed substantial metabolic variation for staygreen in maize. Combinatorial analysis of metabolic and phenotypic variation using marginal scan revealed striking differences in metabolome and found that 44 (92%) primary metabolites and 1201 (96%) secondary mass features underlie variation for the staygreen trait. In-depth analysis of flux in the secondary metabolism revealed that flavonoids (naringenin chalcone, kaempferol, and eriodictyol) are crucial for discerning the staygreen phenotype. Functional analysis of these metabolites in Arabidopsis validated the role of naringenin chalcone and eriodictyol in delaying senescence. To enhance the resolution of transcriptional changes during senescence, we compared the single-cell transcriptome of a staygreen and a non-staygreen inbred lines and identified that bundle sheath or mesophyll cells regulate transcriptional activity. Remarkably, we identified 2 and 7 distinct clusters of bundle sheath and mesophyll cells, respectively, indicating transcriptional divergence within these cell types during senescence. Our findings will identify novel components of biological organization that regulate staygreen in maize.
+
+Brar, Manwinder Singh<sup>1</sup><br>Kumar, Rohit<sup>1</sup><br>Ballmant, Kelly<sup>2</sup><br>Tharayil, Nishanth<sup>3</sup><br>McMahan, Christopher<sup>4</sup><br>Sekhon, Rajandeep S.<sup>1</sup><br>
+
+<sup>1</sup>Department of Genetics and Biochemistry, Clemson University, Clemson, SC, USA 29634<br><sup>2</sup>Horticultural Science Department, University of Florida, Gainesville, FL, USA 32611<br><sup>3</sup>Department of Plant and Environmental Sciences, Clemson University, Clemson, SC, USA 29634<br><sup>4</sup>School of Mathematical and Statistical Sciences, Clemson University, Clemson, SC, USA 29634<br>

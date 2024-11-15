@@ -1,0 +1,20 @@
+---
+title: "A multi-organ maize metabolic model connects temperature stress with energy production and reducing power generation"
+subtitle: "P132"
+author: "Niaz Chowdhury"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e5/ENIAC-changing_a_tube.jpg"
+categories: 
+- Computational and Large-Scale Biology
+- Even Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Climate change has severely affected maize productivity worldwide. To mitigate the issue, a holistic understanding of metabolic crosstalk among its organs is important. Thereby, we reconstructed the first multi-organ maize metabolic model, iZMA6517, and contextualized it with heat and cold stress transcriptomics data using EXpression disTributed REAction flux Measurement (EXTREAM) algorithm. Furthermore, implementing metabolic bottleneck analysis on contextualized models revealed differences between these stresses. While both stresses had reducing power bottlenecks, heat stress had additional energy generation bottlenecks. We also performed thermodynamic driving force analysis, revealing thermodynamics-reducing power-energy generation axis dictating the nature of temperature stress responses. Thus, a temperature-tolerant maize ideotype can be engineered by leveraging the proposed thermodynamics-reducing power-energy generation axis. We experimentally inoculated maize root with a beneficial mycorrhizal fungus, Rhizophagus irregularis, and as a proof-of-concept demonstrated its efficacy in alleviating temperature stress. Overall, this study will guide the engineering effort of temperature stress-tolerant maize ideotypes.
+
+<a href='mailto:nchowdhury2@huskers.unl.edu'>Chowdhury, Niaz</a><sup>1</sup><br><a href='mailto:msimons725@gmail.com'>Simons-Senftle, Margaret</a><sup>2</sup><br><a href='mailto:berengere.decouard@inrae.fr'>Decouard, Berengere</a><sup>3</sup><br><a href='mailto:Isabelle.Quillere@inrae.fr'>Quillere, Isabelle</a><sup>3</sup><br><a href='mailto:martine.rigault@inrae.fr'>Rigault, Martine</a><sup>3</sup><br><a href='mailto:karuna@iastate.edu'>Sajeevan, Karuna</a><sup>4</sup><br><a href='mailto:acharyab@iastate.edu'>Acharya, Bibek</a><sup>4</sup><br><a href='mailto:ratul@iastate.edu'>Chowdhury, Ratul</a><sup>4</sup><br><a href='mailto:bertrand.hirel@inrae.fr'>Hirel, Bertrand</a><sup>5</sup><br><a href='mailto:alia.dellagi@inrae.fr'>Dellagi, Alia</a><sup>5</sup><br><a href='mailto:rsaha2@unl.edu'>Saha, Rajib</a><sup>1</sup><br>
+
+<sup>1</sup>Chemical and Biomolecular Engineering, University of Nebraska-Lincoln, Lincoln, NE, United States of America<br><sup>2</sup>Chemical Engineering, The Pennsylvania State University, University Park, PA, United States of America<br><sup>3</sup>Université Paris-Saclay, INRAE, AgroParisTech, Institut Jean-Pierre Bourgin (IJPB), 78000, Versailles, France<br><sup>4</sup>Chemical and Biological Engineering, Iowa State University, Ames, IA, United States of America<br><sup>5</sup>Centre de Versailles-Grignon, Institut National de Recherche pour l’Agriculture, Versailles, France<br>

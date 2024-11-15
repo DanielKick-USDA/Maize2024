@@ -1,0 +1,19 @@
+---
+title: "A thiamin pyrophosphate kinase encoding gene ZmTDPK2 finely regulates ear length and grain yield in maize"
+subtitle: "T3"
+author: "Yun Luo"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5e/Aztec_Diet_Basket_of_Corn_%289755332575%29.jpg"
+categories: 
+- Quantitative Genetics & Breeding
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Enhancing the grain yield of maize is imperative to meet the escalating demands for maize-derived products in food, feed, and fuel. Ear length (EL) serves as a crucial determinant of grain yield and, consequently, stands as a pivotal target trait in maize breeding. However, only a limited number of EL quantitative trait loci (QTLs) have been identified and cloned, with their underlying molecular mechanisms remaining largely elusive. Here, we characterize an EL QTL, qKB6.2, to identify a maize gene controlling flower number and ear length. The qKB6.2 encodes a thiamin diphosphokinase2 (TDPK2), a gene that involves phosphorylating thiamin into thiamin pyrophosphate (TPP) in the cytoplasm. CRISPR/Cas9 knockout lines of ZmTDPK2 exhibited lower TPP levels in the developing ear, reduced florets number, EL and thus decreased grain yield. Interesting, the maize EL of ZmTDPK2 overexpression lines exhibited a trend of initially increasing and then decreasing with the rising expression levels of ZmTDPK2, suggesting that the optimal EL is manifested at the appropriate ZmTDPK2 expression levels. The favorable haplotype frequency of qKB6.2 in the association population is only 0.4%, which is rare. And, in comparison with the hybrid lines constructed with NILqkb6.2, the EL and grain yield of hybrid lines constructed with favorable haplotype NILqKB6.2, increased by 6.3%-17.4%, and 5.5%-17.4%, respectively. Moreover, foliar application of a 0.04% TPP solution on the leaf surface has been shown to elevate the yield of maize, rape and rice. Our findings suggest that ZmTDPK2 serves as a critical role in TPP-mediated female inflorescence development, EL and grain yield, and also provide a tool to improve grain productivity by optimizing ZmTDPK2 expression levels or foliar application of TPP in other cereals.
+
+<a href='mailto:1332803470@qq.com'>Luo, Yun</a><sup>1</sup><br><a href='mailto:1223262917qq.com'>Liu, Yu</a><sup>1</sup><br><a href='mailto:yjianbing@mail.hzau.edu.cn'>Yan, Jianbing</a><sup>1 2 3</sup><br>
+
+<sup>1</sup>National Key Laboratory of Crop Genetic Improvement, Huazhong Agricultural University, Wuhan 430070, China<br><sup>2</sup>Hubei Hongshan Laboratory, Wuhan 430070, China<br><sup>3</sup>Yazhouwan National Laboratory, Sanya 572024, China<br>

@@ -1,0 +1,20 @@
+---
+title: "Tradeoffs, balance and drift: the genetics of paralogous compensation in the maize meristem"
+subtitle: "P119"
+author: "Sessen Daniel Iohannes"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c1/Protective_Coleoptile_Tip_in_Zea_Mays_Embryo_%2847691344541%29.jpg"
+categories: 
+- Cell and Developmental Biology
+- Odd Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Evolutionary innovations are often achieved by co-opting existing molecular structures to perform new functions, a concept commonly referred to as “molecular tinkering”. Gene duplication is a powerful source of biological innovation, giving rise to duplicates (hereafter, paralogs) that undergo diverse fates and drive evolutionary change. Redundancy between paralogous genes is an intriguing outcome of duplicate gene evolution, and its maintenance over evolutionary time has long been considered a paradox. Genetic studies in yeast and plants have suggested that the ability of ancient redundant duplicates to compensate for dosage perturbations resulting from a loss of function depends on the reprogramming of gene expression, a phenomenon known as active compensation. Our research work focuses on the maize trehalose-6-phosphate phosphatases RAMOSA3 and TREHALOSE PHOSPHATE PHOSPHATASE 4, two important meristem development regulators, as a model for studying the reprogramming of paralogs. By using quantitative imaging, chromatin accessibility assays, and promoter editing our work is investigating the hypothesis that cis-regulatory elements control paralogous compensation by binding to factors that regulate transcription. Understanding the transcriptional mechanisms of reprogramming among duplicated genes could allow us to fine-tune traits controlled by redundant paralogs, and improve the predictability of gene editing outcomes.
+
+<a href='mailto:iohannes@cshl.edu'>Iohannes, Sessen D.</a><sup>1 2</sup><br><a href='mailto:jacksond@cshl.edu'>Jackson, David</a><sup>2</sup><br>
+
+<sup>1</sup>School of Biological Sciences, Cold Spring Harbor Laboratory, Cold Spring Harbor, 11724, New York, USA.<br><sup>2</sup>Cold Spring Harbor Laboratory, Cold Spring Harbor, 11724, New York, USA.<br>

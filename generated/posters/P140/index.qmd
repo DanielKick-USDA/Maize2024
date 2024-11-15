@@ -1,0 +1,20 @@
+---
+title: "Chromatin structure and particle mapping in maize root tip nuclei using MNase digestion assays."
+subtitle: "P140"
+author: "Hank Bass"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e5/ENIAC-changing_a_tube.jpg"
+categories: 
+- Computational and Large-Scale Biology
+- Even Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+The chromatin structure of maize root nuclei was examined by analyzing nuclease sensitivity and cleavage patterns from the replication-active terminal 1 mm of the maize seedling root tip. We developed several related assays, including DNS-seq and MOA-seq, utilizing micrococcal nuclease (MNase) as a probe for chromatin structural features. These features are coupled to gene regulation, phenotypic traits, and cistrome occupancy. DNS-seq and MOA-seq generate NGS libraries from small DNA fragments isolated from formaldehyde-fixed chromatin, employing both defined and variable concentrations of MNase. We analyzed the terminal 1 mm of seedling root tip chromatin in conjunction with two projects: one aiming to map open chromatin (NSF IOS 1444532) and the other studying DNA replication timing (NSF IOS 2025811). Our data tracks are shared on MaizeGDB and via our UCSC genome browser on genomaize.org. DNA replication time profiling provides an orthogonal measure of chromatin status, ideal for integrative and comparative epigenomics. Here, we summarize the assays and data analysis pipelines for visualizing, mapping, and interpreting coverage data of MNase-produced DNA fragment centers (frenters) from maize root tip samples. The MNase coverage profiles facilitate peak calling to: (1) map nucleosome occupancy from DNS-seq heavy digest frenters, (2) identify large hyper-sensitive footprints revealing nucleosome-sized particles or large complexes from DNS-seq light digest large fragment frenters, (3) locate small hyper-sensitive footprints indicating transcription factor (TF) occupancy candidates for cis-element discovery and functional analyses from DNS-seq or MOA-seq, and (4) identify regions of potential false positives using chromatin-free purified DNA in MOA-seq-like digests. Collectively, these findings demonstrate how MNase digestion assays are useful for defining chromatin structural features at the level of DNA-protein particle locations, including nucleosomes and DNA-bound transcription or replication factors, thereby enhancing our understanding of epigenomic states and genetic processes.
+
+<a href='mailto:bass@bio.fsu.edu'>Bass, Hank W.</a><sup>1</sup><br><a href='mailto:zachturpin92@gmail.com'>Turpin, Zachary M</a><sup>1</sup><br><a href='mailto:zglover@fsu.edu'>Glover, Zehta S</a><sup>1</sup><br><a href='mailto:ayushsingh5906@gmail.com'>Singh, Ayush</a><sup>1</sup><br><a href='mailto:hfs3292@gmail.com'>Salihovic, Heidi F.</a><sup>1</sup><br><a href='mailto:emily_wear@ncsu.edu'>Wear, Emily E.</a><sup>2</sup><br><a href='mailto:lamickel@ncsu.edu'>Mickelson-Young, Leigh</a><sup>2</sup><br><a href='mailto:wftb@ncsu.edu'>Thompson, William F.</a><sup>2</sup><br><a href='mailto:lkhanley@ncsu.edu'>Hanley-Bowdoin, Linda K.</a><sup>2</sup><br>
+
+<sup>1</sup>Department of Biological Science, Florida State University, Tallahassee, FL, USA<br><sup>2</sup>Plant and Microbial Biology, North Carolina State University, Raleigh, NC, USA<br>

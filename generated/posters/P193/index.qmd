@@ -1,0 +1,20 @@
+---
+title: "A cat-and-mouse game for the stay-green phenotype in maize hybrids"
+subtitle: "P193"
+author: "Grace Nystrom"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5e/Aztec_Diet_Basket_of_Corn_%289755332575%29.jpg"
+categories: 
+- Quantitative Genetics & Breeding
+- Odd Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+The stay-green trait enables an extended photosynthetic period after anthesis which lengthens the plant’s grain filling period contributing to an increase in yield. This study was conducted to determine which hybrids stayed green for longer periods of time compared to other hybrids in the same location. Identifying hybrids that stayed green longer can give breeders valuable insight about which genotypes they should use in introgression efforts. At the end of physical maturity, optimum differences in canopy senescence can be observed. Once a week, plants were scored on a scale from 1-9 (9 being a full green canopy and 1 being completely senesced) and a senescence percentage (in increments of 5%) was recorded at the West Madison Agricultural Research Station in Wisconsin on 2 replications of 250 genotypes. In the 2023 growing season, disease was at a minimum and conditions were dry, equating to the ideal environment to observe senescence patterns. The selection of the top hybrids that stayed green the longest was based on the mean ratings from the last date measurements were collected. From highest to smallest ranking, the top hybrids were: PHK93 X PHP02, LH123HT X PHP02, PHK93 X PHP02, PHK76 X PHP02, and PHG35 X PHP02. All plants were completely senesced by October 27, 2023.
+
+<a href='mailto:gnystrom@wisc.edu'>Nystrom, Grace L</a><sup>1</sup><br><a href='mailto:ndeleongatti@wisc.edu'>de Leon, Natalia</a><sup>1</sup><br><a href='mailto:smkaeppl@wisc.edu'>Kaeppler, Shawn M</a><sup>1 2</sup><br>
+
+<sup>1</sup>Department of Plant and Agroecosystem Sciences, University of Wisconsin-Madison, 1575 Linden Drive, Madison, WI 53706<br><sup>2</sup>Wisconsin Crop Innovation Center, University of Wisconsin-Madison, 8520 University Green, Middleton WI 53562<br>

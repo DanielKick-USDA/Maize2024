@@ -1,0 +1,20 @@
+---
+title: "Is more always better? Progress and promise of autotetraploid sweet sorghum"
+subtitle: "P93"
+author: "Lizeth Dominguez"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c1/Protective_Coleoptile_Tip_in_Zea_Mays_Embryo_%2847691344541%29.jpg"
+categories: 
+- Cell and Developmental Biology
+- Odd Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Increasing ploidy levels in plant species has been shown to increase cell size. The benefits of increasing cell size have been used in crops such as potato and sugarcane to produce larger yields. In maize, increasing ploidy results in increased grain size but not yield, which has limited its usefulness. However, increasing ploidy can potentially be employed for bioenergy crops where seed yield is not the primary target. Current efforts to produce ethanol from sorghum stem sugars for the Sustainable Aviation Fuel (SAF) market are not economically feasible, driving the need to increase sorghum’s sugar production. A potential solution is to increase the ploidy level in sorghum to create bigger cells that can store more juice and sugar in the stem. A colchicine-induced autotetraploid sorghum and its progeny were validated using flow cytometry. Diploid and M2 generation autotetraploid plants were grown in both the field and greenhouse for characterization. Autotetraploid plants had stomata that were 1.5x larger than diploids, leading to differences in stomatal density. Leaf gas exchange was measured using a Li-6800 to assess differences in net CO2 assimilation, stomatal conductance, and transpiration efficiency. No significant differences between ploidy levels were observed for any gas exchange parameters. In field grown trials, both diploid and autotetraploid sorghum were juiced to measure biomass, sugar concentration (brix), and juice volume to determine sugar storing properties. Total biomass, juice volume, and brix were all significantly higher in diploids, while percent sugar per dry weight and total sugars were not significantly different. The lower values observed in the autotetraploid were not unexpected given previous reports on the performance of inbred autotetraploid lines. We hypothesize that generating double-cross hybrid autotetraploid lines will result in increased vigor through progressive heterosis. Currently, autotetraploid sorghum hybrids are being generated to explore the potential of a double-cross hybrid sorghum.
+
+<a href='mailto:lizethd2@illinois.edu'>Dominguez Mendez, Lizeth</a><sup>1</sup><br><a href='mailto:astuder@illinois.edu'>Studer, Anthony J</a><sup>1</sup><br>
+
+<sup>1</sup>Department of Crop Sciences, University of Illinois Urbana-Champaign, Urbana, IL 61801, USA<br>

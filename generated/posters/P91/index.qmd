@@ -1,0 +1,20 @@
+---
+title: "Investigating the effect of environmental stress on metabolite localization and signaling in plants"
+subtitle: "P91"
+author: "Andrea Sama"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c1/Protective_Coleoptile_Tip_in_Zea_Mays_Embryo_%2847691344541%29.jpg"
+categories: 
+- Cell and Developmental Biology
+- Odd Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Abiotic environmental stress caused by climate change is threatening agricultural systems by inhibiting plant growth and development. Metabolite signaling regulates both stress response and development in plants, however, critical metabolite-driven links between development and stress response remain an open area of exploration. To investigate the link between development and stress response, longitudinal sections of maize roots were imaged using desorption electrospray ionization mass spectroscopy imaging (DESI-MSI) and matrix-assisted laser desorption ionization (MALDI)-MSI. These high-resolution imaging techniques enable visualization of the localization of stress-induced metabolites across the developmental gradient in roots. Many of the metabolites that we have identified are uncharacterized, we are using high-performance liquid chromatography (HPLC)-MS/MS to determine the chemical composition of these small molecules. We have also identified several known meristem-localized metabolites, including succinate, with differential localization in response to stress. Exogenous treatments with these metabolites show significant growth phenotypes during stress. The spatial identification of stress-responsive metabolites with MSI will reveal candidate metabolites that bridge stress response and development. Characterizing the biological effect of these metabolites, through a combination of chemical and genetic screens, will provide insights into the mechanisms that plants utilize to address abiotic stress in an effort to generate more stress-tolerant crop lines.
+
+<a href='mailto:asama@ucsd.edu'>Sama, Andrea M</a><sup>1</sup><br><a href='mailto:sbcahill@ucsd.edu'>Cahill, Sinead</a><sup>1</sup><br><a href='mailto:Sarah.Noll@pomona.edu'>Noll, Sarah E</a><sup>2 3</sup><br><a href='mailto:yfmeng@stanford.edu'>Meng, Yifan</a><sup>2</sup><br><a href='mailto:adickinson@ucsd.edu'>Dickinson, Alexandra Jazz</a><sup>1</sup><br>
+
+<sup>1</sup>School of Biological Sciences, University of California, San Diego, La Jolla, California 92093<br><sup>2</sup>Stanford University, Stanford, California 94305<br><sup>3</sup>Pomona College, Claremont, CA 91711<br>

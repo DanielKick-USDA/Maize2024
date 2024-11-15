@@ -1,0 +1,20 @@
+---
+title: "Genetic potential of tropical, temperate, and mixed maize populations evaluated in tropical environments"
+subtitle: "P224"
+author: "Leticia Prada de Miranda"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5e/Aztec_Diet_Basket_of_Corn_%289755332575%29.jpg"
+categories: 
+- Quantitative Genetics & Breeding
+- Even Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+The introduction of exotic germplasm in a breeding program is a pre-requisite to broaden the genetic basis of germplasm breeding. Recurrent selection is an important breeding scheme for populations adaptation. The main proposal of our work was to evaluate the genetic potential of the 16 tropical, mixed, and temperate germplasm populations across tropical environments. The 16 populations were composed of tropical, temperate, and mixed maize populations structured in half sibs and progenies S1 evaluated across two locations at Minas Gerais, Brazil. A mixed model approach was used to estimate variance components, and genetic gains of the 20 progenies for recombining were predicted based on grain yield (GY) per se and multiple traits FAI-BLUP (Factor Analysis and Genotype-ideotype Design) index. Selection was done to reduce flowering time (days to silking - DTS) and increase GY. Also, selection was performed based on each local and across locals. Our results showed that there was large genotypic variation for all trials. Variance components due to progenies were highly significant (P0.10) for all trials. The estimates of broad-sense heritability were high and ranged from 0.64 (UFVM200(HS)C3) to 0.87 (BS17). Although genetic predicted gains were high for per se GY selection, the index selection provided more efficient predicted gains for architecture and flowering traits. Therefore, we decided to use the index selection. For populations BR106, BRSSM, BS16, BS26, BS27, BS28, BS29, FS8A(S), FS8B(S) and UFVM100(HS)C2, selection for each environment was more successful, while for BR105(S)C1, BS17, BSTL, IPR164 and UFVM200(HS)C3, selection based on average of locals were better. We concluded that there is genetic variability within the populations, so it is possible to select, and that selection based on index were the best strategy.
+
+<a href='mailto:leticiapradam@gmail.com'>Miranda, Leticia Prada de</a><sup>1 2</sup><br><a href='mailto:jean.marcio@ufv.br'>Barros, Jean Márcio</a><sup>2</sup><br><a href='mailto:lisandra.moura@ufv.br'>Fernandes, Lisandra Magna</a><sup>2</sup><br><a href='mailto:matheus.p.ribeiro@ufv.br'>Ribeiro, Matheus Pereira</a><sup>2</sup><br><a href='mailto:thomasl@iastate.edu'>Lübberstedt, Thomas</a><sup>1</sup><br><a href='mailto:rodrigoodelima@ufv.br'>DeLima, Rodrigo Oliveira</a><sup>2</sup><br>
+
+<sup>1</sup>Department of Agronomy, Iowa State University, Ames, IA 50011, USA<br><sup>2</sup>Department of Agronomy, Federal University of Viçosa, Viçosa, MG 36570, Brazil<br>

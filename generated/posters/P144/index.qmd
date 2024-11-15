@@ -1,0 +1,20 @@
+---
+title: "EarVision.v2 detects spatial effects of pollen mutations on kernel distribution across the maize ear"
+subtitle: "P144"
+author: "John Fowler"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e5/ENIAC-changing_a_tube.jpg"
+categories: 
+- Computational and Large-Scale Biology
+- Even Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Male gametophytes transport sperm cells from the anther to the ovule via pollen grain and pollen tube, reaching the embryo sac for double fertilization. The haploid nature of the gametophyte results in more direct expression of phenotype from mutation than in a diploid, with potential for subtle indirect effects on the final outcome: generation of a seed. For example, the architecture of the maize ear, with ovules at the base vs apex associated with silks of different lengths, raises the possibility that certain pollen mutants are associated with non-random effects on the spatial distribution of successful fertilization. In order to address this hypothesis across a large set of mutants, we have updated the EarVision computer vision pipeline, which identifies GFP-marked mutant and wild-type kernels from ear images, to both enhance its effectiveness and to output spatial information regarding kernel distribution. EarVision.v2 incorporates an ear scanner engineered for higher throughput, improved kernel classification across imaging conditions, and automated recognition of images that are unsuitable for computer vision phenotyping. In addition, it generates ear map files for each image, associating kernel phenotypes with specific spatial coordinates for downstream analysis. An R pipeline divides each map file into spatially distinct bins along the length of the ear, and assesses whether mutant transmission rates vary significantly across these bins. Our initial analysis of >80 GFP-marked mutant alleles has identified at least three alleles associated with non-random spatial outcomes. For example, the tdsgR102H01 insertion, which interrupts a putative actin-binding protein, conditions a reproducible apex-to-base gradient of decreasing transmission success for mutant pollen, consistent with impairment of pollen tube growth in the mutant. Expanding our analysis to additional pollen mutants should allow us to discern overall trends - e.g., how often are changes in pollen fitness associated with spatially-influenced outcomes?
+
+<a href='mailto:learym@oregonstate.edu'>Leary, Marilyn</a><sup>1</sup><br><a href='mailto:ruggiedi@oregonstate.edu'>Ruggiero, Diana</a><sup>1</sup><br><a href='mailto:bangm@oregonstate.edu'>Bang, Michelle</a><sup>1</sup><br><a href='mailto:fliegh@oregonstate.edu'>Flieg, Harrison</a><sup>1</sup><br><a href='mailto:Zuzana.Vejlupkova@oregonstate.edu'>Vejlupkova, Zuzana</a><sup>1</sup><br><a href='mailto:megrawm@oregonstate.edu'>Megraw, Molly</a><sup>1</sup><br><a href='mailto:leiboffs@oregonstate.edu'>Leiboff, Sam</a><sup>1</sup><br><a href='mailto:Duo.Jiang@oregonstate.edu'>Jiang, Duo</a><sup>2</sup><br><a href='mailto:fowlerjo@oregonstate.edu'>Fowler, John</a><sup>1</sup><br>
+
+<sup>1</sup>Dept. of Botany & Plant Pathology, Oregon State University; Corvallis, OR 97331<br><sup>2</sup>Dept. of Statistics, Oregon State University; Corvallis, OR 97331<br>

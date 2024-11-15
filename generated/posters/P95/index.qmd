@@ -1,0 +1,20 @@
+---
+title: "KATANIN’s role in cell division positioning and cell elongation in maize"
+subtitle: "P95"
+author: "Stephanie Martinez"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c1/Protective_Coleoptile_Tip_in_Zea_Mays_Embryo_%2847691344541%29.jpg"
+categories: 
+- Cell and Developmental Biology
+- Odd Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Microtubule dynamics and organization influence cell shape and cell division plane orientation. One protein complex involved in this process is KATANIN, a microtubule severing AAA ATPase hexameric complex composed of catalytic p60 and regulatory WD-40-containing p80 subunits. The p60 catalytic subunit forms hexamers and is sufficient to sever microtubules through ATP hydrolysis. However, binding of the protein complex to microtubule severing sites is mediated by the p80 subunit, allowing for higher severing efficiency of microtubules. In Zea mays (maize), several katanin (p60) mutants have been identified, including a loss-of-function double mutant, discordia3a-2 discordia3b (dcd3a-2 dcd3b), and a semi-dominant mutant, Clumped tassel 1 (Clt1), which may have disrupted ATP hydrolysis. To determine how these mutations influence KATANIN’s microtubule severing function, in vivo microtubule severing was assessed. Results show reduced microtubule severing frequency in dcd3a-2 dcd3b and homozygous Clt1 mutant plants, though not a total loss, suggesting other microtubule severing proteins may be functional in maize. dcd3a-2 dcd3b and Clt1 mutants have shorter stature and less elongated cells than their wild-type siblings. Abnormal cell division positioning was observed in dcd3a-2 dcd3b double mutant cells, primarily in asymmetrically dividing cells. Time-lapse imaging of dcd3a-2 dcd3b plants expressing a microtubule marker will pinpoint when asymmetric cell divisions go awry. Characterizing KATANIN function in maize will lead to a greater understanding of the impacts of microtubule dynamics and organization on plant growth and development.
+
+<a href='mailto:smart046@ucr.edu'>Martinez, Stephanie E</a><sup>1</sup><br><a href='mailto:achoi092@ucr.edu'>Choi, Audrey</a><sup>1</sup><br><a href='mailto:lindy.allsman@ucr.edu'>Allsman, Lindy A</a><sup>1</sup><br><a href='mailto:kin.lau@vai.org'>Lau, Kin H</a><sup>2</sup><br><a href='mailto:ajwright@gmail.com'>Wright, Amanda J</a><sup>3</sup><br><a href='mailto:cweil@nsf.gov'>Weil, Clifford</a><sup>4 5</sup><br><a href='mailto:crasmu@ucr.edu'>Rasmussen, Carolyn G</a><sup>1</sup><br>
+
+<sup>1</sup>Department of Botany and Plant Sciences, Center for Plant Cell Biology, Institute for Integrative Genome Biology, University of California Riverside, Riverside, CA 92521, USA<br><sup>2</sup>Bioinformatics and Biostatistics Core, Van Andel Institute, Grand Rapids, MI 49503, USA<br><sup>3</sup>Unaffiliated, Lewisville, TX, USA<br><sup>4</sup>Purdue University, West Lafayette, IN 47907, USA<br><sup>5</sup>Division of Molecular and Cellular Biosciences, National Science Foundation, Alexandria, Virginia 22314, USA<br>

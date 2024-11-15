@@ -1,0 +1,20 @@
+---
+title: "Identification and annotation of stress response transcriptional regulatory mechanisms in maize"
+subtitle: "P151"
+author: "Rita Hayford"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e5/ENIAC-changing_a_tube.jpg"
+categories: 
+- Computational and Large-Scale Biology
+- Odd Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Maize (Zea mays ssp. mays) is one of the major crops cultivated worldwide for food, feed, and fuel. With the high demand for maize production, it becomes imperative to improve the stress tolerance strategies in maize as increases in climate variability can limit maize yield. MaizeGDB has curated genes related to stress response and climate adaptability using transcriptome approaches to enhance the functional annotation of traits related to biotic and abiotic stresses. Transcriptomic and epigenomic profiling has been used to explain the gene regulatory mechanisms in other plants during stress, but such integrated studies in maize during stress still need to be explored in depth. We aim to identify the interplay between gene expression and histone modification in maize under stress conditions, building upon our previous expression functional annotation analyses. We accessed publicly available ChIP-Seq datasets related to biotic and abiotic stress generated from tissues of the B73 cultivar. The high-quality ChIP-Seq reads were mapped to the most recent version of maize reference genome, B73v5. We will identify which genes are differentially associated with stress-response peaks, and correlate such genes with our previous stress-response functional analyses. Further downstream analysis will be performed, such as pathway enrichment and motif analysis. Our research will serve as a comprehensive resource for annotating maize stress genes.
+
+<a href='mailto:rita.hayford@usda.gov'>Hayford, Rita K</a><sup>1</sup><br><a href='mailto:olivia.haley@usda.gov'>Haley, Olivia C</a><sup>1</sup><br><a href='mailto:ethy.cannon@usda.gov'>Cannon, Ethalinda K</a><sup>1</sup><br><a href='mailto:john.portwood@usda.gov'>Portwood, John L</a><sup>1</sup><br><a href='mailto:jack.m.gardiner@gmail.com'>Gardiner, Jack M</a><sup>2</sup><br><a href='mailto:carson.andorf@usda.gov'>Andorf, Carson M</a><sup>1 3</sup><br><a href='mailto:margaret.woodhouse@usda.gov'>Woodhouse, Margaret R</a><sup>1</sup><br>
+
+<sup>1</sup>USDA-ARS, Corn Insects and Crop Genetics Research Unit, Ames, IA 50011, USA<br><sup>2</sup>Division of Animal Sciences, University of Missouri, Columbia, MO 65211, USA<br><sup>3</sup>Department of Computer Science, Iowa State University, Ames, IA 50011, USA<br>

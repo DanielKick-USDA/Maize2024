@@ -1,0 +1,20 @@
+---
+title: "Cloning the classic maize metaxylem mutant, wilted1 (wi1) by chromosome walking and RNA sequencing"
+subtitle: "P69"
+author: "Pasquale Hendrawinata"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c1/Protective_Coleoptile_Tip_in_Zea_Mays_Embryo_%2847691344541%29.jpg"
+categories: 
+- Cell and Developmental Biology
+- Odd Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Plant growth is dependent on multicellular vascular bundles and their ability to conduct water. The majority of water transport in maize is accomplished by xylem vessel elements, protoxylem and metaxylem. Vessel element cells are excellent water conductors because they undergo Programmed Cell Death (PCD), a process that is regulated by NAC and MYB family genes. The classical maize mutant, wilted1 (wi1), exhibits a water transport defect linked to xylem vessel element production. Although protoxylem in wi1 develops normally, its metaxylem is delayed, resulting in a dwarfed and water deficient phenotype. Chromosome walking localized wi1 to a 82 Mbp interval on chromosome 6 including the centromere. Analysis of 20 F2 individuals showed that wi1 fits expectations for a single recessive allele. We characterized stem metaxylem in a 1:1 wi1:WT population and found that wi1 plants lack metaxylem in the lowest internodes at the V5 growth stage, before any obvious stress response. Using our early phenotyping method, we prepared RNA from 6 wi1 and 4 WT individuals for RNA sequencing and differential gene expression analysis. Our RNAseq identified 1174 differentially expressed genes (DEGs) between wi1 and WT, with 76% of DEGs upregulated in wi1, suggesting that WI1 is a transcriptional repressor. GO Term enrichment suggests that plant stress and transcriptional regulation are upregulated in wi1, while photosynthesis and cell expansion are downregulated in wi1. While we originally anticipated wi1 to be derived from a loss of function of a NAC or MYB within the mapping interval on chromosome 6, we instead find the most likely candidate gene to be a complex locus that contains Zm00001eb265940, Zm00001eb266010, and Zm00001eb266000, annotated as one alpha mannosidase - lipase pseudogene, LOC103630979 in the NCBI NAMv5.0 assembly. Ongoing work aims to confirm the structure of this transcript by RT-PCR and determine its protein coding potential.
+
+<a href='mailto:hendrawp@oregonstate.edu'>Hendrawinata, Pasquale</a><sup>1</sup><br><a href='mailto:ruggiedi@oregonstate.edu'>Ruggiero, Diana</a><sup>1</sup><br><a href='mailto:medinamm@oregonstate.edu'>Medina, Camila</a><sup>1</sup><br><a href='mailto:georgechuck@berkeley.edu'>Chuck, George</a><sup>2</sup><br><a href='mailto:leiboffs@oregonstate.edu'>Leiboff, Samuel</a><sup>1</sup><br>
+
+<sup>1</sup>Department of Botany and Plant Pathology; Oregon State University; Corvallis; Oregon<br><sup>2</sup>Department of Plant and Microbial Biology; University of California, Berkeley; Berkeley; California<br>

@@ -1,0 +1,20 @@
+---
+title: "Characterizing expression of meristem genes in a Lig5 maize mutant"
+subtitle: "P6"
+author: "Irina Makarevitch"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/05/DNA_base-pair_diagram.jpg"
+categories: 
+- Biochemical and Molecular Genetics
+- Even Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Plant meristems are developmental tissues that shape the structure of all plant organs. Aberrations in expression of meristematic genes as well as mutations in the proteins active in meristematic tissues could affect plant development. Understanding the relationships between meristem-specific genes and unveiling the regulatory mechanisms for their expression is essential to controlling plant development and breeding crops with desired characteristics. Liguleless genes are a group of meristem-specific genes affecting plant leaf development. A Liguleless5 (Lig5) mutation causes aberrations in the leaf ligule, a thin outgrowth at the junction of leaf and stem, changing the shape and the angle of seedling leaves. In addition, this mutation causes knot formation on leaves. In this project, we investigated the expression patterns of meristem-specific genes from several families (knotted, knotted-like, and liguleless) in meristematic and leaf tissues in lig5 mutant in comparison to the wildtype, to understand the possible causes of this phenotype. RNA was extracted from the meristematic (stem) and leaf tissues in young seedlings, converted into cDNA, and analyzed using qPCR to determine gene expression. We determined that several meristem-specific genes were overexpressed in the mutant leaf tissues and underexpressed in the mutant meristematic tissues compared to the wild-type plants. A few of those genes that expressed a change in expression patterns were kn1, knox1, knox2, and knox3. Our findings suggest that lig5 mutation causes changes in expression patterns of meristem-specific genes. Further studies are needed to understand the details of this effect.
+
+<a href='mailto:hxiong05@hamline.edu'>Xiong, Hunti</a><sup>1</sup><br><a href='mailto:imakarevitch01@hamline.edu'>Makarevitch, Irina</a><sup>1</sup><br>
+
+<sup>1</sup>Hamline University; Saint Paul, MN, US 55449<br>

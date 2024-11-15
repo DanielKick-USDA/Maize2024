@@ -1,0 +1,20 @@
+---
+title: "Analyzing the impact of 40 years of breeding and low nitrogen environments on maize root system architecture using X-ray imaging"
+subtitle: "P199"
+author: "August Thies"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5e/Aztec_Diet_Basket_of_Corn_%289755332575%29.jpg"
+categories: 
+- Quantitative Genetics & Breeding
+- Odd Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Root system architecture (RSA) is influenced by genetics, environments and agricultural management, thus understanding how these factors interact with each other is vital for root-based crop improvement. This study examined the impact of maize breeding, environmental variation and nitrogen availability on RSA through comparisons of root traits from a panel of era hybrids. Twenty-seven maize hybrids were selected from across four decades (1985-2020) of the Bayer Crop Science breeding program and planted a control fertilizer rate (200 lbs./acre N) and a low rate (50 lbs./acre N) at three different fields in Iowa, Indiana, and Illinois. To explore differences in RSA, in the summers of 2021 & 2022, we shovel-excavated 1300 root crowns at stage R3, averaging 6 samples per era hybrid at each N rate and field site. We generated digital 3D reconstructions using X-ray computed tomography and used a custom computational pipeline to further distinguish their overall contributions and impacts upon individual traits. From these reconstructions, we calculated more than 100 root traits in 3D such as total root length, total volume and number of root tips. Additionally, we measured the local climates, soil nitrogen, bulk density and water table depth throughout each season along with soil texture at each field site to better understand which environmental parameters were correlated with the changes in RSA development. Subsequent analysis shows that breeding, environmental variation and nitrogen availability all account for root crown phenotypic variation and we are working to further distinguish their overall contributions and impacts upon individual traits. These findings will improve our understanding of the heritability of root traits and the underlying genetics that control RSA development across a major US breeding program, which in turn can help improve future maize hybrids.
+
+<a href='mailto:athies@danforthcenter.org'>Thies, August C.</a><sup>1 2</sup><br><a href='mailto:cscia@iastate.edu'>Sciarresi, Cintia</a><sup>3</sup><br><a href='mailto:lolmedop@purdue.edu'>Olmedo Pico, Lia B.</a><sup>4</sup><br><a href='mailto:kylek@iastate.edu'>King, Kyle A.</a><sup>2</sup><br><a href='mailto:aruiz@iastate.edu'>Ruiz, Alejo</a><sup>2</sup><br><a href='mailto:slobodan.trifunovic@bayer.com'>Trifunovic, Slobodan</a><sup>5</sup><br><a href='mailto:douglas.eudy@bayer.com'>Eudy, Douglas</a><sup>5</sup><br><a href='mailto:tvyn@purdue.edu'>Vyn, Tony J.</a><sup>4</sup><br><a href='mailto:sarchont@iastate.edu'>Archontoulis, Sotirios V.</a><sup>2</sup><br><a href='mailto:CTopp@danforthcenter.org'>Topp, Christopher N.</a><sup>1</sup><br>
+
+<sup>1</sup>Donald Danforth Plant Science Center; St. Louis, MO 63132<br><sup>2</sup>University of Missouri; Columbia, MO 65211<br><sup>3</sup>Iowa State University; Ames, IA 50011<br><sup>4</sup>Purdue University; West Lafayette, IN 47907<br><sup>5</sup>Bayer Crop Science; Chesterfield, MO, USA 63017<br>

@@ -1,0 +1,20 @@
+---
+title: "Incorporating gene network information into the prediction of maize flowering time"
+subtitle: "P237"
+author: "Joseph DeTemple"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5e/Aztec_Diet_Basket_of_Corn_%289755332575%29.jpg"
+categories: 
+- Quantitative Genetics & Breeding
+- Odd Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+The flowering time in crops is a critical trait for consistent agricultural performance and developing lines for specific environments. Due to the complex quantitative genetic architecture of flowering time, prediction of diverse lines in new environments is difficult. Much of this complexity arises from the large network of genes and regulatory elements that interact to hasten or slow the transition from vegetative to reproductive growth in the developing maize plants. These interactions, detected through either functional genetics studies with knockout mutants or quantitative genetics studies with natural genetic diversity, contain information critical to understanding flowering time differences between different maize lines. Using gene network information in a predictive context will shift prediction methods towards a systems biology approach, where individual alleles cannot be considered separately from the gene network and genetic background. Although including expression data from over 50 genes in a single model, for example a static mixed-effect model or a dynamic gene regulatory network model, may not be feasible, it is important to consider that in individual maize lines, a unique subset of genes within the network may be able to capture a majority of the trait variation and be sufficient for accurate prediction of flowering time. Simplified gene networks, based only on genes segregating in the genetic background of interest, can incorporate gene network information into modeling approaches without requiring extremely complicated, comprehensive models. Incorporating gene network information within prediction models will also increase the interpretability of results by connecting to functional processes at the cellular level. Genes involved in the flowering time network have diverse functions, including light receptors, transcription factors, and enhancer elements, and the significance of each of these categories in the prediction step can give insight into the biological consequences of gene interactions. The tropical inbred lines CML277 and Tzi8 are given as examples of how network information can be used in predicting the flowering time of maize lines significantly different than the standard reference line B73.
+
+<a href='mailto:detemplj@iastate.edu'>DeTemple, Joseph M</a><sup>1</sup><br><a href='mailto:ddli@iastate.edu'>Li, Dongdong</a><sup>1</sup><br><a href='mailto:mgmuszyn@hawaii.edu'>Muszynski, Michael</a><sup>2</sup><br><a href='mailto:xianran.li@wsu.edu'>Li, Xianran</a><sup>3</sup><br><a href='mailto:jmyu@iastate.edu'>Yu, Jianming</a><sup>1</sup><br>
+
+<sup>1</sup>Department of Agronomy, Iowa State University, Ames, IA, USA<br><sup>2</sup>Department of Tropical Plant and Soil Sciences, University of Hawai&#39;i at Mānoa, Honolulu, HI, USA<br><sup>3</sup>USDA-ARS, Wheat Health, Genetics, and Quality Research Unit, Pullman, WA, USA<br>

@@ -1,0 +1,20 @@
+---
+title: "Elucidating freezing tolerance in tripsacum: Insights from combined transcriptome and proteome"
+subtitle: "P10"
+author: "Elad Oren"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/05/DNA_base-pair_diagram.jpg"
+categories: 
+- Biochemical and Molecular Genetics
+- Even Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+By extending the growing season of annual crops, we can improve net primaryproductivity and yield, and address the mismatch between soil nitrate availability and cropnitrate demand. In temperate regions, early maize planting requires cold tolerance, a trait notpresent in current elite maize varieties. Tripsacum dactyloides, the closest perennial andcold-tolerant relative of maize, offers a potential source for identifying genes related to coldadaptation. To explore this, we crossed Tripsacum accessions collected from both high- andlow-latitude habitats. The resulting hybrids were screened in a field trial in Ithaca, NY, overtwo years, a location known for its deep freezing winter temperatures. We analyzed proteinexpression levels in the hybrids’ rhizomes and roots, taken during winter (dormant stage) andsummer (active stage), using a shotgun proteomics approach. This analysis was combinedwith RNAseq data from leaf tissues of freezing tolerant seedlings before and after coldacclimation treatments, sampled from F2 families derived from the aforementioned hybrids.Our examination of significant genes, overlapping between the seedling transcriptomic andrhizome proteomics data, identified 109 up-regulated and 161 down-regulated proteinscommon to all three data sets. We compiled a list of cryoprotectants, including thosepreviously known to be involved in abiotic stress, such as late embryogenesis abundant(LEA) proteins, heat shock proteins, and ABA stress ripening genes. Our results presentvariations in copy number, protein structure, and transcription factor binding sites incomparison to orthologs in maize.
+
+<a href='mailto:eo235@cornell.edu'>Oren, Elad</a><sup>1</sup><br><a href='mailto:trooney@sesaco.com'>Rooney, Travis E</a><sup>2</sup><br><a href='mailto:angelovicir@missouri.edu'>Angelovici, Ruthie</a><sup>3</sup><br><a href='mailto:coh22@cornell.edu'>Hale, Charles</a><sup>4</sup><br><a href='mailto:christygault@gmail.com'>Gault, Christine M</a><sup>1</sup><br><a href='mailto:jh299@cornell.edu'>Hua, Jian</a><sup>5</sup><br><a href='mailto:thuyla@cornell.edu'>La, Thuy</a><sup>1</sup><br><a href='mailto:nkl3@cornell.edu'>Lepak, Nicholas</a><sup>6</sup><br><a href='mailto:mcr72@cornell.edu'>Romay, M Cinta</a><sup>1</sup><br><a href='mailto:esb33@cornell.edu'>Buckler, Edward S</a><sup>1 6</sup><br><a href='mailto:jz963@cornell.edu'>Zhai, Jingjing</a><sup>1</sup><br>
+
+<sup>1</sup>Institute for Genomic Diversity, Cornell University, Ithaca, NY 14853, USA<br><sup>2</sup>Sesaco Corporation, Austin, TX 78701, USA<br><sup>3</sup>Division of Biological Sciences and Interdisciplinary Plant Group, University of Missouri, Columbia, Missouri 65211, USA<br><sup>4</sup>School of Integrative Plant Sciences, Plant Breeding and Genetics Section, Cornell University, Ithaca, New York, 14853, USA<br><sup>5</sup>School of Integrative Plant Science, Plant Biology Section, Cornell University, Ithaca, New York, 14853, USA<br><sup>6</sup>USDA-ARS, Ithaca, NY, USA 14853<br>

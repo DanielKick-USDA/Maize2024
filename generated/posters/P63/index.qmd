@@ -1,0 +1,20 @@
+---
+title: "A spatial transcriptome map of the developing maize ear"
+subtitle: "P63"
+author: "yuebin wang"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c1/Protective_Coleoptile_Tip_in_Zea_Mays_Embryo_%2847691344541%29.jpg"
+categories: 
+- Cell and Developmental Biology
+- Odd Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+A comprehensive understanding of inflorescence development is crucial for crop genetic improvement, as inflorescence meristems give rise to reproductive organs and determine grain yield. However, dissecting inflorescence development at the cellular level has been challenging owing to a lack of specific marker genes to distinguish among cell types, particularly in different types of meristems that are vital for organ formation. In this study, we used spatial enhanced resolution omics-sequencing (Stereo-seq) to construct a precise spatial transcriptome map of the developing maize ear primordium, identifying twelve cell types, including the four newly cell types found mainly in the inflorescence meristem. By extracting the meristem components for detailed clustering, we identified three subtypes of meristem, and validated two MADS-box genes that were specifically expressed at the apex of determinate meristems and involved in stem cell determinacy. Furthermore, by integrating single-cell RNA transcriptomes, we identified a series of spatially-specific networks and hub genes that may provide new insights into the formation of different tissues. In summary, this study provides a valuable resource for studies of cereal inflorescence development studies, offering new clues for yield improvement.
+
+<a href='mailto:1310214636@qq.com'>Wang, Yuebin</a><sup>1</sup><br><a href='mailto:1332803470@qq.com'>Luo, Yun</a><sup>1</sup><br><a href='mailto:guoxing@genomics.cn'>Guo, Xing</a><sup>2 3</sup><br><a href='mailto:1109704146@qq.com'>Li, Yunfu</a><sup>1</sup><br><a href='mailto:yanjiali2@126.com'>Yan, Jiali</a><sup>1</sup><br><a href='mailto:jacksond@cshl.edu'>Jackson, David</a><sup>1 5</sup><br><a href='mailto:yjianbing@mail.hzau.edu.cn'>Yan, Jianbing</a><sup>1 6</sup><br><a href='mailto:liuhuan@genomics.cn'>Liu, Huan</a><sup>2 3 4</sup><br><a href='mailto:leil@mail.hzau.edu.cn'>Liu, Lei</a><sup>1 6</sup><br><a href='mailto:ningy@mail.hzau.edu.cn'>Yang, Ning</a><sup>1 6</sup><br>
+
+<sup>1</sup>National Key Laboratory of Crop Genetic Improvement, Huazhong Agricultural University, 430070, Wuhan, Hubei, China<br><sup>2</sup>BGI Research, Shenzhen 518083, China<br><sup>3</sup>BGI Research, Wuhan 430074, China<br><sup>4</sup>Guangdong Laboratory of Lingnan Modern Agriculture, Agricultural Genomics Institute at Shenzhen, Shenzhen, China<br><sup>5</sup>Cold Spring Harbor Laboratory, Cold Spring Harbor, NY, USA 11724<br><sup>6</sup>Hubei Hongshan Laboratory, 430070, Wuhan, Hubei, China<br>

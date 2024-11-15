@@ -1,0 +1,20 @@
+---
+title: "The recessive lesion mimic mutation (les-2014) results from the loss of function of the only hpl1 gene in maize"
+subtitle: "P272"
+author: "Sendi Mejia Jimenez"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5e/Aztec_Diet_Basket_of_Corn_%289755332575%29.jpg"
+categories: 
+- Quantitative Genetics & Breeding
+- Even Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+les-2014 is a recessive lesion mimic mutant that produces symptoms mimicking the grey leaf spot disease of maize. This mutant appeared in an EMS mutagenized population of Mo17, following a new mutagenesis approach that involves multiple rounds of mutagenesis over successive generations. We have named this approach NextGEM2 (for next-generation mutagenesis version 2). les-2014 was backcrossed to Mo17 over multiple generations, and an F2 population generated from cross of the mutant with B73 allowed the mutant to be mapped to the long arm of chromosome 4. Whole genome sequencing-based cloning was next used to identify the mutant gene underlying les-2014. Single nucleotide variants (SNVs) in the lower end of the long arm in chromosome 4 were filtered based on their allele frequency and nonsynonymous effects to determine one SNV unique to les-2014. The mutation was found to cause a missense mutation that changed the amino acid Ala to Pro at position 223 of the enzyme hydroperoxide lyase (HPL) that competes with the JA pathway enzyme allene oxide synthase to divert the oxylipin pathway towards green leaf volatiles (GLVs). That the correct gene was cloned was verified by showing that corresponding allele of a second les-2014 mutant also sustained structural changes in the hpl1 gene. Further characterization of the mutant and the hpl1 gene is being done in collaboration with Mike Kolomiets of Texas A&M university. We are especially interested in knowing why a block in the production of GLVs ends up killing corn leaf cells.
+
+<a href='mailto:smejiaji@gmail.com'>Mejia Jimenez, Sendi Y</a><sup>1</sup><br>
+
+<sup>1</sup>Purdue University, West Lafayette, IN, 47906<br>

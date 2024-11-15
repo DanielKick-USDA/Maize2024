@@ -1,0 +1,20 @@
+---
+title: "Investigating the role of higher-WOX3 transcription factors during robust patterning of leaf-margin orientation and tassel spikelet development"
+subtitle: "P92"
+author: "Richie Eve Ragas"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c1/Protective_Coleoptile_Tip_in_Zea_Mays_Embryo_%2847691344541%29.jpg"
+categories: 
+- Cell and Developmental Biology
+- Even Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+In maize leaves, the distal blade projects away from the plant whereas the proximal sheath surrounds and supports the underlying stem. The orientation of the inner and outer edges of the overlapping sheath margins show robust, non-random patterning. Specifically, the outermost edge wraps around the innermost edge to form consistent, left margin/right margin "wrapper-tucker" pattern (W-T) persistent across plastochron stages. In situ hybridizations of the boundary gene CUP-SHAPED COTYLEDON2 (CUC2) reveal asymmetric transcript accumulation in the wrapper and tucker edges of the emerging sheath primordial margins, suggesting a potential role for CUC2 in the establishment and maintenance of the W-T pattern. In specific combinations of higher-order mutations in WUSCHEL-LIKE HOMEOBOX3 (WOX3) genes, W-T patterning is random and robustness is lost. To understand the molecular mechanisms underlying W-T patterning in grass leaves, we are conducting laser microdissection RNA-seq (LM-RNAseq) analyses of the marginal domains of emerging P4 leaf sheath primordia. Other higher-order mutations in WOX3 genes condition defects in tassel spikelet morphology, particularly influencing the bract-like glumes. In the "very narrow sheath (vns; i.e. ns1 ns2 WOX3A+/wox3a") mutant, glumes are significantly narrowed, creating an open spikelet that exposes the stamens before anthesis. Conversely, wox3 triple mutants (ns1 ns2 wox3a) displays distinctively forked glumes that split at the end. Both the vns and wox3 triple mutant phenotypes demonstrate a tendency toward feminization, notably evident in spikelets at the distal tip of the primary tassel branch. LM-RNAseq and spatial transcriptomic analyses will be used to elucidate the developmental mechanisms of WOX3 function in maize leaf and floral development.
+
+<a href='mailto:rgr86@cornell.edu'>Ragas, Richie Eve G</a><sup>1</sup><br><a href='mailto:enrico.coen@jic.ac.uk'>Coen, Enrico</a><sup>2</sup><br><a href='mailto:mjs298@cornell.edu'>Scanlon, Michael</a><sup>1</sup><br>
+
+<sup>1</sup>School of Integrative Plant Sciences, Cornell University, Ithaca, NY 14853<br><sup>2</sup>Department of Cell and Developmental Biology, John Innes Centre, Norwich Research Park, Colney Lane, Norwich NR4 7UH, UK.<br>

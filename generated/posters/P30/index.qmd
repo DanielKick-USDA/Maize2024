@@ -1,0 +1,20 @@
+---
+title: "Integration of proteomics and phosphoproteomics provides insight into the protein-bound amino acid regulation in the opaque2 mutant"
+subtitle: "P30"
+author: "Huda Ansaf"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/05/DNA_base-pair_diagram.jpg"
+categories: 
+- Biochemical and Molecular Genetics
+- Even Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Cereal Grains are a poor source of essential amino acids (EAA). A diet that lacks a sufficient quantity of EAAs contributes to malnutrition and growth deficiencies. As most amino acids in the seed are constituents of proteins, targeting protein-bound amino acid (PBAA) for nutritional enhancement is the most plausible method. However, previous studies have attempted to overexpress or knockout proteins to increase EAAs contents, but it was largely unsuccessful. This is because PBAA regulation is a complex trait that is tightly controlled by the interactions of multiple networks in the cell. The tight maintenance of PBAA composition and proteome reprogramming in mutants of seed storage proteins is shared across multiple organisms. However, we know very little about the molecular mechanism underlying the regulation of PBAA in the seed. To better understand the genetic and metabolic basis of PBAA robustness and regulation in the seed, we have utilized a combination of mutant approaches and multi-omics by performing differential proteomics, phosphoproteomics, and transcriptome-wide association study (TWAS) on seed storage protein mutants and compared them to unperturbed genotypes. Overlap of TWAS and differential proteomics identify 101 high-confidence candidate genes mostly involved in protein metabolism. From the overlap, we saw a significant enrichment of translational components. Changes in protein abundance and gene expression show heterogeneous expression of translational components across development across tissue types and between genotypes. Phosphoproteomics results show that change in phosphorylation is independent of change in protein abundance. Phospho-peptide enrichment at 26DAP shows an overall increase in the phosphorylation of translation initiation and mRNA binding, while there is a decrease in phosphorylation of mRNA metabolic processes. These results indicate a potential role for the translational machinery in maintaining/regulating protein content and amino acid composition in the seed. Further analyses of translational-component mutants will provide more insight into the changes in PBAA and FAA across seed development. Understanding the tight regulation of PBAA will enable us to find new strategies to push forward amino acid biofortification efforts.
+
+<a href='mailto:hah34@umsystem.edu'>Ansaf, Huda B.</a><sup>1</sup><br><a href='mailto:lmjxy6@umsystem.edu'>Jenkins, Lauren M.</a><sup>1</sup><br>Shrestha, Vivek<sup>2</sup><br><a href='mailto:cb36f@missouri.edu'>Bagaza, Clement</a><sup>1</sup><br><a href='mailto:yobia@missouri.edu'>Yobi, Abou</a><sup>1</sup><br><a href='mailto:xl743@cornell.edu'>Li, Xiaowei</a><sup>3</sup><br><a href='mailto:s.l.holden96@gmail.com'>Holding, Sam</a><sup>1</sup><br><a href='mailto:mag87@cornell.edu'>Gore, Michael A.</a><sup>3</sup><br><a href='mailto:angelovicir@missouri.edu'>Angelovici, Ruthie</a><sup>1</sup><br>
+
+<sup>1</sup>Bond Life Science Center, Division of Biological Sciences, Interdisciplinary Plant Group, University of Missouri, Columbia, Missouri, USA.<br><sup>2</sup>Bayer Crop Sciences, St. Louis, Missouri, United States 63167<br><sup>3</sup>Cornell University, School of Integrative Plant Science, Plant Breeding and Genetics Section<br>

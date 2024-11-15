@@ -1,0 +1,20 @@
+---
+title: "A MAGIC Population to study functional diversity in mexican native maize"
+subtitle: "P189"
+author: "Sergio Perez-Limoon"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5e/Aztec_Diet_Basket_of_Corn_%289755332575%29.jpg"
+categories: 
+- Quantitative Genetics & Breeding
+- Odd Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Native Maize Varieties (NMV) are adapted to their specific agro-environmental niche and local management practices. In México, NMVs are grown in a highly diverse set of environments, from hot and humid, to cold and arid, and, as such, represent an important resource to study the genetic basis of adaptation of crops to extreme and contrasting environments. Historically, the study of the genetic architecture of quantitative traits in NMVs has been based on the use of biparental mapping populations or diversity panels. In this work, we present a Multi-parent advanced generation intercross (MAGIC) population generated with the genomic contributions of 8 Mexican NMV donors (MEXIMAGIC population) representative of the agro-climatic and environmental conditions where maize is grown in Mexico. A pilot set of 164 families of the MEXIMAGIC population were test-crossed with NC358 and the F1 hybrids were evaluated in a field experiment. 3 representative ears per row were scanned and the ear length, width, RGB spectrum (pigmentation) and perimeter principal component values were obtained from the images. Ear and Cob phenotypes were used as phenotypic input for Genome-wide association and Quantitative Trait Loci (QTL) analyses. 5 QTL were identified in both analyses (alpha = 0.1): 2 for cob pigmentation, 1 for cob width, and 1 for ear width. In addition to the mapping results, we discuss the design, development, genotyping, and future expansion of the population. The identification of QTLs and their allelic effect works as a proof of concept for the potential of the MEXIMAGIC to dissect the genetic architecture of quantitative and agronomical relevant traits in NMVs.
+
+<a href='mailto:sjp6181@psu.edu'>Pérez-Limón, Sergio</a><sup>1</sup><br><a href='mailto:ana.alonso@cinvestav.mx'>Alonso Nieves, Ana Laura</a><sup>2</sup><br><a href='mailto:stewart.gillmor@cinvestav.mx'>Gillmor, Stewart</a><sup>2</sup><br><a href='mailto:rrellan@ncsu.edu'>Rellán-Álvarez, Rubén</a><sup>3</sup><br><a href='mailto:rjs6686@psu.edu'>Sawers, Ruairidh J. H.</a><sup>1</sup><br>
+
+<sup>1</sup>Department of Plant Science, The Pennsylvania State University, State College, PA 16802, USA.<br><sup>2</sup>Laboratorio Nacional de Genómica para la Biodiversidad/Unidad de Genómica Avanzada, Centro de Investigación y de Estudios Avanzados, Instituto Politécnico Nacional (CINVESTAV-IPN), Irapuato, Guanajuato 36821, México.<br><sup>3</sup>Department of Molecular and Structural Biochemistry, North Carolina State University, Raleigh, NC 27695<br>

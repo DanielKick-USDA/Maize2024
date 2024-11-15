@@ -1,0 +1,20 @@
+---
+title: "B chromosome mediated effects on A chromosomes"
+subtitle: "P174"
+author: "James Birchler"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/a/ab/Angiosperm_Morphology_The_Closed_and_Collateral_Vascular_Bundle_in_Zea_%2837215761790%29.jpg"
+categories: 
+- Cytogenetics
+- Even Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+In the process of introgressing B chromosomes into the sequenced version of B73, once the B copy number was increased, we observed nine different trisomies and one haploid of A chromosomes among 69 seedlings analyzed via root tip squashes. A similar introgression of B chromosomes into W22 did not produce such an effect. The B73 results were somewhat reminiscent of the High Loss (HL) line described by Rhoades and Dempsey in which knobbed chromosomes break at the second pollen mitosis in the presence of B chromosomes together with the production of trisomies and triploids, although the B73 results did not show a high level of chromosome breakage. A study of the High Loss effects was initiated for comparison. When the HL line with multiple B chromosomes was crossed to an a1 tester, a high rate of breakage of chromosome arm 3L was observed given a large knob there. Also present were many defective kernels. A karyotypic analysis of kernels from this cross revealed triploids, monosomies, trisomies, fragments, and rearranged chromosomes. An examination of the pollen in the HL+B’s line revealed chromatin bridges between the two sperm and many grains with only a single sperm. Crosses of the HL+B line to tetraploid females revealed that the single sperm were diploid and functional in fertilization of both the egg and the central cell as evidenced by a higher frequency of normal kernels and karyotype analysis. An experiment with two-day pollinations suggested that the diploid sperm could be present in normal kernels due to heterofertilization. Progeny testing via self-pollination of the kernels of an ear from the a1 x HL+B cross found that all of the kernels that uncovered the a1allele in the endosperm had received the A1 allele in the embryo indicating that the sperm with the broken chromatid fertilized the central cell. Among the larger class of colored endosperm kernels from this cross, one might expect an equal frequency of semisterile a1 individuals that received the broken 3L arm in the egg. However, they were present at only ~8% of the reciprocal class. Two selfed individuals had ears characteristic of triploids, which was confirmed by variable numbers of chromosomes between 20 and 30 among the surviving kernels. Both kernel classes of colored and colorless endosperms from this cross produced some spindly plants that were sterile and are of unknown composition. Collectively, the results indicate that the nondisjunction property of the B chromosome at the second pollen mitosis can spill over to the A chromosomes depending on the background with W22, B73, and High Loss behaving differently. While the effect on knobs in the HL line has been known for some time, our results indicate that the centromeres of one or all A chromosomes might remain adhered at the second pollen mitosis to product the high rate of diploid sperm or A chromosomal trisomies.
+
+Albert, Patrice S.<sup>1</sup><br>Gao, Zhi<sup>1</sup><br>Yang, Hua<sup>1</sup><br>Birchler, James A.<sup>1</sup><br>
+
+<sup>1</sup>University of Missouri, Columbia, MO USA 65211<br>

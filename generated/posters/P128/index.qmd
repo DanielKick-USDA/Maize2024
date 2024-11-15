@@ -1,0 +1,20 @@
+---
+title: "ZmPILS6 is an auxin efflux carrier required for maize morphogenesis"
+subtitle: "P128"
+author: "Craig Cowling"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c1/Protective_Coleoptile_Tip_in_Zea_Mays_Embryo_%2847691344541%29.jpg"
+categories: 
+- Cell and Developmental Biology
+- Even Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+The phytohormone auxin is essential for regulating plant growth and development. Proper spatiotemporal auxin distribution is required to maintain stem cell populations and promote cellular differentiation during organogenesis. Auxin transporters from the PINFORMED1 (PIN1) and ABC families are required for maize development, but the roles of the evolutionarily ancient PIN-LIKES (PILS) proteins are not well understood. Free indole-3-acetic acid (IAA, or “auxin”) levels within the primary root are asymmetrically distributed, suggesting that this pattern is established by regulated transport and/or biosynthesis. Using reverse genetics, we have identified two ER-localized PILS proteins that influence auxin transport in roots. Knockdown alleles of PILS6 in maize display altered auxin response in seedlings and impaired vegetative development, including reduced shoot height and crown root architecture. pils6 roots have extensive proteome and phosphoproteome remodeling compared to W22, including extensive changes to hormone signaling and cell proliferation related proteins. PILS6 protein interactors were predicted using this proteomics data and Weighted Gene Co-expression Network Analysis (WGCNA). Within the PILS6 co-expression network are kinases, trafficking proteins, and other membrane transporters. Based on these findings, a working model for the roles of PILS6 in driving maize root and shoot formation will be presented, which may inform strategies for generating desirable architectural traits.
+
+<a href='mailto:ccowling@iastate.edu'>Cowling, Craig</a><sup>1</sup><br><a href='mailto:arielle.homayouni@duke.edu'>Houmayani, Arielle</a><sup>2</sup><br><a href='mailto:maxwellm@iastate.edu'>McReynolds, Maxwell</a><sup>1</sup><br><a href='mailto:madraves@iastate.edu'>Draves, Melissa</a><sup>1</sup><br><a href='mailto:mlang1@iastate.edu'>Lang, Michelle</a><sup>1</sup><br><a href='mailto:haiyanke@ucr.edu'>Ke, Haiyan</a><sup>3</sup><br><a href='mailto:kdehesh@ucr.edu'>Dehesh, Katayoon</a><sup>3</sup><br><a href='mailto:lucia.strader@duke.edu'>Strader, Lucia</a><sup>2</sup><br><a href='mailto:jwalley@iastate.edu'>Walley, Justin</a><sup>1</sup><br><a href='mailto:dkelley@iastate.edu'>Kelley, Dior</a><sup>1</sup><br>
+
+<sup>1</sup>Iowa State University; Ames, Iowa<br><sup>2</sup>Duke University; Durham, North Carolina<br><sup>3</sup>University of California Riverside; Riverside, California<br>

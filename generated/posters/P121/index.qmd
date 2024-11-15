@@ -1,0 +1,20 @@
+---
+title: "Uncovering the infection strategy of Phyllachora maydis during �maize colonization: A comprehensive analysis"
+subtitle: "P121"
+author: "Denise Caldwell"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c1/Protective_Coleoptile_Tip_in_Zea_Mays_Embryo_%2847691344541%29.jpg"
+categories: 
+- Cell and Developmental Biology
+- Odd Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Tar spot, a disease caused by the ascomycete fungal pathogen Phyllachora maydis, is considered one of the most significant yield-limiting diseases of maize (Zea mays L.) within the United States. P. maydis may also be found in association with other fungi, forming a disease complex which is thought to result in the characteristic fish eye lesions. Understanding how P. maydis colonizes maize leaf cells is essential for developing effective disease control strategies. Here, we used histological approaches to elucidate how P. maydis infects and multiplies within susceptible maize leaves. We collected tar spot-infected maize leaf samples from four different fields in northern Indiana at three different time points during the growing season. Samples were chemically fixed and paraffin-embedded for high-resolution light and scanning electron microscopy. We observed a consistent pattern of disease progression in independent leaf samples collected across different geographical regions. Each stroma contained a central pycnidium that produced asexual spores. Perithecia with sexual spores developed in the stomatal chambers adjacent to the pycnidium, and a cap of spores formed over the stroma. P. maydis reproductive structures formed around but not within the vasculature. We observed P. maydis associated with two additional fungi, one of which is likely a member of the Paraphaeosphaeria genus; the other is an unknown fungi. Our data provide fundamental insights into how this pathogen colonizes and spreads within maize leaves. This knowledge can inform new approaches to managing tar spot, which could help mitigate the significant economic losses caused by this disease.
+
+<a href='mailto:caldwed@purdue.edu'>Caldwell, Denise L.</a><sup>1</sup><br><a href='mailto:croccoda@purdue.edu'>Rocco da Sliva, Camila</a><sup>2</sup><br><a href='mailto:mccoyaus@msu.edu'>McCoy, Austin G.</a><sup>3</sup><br><a href='mailto:havilaor@purdue.edu'>Avila, Haryson</a><sup>1</sup><br><a href='mailto:jbonkows@purdue.edu'>Bonkowski, John C.</a><sup>2</sup><br><a href='mailto:chilvers@msu.edu'>Chilvers, Martin I.</a><sup>3</sup><br><a href='mailto:helm6@purdue.edu'>Helm, Matthew</a><sup>4</sup><br><a href='mailto:dtelenko@purdue.edu'>Telenko, Darcy E. P.</a><sup>2</sup><br><a href='mailto:asi2@purdue.edu'>Iyer-Pascuzzi, Anjali S.</a><sup>1</sup><br>
+
+<sup>1</sup>Department of Botany and Plant Pathology, Center for Plant Biology, Purdue University, West Lafayette IN 47907 U.S.A.<br><sup>2</sup>Department of Botany and Plant Pathology, Purdue University, West Lafayette IN 47907 U.S.A.<br><sup>3</sup>Department of Plant, Soil and Microbial Sciences, Michigan State University, East Lansing MI 48824 U.S.A.<br><sup>4</sup>Crop Production and Pest Control Research Unit, U.S. Department of Agriculture-Agricultural Research Service (USDA-ARS), West Lafayette, IN 47907 U.S.A.<br>

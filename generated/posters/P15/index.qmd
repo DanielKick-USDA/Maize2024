@@ -1,0 +1,20 @@
+---
+title: "Finding a high throughput DNA extraction method for maize"
+subtitle: "P15"
+author: "Gerardo Gonzalez"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/05/DNA_base-pair_diagram.jpg"
+categories: 
+- Biochemical and Molecular Genetics
+- Odd Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+With the world’s climate becoming more extreme it has imposed great challenges on agriculture and food security. Maize is a staple crop that much of the world depends on and it is vital to ensure it can overcome these stressors and flourish under these harsher growing conditions. The main method in getting corn to adapt to these new stressors is to create better varieties with better attributes to overcome these stresses. A key component in making this possible is to make the highly genetically diverse tropical corn lines available to breeding programs and maize geneticists around the world and not have it limited to the tropics due to photoperiod sensitivity. The three main genes suspected to suppress flowering of tropical corn in long day (temperate) latitudes are ZmRAP2.7, ZmCCT9, and ZmCCT10. In our lab the process to screen for different combinations of functional or edited alleles of these genes is very slow and tedious. It requires many steps, physical labor, and processes a very low number of samples at a time. On average for one person to prepare DNA from 20 leaf samples with our current protocol takes 3 to 4 hours. My goal is to create a DNA extraction protocol for maize that is affordable, fast, high throughput, and produces high quality DNA ready for PCR so that the plants can be screened more quickly and This would help other labs working with maize or similar DNA because they would be able to extract DNA faster and more efficiently.
+
+<a href='mailto:ggg7@hawaii.edu'>Gonzalez, Gerardo E</a><sup>1</sup><br>
+
+<sup>1</sup>University of Hawai&#39;i at Manoa; Honolulu, Hawaii, 96822<br>

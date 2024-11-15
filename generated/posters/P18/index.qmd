@@ -1,0 +1,20 @@
+---
+title: "Gene editing of two maize chalcone synthase paralogs results in conditional male sterility"
+subtitle: "P18"
+author: "Rebecca Selby"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/05/DNA_base-pair_diagram.jpg"
+categories: 
+- Biochemical and Molecular Genetics
+- Even Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+The efficient production of hybrid seed remains a key cost of goods challenge in corn, due to the need for sterilization of the male. For decades, manual and mechanical detasseling has been used to eliminate unwanted pollen in hybrid production fields, complemented by the more recent implementation of cytoplasmic male sterility (CMS), and other proprietary hybridization systems. Looking for novel gene targets to create genic male sterility, we returned to a pair of classic maize mutants colorless2 (C2) and whitepollen1 (WHP1). In the homozygous double mutant, mutations in these two genes are reported to result in a flavonol-complementable-male sterility. Within the maize flavonol biosynthetic pathway, we identified a similar pair of male-expressed genes, with predicted chalcone synthase activity, chalcone synthase2 (CHLS2) and chalcone synthase11 (CHLS11). We created null mutants for these two genes using CRISPR-Cas12 technology and confirmed editing with Taqman and sanger sequencing. Interestingly, and contrary to the stable male sterility observed in c2 whp1 double mutants, these edited lines demonstrated a conditional male sterility phenotype in the homozygous double mutant.
+
+<a href='mailto:Becca.selby@syngenta.com'>Selby, Becca</a><sup>1</sup><br><a href='mailto:Rachel.Egger@Syngenta.com'>Egger, Rachel</a><sup>1</sup><br><a href='mailto:Jared.Carter@Syngenta.com'>Carter, Jared</a><sup>1</sup><br><a href='mailto:Julie.Green@syngenta.com'>Green, Julie</a><sup>1</sup><br><a href='mailto:Tim.Kelliher@Syngenta.com'>Kelliher, Tim</a><sup>1</sup><br>
+
+<sup>1</sup>Seeds Research, Syngenta, Research Triangle Park, North Carolina, United States<br>

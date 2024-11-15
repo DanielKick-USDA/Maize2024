@@ -1,0 +1,20 @@
+---
+title: "Linking known and previously uncharacterized genes to roles in maize metabolism and whole plant phenotype using paired transcriptomic and metabolic data from a field grown maize diversity panel"
+subtitle: "P241"
+author: "Ramesh Kanna Mathivanan"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5e/Aztec_Diet_Basket_of_Corn_%289755332575%29.jpg"
+categories: 
+- Quantitative Genetics & Breeding
+- Odd Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Here we sought to identify genes involved in producing variation in maize metabolism and link these genes to non-metabolic trait outcomes. We assayed 26 metabolites using GC-MS (Gas Chromatography-Mass Spectrometry) using leaf samples collected from 796 diverse maize inbred lines grown under field conditions during a two-hour period on a single day that roughly moderately proceeded flowering for the majority of lines. Resampling Model Inclusion Probability Genome Wide Association Study (RMIP-GWAS) was conducted for metabolite traits using a set of approximately 26 million SNPs (Single Nucleotide Polymorphism). And Transcriptome-Wide Association Studies (TWAS) were conducted using RNA-seq data obtained from paired leaf samples collected from the same leaves at the same time. We focused on six metabolites significantly associated with genetic variants. A total of 51 and 39 candidate genes were identified via RMIP-GWAS and TWAS, respectively. A Random Forest feature importance-based approach identified 10 genes which overlapped with the set of candidates identified via TWAS. Further RMIP-GWAS on 42 non-metabolic traits, including agronomic, hyperspectral and photosynthetic traits, identified 7 loci associated with variation in both metabolic and non-metabolic traits. A number of genes identified are known to play important roles in plant metabolic networks including Zm00001eb254940, Zm00001eb002790, Zm00001eb035010 and Zm00001eb142730, which encode the enzymes shikimate kinase, glutathione S-transferase, lipoxygenase and trans aldolase. These results enable future studies to delve deeper into the roles of these metabolites and genes in plant growth and development processes.
+
+<a href='mailto:rmathivanan2@huskers.unl.edu'>Mathivanan, Ramesh Kanna</a><sup>1</sup><br><a href='mailto:cpedersen3@unl.edu'>Pederson, Connor</a><sup>2</sup><br><a href='mailto:jturkus2@unl.edu'>Turkus, Jonathan</a><sup>1</sup><br><a href='mailto:vladimir.torres@unl.edu'>Torres, Vladimir</a><sup>1</sup><br><a href='mailto:rmural2@huskers.unl.edu'>Mural, Ravi V.</a><sup>1</sup><br><a href='mailto:tobata2@unl.edu'>Obata, Toshihiro</a><sup>2</sup><br><a href='mailto:schnable@unl.edu'>Schnable, James C.</a><sup>1</sup><br>
+
+<sup>1</sup>Center for Plant Science Innovation and Department of Agronomy and Horticulture, University of Nebraska-Lincoln, Lincoln, NE USA, 68510<br><sup>2</sup>Center for Plant Science Innovation and Department of Biochemistry, University of Nebraska-Lincoln, Lincoln, NE USA, 68510<br>

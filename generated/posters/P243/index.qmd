@@ -1,0 +1,20 @@
+---
+title: "Maize hybrids display negative heterosis for induced defense while maintaining disease resistance"
+subtitle: "P243"
+author: "Asher Hudson"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5e/Aztec_Diet_Basket_of_Corn_%289755332575%29.jpg"
+categories: 
+- Quantitative Genetics & Breeding
+- Odd Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Maize hybrids are often more vigorous and higher-yielding than their inbred parents. Plant-microbe interactions have been shown to affect the magnitude of such heterosis. To investigate whether this may be due to differences in defense responses, we examined disease resistance and basal immunity in inbred and hybrid maize. In a field experiment measuring resistance to multiple pathogens, we found that heterosis for disease resistance was inconsistent and dependent on both the disease being assessed and on the parental genotypes, while heterosis for plant height was consistent across genotypes as expected. We then tested basal immunity by inoculating several sets of hybrid and inbred lines with microbial elicitors. Hybrids exhibited negative heterosis for basal immunity, meaning a reduction in response to elicitors compared to parental lines. Activation of basal immunity can be energetically costly and reduce the rate of photosynthesis. Based on our results, we hypothesize that, compared to inbred lines, hybrid maize may be able to better regulate the induced defense response to minimize associated growth penalties while maintaining effective disease resistance levels.
+
+<a href='mailto:ahudson3@ncsu.edu'>Hudson, Asher I.</a><sup>1</sup><br><a href='mailto:m211w335@ku.edu'>Wagner, Maggie R.</a><sup>2</sup><br><a href='mailto:pjbalint@ncsu.edu'>Balint-Kurti, Peter J.</a><sup>1 3</sup><br>
+
+<sup>1</sup>Department of Entomology and Plant Pathology, North Carolina State University, Raleigh, NC, USA 27606<br><sup>2</sup>Department of Ecology and Evolutionary Biology, University of Kansas, Lawrence, KA, USA 66045<br><sup>3</sup>Agricultural Research Service, United States Department of Agriculture<br>

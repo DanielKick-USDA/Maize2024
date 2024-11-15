@@ -1,0 +1,20 @@
+---
+title: "Maize Terpene Synthase 1 impacts insect pest behavior via the production of monoterpene volatiles β-myrcene and linalool."
+subtitle: "P38"
+author: "Anna Block"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/05/DNA_base-pair_diagram.jpg"
+categories: 
+- Biochemical and Molecular Genetics
+- Even Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Plant-derived volatiles are important mediators of plant-insect interactions as they can provide cues for host location and quality, or act as direct or indirect defense molecules. The volatiles produced by Zea mays (maize) include a range of terpenes, likely produced by several of the terpene synthases (TPS) present in maize. Determining the roles of specific terpene volatiles and individual TPSs in maize-insect interactions is challenging due to the promiscuous nature of TPSs in vitro and their potential for functional redundancy. In this study, we used metabolite GWAS of a sweetcorn diversity panel infested with Spodoptera frugiperda (fall armyworm) to identify genetic correlations between TPSs and individual volatiles. This analysis revealed a correlation between maize terpene synthase 1 (ZmTPS1) and emission of the monoterpene volatiles linalool and β-myrcene. Quantification of headspace volatiles in a maize tps1 loss-of-function mutant confirmed that ZmTPS1 is an important contributor to linalool and β-myrcene emission in maize. Furthermore, pairwise choice assays between tps1 mutant and wild-type plants showed that ZmTPS1, and by extension its volatile products, aid host location in the chewing insect S. frugiperda, yet repel the sap-sucking pest, Rhopalosiphum maidis (corn leaf aphid). ZmTPS1 is therefore an important mediator of the interactions between maize and its insect pests.
+
+<a href='mailto:jecayactayo@hotmail.com'>Yactayo-Chang, Jessica P.</a><sup>1</sup><br><a href='mailto:geoffrey.broadhead@usda.gov'>Broadhead, Geoffrey T.</a><sup>1</sup><br><a href='mailto:rhousler@ufl.edu'>Housler, Robert J.</a><sup>1 2</sup><br><a href='mailto:mresende@ufl.edu'>Resende, Marcio F. R.</a><sup>2</sup><br><a href='mailto:kverma2@huskers.unl.edu'>Verma, Kashish</a><sup>3</sup><br><a href='mailto:joelouis@unl.edu'>Louis, Joe</a><sup>3</sup><br><a href='mailto:gbasset@ufl.edu'>Basset, Gilles J.</a><sup>2</sup><br><a href='mailto:john.beck@usda.gov'>Beck, John J.</a><sup>1</sup><br><a href='mailto:anna.block@usda.gov'>Block, Anna K.</a><sup>1</sup><br>
+
+<sup>1</sup>USDA-ARS-Chemistry Research Unit; Gainesville, Florida,USA<br><sup>2</sup>University of Florida, Gainesville, Florida, USA.<br><sup>3</sup>University of Nebraska-Lincoln, Lincoln, Nebraska, USA.<br>

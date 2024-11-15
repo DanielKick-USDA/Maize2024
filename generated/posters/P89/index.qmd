@@ -1,0 +1,20 @@
+---
+title: "Individual and collective tissue-specific roles of BRASSINOSTEROID INSENSITIVE1 (BRI1) receptor-like kinase to plant development and BR signaling in maize."
+subtitle: "P89"
+author: "Brian Zebosi"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c1/Protective_Coleoptile_Tip_in_Zea_Mays_Embryo_%2847691344541%29.jpg"
+categories: 
+- Cell and Developmental Biology
+- Odd Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Plant architecture is a key determinant of grain yield in maize. Among the major plant growth regulators, brassinosteroids (BRs) affect multiple plant architecture traits, including organ size, sex determination, and leaf angle. However, its mechanisms remain poorly understood. We have characterized several BR biosynthesis and signaling mutants that emphasize the role of BRs in plant growth and development. We generated a mutant brassinosteroid deficient semi-dwarf (bds1) as a nonsense mutation in BR biosynthetic putative gene. We also identified the close homolog bds2 and generated several mutant alleles by Ds transposon remobilization. Unlike bds1 mutants, bds2 single mutants are indistinguishable from wild-type plants. However, bds1-R;bds2-Ds double mutants exhibited enhanced developmental defects such as dwarfing and tassel feminization. We have also identified and characterized mutants of cabbage (cbg1 and cbg2) BR biosynthetic genes from UFMu lines. Neither single mutant displayed obvious defects. However, cbg1;cbg2 double mutants had extreme dwarf stature, smaller leaves, fewer tassel branches and reduced root growth. Thus, we hypothesize that these genes redundantly function to regulate plant development. We also investigated roles of brassinosteroid insensitive1 (bri1) genes, which encode a receptor-like kinase serving as the BR receptor. Maize encodes five BRI1 members: a specific duplication of BRI1 (ZmBRI1a and ZmBRI1b), and three additional homologs (BRL1, BRL2, and BRL3). To understand the tissue-specific functions of the individual receptors and their contributions to BR signaling, we have identified Mutator or Ac/Ds transposon mutants for all genes and stacked various receptor mutants to examine the 32 single, double, triple, quadruple, and quintuple mutants. In seedling shoots and roots we observed developmental defects across different genotypes. No genotypes with a functional bri1a or bri1b showed obvious growth defects. However, bri1a;bri1b double mutants exhibited extreme dwarfing and reduced root size, indicating functional redundancy. Plant growth defects were enhanced in specific higher order mutant combinations such as bri1a;bri1b;brl1 triples and bri1a;bri1b;brl1;brl3 quadruples, implying some tissue specificity.
+
+<a href='mailto:bzebosi@iastate.edu'>Zebosi, Brian</a><sup>1 2</sup><br>Wimalanathan, Kokulapalan<sup>2</sup><br><a href='mailto:jssengo@iastate.edu'>Ssengo, John</a><sup>2</sup><br><a href='mailto:eunger@iastate.edu'>Unger-Wallace, Erica</a><sup>1</sup><br><a href='mailto:norman.best@usda.gov'>B. Best, Norman</a><sup>3 4</sup><br><a href='mailto:vollbrec@iastate.edu'>Vollbrecht, Erik</a><sup>1 2</sup><br>
+
+<sup>1</sup>Department of Genetics, Development and Cell Biology, Iowa State Universit<br><sup>2</sup>Interdepartmental Genetics and Genomics, Iowa State University<br><sup>3</sup>Bond Life Sciences Center, University of Missouri, Columbia<br><sup>4</sup>USDA-ARS, Columbia<br>

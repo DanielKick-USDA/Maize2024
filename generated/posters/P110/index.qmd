@@ -1,0 +1,20 @@
+---
+title: "The Wisconsin Crop Innovation Center: a public resource for maize transformation and gene editing research"
+subtitle: "P110"
+author: "Shawn Kaeppler"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c1/Protective_Coleoptile_Tip_in_Zea_Mays_Embryo_%2847691344541%29.jpg"
+categories: 
+- Cell and Developmental Biology
+- Even Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+The Wisconsin Crop Innovation Center (WCIC), part of the University of Wisconsin – Madison, is a ~100,000 ft2 facility operating as the largest public sector fee-for-service plant transformation laboratory in North America. Following a conventional protocol, the WCIC routinely genetically transforms the elite maize inbred LH244, a B73-related line recently released from intellectual property protection. In the near future, the WCIC will offer as a service a developmental gene facilitated transformation path which will increase the potential to transform more maize inbreds. Over-expression and/or CRISPR/Cas9-based gene editing is currently available in LH244. All transformation starts with a contract negotiation between UW and the client’s institution and upon execution, the transformation pipeline can begin. Typically, LH244 transformation starts with binary plasmid vector design and assembly as a service within the WCIC. In the near future, DIRECTCLONE plasmids, which enable simplified integration of user genes/guide RNA will be available. Upon the creation or delivery of a transformation vector, Agrobacterium stocks are created and then used to make transgenic maize. Regenerated plantlets from culture are sent to the greenhouse for plant analysis of the selection marker. For overexpression vectors, copy number services are available to identify single locus events. Plants will be advanced and selfed or outcrossed to generate T1 seed. WCIC will even advance the T1 seed generation and screen it to grow homozygous T1 plants to bulk T2 seed for direct trials, and/or the creation of hemizygous transgenic hybrid T2 seed from the T1 plants outcrossed to a second inbred parent. For editing vectors, T0 leaf tissue samples are available to be shipped for the client to evaluate editing efficiency and a seed-expressed color gene marker is included to assist segregation of the edit from the editing locus in the T1 seed. In the near future, WCIC will offer edit evaluation in-house. All transgenic seed is available to be shipped to the client after completion of USDA-APHIS permits required for interstate seed shipment.
+
+<a href='mailto:smkaeppl@wisc.edu'>Kaeppler, Shawn</a><sup>1</sup><br><a href='mailto:vsLor@wisc.edu'>Lor, Vai</a><sup>1</sup><br><a href='mailto:rcollier2@wisc.edu'>Collier, Ray</a><sup>1</sup><br><a href='mailto:rcollier2@wisc.edu'>Walter, Nathalie</a><sup>1</sup><br><a href='mailto:jamahoy@wisc.edu'>Mahoy, Jill</a><sup>1</sup><br><a href='mailto:eameyers2@wisc.edu'>Hahn, Emily</a><sup>1</sup><br><a href='mailto:aamcginty@wisc.edu'>McGinty, Alyson</a><sup>1</sup><br><a href='mailto:hfkaeppl@wisc.edu'>Kaeppler, Heidi</a><sup>1</sup><br><a href='mailto:arcarlson@wisc.edu'>Carlson, Alvar</a><sup>1</sup><br>
+
+<sup>1</sup>University of Wisconsin Crop Innovation Center Middleton WI USA 53562<br>

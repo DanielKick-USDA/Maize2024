@@ -1,0 +1,20 @@
+---
+title: "Systematic exploration of transcription factor function in maize"
+subtitle: "P53"
+author: "Taylor Scroggs"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/05/DNA_base-pair_diagram.jpg"
+categories: 
+- Biochemical and Molecular Genetics
+- Odd Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Transcription factors (TFs) have various functions in plant development. In a model crop like Maize, there are thousands of TFs and due to the sheer amount of them, we don’t know the function of many. I have developed a system to systematically explore TF function with the use of high throughput ectopic expression of individual TFs. Ectopic expression of TFs induces the native pathways and with that information we can begin to tease apart the native function of those TFs. We have established methods for high-throughput transformation of leaf protoplasts in 384-well plates. Median transformation efficiencies are >70% and consistent between days and across the plates. We have used this to express 164 individual TFs in duplicate and measure the full transcriptome-wide response by RNA sequencing. Replicate samples consistently show a higher Pearson's correlation than random sample pairs. 30% of TFs cluster immediately next to their replicate, indicating that many TFs induce reproducible responses and the responses are sufficiently distinct to drive clustering. We also find evidence supporting that at least some of the genes induced are likely direct TF targets. For example, the knotted1 (kn1) motif is enriched in the promoters of genes induced by kn1 overexpression. In the next steps, we will continue the established workflow through the remainder of the cloned maize TFome, producing a resource for the plant community.
+
+<a href='mailto:taylor.scroggs@uga.edu'>Scroggs, Taylor</a><sup>1</sup><br><a href='mailto:nelms@uga.edu'>Nelms, Brad</a><sup>1</sup><br>
+
+<sup>1</sup>University of Georgia, Athens, Ga, 30605<br>

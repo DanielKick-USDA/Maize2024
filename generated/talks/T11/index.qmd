@@ -1,0 +1,19 @@
+---
+title: "Biological nitrogen gixation on the aerial roots of maize for sustainable agriculture"
+subtitle: "T11"
+author: "Jean-Michel Ane"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c1/Protective_Coleoptile_Tip_in_Zea_Mays_Embryo_%2847691344541%29.jpg"
+categories: 
+- Cell and Developmental Biology
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Maize (Zea mays L.) is an important crop due to its high yield and versatility, contributing significantly to global food security and economic stability. We have shown that some maize landraces from southern Mexico obtain 29–82% of their nitrogen from the atmosphere by hosting nitrogen-fixing (diazotrophic) communities in a mucilage produced by their aerial roots after rain. The maize mucilage is produced by border cells that detach from the aerial root cap in a process similar to the underground root cap. However, border cells are much more abundant and larger in the mucilage from aerial roots than those produced by underground roots. We characterized the aerial root development of several maize landraces and showed the effect of both genetic and environmental factors. A quantitative trait loci approach was conducted in biparental and doubled haploid populations to identify plant genes controlling the number of nodes with aerial roots and their thickness. Humidity and soil nitrogen also affect aerial root development. We successfully isolated over 150 distinct diazotrophs from maize mucilage, developed non-fixing mutants as controls, and enhanced ammonium-excreting mutants from some of these isolates. The distinct symbiotic relationship of diazotrophs with maize aerial roots offers a promising avenue for utilizing biological nitrogen fixation to reduce reliance on synthetic fertilizers and promote more productive and sustainable agricultural practices.
+
+<a href='mailto:kgibson8@wisc.edu'>Gibson, Kimberly</a><sup>1</sup><br><a href='mailto:espejelvenad@wisc.edu'>Venado, Rafael E.</a><sup>1</sup><br><a href='mailto:j.wilker@cgiar.org'>Wilker, Jennifer</a><sup>1</sup><br><a href='mailto:daniel.laspisa@uga.edu'>Laspisa, Daniel</a><sup>2</sup><br><a href='mailto:vinfante@wisc.edu'>Infante, Valentina</a><sup>1</sup><br><a href='mailto:cicalderon@wisc.edu'>Calderon, Claudia I.</a><sup>3</sup><br><a href='mailto:farobbins@wisc.edu'>Robbins, Fletcher</a><sup>1</sup><br><a href='mailto:farobbins@wisc.edu'>Walace, Jason</a><sup>2</sup><br><a href='mailto:jeanmichel.ane@wisc.edu'>Ane, Jean-Michel</a><sup>1 3</sup><br>
+
+<sup>1</sup>Department of Bacteriology. University of Wisconsin-Madison, Madison, Wisconsin, USA<br><sup>2</sup>Department of Crop & Soil Sciences, University of Georgia, Georgia, USA<br><sup>3</sup>Department of Plant and Agroecosystem Sciences, University of Wisconsin-Madison, Madison, Wisconsin, USA<br>

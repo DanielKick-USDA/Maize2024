@@ -1,0 +1,20 @@
+---
+title: "Prioritizing deleterious mutations in Maize by DNA language model"
+subtitle: "P164"
+author: "Jingjing Zhai"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e5/ENIAC-changing_a_tube.jpg"
+categories: 
+- Computational and Large-Scale Biology
+- Even Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Modern maize breeding has significantly benefited from heterosis, where hybrids exhibit superior fitness traits, such as yield, compared to their parental inbred lines. A key aspect of this phenomenon is the role of deleterious mutations in reducing the fitness of inbred lines, highlighting the importance of deleterious mutation detection for Maize breeding improvement. Leveraging advancements in deep learning and natural language processing, we developed a convolutional DNA language model to prioritize deleterious mutations across the maize genome. This model treats each nucleotide as a 'word' in a self-supervised learning framework, akin to techniques used in natural language processing. Trained on genomic data from nine Poaceae species, including maize, spanning an evolutionary timeline of 49 million years, our model uncovered deep conservation patterns within the Poaceae family. After pre-training, the model was fine-tuned to predict conservation of both coding and non-coding SNPs, achieving accuracies of 0.82 and 0.95, respectively. Application of the pre-trained model to Maize haplotype 3 revealed that predicted deleterious mutations are enriched with rare alleles more than threefold compared to baseline. These findings demonstrate the effectiveness of our DNA language model in identifying deleterious mutations, offering substantial potential to enhance maize hybrid breeding by enabling more precise masking of predicted deleterious mutations.
+
+<a href='mailto:jz963@cornell.edu'>Zhai, Jingjing</a><sup>1</sup><br><a href='mailto:akg87@cornell.edu'>Gokaslan, Aaron</a><sup>4</sup><br><a href='mailto:zrm22@cornell.edu'>Miller, Zachary R.</a><sup>1</sup><br><a href='mailto:ahb232@cornell.edu'>Berthel, Ana</a><sup>1</sup><br><a href='mailto:mcr72@cornell.edu'>Romay, M. Cinta</a><sup>1 2</sup><br><a href='mailto:mcs368@cornell.edu'>Stitzer, Michelle C.</a><sup>1</sup><br><a href='mailto:vk379@cornell.edu'>Kuleshov, Volodymyr</a><sup>4</sup><br><a href='mailto:esb33@cornell.edu'>Buckler, Edward S.</a><sup>1 2 3</sup><br>
+
+<sup>1</sup>Institute for Genomic Diversity, Cornell University, Ithaca, NY USA 14853<br><sup>2</sup>Section of Plant Breeding and Genetics, Cornell University, Ithaca, NY USA 14853<br><sup>3</sup>USDA-ARS; Ithaca, NY, USA 14853<br><sup>4</sup>Department of Computer Science, Cornell University, Ithaca, NY, USA 14853<br>

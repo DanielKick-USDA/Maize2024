@@ -1,0 +1,20 @@
+---
+title: "Ensembles of deep learning, machine learning, and linear models outperform individual models for maize yield prediction in diverse environments"
+subtitle: "P146"
+author: "Daniel Kick"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e5/ENIAC-changing_a_tube.jpg"
+categories: 
+- Computational and Large-Scale Biology
+- Even Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Improving phenotypic prediction is necessary for more effective crop improvement and forecasting. This is especially true for crops which are to be grown in diverse environments and for traits with substantial gene-by-environment effects. Considerable thought has been devoted to improving phenotypic prediction by seeking to identify the best modeling approach including linear predictors, machine learning, and deep learning models. Here we explore a complementary approach to improve accuracy by using predictions from multiple models together in an ensemble. We demonstrate that an ensemble optimized by a genetic algorithm can reduce error by 6.98% relative to the best non-ensembled model. The optimal ensemble doesn’t consist only of the most accurate models but leverages lower performing models as well. This technique is effective even without significant optimization. In simple ensembles consisting only of two models we report an improvement relative to the base models in 76.76% of cases. While future advances in modeling approaches for phenotypic prediction are of key importance, this work demonstrates that ensembling can robustly increase the value provided by existing models.
+
+<a href='mailto:daniel.kick@usda.gov'>Kick, Daniel R.</a><sup>1</sup><br><a href='mailto:jacob.washburn@usda.gov'>Washburn, Jacob D.</a><sup>1</sup><br>
+
+<sup>1</sup>USDA-ARS; Curtis Hall, 519 S College Ave; Columbia, MO, 65211<br>

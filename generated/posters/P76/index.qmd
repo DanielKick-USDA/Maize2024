@@ -1,0 +1,20 @@
+---
+title: "Development of an accessible and scalable maize pollen storage technology"
+subtitle: "P76"
+author: "Jared Carter"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c1/Protective_Coleoptile_Tip_in_Zea_Mays_Embryo_%2847691344541%29.jpg"
+categories: 
+- Cell and Developmental Biology
+- Even Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Seed production in Zea mays (maize) is challenged by the inherent short lifespan of maize pollen. We developed a pollen storage technology that preserves maize pollen viability for up to seven days that delivers seed set equivalency to fresh pollen. This technology is simple and scalable for use cases ranging from single plant pollinations to hectares of commercial hybrid seed production. The protocol is based on key discoveries around regulating the respiration rate of metabolically active pollen during storage, optimization of the storage environment using low-cost, globally available materials, and furthered understanding of how small particles may interfere with pollen-silk interactions. Prior efforts in maize pollen storage focused on pollen conditioning and cryogenic preservation at the expense of technology scalability. We have broken down these accessibility barriers and increased protocol repeatability through an approach that places freshly collected pollen directly in a refrigerated storage environment where pollen is free to maintain cellular respiration using atmospheric air. Historical maize pollen storage technologies have prescribed foliated mineral powders or fluffy, amorphous silicates as anti-clumping agents to prevent pollens from sticking together during storage. Scanning electron microscopy and aniline blue staining suggests that this historical precedent was a key factor limiting the pollination performance of maize pollen through inhibition of pollen-silk interaction. This led to the discovery that crystalline materials with low specific surface area and the optimal range of particle sizes deliver a step change in seed set that can be achieved with stored pollen. This technology is to be published for the greater benefit the global maize biology and production community.
+
+<a href='mailto:jared.carter@syngenta.com'>Carter, Jared D</a><sup>1</sup><br><a href='mailto:jay.dinwiddie@syngenta.com'>Dinwiddie, Jay A</a><sup>1</sup><br><a href='mailto:sarah.hill_skinner@syngenta.com'>Hill-Skinner, Sarah E</a><sup>1</sup><br><a href='mailto:ankit.fajalia@syngenta.com'>Fajalia, Ankitkumar I</a><sup>2</sup><br><a href='mailto:polgeni101520@gmail.com'>Polge, Nicholas D</a><sup>3</sup><br>
+
+<sup>1</sup>Seeds Research, Syngenta Crop Protection, Research Triangle Park, NC, USA 27709<br><sup>2</sup>Process Studies Group, Syngenta Crop Protection, Research Triangle Park, NC, USA 27409<br><sup>3</sup>Polge Plant Science Solutions, Vero Beach, FL, USA 32960<br>

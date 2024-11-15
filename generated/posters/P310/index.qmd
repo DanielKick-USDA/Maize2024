@@ -1,0 +1,20 @@
+---
+title: "The influence of heavy metal response in the origin and domestication of maize"
+subtitle: "P310"
+author: "Jonathan Acosta"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/9/9a/CollapsedtreeLabels-simplified-fi.svg"
+categories: 
+- Evolution and Population Genetics
+- Even Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Domestication is the process of selecting desirable traits over generations, which are identified by the presence of the domestication syndrome. Traits related to development and reproduction are associated with obvious phenotypes. However, adaptive traits were also selected during domestication, albeit not manifested clearly. Therefore, to trace these hidden traits, genetic diversity was compared between maize genotypes and its wild relative, teosinte. Genetic regions mapping near a reported domestication quantitative trait locus (QTL) were found, encoding genes responsive to heavy metals, such as ZmHMA1 (Zea mays heavy metal ATPase1). This gene exhibited selection signatures in upstream and downstream regions, indicating its involvement in domestication. Promoter analysis further revealed that its promoter region had three protein-binding sites for the transcription factor Tb1, involved in lateral branching formation, a distinctive trait between maize and teosinte. ZmHMA1 belongs to a gene family that employs ATP hydrolysis to actively transport substances inside and outside cells. To elucidate the function of ZmHMA1, wild maize W22 plants, zmhma1 mutant plants, and wild teosinte parviglumis plants were grown in soils with sublethal doses of heavy metals, and phenotypic comparisons were made at all stages of development. Surprisingly, the zmhma1 mutant exhibited vigorous growth and an increased number of seminal roots compared to wild maize, both in the presence and absence of heavy metals. Furthermore, the plants showed constitutive expression of ZmHMA1 throughout development, regardless of the presence of heavy metals. On the other hand, teosinte parviglumis displayed a drastic reduction in lateral branching when grown under high concentrations of heavy metals, resembling a maize phenotype. These results suggest that this gene was affected by domestication, with human selection acting through the regulation pathway of Tb1. Allelic variants in maize reduce the activity of ZmHMA1 compared to teosinte, and exposure to heavy metals could have been a contributing factor to maize domestication
+
+<a href='mailto:jonathan.acosta@cinvestav.mx'>Acosta-Bayona, Jonathan J.</a><sup>1</sup><br><a href='mailto:vielle@cinvestav.mx'>Vielle-Calzada, Jean-Philippe</a><sup>1</sup><br>
+
+<sup>1</sup>Unidad de Genómica Avanzada, Laboratorio Nacional de Genómica para la Biodiversidad. Cinvestav Irapuato<br>

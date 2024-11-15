@@ -1,0 +1,20 @@
+---
+title: "Identification of cold-adapted proteins in Poaceae using machine learning and comparative genomics"
+subtitle: "P152"
+author: "Lara Brindisi"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e5/ENIAC-changing_a_tube.jpg"
+categories: 
+- Computational and Large-Scale Biology
+- Even Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+The rapidly growing repository of plant genomes is opening new avenues in comparative genomics for gene discovery. This advancement is pivotal in the race to identify novel genetics in agricultural crops to mitigate climate change. This study seeks to leverage the evolutionary diversity in the Poaceae family to detect candidate genes that can enhance cold tolerance in maize (Zea mays). Cold tolerance would allow growers to plant maize earlier, avoiding late season heat risk and reducing greenhouse gas emissions from the soil. Initially, we assemble homologous proteins across species within the grass family using sequence alignment and phylogenetic analysis. A protein language model (pLM) then encodes the amino acid sequences into mathematical representations known as embeddings, which encapsulate their evolutionary, structural and functional characteristics. Finally, the embeddings are used to train a supervised machine learning model to predict the likelihood of a protein descending from a cold- or warm-adapted species. We expect that proteins classified as cold-adapted present promising candidates for introgression into warm-adapted crops, such as maize, to improve resilience and offset greenhouse gas emissions. Next steps will focus on validating candidate proteins via transcriptomic analysis and gene editing. Our focus on the Poaceae family not only aims to provide insight into the genetic mechanisms of cold tolerance but also to serve as a model for gene discovery for practical applications in other crops.
+
+<a href='mailto:lara.brindisi@usda.gov'>Brindisi, Lara J.</a><sup>1 2</sup><br><a href='mailto:jz963@cornell.edu'>Zhai, Jingjing</a><sup>2</sup><br><a href='mailto:sh2246@cornell.edu'>Hsu, Sheng-Kai</a><sup>2</sup><br><a href='mailto:mze3@cornell.edu'>El-Walid, Mohamed</a><sup>2 3</sup><br><a href='mailto:coh22@cornell.edu'>Hale, Charles</a><sup>2 3</sup><br><a href='mailto:tf259@cornell.edu'>Ferebee, Taylor H.</a><sup>2 4</sup><br><a href='mailto:ed.buckler@usda.gov'>Buckler, Edward S.</a><sup>1 2</sup><br>
+
+<sup>1</sup>USDA-ARS, Ithaca, NY, USA 14853<br><sup>2</sup>Institute for Genomic Diversity, Cornell University, Ithaca, NY USA 14853<br><sup>3</sup>Section of Plant Breeding and Genetics, Cornell University, Ithaca, NY USA 14853<br><sup>4</sup>Department of Computational Biology, Cornell University, Ithaca NY USA 14853<br>

@@ -1,0 +1,20 @@
+---
+title: "Engineering dominant maize yield-component improvement with gene editing"
+subtitle: "P80"
+author: "Devin O'Connor"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c1/Protective_Coleoptile_Tip_in_Zea_Mays_Embryo_%2847691344541%29.jpg"
+categories: 
+- Cell and Developmental Biology
+- Even Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Based on DNA nucleases, the first generation of CRISPR gene-editing tools create cuts in DNA and mutations from error-prone DNA repair. The resulting insertions or deletions most commonly lead to a recessive loss of gene function through a translation frame shift, disrupting a protein domain, or decreasing gene expression level. These types of mutations are typically recessive and will continue to be valuable to geneticists for assigning gene function. However, there are serious technical difficulties deploying recessive mutations for commercial crop improvement. Most genes are part of gene families with some degree of functional redundancy. Genetic redundancy is an even greater issue in polyploid genomes which are common in crop species. Because clonal crops like fruit trees and berries do not breed true and cannot be reproduced through self pollination without major changes in desired agronomic traits, they pose a particular challenge when using recessive gene edits as deployment would require efficient simultaneous editing of multiple gene copies in the clonal plant. Finally, an increasing number of crops, following from maize, are grown as F1 hybrids because of improved yield, uniformity, and seed IP protection. Engineering recessive loss-of-function in hybrid crops necessitates introduction of the gene edit into both hybrid parents which adds considerable cost, complexity, and regulatory hurdles. The difficulties with deploying recessive loss-of-function editing strategies in crops necessitates a different genetic approach, engineered genetic dominance. Unfortunately, examples of dominant mutations are relatively rare in mutant collections, despite dominant mutations being integral to plant evolutionary transitions and agricultural innovation. Here we show methods of improving maize yield component traits with genetically dominant gene edits. Specifically, we show that dominance can be deployed with large chromosomal rearrangements, targeted domain deletion, gene inversion, and releasing mechanisms of transcriptional and translational inhibition.
+
+<a href='mailto:doconnor@pairwise.com'>O&#39;Connor, Devin</a><sup>1</sup><br><a href='mailto:mbartlett@umass.edu'>Bartlett, Madelaine</a><sup>2</sup><br><a href='mailto:lmathew@pairwise.com'>Mathew, Lolita</a><sup>1</sup><br><a href='mailto:bcrawford@pairwise.com'>Crawford, Brian</a><sup>1</sup><br><a href='mailto:gpham@pairwise.com'>Pham, Gina</a><sup>1</sup><br><a href='mailto:jfear@pairwise.com'>Fear, Justin</a><sup>1</sup><br><a href='mailto:afister@pairwise.com'>Fister, Andrew</a><sup>1</sup><br><a href='mailto:thomas.slewinski@bayer.com'>Slewinski, Thomas</a><sup>3</sup><br>
+
+<sup>1</sup>Pairwise, Durham, NC, USA 27701<br><sup>2</sup>University of Massachusetts Amherst, Amherst, MA, USA 01003<br><sup>3</sup>Bayer Crop Science, Chesterfield, MO, USA 63017<br>

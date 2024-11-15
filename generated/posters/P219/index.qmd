@@ -1,0 +1,20 @@
+---
+title: "Expression analysis of key genes controlling resistance to Striga hermonthica in tropical maize inbred lines"
+subtitle: "P219"
+author: "Melaku Gedil"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5e/Aztec_Diet_Basket_of_Corn_%289755332575%29.jpg"
+categories: 
+- Quantitative Genetics & Breeding
+- Odd Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+A severe infestation of Striga hermonthica dramatically reduces maize yield in Africa. Resistance to Striga is an essential trait in a new maize cultivar developed for release. The development of predictive markers is a prerequisite to expedite the genetic improvement of maize. Expression analysis based on RNAseq was performed to study the transcriptome profile of susceptible (5057) and tolerant (ZD05) maize genotypes grown in rhizotron, with and without infestation. Root tissues were collected in three replications at 3, 9, and 22 days post-infestation (dpi). The transcripts were compared to identify the up-and down-regulated genes for each genotype at each time point using a log2 fold-change of 1.5 as a threshold. Functional annotation and pathway enrichment analysis identified differentially expressed genes (DEGs). Based on the current data and literature review, eight DEGs were selected for validation of their expression with real-time quantitative reverse transcription polymerase chain reaction (RT-qPCR). The result of the qPCR experiment was analyzed using the E-method ratio of the Advanced Relative Quantification Experiment with an external reference in the LightCycler 480 software. The relative quantification technique compares the levels of two different target sequences in a single sample. The relative expression of all target genes agrees with the previous transcriptomic results, with an inverse relationship between respective genes’ expression in resistant and susceptible genotypes. The study corroborated that the resistant inbred line supports a significantly lower level of Striga development. Moreover, the resistant (ZD05) genotype up-regulates more genes involved in plant secondary metabolism, defence and cellular transport. The initial results suggest that the downregulation of host genes seems essential for establishing parasitic weed infestation. Expression analysis revealed key genes providing an insight into the mechanism of host-plant resistance. These putative/candidate genes can be utilized in developing robust trait-linked markers for marker-aided selection of Striga-resistant germplasm.
+
+Gedil, Melaku<sup>1</sup><br>Babalola, Deborah<sup>2</sup><br>Carlucio, Anna Vittoria<sup>3</sup><br>Unachukwu, Nnanna<sup>4</sup><br>Stavolone, Livia<sup>1 3</sup><br>Gisel, Andreas<sup>1 5</sup><br>Menkir, Abebe<sup>1</sup><br>
+
+<sup>1</sup>International Institute of Tropical Agriculture, Ibadan, Nigeria<br><sup>2</sup>University of Reading & NIAB, Cambridge UK<br><sup>3</sup>Institute for Sustainable Plant Protection, CNR, Bari, Italy<br><sup>4</sup>International Maize and Wheat Improvement Center, Ibadan, Nigeria<br><sup>5</sup>Institute for Biomedical Technologies, CNR, Bari, Italy<br>

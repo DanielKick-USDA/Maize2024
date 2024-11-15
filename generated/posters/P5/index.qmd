@@ -1,0 +1,20 @@
+---
+title: "Characterization of the maize membrane lipidome in a large collection of introgression lines derived from crosses between B73 and traditional maize varieties and teosintes"
+subtitle: "P5"
+author: "Allison Barnes"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/05/DNA_base-pair_diagram.jpg"
+categories: 
+- Biochemical and Molecular Genetics
+- Odd Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+After domestication, maize was transported to the highlands of Mexico, where it crossed with a highland teosinte, Zea mays ssp. mexicana. This genomic introgression persists in modern maize inbreds and carries genes important for abiotic stress tolerance, particularly those involved in highland adaptation. Stresses typical of highland environments include high UV radiation, low temperature, and low phosphorus availability. Low-temperature stress, in particular, impacts the ability of tropical plants like maize to survive in colder environments. One way that plants adapt to low-temperature stress is through alterations in membrane lipids, which in turn impact membrane fluidity and structure. Using a biparental B73 x Palomero Toluqueño (a highland traditional maize variety from central Mexico) RIL population, we previously identified a gene, High Phosphatidylcholine 1 (hpc1), whose impaired function in highland maize impacts the amount of phosphatidylcholine, a key membrane lipid, and aids in highland adaptation. Here, we seek to quantify the extent of variation in membrane lipids and map the underlying genetic variation using a newly developed collection of introgression lines derived from crosses between B73 and hundreds of accessions of traditional maize varieties and teosintes from all across Latin America.
+
+<a href='mailto:allison.barnes@usda.gov'>Barnes, Allison</a><sup>1 2</sup><br><a href='mailto:rstokes@ncsu.edu'>Stokes, Ruthie</a><sup>1</sup><br><a href='mailto:lil.2017b@gmail.com'>Lopez-Corona, Lina</a><sup>3 4</sup><br><a href='mailto:jim.holland@usda.gov'>Holland, James</a><sup>2 4</sup><br><a href='mailto:rjs6686@psu.edu'>Sawers, Ruairidh</a><sup>5</sup><br><a href='mailto:mcr72@cornell.edu'>Romay, Cinta</a><sup>6</sup><br><a href='mailto:ed.buckler@usda.gov'>Buckler, Edward</a><sup>6 7 8</sup><br><a href='mailto:rrellan@ncsu.edu'>Rellan-Alvarez, Ruben</a><sup>1</sup><br>
+
+<sup>1</sup>Department of Molecular and Structural Biochemistry, North Carolina State University, Raleigh, NC, USA<br><sup>2</sup>USDA-ARS, Plant Science Research Unit, Raleigh, NC, USA<br><sup>3</sup>ORISE Fellow, USDA-ARS, Raleigh, NC, USA<br><sup>4</sup>Department of Crop and Soil Science, North Carolina State University, Raleigh, NC, USA<br><sup>5</sup>Department of Plant Science, Pennsylvania State University, State College, PA, USA<br><sup>6</sup>Institute for Genomic Diversity, Cornell University, Ithaca, NY, USA<br><sup>7</sup>USDA-ARS, Plant, Soil, and Nutrition Research Unit, Ithaca, NY, USA<br><sup>8</sup>Plant Breeding and Genetics Section, School of Integrative Plant Science, Cornell University, Ithaca, NY, USA<br>

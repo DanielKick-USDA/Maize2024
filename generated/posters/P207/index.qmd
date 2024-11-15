@@ -1,0 +1,20 @@
+---
+title: "Cold tolerance evaluation in maize through seedling establishment strategies"
+subtitle: "P207"
+author: "Amparo Daza"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5e/Aztec_Diet_Basket_of_Corn_%289755332575%29.jpg"
+categories: 
+- Quantitative Genetics & Breeding
+- Odd Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Maize production continues to grow towards the northern portions of the US Corn Belt. Cold tolerance during germination and seedling establishment poses challenges in those regions that experience cold temperatures in early spring. Optimizing strategies for maize production is crucial for sustainable agriculture. This study aims to improve maize seedling establishment and tolerance as key components of a strategy to extend the growing season to support greater light interception and higher dry matter accumulation.This research focuses on evaluating the cold resistance of seedlings from four biparental mapping populations including 250 double haploids (DH) from a six parent Stiff Stalk MAGIC population, 74 recombinant inbred lines (RILs) from the cross of Gaspe and B73, 130 RILs from P39 by B73 and 181 from B97 by B73. The evaluation also included 63 maize landraces adapted to altitudes above 2500 m. The experiment, designed as a randomized complete block design, comprised single row plots with 20 seeds per plot and two field replicates and it was planted in September at the West Madison Ag Research Station in Madison, Wisconsin to impose cold conditions during seedling growth. The phenotypic evaluation included seedling cold tolerance and regrowth after a cold episode, rating seedling growth in a scale of 1 to 4, where 1 show yellowed and weak plants and 4 green and vigorous. The evaluation also included a drone-based assessment of different parameters such as growth indicators, parallel evaluation of growth stages, with a classification of cold response after two cold episodes (40° F and 30° F). The results of this study are expected to contribute to the optimization of maize production strategies in cold climates to improve seedling establishment, cold germination, and tolerance, thus extending the growing season and promoting higher light interception and dry matter yield in maize.
+
+<a href='mailto:dazacastanon@wisc.edu'>Daza, Amparo S.</a><sup>1</sup><br><a href='mailto:ndeleongatti@wisc.edu'>de Leon, Natalia</a><sup>1</sup><br><a href='mailto:smkaeppl@wisc.edu'>Kaeppler, Shawn M.</a><sup>2</sup><br><a href='mailto:jvarela@wisc.edu'>Varela, Jose I.</a><sup>1</sup><br>
+
+<sup>1</sup>Department of Plant and Agroecosystem Sciences, University of Wisconsin-Madison, 1575 Linden Drive, Madison, WI 53706<br><sup>2</sup>Wisconsin Crop Innovation Center, University of Wisconsin-Madison, 8520 University Green, Middleton WI 53562<br>

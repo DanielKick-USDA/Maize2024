@@ -1,0 +1,20 @@
+---
+title: "Transcriptomic variation during kernel development in near-isogenic purple maize cultivars"
+subtitle: "P57"
+author: "Holly Anderson"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/05/DNA_base-pair_diagram.jpg"
+categories: 
+- Biochemical and Molecular Genetics
+- Odd Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Purple maize kernels are characterized by the accumulation of anthocyanins in the pericarp tissue. As water soluble pigments, anthocyanins are of interest to the food industry as natural food dyes. Anthocyanins possess health-promoting properties and are shown to reduce biomarkers associated with inflammation, diabetes, and adipogenesis (Zhang et al., 2019). To understand the genetics influencing anthocyanin accumulation during purple maize kernel development, we conducted an RNA-seq study on pericarp tissues collected from three near-isogenic purple maize cultivars and B73 at 10, 15, and 20 days after pollination (DAP). Differential gene expression (DGE) analysis identified significantly up- and down-regulated genes that are functionally characterized as involved in flavonoid biosynthetic and metabolic processes across developmental stages. For example, Hct10 and a novel P450 gene model are significantly upregulated at 10 DAP. In an anthocyanin rich B73 isoline, 10 and 15 DAP were enriched in flavonoid, anthocyanin, and luteolin biosynthetic processes, while 20 DAP exhibited increased enrichment for phenylpropanoid processes. This study identifies metabolic loci associated with anthocyanin biosynthesis, as well as potential candidate genes. Future analysis of the data using variant calling software can pinpoint allelic variation for marker-assisted selection for increased anthocyanin concentration.
+
+<a href='mailto:hollyaa2@illinois.edu'>Anderson, Holly</a><sup>1</sup><br><a href='mailto:paulsmeyer@wisc.edu'>Paulsmeyer, Michael</a><sup>2</sup><br><a href='mailto:juvik@illinois.edu'>Juvik, John</a><sup>1</sup><br>
+
+<sup>1</sup>Department of Crop Sciences, University of Illinois, Urbana-Champaign, Urbana, IL 61801, USA<br><sup>2</sup>Vegetable Crops Research Unit, USDA-ARS, Madison, WI, 53706 USA<br>

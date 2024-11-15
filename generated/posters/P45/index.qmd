@@ -1,0 +1,20 @@
+---
+title: "Natural variation in maize root hydraulic architecture may offer new insights into plant drought responses"
+subtitle: "P45"
+author: "Jeonghwa Oh"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/05/DNA_base-pair_diagram.jpg"
+categories: 
+- Biochemical and Molecular Genetics
+- Odd Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Water availability is one of major challenges for modern agriculture. This tension is exacerbated by extreme weather events and global climate change. In this context, understanding and controlling plant responses to drought have become crucial.Roots play essential roles in soil water uptake. The water uptake capacity of roots is determined by both the root system architecture (RSA) and its water permeability (hydraulics), which together shape the root hydraulic architecture. In the present project, we aim to explore the natural genetic variation of maize root hydraulic architecture to identify key molecular and genetic components and investigate their impact on plant drought responses.We examined root hydraulic conductivity (Lpr), a measure of root water permeability, in 224 maize Dent inbred lines under non-drought conditions (Rishmawi et al., 2023, Plant Physiol. 192:2404-2418). This revealed significant natural variations in the Lpr of primary roots during an 11 to 12-day growth period. Genome-Wide Association Studies (GWAS) lead to the identification of 6 QTLs with 8 underlying candidate genes. These genes are involved in many biological pathways such as amino acid metabolism, ethylene signaling, and vascular development.We took two genetic validation approaches for these QTLs: confirming allelic effects on Lpr using bi-parental recombinant populations and verifying the function of candidate genes through knock-out mutants created by transposon insertion or CRISPR-Cas9. Our results demonstrate a distinct allelic effect on Lpr at the identified QTL loci. Furthermore, mutant analysis for select candidate genes suggests their involvement in the regulation of Lpr in both maize and Arabidopsis roots.Currently, we are investigating the cellular and molecular mechanisms of the candidate genes based on their predicted mode of action. Gene-based association mapping will provide detailed insights into causal allelic variations. Subsequently, we will explore the effects of these alleles or genes under various drought conditions.
+
+<a href='mailto:jeonghwa.oh@cnrs.fr'>Oh, Jeonghwa</a><sup>1</sup><br><a href='mailto:rishmawi.louai@gmail.com'>Rishmawi, Louai</a><sup>1</sup><br><a href='mailto:colette.tournaire-roux@inrae.fr'>Tournaire-Roux, Colette</a><sup>1</sup><br><a href='mailto:cyril.bauland@inrae.fr'>Bauland, Cyril</a><sup>2</sup><br><a href='mailto:laura.gallo@cnrs.fr'>Gallo, Laura</a><sup>1</sup><br><a href='mailto:emilie.montes@ens-lyon.fr'>Montes, Emilie</a><sup>3</sup><br><a href='mailto:kishor.doddanakatte-shivaramegowda@cnrs.fr'>Doddanakatte Shivaramegowda, Kishor</a><sup>1</sup><br><a href='mailto:philippe.nacry@inrae.fr'>Nacry, Philippe</a><sup>1</sup><br><a href='mailto:peter.rogowsky@ens-lyon.fr'>Rogowsky, Peter</a><sup>3</sup><br><a href='mailto:stephane.nicolas@inrae.fr'>Nicolas, Stéphane D.</a><sup>2</sup><br><a href='mailto:alain.charcosset@inrae.fr'>Charcosset, Alain</a><sup>2</sup><br><a href='mailto:christophe.maurel@cnrs.fr'>Maurel, Christophe</a><sup>1</sup><br>
+
+<sup>1</sup>Insitute for Plant Sciences of Montpellier, Univ Montpellier, CNRS, INRAE, Institut Agro, Montpellier, France<br><sup>2</sup>Université Paris-Saclay, INRAE, CNRS, AgroParisTech, GQE - Le Moulon, Gif-sur-Yvette, France<br><sup>3</sup>Laboratoire Reproduction et Développement des Plantes, Univ Lyon, ENS de Lyon, UCB Lyon 1, CNRS, INRAE, Lyon, France<br>

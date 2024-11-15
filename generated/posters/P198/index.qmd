@@ -1,0 +1,20 @@
+---
+title: "Analysis of B73 seed phenotype changes in response to tropical conditions"
+subtitle: "P198"
+author: "Eduardo Oliveira"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5e/Aztec_Diet_Basket_of_Corn_%289755332575%29.jpg"
+categories: 
+- Quantitative Genetics & Breeding
+- Even Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+B73, developed at Iowa State University, is a cornerstone in maize research, embodying the Iowa Stiff Stalk Synthetic population and contributing to the success of the Reid yellow dent maize group with its superior grain yield, adaptability, and strong stalks. Serving as a reference genotype, B73's stability and well-characterized genome have played a pivotal role in maize genetic studies, genetic mapping, and genomic research, particularly in molecular breeding and functional genomics, following its comprehensive sequencing under the Maize Genome Sequencing Project. In the absence of a thoroughly sequenced and well-assembled tropical maize inbred line serving as a genomic reference, B73 stands out as the optimal reference, even for tropical genetic backgrounds. We introduced B73 to Brazil through a seed sample generously provided by the Maize Genetics Cooperation Stock Center. Two consecutive cycles of self-pollination were conducted in the summers of 2018-2019 and 2021-2022. Subsequently, seeds from each progeny were assessed for weight, area, diameter, and color, revealing a discernible difference in weight between B73-S1 and B73-S2. The seed size progressively expands across generations, as indicated by Feret's diameter, aligning with the observed pattern of seed areas exhibiting a similar trend. The progenies exhibit a subtle variation in seed color, although it lacks statistical significance. Abortive plants were observed in the field, though the frequency was not quantified. Our findings indicate that certain traits may exhibit variations across generations in response to environmental conditions and contribute to adaptation in tropical regions.
+
+<a href='mailto:eduardovo@usp.br'>Oliveira, Eduardo V</a><sup>1</sup><br><a href='mailto:filipy@usp.br'>Said, Filipy A</a><sup>1</sup><br><a href='mailto:souzaph@usp.br'>Souza, Pedro Henrique</a><sup>2</sup><br><a href='mailto:giovanni.a.mondin@unesp.br'>Mondin, Giovanni A</a><sup>1</sup><br><a href='mailto:henricopedro@usp.br'>Fernandes, Pedro Henrico C V C</a><sup>1</sup><br><a href='mailto:gabriel.fernando.silva@usp.br'>Silva, Gabriel Fernando</a><sup>1</sup><br><a href='mailto:nathalia.tostes@usp.br'>Tostes, Nathália V</a><sup>1</sup><br><a href='mailto:scmmolin@usp.br'>Molina, Silvia Cristina M</a><sup>1</sup><br><a href='mailto:augusto.garcia@usp.br'>Garcia, Antonio Augusto F</a><sup>2</sup><br><a href='mailto:mmondin@usp.br'>Mondin, Mateus</a><sup>1</sup><br>
+
+<sup>1</sup>CYNGELA – Cytogenomics and Epigenetics Laboratory – Department of Genetics - “Luiz de Queiroz” College of Agriculture, ESALQ - University of São Paulo, Piracicaba-SP<br><sup>2</sup>Statistical Genetics Laboratory – Department of Genetics - “Luiz de Queiroz” College of Agriculture, ESALQ - University of São Paulo, Piracicaba-SP<br>

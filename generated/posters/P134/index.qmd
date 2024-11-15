@@ -1,0 +1,20 @@
+---
+title: "Advancing maize phenotyping through automation and data analysis"
+subtitle: "P134"
+author: "Jodi Callwood"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e5/ENIAC-changing_a_tube.jpg"
+categories: 
+- Computational and Large-Scale Biology
+- Even Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Maize is pivotal in supporting global agriculture and addressing food security challenges. To better understand the genetic factors that underpin maize growth, quantitative phenotyping of traits is essential. Root systems are challenging to phenotype given their below-ground, soil-bound nature. In addition, manual annotations of root images are tedious and can lead to inaccuracies and inconsistencies between individuals, resulting in data discrepancies. To address these issues we have developed an automated phenotyping pipeline utilizing Root Painter , Rhizovision , and R for maize root image analysis and efficient extraction of phenotypic data. This pipeline was tested on images of field-grown maize crown root systems (stages V6-V8) from the Wisconsin Diversity panel. By minimizing user input and increasing automation, these tools improve the consistency and accuracy of data metrics. Root Painter, a segmentation application based on U-Net with a user-friendly interface, specializes in identifying roots and nodes. 123 images were annotated in RootPainter’s interface for training. Resulting in precise differentiation between roots and non-root structures, enabling unsupervised crown root phenotyping. Finally, these segmented images were subsequently processed using Rhizovision's batch image processor, extracting numerous key root traits, including total root length, network area, and volume. The output from Rhizovision was then analyzed using an R script, incorporating statistical and visualization packages. Comparing the results obtained from our automated phenotyping pipeline with manually measured root systems demonstrated increased accuracy and consistency across researchers. This integrated pipeline saves user time and reduces costs by harnessing open-source maize phenotyping software and robust data analysis techniques.
+
+<a href='mailto:jodicall@iastate.edu'>Callwood, Jodi B.</a><sup>1</sup><br><a href='mailto:yizhet@iastate.edu'>Tang, Yize</a><sup>1</sup><br><a href='mailto:dkelley@iastate.edu'>Kelley, Dior R.</a><sup>1</sup><br>
+
+<sup>1</sup>Iowa State University , Ames, IA, USA 50014<br>

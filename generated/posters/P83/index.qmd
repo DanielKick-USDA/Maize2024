@@ -1,0 +1,20 @@
+---
+title: "Genetic regulation of self-organizing azimuthal canopy orientations and their impacts on light interception in maize"
+subtitle: "P83"
+author: "Yan Zhou"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c1/Protective_Coleoptile_Tip_in_Zea_Mays_Embryo_%2847691344541%29.jpg"
+categories: 
+- Cell and Developmental Biology
+- Odd Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+The efficiency of solar radiation interception contributes to the photosynthetic efficiency of crop plants. Light interception is a function of canopy architecture, including, plant density, leaf number, length, width, and angle, as well as azimuthal canopy orientation. We report on the ability of some maize genotypes to alter the orientations of their leaves during development in coordination with adjacent plants. Although the upper canopies of these genotypes retain the typical alternate-distichous phyllotaxy of maize, their leaves grow parallel to those of adjacent plants. A genome-wide association study (GWAS) conducted on this parallel canopy trait identified candidate genes, many of which are associated with shade avoidance syndrome (SAS), including phytochromeC2 (phyC2). GWAS conducted on the fraction of photosynthetically active radiation (PAR) intercepted by canopies also identified multiple candidate genes, including liguleless1 (lg1), previously defined by its role in ligule development. Under high plant densities mutant of SAS and liguleless genes (lg1, lg2 and Lg3) exhibit altered canopy patterns, viz., the numbers of interrow leaves are greatly reduced as compared to non-mutant controls, resulting in dramatically decreased PAR interception. In at least the case of lg2, this phenotype is not a consequence of abnormal ligule development. Instead, liguleless gene functions are required for normal light responses, including azimuth canopy re-orientation.
+
+<a href='mailto:yzhou86@iastate.edu'>Zhou, Yan</a><sup>1</sup><br><a href='mailto:amkusmec@iastate.edu'>Kusmec, Aaron</a><sup>1</sup><br><a href='mailto:schnable@iastate.edu'>Schnable, Patrick S.</a><sup>1</sup><br>
+
+<sup>1</sup>Department of Agronomy, Iowa State University, Ames, Iowa 50011, USA<br>

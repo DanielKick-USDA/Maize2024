@@ -1,0 +1,20 @@
+---
+title: "Mapping freezing tolerance in tripsacum by bulk segregant analysis"
+subtitle: "P245"
+author: "Mohamed El-Walid"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5e/Aztec_Diet_Basket_of_Corn_%289755332575%29.jpg"
+categories: 
+- Quantitative Genetics & Breeding
+- Odd Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Increased variability in weather patterns is one consequence of climate change that may be addressable through changing agronomic approaches. These changes could include shifting planting zones or planting earlier to avoid excessive heat during flowering. However, these solutions result in an increased likelihood of crops encountering freezing events. To make these approaches viable in maize (Zea mays), it is imperative to improve freezing/chilling tolerance in maize. Tripsacum dactyloides, a close relative of maize that diverged roughly 650 thousand years ago, can be found across the Americas. As a perennial, this species must withstand elongated freezing temperatures when it occurs in northern latitudes. The genetic similarity between Tripsacum and maize may allow for freezing tolerance to be introgressed or genetically engineered into maize. We generated extensive genomic resources including newly generated Pac-Bio Hifi genomes for Tripsacum dactyloides as well as a mapping population constructed from crosses between plants sourced from northern and southern locations. To identify causal freezing tolerance genes, F2 seedlings from an open pollinated Tripsacum F1 population were subjected to -7°C overnight temperatures, and extreme phenotypes were collected as freezing tolerant and freezing susceptible bulks for bulk segregant analysis (BSA). Given the open pollination nature of the mapping population, we first estimated the paternal fraction in each F2 bulk by regressing the F1 genotypes onto F2 bulk allele frequencies using genome-wide SNPs. With the identified parents, we then calculated the frequencies of the contributing F1 gametes in windows, which allowed for accurate site-by-site allele frequency imputation and contrasts between susceptible and tolerant bulks. Preliminary results have shown once paternal contribution is accounted for and sites are imputed genomewide, noise is greatly reduced and candidate loci associated with freezing tolerance can be identified at higher resolution. In conjunction with further expression experiments, these QTL will inform future transgenic tests.
+
+<a href='mailto:mze3@cornell.edu'>El-Walid, Mohamed Z.</a><sup>1</sup><br>Hsu, Sheng-Kai<sup>2</sup><br>Stitzer, Michelle C.<sup>2</sup><br>Seetharam, Arun S.<sup>3</sup><br>Gault, Christine M.<sup>2</sup><br>Costich, Denise E.<sup>2</sup><br>Romay, M Cinta<sup>2</sup><br>Huffort, Matthew B.<sup>3</sup><br>Lepak, Nicholas K.<sup>4</sup><br>La, Thuy<sup>2</sup><br>Buckler, Edward S.<sup>1 2 4</sup><br>
+
+<sup>1</sup>School of Integrative Plant Sciences, Section of Plant Breeding and Genetics, Cornell University, Ithaca, NY, USA 14853<br><sup>2</sup>Institute for Genomic Diversity, Cornell University, Ithaca, NY, USA 14853<br><sup>3</sup>Department of Ecology, Evolution, and Organismal Biology, Iowa State University, Ames, IA, USA 50011<br><sup>4</sup>USDA-ARS; Ithaca, NY, USA 14853<br>

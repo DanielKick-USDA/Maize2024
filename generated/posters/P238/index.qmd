@@ -1,0 +1,20 @@
+---
+title: "Introgression of Zea diploperennis to transfer perennial-like root N remobilization to maize (Zea mays)"
+subtitle: "P238"
+author: "Beatrice Konadu"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5e/Aztec_Diet_Basket_of_Corn_%289755332575%29.jpg"
+categories: 
+- Quantitative Genetics & Breeding
+- Even Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Maize is one of the largest produced crops and a heavy nitrogen feeder and although it is more nitrogen efficient, excess nitrogen fertilizer application and production has proven to be correlated to increased greenhouse gas emissions for either mineral or organic fertilizers. This leads to contamination of underground water bodies and accounts for 6% of US greenhouse gas emissions that is 55% of agriculture emissions. This figure is however low in Africa but is expected to increase by 2050 due to increasing populations in the region and the need to increase food production. In contrast, Africa needs to increase nitrogen fertilizer inputs by 4-fold, but building healthier soils with higher carbon and nitrogen balance could be key as there is evidence that certain root nitrogen remobilization mechanisms are present in perennial relatives of maize. This research seeks to achieve the remobilization of at least 40% of the nitrogen contained in the upper biomass (stover) to the roots late season to increase the organic nitrogen pool. We will therefore be involved in identifying the genetics involved in the remobilization process by backcrossing an inbred line B73 with Zea diploperennis and tracking nitrogen seasonally. We will then genotype the introgressions to identify their positions within the genome. Complementing these studies, we intend to graft Zea diploperennis with Zea mays roots. We hypothesize that grafting perennial roots to the annual shoot system for gene identification purposes will speed gene identification. Assessment will be done on their stay-green properties and their gene expression profiles analyzed. We hope that results from this study can be used to model the impact of future nitrogen recycling varieties for African agriculture.
+
+<a href='mailto:bak234@cornell.edu'>Konadu, Beatrice</a><sup>1</sup><br><a href='mailto:mcr72@cornell.edu'>Romay, Cinta</a><sup>2</sup><br><a href='mailto:eo235@cornell.edu'>Oren, Elad</a><sup>2</sup><br><a href='mailto:joo29@cornell.edu'>Ojeda-Rivera, Jonathan</a><sup>2</sup><br><a href='mailto:nkl3@cornell.edu'>Lepak, Nicholas</a><sup>3</sup><br><a href='mailto:sh2246@cornell.edu'>Hsu, Sheng-Kai</a><sup>2</sup><br><a href='mailto:hdpil@ncsu.edu'>Pil, Hannah</a><sup>4</sup><br><a href='mailto:ntanduk@ncsu.edu'>Tandukar, Nirwan</a><sup>4</sup><br><a href='mailto:jjsanche@cucba.udg.mx'>Sánchez González, José de Jesús</a><sup>5</sup><br><a href='mailto:jim.holland@usda.gov'>Holland, James Brendan</a><sup>6</sup><br><a href='mailto:gnystrom@wisc.edu'>Nystrom, Grace</a><sup>7</sup><br><a href='mailto:ndeleongatti@wisc.edu'>De Leon, Natalie</a><sup>7</sup><br><a href='mailto:sherry.flint-garcia@usda.gov'>Flint-Garcia, Sherry</a><sup>8</sup><br><a href='mailto:jacob.washburn@usda.gov'>Washburn, Jacob</a><sup>8</sup><br><a href='mailto:rrellan@ncsu.edu'>Rellán-Álvarez, Rubén</a><sup>4</sup><br><a href='mailto:esb33@cornell.edu'>Buckler, Edward</a><sup>1 2 3</sup><br>
+
+<sup>1</sup>Section of Plant Breeding and Genetics, Cornell University, Ithaca, NY USA 14853<br><sup>2</sup>Institute for Genomic Diversity, Cornell University, Ithaca, NY 14853<br><sup>3</sup>USDA-ARS; Ithaca, NY 14853<br><sup>4</sup>Department of Molecular and Structural Biochemistry, North Carolina State, Raleigh, NC 27695; 4*Genetics and Genomics Graduate Program<br><sup>5</sup>Universidad de Guadalajara, Centro Universitario de Ciencias Biológicas y Agropecuarias, Zapopan, Mexico<br><sup>6</sup>USDA-ARS, Raleigh, NC, USA 27695<br><sup>7</sup>Department of Plant and Agroecosystem Sciences, University of Wisconsin, Madison, WI 53706<br><sup>8</sup>USDA-ARS, Columbia, MO, USA 65211<br>

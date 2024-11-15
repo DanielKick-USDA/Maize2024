@@ -1,0 +1,20 @@
+---
+title: "The many contexts of genetic effects"
+subtitle: "P271"
+author: "Aaron Kusmec"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5e/Aztec_Diet_Basket_of_Corn_%289755332575%29.jpg"
+categories: 
+- Quantitative Genetics & Breeding
+- Odd Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Technological developments have enabled larger-scale experiments capable of measuring multiple phenotypes throughout ontogeny in more diverse germplasm that has been grown in many environments. Although these data present many interesting statistical and computational problems due to their volume and diversity, quantitative genetic analysis of such datasets typically relies on the same fundamental framework: the one-locus model as used in, for example, QTL mapping. In this model, the genetic effects at a locus are estimated from the genotypic values. However, phenotypes develop over time (ontogeny), are influenced by the environment (plasticity), and result from inter-locus interactions (epistasis), among others. Each of these factors—singly or in combination—defines a different context for the estimation of genetic effects. While all of these factors interact in the expression of a phenotype, they are often studied in isolation to answer specific questions in biological sub-disciplines, using quantitative genetic analysis as a convenient analytical tool. Here, we use graphical and mathematical models to demonstrate parallels between the estimation of genetic effects in these different contexts and propose a unified framework to integrate discoveries from different disciplines and enable cross-disciplinary, combinatorial exploration of genetic effects in multiple contexts. Systematizing context-dependent genetic effects will help us better understand the landscape of genetic variation across diverse contexts by linking the results of gene cloning and molecular studies with statistical studies of phenotypic variation. This can be applied to improve the precision of selection decisions in plant breeding programs, inform complex trait dissection, and study the dynamics of phenotypic evolution in changing environments.
+
+<a href='mailto:amkusmec@iastate.edu'>Kusmec, Aaron</a><sup>1</sup><br><a href='mailto:ddli@iastate.edu'>Li, Dongdong</a><sup>1</sup><br><a href='mailto:descamil@iastate.edu'>Escamilla Sanchez, Diana M</a><sup>1</sup><br><a href='mailto:xianran.li@wsu.edu'>Li, Xianran</a><sup>2</sup><br><a href='mailto:jmyu@iastate.edu'>Yu, Jianming</a><sup>1</sup><br>
+
+<sup>1</sup>Department of Agronomy; Iowa State University; Ames, IA, USA 50011<br><sup>2</sup>Wheat Health, Genetics, and Quality Research Unit; USDA-ARS; Pullman, WA, USA 99164<br>

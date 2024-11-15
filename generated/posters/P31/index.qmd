@@ -1,0 +1,20 @@
+---
+title: "Introgression of a highland maize chromosomal inversion decreases flowering time in a phosphorus-independent manner, and leads to minor perturbations of the leaf phosphorus starvation response transcriptome."
+subtitle: "P31"
+author: "Fausto Rodriguez-Zapata"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/0/05/DNA_base-pair_diagram.jpg"
+categories: 
+- Biochemical and Molecular Genetics
+- Odd Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Inv4m is a chromosomal inversion commonly found in traditional maize varieties grown in the Mexican highlands. Inv4m was introgressed into cultivated maize from highland teosinte mexicana, and its highland predominance points to its contribution to local adaptation. In a Mexican diversity panel, Inv4m shows a classical pattern of gene-by-environment interaction produced by local adaptation: plants with the Inv4m-highland allele have delayed flowering in lowland fields and earlier flowering in highland fields. In growth chamber experiments, Inv4m-highland has been shown to regulate the expression of photosynthesis genes in response to cold. In addition to cold, phosphorus is a limiting factor for plant growth in the Mexican highlands. In these conditions, Inv4m might increase highland fitness by carrying beneficial alleles of phos2 a locus involved in phosphorus starvation response (PSR). In this study, we test whether Inv4m-highland contributes to local adaptation through an enhanced response to phosphorus deficiency. First, we bred Near Isogenic Lines (NILs) in B73 containing Inv4m-highland introgressed from MICH21, a traditional Mexican maize variety, for isolating the effect of Inv4m-highland in a single genetic background. Then we grew the Inv4m-highland and control lines in the field under phosphorus sufficiency and deficiency. We measured flowering time, morphological traits, and leaf gene expression with RNA-seq. We found that independent of soil phosphorus status, Inv4m-highland NILs flowered faster and grew taller than the controls while maintaining grain yield. There was a genomewide transcriptomic response to available phosphorus, affecting 10978 differentially expressed genes (DEGs), with the largest effect shown by PILNCR1-miR399, a PSR regulator. The effect of Inv4m-highland is narrower, affecting 619 DEGs, mainly within the boundaries of the inversion. The Inv4m perturbation of PSR is limited to 157 DEGs. Our results confirm the contribution of Inv4m to adaptation, as faster flowering, but we don’t find evidence of its dependency on PSR.
+
+<a href='mailto:frodrig4@ncsu.edu'>Rodríguez-Zapata, Fausto</a><sup>1 2</sup><br><a href='mailto:ntanduk@ncsu.edu'>Tandukar, Nirwan</a><sup>1 2</sup><br><a href='mailto:mul826@psu.edu'>Li, Meng</a><sup>3</sup><br><a href='mailto:sjp6181@psu.edu'>Pérez-Limón, Sergio</a><sup>3</sup><br><a href='mailto:mpm5587@psu.edu'>Perryman, Melanie</a><sup>3</sup><br><a href='mailto:deruncie@ucdavis.edu'>Runcie, Daniel E.</a><sup>4</sup><br><a href='mailto:ruairidh.sawers@gmail.com'>Sawers, Ruairidh J. H.</a><sup>2</sup><br><a href='mailto:rrellan@ncsu.edu'>Rellán-Álvarez, Rubén</a><sup>1 2</sup><br>
+
+<sup>1</sup>Molecular and Structural Biochemistry, North Carolina State University, Raleigh, North Carolina<br><sup>2</sup>Genetics and Genomics, North Carolina State University, Raleigh, North Carolina<br><sup>3</sup>Department of Plant Science, The Pennsylvania State University, University Park, PA 16802, USA<br><sup>4</sup>Department of Plant Sciences, University of California, Davis, Davis, CA, USA<br>

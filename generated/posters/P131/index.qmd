@@ -1,0 +1,20 @@
+---
+title: "A multi-omics integrative network map of maize"
+subtitle: "P131"
+author: "linqian han"
+date: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e5/ENIAC-changing_a_tube.jpg"
+categories: 
+- Computational and Large-Scale Biology
+- Odd Numbered
+freeze: true
+editor: source
+markdown: 
+    wrap: 72
+---
+
+Networks are powerful tools to uncover functional roles of genes in phenotypic variation at a system-wide scale. Here, we constructed a maize network map that contains the genomic, transcriptomic, translatomic and proteomic networks across maize development. This map comprises over 2.8 million edges in more than 1,400 functional subnetworks, demonstrating an extensive network divergence of duplicated genes. We applied this map to identify factors regulating flowering time and identified 2,651 genes enriched in eight subnetworks. We validated the functions of 20 genes, including 18 with previously unknown connections to flowering time in maize. Furthermore, we uncovered a flowering pathway involving histone modification. The multi-omics integrative network map illustrates the principles of how molecular networks connect different types of genes and potential pathways to map a genome-wide functional landscape in maize, which should be applicable in a wide range of species.
+
+<a href='mailto:linqian.han@wsu.edu'>Han, Linqian</a><sup>1</sup><br>Zhong, Wanshun<sup>1</sup><br>Qian, Jia<sup>1</sup><br>Jin, Minliang<sup>1</sup><br>Tian, Peng<sup>1</sup><br>Zhu, Wanchao<sup>1</sup><br>Zhang, Hongwei<sup>2</sup><br>Sun, Yonghao<sup>1</sup><br>Yan, Jianbing<sup>1</sup><br>Yang, Fang<sup>1</sup><br>Li, Lin<sup>1</sup><br>
+
+<sup>1</sup>National Key Laboratory of Crop Genetic Improvement, Huazhong Agricultural University, Wuhan, China<br><sup>2</sup>Institute of Crop Sciences, Chinese Academy of Agricultural Sciences, Beijing, China<br>
