@@ -1,11 +1,43 @@
 ---
-title: "Maize2024"
+title: "66th Annual Maize Genetics Meeting"
+subtitle: ""
+toc: false
 ---
 
-This is a Quarto website.
+# ![Watercolor corn, mimicking Barbara McClintock’s. Cover art by Sarah Oliver University of Missouri USA](data/assets/000_Cover_Draft1_watercolor_crop.svg){fig-align="center" width="100"}
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Hello and welcome to the Maize Meeting demonstration website!
 
-```{r}
-1 + 1
-```
+Firstly, please note that this webpage is under construction. It's not clear what presentation will be most effective for this material so we're trying out a few options.
+
+Most pages are accessible from the bar above, but you're encouraged to try the search as well. Here a few things you can take a look at while you're here:
+
+-   Schedule presentation options
+
+    -   Schedule v1 - Responsive tables
+
+    -   Schedule v2 - Static tables (with the option to link to abstracts)
+
+    -   Talks Grid - Not too long to render and allows for filtering (which isn't so critical given that sessions are non-overlapping).
+
+-   Poster listings
+
+    -   Poster List v1 - Tables with brief descriptions
+
+    -   Poster List v2 - Full Abstract Information
+
+    -   Poster Grid - This is time consuming to render but allows for easy filtering.
+
+------------------------------------------------------------------------
+
+::: {style="text-align: center"}
+*Presented by*
+:::
+
+![](data/assets/000_Cover_Draft1_MCG_logo.png){fig-align="center" width="225"}
+
+::: {style="text-align: center"}
+*Facilitated in partnership with*
+:::
+
+![](data/assets/000_Cover_Draft1_ConferenceDirect.png){fig-align="center" width="225"}

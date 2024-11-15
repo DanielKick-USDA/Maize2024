@@ -1,24 +1,62 @@
 project:
   type: website
   output-dir: docs
+  render:
+    - "*.{qmd}"
+    - "!buildpages.ipynb"
 
 execute:
   freeze: auto
 
-
 website:
-  title: "Maize2024"
+  title: ""
   navbar:
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+      - text: Home 🌽
+        href: index.qmd
+      - text: Schedule v1
+        href: program_schedule.qmd
+      - text: Schedule v2
+        href: generated_schedule.qmd
+      - text: Keynotes
+        href: program_keynotes.qmd
+      - text: Talks List
+        href: generated_talks.qmd
+      - text: Talks Grid
+        href: generated/talks/index.qmd
+      - text: Poster List v1
+        href: program_poster_list.qmd
+      - text: Poster List v2
+        href: generated_poster_list.qmd
+      - text: Poster Grid
+        href: generated/posters/index.qmd
+      
+    right:
+      - text: Map
+        href: program_map.qmd
+      - text: General Information
+        href: program_general_information.qmd
+      - text: Authors and Attendees
+        href: program_authors_attendees.qmd
+      - text: Sponsors
+        href: program_sponsors.qmd
+  page-footer:
+    center: |
+      Produced by [Daniel Kick, PhD](mailto:hello@danielkick.com)
+    background: "#2780e3"  
 
 format:
   html:
-    theme: cosmo
+    theme: 
+       light: [litera, theme_light_custom.scss]
+       dark:  [litera, theme_dark_custom.scss]
+    code-link: true
+    code-fold: false
+    code-block-bg: "lightgray"
+    code-block-border-left: "#31BAE9"
+    code-line-numbers: true
+    highlight-style: sphinx
     css: styles.css
     toc: true
 
-
-
+editor: source
