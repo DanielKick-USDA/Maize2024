@@ -22,9 +22,9 @@ Most pages are accessible from the bar above, but you're encouraged to try the s
 
 -   Poster listings
 
-    -   Poster List v1 - Tables with brief descriptions
+    -   Poster Overview ~~List v1~~ - Tables with brief descriptions
 
-    -   Poster List v2 - Full Abstract Information
+    -   Poster Abstracts ~~List v2~~ - Full Abstract Information
 
     -   Poster Grid - This is time consuming to render but allows for easy filtering.
 

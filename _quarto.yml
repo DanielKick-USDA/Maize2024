@@ -20,13 +20,13 @@ website:
         href: generated_schedule.qmd
       - text: Keynotes
         href: program_keynotes.qmd
-      - text: Talks List
+      - text: Talk Abstracts
         href: generated_talks.qmd
-      - text: Talks Grid
+      - text: Talk Grid
         href: generated/talks/index.qmd
-      - text: Poster List v1
+      - text: Poster Overview
         href: program_poster_list.qmd
-      - text: Poster List v2
+      - text: Poster Abstracts
         href: generated_poster_list.qmd
       - text: Poster Grid
         href: generated/posters/index.qmd

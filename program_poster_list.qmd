@@ -25,7 +25,7 @@ M_links <- read.csv('./generated/schedule_links.csv')
 subset_M <- function(x = "Biochemical and Molecular Genetics"){
   out <- M |> 
     filter(Category == x) |> 
-    left_join(rename(M_links, Poster.Number = Name)) |> 
+    left_join(rename(M_links, Poster.Number = Name), by = 'Poster.Number') |> 
     mutate(Poster.Number = cell_spec(Poster.Number, 'html', link = Header)) |>
     select(Poster.Number, Individual, Description) |>
     rename(Link = Poster.Number, Presenter = Individual) |>
