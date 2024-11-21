@@ -16,7 +16,7 @@ library(tidyverse)
 library(kableExtra)
 
 M <- read.csv('./generated/schedule.csv')
-
+M_links <- read.csv('./generated/schedule_links.csv')
 
 M$StartTime <- strftime(ymd_hms(M$StartTime), '%H:%M')
 M$EndTime   <- strftime(ymd_hms(M$EndTime), '%H:%M')
@@ -24,21 +24,23 @@ M$EndTime   <- strftime(ymd_hms(M$EndTime), '%H:%M')
 M[(M$StartTime == M$EndTime), 'EndTime'] <- ''
 
 
-  
 subset_M <- function(x = "Wednesday, February 28, 2024"){
-  tmp <- M |> 
+  out <- M |>
     filter(Day == x) |>
-    # select(Session, StartTime)
-    select(StartTime, EndTime, Name, Presenter, Link, Location) |> 
-    rename(Start = StartTime, End = EndTime)
-  
-  # out <- kbl(tmp) |>
-  #   kable_styling(bootstrap_options = c("striped", "hover", "condensed", "responsive"))
-  out <- tmp
+    left_join(rename(M_links, Link = Name), by = 'Link') |> 
+    # mutate(Link = cell_spec(Link, 'html', link = Header)) |>
+    mutate(Link = case_when(
+      !is.na(Header) ~ cell_spec(Link, 'html', link = Header),
+       is.na(Header) ~ Link)) |>
+    select(StartTime, EndTime, Link, Presenter, Name, Location) |>
+    rename(Start = StartTime, End = EndTime, Description = Name)
   return(out)
 }
 
-k <- function(x){kbl(x) |>
+
+k <- function(x){
+  x |> 
+  kable('html', escape = FALSE) |>
   kable_styling(bootstrap_options = c("striped", "hover", "condensed", "responsive"))
 }
 ```

@@ -7,26 +7,35 @@ title: "Presentations and Posters"
 # note: it seems that the best way to get this to work with my computer's permissions is to render this one page on windows and then render the rest. 
 ```
 
+::: {.callout-note appearance="simple" icon="false"}
+## Note:
+
+Click on the poster number in the Link column below to jump to the abstract.
+:::
+
 ```{r echo=FALSE}
 #| include: false
-#| 
+
 library(tidyverse)
 library(kableExtra)
+
 M <- read.csv('./data/004_PosterList_Draft1.csv')
+M_links <- read.csv('./generated/schedule_links.csv')
 
 subset_M <- function(x = "Biochemical and Molecular Genetics"){
-  tmp <- M |> 
+  out <- M |> 
     filter(Category == x) |> 
-    select(Poster.Number, Individual, Email, Description) |>
-    rename(Poster = Poster.Number)
-  # reformat as mailto 
-  # tmp$Email <- paste0('[', tmp$Email,'](', 'mailto:', str_replace(str_replace(tmp$Email, '<', ''), '>', ''), ']')
-  
-  out <- kbl(tmp) |>
+    left_join(rename(M_links, Poster.Number = Name)) |> 
+    mutate(Poster.Number = cell_spec(Poster.Number, 'html', link = Header)) |>
+    select(Poster.Number, Individual, Description) |>
+    rename(Link = Poster.Number, Presenter = Individual) |>
+    kable('html', escape = FALSE) |>
     kable_styling(bootstrap_options = c("striped", "hover", "condensed", "responsive"))
   return(out)
 }
+
 ```
+
 
 ## Biochemical and Molecular Genetics
 
