@@ -1,6 +1,11 @@
 ---
 title: "Presentations"
+format:
+  html:
+    toc: true
+    toc-depth: 1
 ---
+
 ## T1: An exocyst component ZmEXO70F4 coordinates with jasmonate signaling pathway to regulate maize immunity to Gibberella stalk rot
 <font color="#336699">Biochemical and Molecular Genetics </font>
 [Xiquan Gao](mailto:xgao@njau.edu.cn)

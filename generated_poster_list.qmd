@@ -1,6 +1,14 @@
 ---
 title: "Posters"
+format:
+  html:
+    toc: true
+    toc-depth: 1
 ---
+
+# Biochemical and Molecular Genetics
+
+
 ## P1: Annotation of gene-metabolite functional relationships using multi-omics mapping of the Sorghum Bioenergy Association Panel
 <font color="#336699">Biochemical and Molecular Genetics </font>
 [Jacob Olson](mailto:olson169@purdue.edu) (Graduate Student)
@@ -1003,6 +1011,10 @@ Fast Flowering Mini Maize (FFMM) is a line that has a generation time under two 
 
 Meiotic recombination involves the programmed exchange of DNA material between homologous chromosomes, known as crossing-over (CO). In maize, as in many other higher eukaryotes, only a small fraction of the genome (approximately 5%) harbors COs. Furthermore, CO sites are mostly clustered at defined genomic locations called CO hotspots. In maize mechanisms that maintain CO hotspots and establish new ones remain poorly understood. Our research indicates that decreased nucleosomes density and reduced DNA methylation are critical features of CO sites in maize. Thus, changing the chromatin state may impact CO landscape. To test this hypothesis in maize, we investigated the effects of chromatin structure changes on meiotic recombination using two maize mutants: decreased DNA methylation (ddm1) and methyltransferase2 (zmet2). These studies demonstrated that mutations of the Ddm1 and Zmet2 genes resulted in an increased number of COs and reshuffled CO patterning chromosome-wide. The ddm1 mutation increased CO numbers by 70% and lead to the formation of new CO hotspots at distal chromosome sites, while the zmet2 mutation boosted COs by 22% and redirected them to interstitial chromosome segments. Interestingly, both mutants displayed COs at genomic sites where COs are not detected in wild type. Detailed analysis of the CO sites in the mutants revealed two separate mechanisms of unlocking genomic loci for recombination. COs ddm1 exhibited reduced DNA methylation but no significant changes in nucleosome density, whereas COs in zmet2 showed decreased nucleosome density without a substantial decrease in DNA methylation. These results demonstrate that altering in chromatin structure can unleash meiotic recombination in chromosome regions that are normally recombination inert, therefore possible will be to create recombination landscape by design.
 :::
+
+
+# Cell and Developmental Biology
+
 
 ## P60: A KNOX-BLH homeodomain complex targets a major domestication locus
 <font color="#339966">Cell and Developmental Biology </font>
@@ -2194,6 +2206,10 @@ The phytohormone auxin is essential for regulating plant growth and development.
 All flowering plants, including maize, form their plant body in repetitive units called phytomers, which consists of a node, an internode, leaf and an axillary bud. Internodes have meristematic tissue called intercalary meristems at their base which enable the stem to elongate after the floral transition. Intercalary meristems divide and the cells elongate which leads to internode elongation and increase in plant height. Any defects in intercalary meristems will disrupt internode elongation and affect plant height. Through an EMS mutation screen in maize, we identified the tasseless5 (tls5) mutation which has defects in internode elongation in various parts of the stem, leading to reduced plant height. Additional defects include short tassels with fewer spikelets and branches and the tassels fail to emerge out of the whorl most of the time, hence the name tassel-less. Furthermore, multiple ears are visible which are small, compared to the normal maize ears. We have mapped the candidate region to chromosome 9 and are using a whole genome resequencing approach to identify possible candidate genes. Identifying the tls5 gene and characterizing its function will provide insight into intercalary meristem development in maize internodes and uncover the additional role of the gene in maize reproductive development.
 :::
 
+
+# Computational and Large-Scale Biology
+
+
 ## P130: A developmental series transcriptomic study of nitrogen-related heterosis
 <font color="#663399">Computational and Large-Scale Biology </font>
 [Alexandria Tran](mailto:tran30@illinois.edu) (Graduate Student)
@@ -2925,6 +2941,10 @@ Meiotic recombination is initiated by the formation of double-strand breaks (DSB
 Crop disease detection using traditional scouting and visual inspection approaches can be laborious and time-consuming. Timely detection of disease and its severity over large spatial regions is critical for minimizing significant yield losses. Hyperspectral imagery has been demonstrated as a useful tool for a broad assessment of crop health. In this study, we used off-axis hyperspectral imagery from entire fields, coupled with breeder-assigned plot-wise severity scores from a single growing season, to develop a machine-learning framework to detect and grade the severity of southern leaf blight infection in corn. We formulated a process that (i) enhances the predictability of assigned severity scores and (ii) assesses the interpretability of specific spectral wavelengths by surveying their connections to well-known biochemical processes. We implemented feature reduction methods, e.g., Linear Discriminant Analysis (LDA), L1-Regularization, and Sequential Feature Selector, with a focus on identifying the most discriminative wavelengths. These selected wavelengths were then evaluated using linear and non-linear regression-based models and quantified their effectiveness in identifying and grading disease in corn. The results showed that transforming the feature space with LDA achieves an R2 value of 0.72, however, accepting a reduction in performance (R2 of 0.57) enables the selection of wavelengths through L1-Regularization. Spectral content in wavelengths ranging from 500-550 nm and 675-725 nm have been identified as descriptive and correlate with the production of compounds, such as carotenoids and chlorophyll, highlighting the underlying biochemical mechanisms. Our results show that hyperspectral imagery offers the unique advantage of scrutinizing the intensities of specific wavelengths, allowing us to capture variations in disease grades and their progression. Furthermore, the development of hyperspectral field imagery and machine learning models hold the potential for broader applications in monitoring and mitigating stressors in various crops, thereby advancing food security and promoting sustainability in agriculture.
 :::
 
+
+# Cytogenetics
+
+
 ## P173: An F-box protein ACOZ1 functions in crossover formation by ensuring proper chromosome compaction during maize meiosis
 <font color="#669933">Cytogenetics</font>
 [Juli Jing](mailto:jj696@cornell.edu) (Postdoc)
@@ -3043,6 +3063,10 @@ In the spring semester of 1974 at Indiana University, JB took Marcus Rhoades’ 
 
 In addition to the A chromosomes, maize has a nonvital B chromosome that has been useful in genetic analyses in the history of our discipline. Despite being dispensable, it is maintained in populations by a drive mechanism. One of the components of the B chromosome drive is that its centromere frequently undergoes nondisjunction (probably due to the delayed DNA replication) at the second pollen mitosis, which produces one sperm with two copies of the B chromosome and the other sperm with no B. During this division, at least two trans factors are required for the unequal allocation of the B chromosome. Previous genetic analyses showed that an F-box domain containing gene Zm00044a000666 (“666”) on the tip of the long arm of the B chromosome is required for nondisjunction. The predicted function of this gene is to bind substrates for ubiquitin-mediated proteolysis. To consolidate the genetic evidence, a complementation experiment was conducted by transforming 666-HA driven by its native promoter and then crossed with a B chromosome harboring a 666 deletion (previously recovered by CRIPSR-Cas9 mutagenesis). The resulting F1 plants were further crossed with the r1-r tester and the results showed that the presence of the transgene could complement the edited B chromosome for nondisjunction to a level of the normal B chromosome. To further identify proteins that might interact with 666, we collected mature pollen from three genotypes, including plants containing only the 666 transgene, those with only the 666 deletion, and those with both the transgene and the deletion. Then we used HA antibody to perform Co-Immunoprecipitation followed by mass spectrometry. We are currently analyzing the results of MS to identify proteins that interact with 666.
 :::
+
+
+# Education & Outreach
+
 
 ## P180: A seed dispersal game: curriculum for teaching plant domestication and adaptation to students of all ages
 <font color="#993366">Education & Outreach</font>
@@ -3196,6 +3220,10 @@ Student retention in STEM majors is critical to meet an increased demand for STE
 
 The Maize-10-Maze is a public outreach event representing the ten chromosomes of maize in a live field museum of select fun and famous mutants of maize. Positioned within a cornfield with a walking path and information placards, families segregating for dominant or recessive mutants are planted in chromological order in which each row represents a single chromosome with ~7-10 mutant families. Our most recent Maize-10-Maze was held in Tallahassee FL in the summer of 2023, and replicated at other institutions (The Danforth Center in St. Louis, MO; NC State University in Raleigh, NC). These chromosome gardens provide opportunities for training and educating the scientists and students who produce and host them. Here we report on the June 2023 Maize-10-Maze event, a cornerstone outreach event of our maize DNA replication project (NSF IOS 2025811). The selected mutants showcased visually striking phenotypes/traits or those with agronomic or scientific importance, such as Knotted1 (Kn1), lazy plant1 (la1), brittle endosperm1 (bt1), or teosinte branched1 (tb1). The site offered tours, either self-guided or hosted by FAMU/FACE students, and exhibited mutants with detailed placards (FSU 2023 placards & pheno-pics) containing links to maize genetics. This year, the Young Scholars Program (YSP) high school students added fun-fact centromeres to each chromosome. In collaboration with Florida A&M University's FACE Summer Program, YSP, and videographer Jonathan Doster, we created engaging digital content about maize mutants and plant genetics. Public access continues to be facilitated through various outlets, including a dedicated website, www.crazylazycorn.org, social media channels such as Instagram (@cornqueenb) and TikTok (@scienceforyall), online placards document, OMEKA (crazycornmutants.omeka.net/), a virtual mutant museum, curated by students for a worldwide audience. This project serves as a captivating opportunity for public engagement with modern maize research incorporating molecular genetics, genomics, and plant biology.
 :::
+
+
+# Quantitative Genetics & Breeding
+
 
 ## P189: A MAGIC Population to study functional diversity in mexican native maize
 <font color="#996633">Quantitative Genetics & Breeding</font>
@@ -4744,6 +4772,10 @@ Maize plant architecture is an often under-appreciated collection of traits that
 Modeling genotype-by-environment interaction (G×E) remains a challenging yet indispensable aspect of genomic prediction and breeding. Incorporating G×E into genomic prediction models significantly enhances prediction accuracy and guides breeding endeavors towards developing varieties with enhanced adaptability, stability, and performance across diverse environmental conditions, fostering sustainable and resilient agriculture. Within the Genomes to Fields (G2F) Initiative, the Maize GxE Project has meticulously evaluated over 180,000 field plots encompassing more than 4,500 maize hybrid varieties across 200+ environments in North America. Leveraging genotypic, environmental, and G×E information from this project, our study aimed to predict hybrid maize performance in different environments across the United States. In this pursuit, we introduced the Weighted Records Prediction (WRP) method for genomic prediction. WRP integrates weighted training records into the prediction model based on the precision of Best Linear Unbiased Estimates (BLUEs) and the similarity between the training and testing sets. Employing both linear mixed models and machine learning techniques, we assessed the prediction accuracy of this novel method. Our preliminary results showed WRP might improve the prediction accuracy for hybrid maize grain yield.
 :::
 
+
+# Transposons & Epigenetics
+
+
 ## P280: Analysis of de novo mutator transposon insertions across tissue types
 <font color="#0066CC">Transposons & Epigenetics </font>
 [Justin Scherer](mailto:jts34805@uga.edu) (Graduate Student)
@@ -5032,6 +5064,10 @@ The identification and characterization of cis-regulatory DNA sequences and how 
 
 In plants, RNA-directed DNA methylation (RdDM) is an epigenetic pathway involved in the establishment and maintenance of heterochromatin. One mutant genotype of maize called mop1-1, deficient in a crucial component of the RdDM pathway, has been used extensively to study the effects of RdDM on different cellular and genetic processes. In other species, chromatin structure has been shown to be associated with mRNA splicing, and some variability in splicing has been observed previously in mop1-1 mutants. It is hypothesized that mop1-1 mutant maize has higher overall splicing variability than wild type. To examine variations in splicing across these genotypes, RNA sequencing data from wild type and mop1-1 maize is being evaluated. Preliminary data using the isoform percentages calculated for specific genes of interest showed many had higher splicing variation in mop1-1 mutants than in wild type. To examine splicing variation in this genotype more broadly, RNA sequence data was run through a program called VaSP, an R package used for quantification of variations in splicing events in a population. This program generates a Single Splicing Strength (3S) score for each intron splicing event based on junction reads and gene-level reads. Preliminary data and current results of the analysis with VaSP will be presented.
 :::
+
+
+# Evolution and Population Genetics
+
 
 ## P297: Crop domestication in Zea mays has contrasting effects on microbiome community structure in above and below-ground microbiota
 <font color="#FF0066">Evolution and Population Genetics</font>
