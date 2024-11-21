@@ -36,6 +36,8 @@ website:
         href: program_map.qmd
       - text: General Information
         href: program_general_information.qmd
+      - text: Awards
+        href: program_awards.qmd
       - text: Authors and Attendees
         href: program_authors_attendees.qmd
       - text: Sponsors
