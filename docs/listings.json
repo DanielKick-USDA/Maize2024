@@ -1,5 +1,40 @@
 [
   {
+    "listing": "/generated/talks/index.html",
+    "items": [
+      "/generated/talks/T1/index.html",
+      "/generated/talks/T10/index.html",
+      "/generated/talks/T11/index.html",
+      "/generated/talks/T12/index.html",
+      "/generated/talks/T13/index.html",
+      "/generated/talks/T14/index.html",
+      "/generated/talks/T15/index.html",
+      "/generated/talks/T16/index.html",
+      "/generated/talks/T17/index.html",
+      "/generated/talks/T18/index.html",
+      "/generated/talks/T19/index.html",
+      "/generated/talks/T2/index.html",
+      "/generated/talks/T20/index.html",
+      "/generated/talks/T21/index.html",
+      "/generated/talks/T22/index.html",
+      "/generated/talks/T23/index.html",
+      "/generated/talks/T24/index.html",
+      "/generated/talks/T25/index.html",
+      "/generated/talks/T26/index.html",
+      "/generated/talks/T27/index.html",
+      "/generated/talks/T28/index.html",
+      "/generated/talks/T29/index.html",
+      "/generated/talks/T3/index.html",
+      "/generated/talks/T30/index.html",
+      "/generated/talks/T4/index.html",
+      "/generated/talks/T5/index.html",
+      "/generated/talks/T6/index.html",
+      "/generated/talks/T7/index.html",
+      "/generated/talks/T8/index.html",
+      "/generated/talks/T9/index.html"
+    ]
+  },
+  {
     "listing": "/generated/posters/index.html",
     "items": [
       "/generated/posters/P60/index.html",
@@ -315,41 +350,6 @@
       "/generated/posters/P128/index.html",
       "/generated/posters/P296/index.html",
       "/generated/posters/P129/index.html"
-    ]
-  },
-  {
-    "listing": "/generated/talks/index.html",
-    "items": [
-      "/generated/talks/T1/index.html",
-      "/generated/talks/T10/index.html",
-      "/generated/talks/T11/index.html",
-      "/generated/talks/T12/index.html",
-      "/generated/talks/T13/index.html",
-      "/generated/talks/T14/index.html",
-      "/generated/talks/T15/index.html",
-      "/generated/talks/T16/index.html",
-      "/generated/talks/T17/index.html",
-      "/generated/talks/T18/index.html",
-      "/generated/talks/T19/index.html",
-      "/generated/talks/T2/index.html",
-      "/generated/talks/T20/index.html",
-      "/generated/talks/T21/index.html",
-      "/generated/talks/T22/index.html",
-      "/generated/talks/T23/index.html",
-      "/generated/talks/T24/index.html",
-      "/generated/talks/T25/index.html",
-      "/generated/talks/T26/index.html",
-      "/generated/talks/T27/index.html",
-      "/generated/talks/T28/index.html",
-      "/generated/talks/T29/index.html",
-      "/generated/talks/T3/index.html",
-      "/generated/talks/T30/index.html",
-      "/generated/talks/T4/index.html",
-      "/generated/talks/T5/index.html",
-      "/generated/talks/T6/index.html",
-      "/generated/talks/T7/index.html",
-      "/generated/talks/T8/index.html",
-      "/generated/talks/T9/index.html"
     ]
   }
 ]
