@@ -14,22 +14,22 @@ website:
     left:
       - text: Home 🌽
         href: index.qmd
-      - text: Schedule v1
+      - text: Schedule
         href: program_schedule.qmd
-      - text: Schedule v2
-        href: generated_schedule.qmd
+      # - text: Schedule v2
+      #   href: generated_schedule.qmd
       - text: Keynotes
         href: program_keynotes.qmd
       - text: Talk Abstracts
         href: generated_talks.qmd
-      - text: Talk Grid
-        href: generated/talks/index.qmd
+      # - text: Talk Grid
+      #   href: generated/talks/index.qmd
       - text: Poster Overview
         href: program_poster_list.qmd
       - text: Poster Abstracts
         href: generated_poster_list.qmd
-      - text: Poster Grid
-        href: generated/posters/index.qmd
+      # - text: Poster Grid
+        # href: generated/posters/index.qmd
       
     right:
       - text: Map

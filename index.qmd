@@ -8,25 +8,118 @@ toc: false
 
 Hello and welcome to the Maize Meeting demonstration website!
 
-Firstly, please note that this webpage is under construction. It's not clear what presentation will be most effective for this material so we're trying out a few options.
+This is the home page. Announcements and today's schedule can be displayed here for easy access. Here's what this could look like for Friday March 1st.
 
-Most pages are accessible from the bar above, but you're encouraged to try the search as well. Here a few things you can take a look at while you're here:
+# Announcements:
 
--   Schedule presentation options
 
-    -   Schedule v1 - Responsive tables
+::: {.callout-tip appearance="simple" icon="false"}
+## Tip:
 
-    -   Schedule v2 - Static tables (with the option to link to abstracts)
+Maize is a delicious model system!
+:::
 
-    -   Talks Grid - Not too long to render and allows for filtering (which isn't so critical given that sessions are non-overlapping).
 
--   Poster listings
+::: {.callout-warning appearance="simple" icon="false"}
+## Warning:
 
-    -   Poster Overview ~~List v1~~ - Tables with brief descriptions
+Elote is limited! Make your way to the refreshment table soon! 
+:::
 
-    -   Poster Abstracts ~~List v2~~ - Full Abstract Information
 
-    -   Poster Grid - This is time consuming to render but allows for easy filtering.
+# Today's Schedule (Friday, March 1, 2024):
+
+::: {.callout-note appearance="simple" icon="false"}
+## Note:
+
+Talks will be held in the Ballroom A Posters will be displayed in the Ballroom B&C
+:::
+
+```{r echo=FALSE}
+#| include: false
+
+
+library(tidyverse)
+library(kableExtra)
+
+M <- read.csv('./generated/schedule.csv')
+M_links <- read.csv('./generated/schedule_links.csv')
+
+M$StartTime <- strftime(ymd_hms(M$StartTime), '%H:%M')
+M$EndTime   <- strftime(ymd_hms(M$EndTime), '%H:%M')
+
+M[(M$StartTime == M$EndTime), 'EndTime'] <- ''
+
+
+subset_M <- function(x = "Wednesday, February 28, 2024"){
+  out <- M |>
+    filter(Day == x) |>
+    left_join(rename(M_links, Link = Name), by = 'Link') |> 
+    # mutate(Link = cell_spec(Link, 'html', link = Header)) |>
+    mutate(Link = case_when(
+      !is.na(Header) ~ cell_spec(Link, 'html', link = Header),
+       is.na(Header) ~ Link)) |>
+    select(StartTime, EndTime, Link, Presenter, Name, Location) |>
+    rename(Start = StartTime, End = EndTime, Description = Name)
+  return(out)
+}
+
+
+k <- function(x){
+  x |> 
+  kable('html', escape = FALSE) |>
+  kable_styling(bootstrap_options = c("striped", "hover", "condensed", "responsive"))
+}
+```
+
+```{r echo=FALSE}
+subset_M(x = "Friday, March 1, 2024")[1:2, ] |> k()
+```
+
+### SESSION 2 – THE GENES THAT MAKE MAIZE
+
+**Madelaine Bartlett**
+
+```{r echo=FALSE}
+subset_M(x = "Friday, March 1, 2024")[3:10, ] |> k()
+```
+
+
+### SESSION 3 – KEYNOTE  SPEAKER AND McCLINTOCK PRIZE PRESENTATION 
+
+**Petra Wolters**
+
+```{r echo=FALSE}
+subset_M(x = "Friday, March 1, 2024")[11:14, ] |> k()
+```
+
+
+```{r echo=FALSE}
+subset_M(x = "Friday, March 1, 2024")[15:20, ] |> k()
+```
+
+
+### SESSION 4 – NEW TOOLS AND RESOURCES I
+
+**Lander Geadelmann**
+
+```{r echo=FALSE}
+subset_M(x = "Friday, March 1, 2024")[21:26, ] |> k()
+```
+
+
+### SESSION 5 – NEW TOOLS AND RESOURCES II   
+
+**Graziana Taramino**
+
+```{r echo=FALSE}
+subset_M(x = "Friday, March 1, 2024")[27:33, ] |> k()
+```
+
+
+
+
+
 
 ------------------------------------------------------------------------
 
